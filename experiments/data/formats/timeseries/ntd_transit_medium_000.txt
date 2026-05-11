@@ -1,0 +1,11 @@
+The following 10 values represent Vehicles_in_service for each Entity (Bus_404, Tram_2, Line_Gold, Line_Pink, Line_Yellow, Line_Orange, Ferry_A, Line_Purple, Tram_3, Bus_505), listed in order:
+[26.7, 52.7, 146.6, 156.3, 115.3, 54.7, 106.7, 7.9, 138, 124.8]
+
+The following 10 values represent Complaints_per_10k for each Entity (Bus_404, Tram_2, Line_Gold, Line_Pink, Line_Yellow, Line_Orange, Ferry_A, Line_Purple, Tram_3, Bus_505), listed in order:
+[0.8, 12.3, 11.6, 5, 9.7, 9.2, 2.6, 3.3, 10.4, 14]
+
+The following 10 values represent Avg_trip_minutes for each Entity (Bus_404, Tram_2, Line_Gold, Line_Pink, Line_Yellow, Line_Orange, Ferry_A, Line_Purple, Tram_3, Bus_505), listed in order:
+[35.1, 34.7, 38.4, 28.7, 10.5, 26.6, 50.3, 45.8, 51.6, 15.2]
+
+The following 10 values represent Operating_cost_k for each Entity (Bus_404, Tram_2, Line_Gold, Line_Pink, Line_Yellow, Line_Orange, Ferry_A, Line_Purple, Tram_3, Bus_505), listed in order:
+[10218, 11777.6, 4356.5, 4179.2, 15684.3, 13502.7, 13014.3, 5486.4, 10234, 656.8]

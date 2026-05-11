@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_004",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Production_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "Bangladesh",
+      "Yield_index": 81.5,
+      "Production_Mt": 27.8
+    },
+    {
+      "Entity": "Indonesia",
+      "Yield_index": 175.9,
+      "Production_Mt": 15.0
+    },
+    {
+      "Entity": "Russia",
+      "Yield_index": 83.4,
+      "Production_Mt": 23.9
+    },
+    {
+      "Entity": "Vietnam",
+      "Yield_index": 87.9,
+      "Production_Mt": 41.4
+    },
+    {
+      "Entity": "Egypt",
+      "Yield_index": 134.2,
+      "Production_Mt": 131.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Production_Mt"
+  ]
+}

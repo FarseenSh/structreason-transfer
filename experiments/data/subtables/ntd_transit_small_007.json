@@ -1,0 +1,45 @@
+{
+  "id": "ntd_transit_small_007",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Operating_cost_k",
+    "Monthly_riders_k"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Orange",
+      "Operating_cost_k": 15486.1,
+      "Monthly_riders_k": 6712.0
+    },
+    {
+      "Entity": "Line_Gold",
+      "Operating_cost_k": 19518.9,
+      "Monthly_riders_k": 4380.5
+    },
+    {
+      "Entity": "Ferry_A",
+      "Operating_cost_k": 559.9,
+      "Monthly_riders_k": 4539.0
+    },
+    {
+      "Entity": "Bus_404",
+      "Operating_cost_k": 19054.3,
+      "Monthly_riders_k": 2907.1
+    },
+    {
+      "Entity": "Line_Blue",
+      "Operating_cost_k": 7953.5,
+      "Monthly_riders_k": 6636.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Operating_cost_k",
+    "Monthly_riders_k"
+  ]
+}

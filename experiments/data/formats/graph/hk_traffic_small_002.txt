@@ -1,0 +1,13 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_E5: {Congestion_index=2.3, Bus_passengers=17789.9}
+  Route_I9: {Congestion_index=4, Bus_passengers=2910}
+  Route_G7: {Congestion_index=3, Bus_passengers=25235.4}
+  Route_H8: {Congestion_index=1.8, Bus_passengers=7073}
+  Route_K11: {Congestion_index=4.2, Bus_passengers=12684.9}
+
+Edges (top 3 by metric similarity):
+  Route_E5 -- Route_G7 (sim=1.00, similar Congestion_index)
+  Route_H8 -- Route_K11 (sim=1.00, similar Congestion_index)
+  Route_E5 -- Route_H8 (sim=1.00, similar Congestion_index)

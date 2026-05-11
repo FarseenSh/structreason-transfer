@@ -1,0 +1,3 @@
+Bar chart: "Ember Monthly Elec — Energy".
+CO2_Mt: Switzerland=36.4, Sweden=53.8, Romania=30.7, Spain=26.3, Finland=66.9.
+Total_GWh: Switzerland=33466.3, Sweden=18843, Romania=45879.7, Spain=25928.6, Finland=11037.2.

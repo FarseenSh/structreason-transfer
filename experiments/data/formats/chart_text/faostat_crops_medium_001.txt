@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Wheat_tonnes_ha: Bangladesh=5.3, Canada=6.6, Vietnam=2.8, Nigeria=7.6, China=3.8, Australia=2.2, Pakistan=7.2, Russia=6.8, France=8.1, Argentina=8.2.
+Area_harvested_kha: Bangladesh=10109.1, Canada=22627, Vietnam=34969.7, Nigeria=8911.3, China=16814.2, Australia=31900.7, Pakistan=4056.2, Russia=32524.6, France=17341.4, Argentina=31309.9.
+Production_Mt: Bangladesh=188.3, Canada=203.1, Vietnam=233, Nigeria=24.8, China=190.2, Australia=277.6, Pakistan=287.1, Russia=290.7, France=195.5, Argentina=191.8.
+Rice_tonnes_ha: Bangladesh=5, Canada=5.3, Vietnam=5.4, Nigeria=2.2, China=2.5, Australia=5.4, Pakistan=3.7, Russia=3.7, France=3.1, Argentina=6.4.

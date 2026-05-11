@@ -1,0 +1,11 @@
+The following 10 values represent Solar_GWh for each Entity (UK, Hungary, Czechia, Austria, Norway, Germany, Italy, Belgium, Romania, Netherlands), listed in order:
+[2107.5, 984, 1201.9, 3231.5, 5092.5, 516.8, 279.8, 2844.5, 5741.5, 1746.2]
+
+The following 10 values represent Nuclear_GWh for each Entity (UK, Hungary, Czechia, Austria, Norway, Germany, Italy, Belgium, Romania, Netherlands), listed in order:
+[14387.6, 13315.2, 4247, 12254.2, 10288, 7677.3, 6343.7, 12232.5, 11896.2, 11354]
+
+The following 10 values represent Gas_GWh for each Entity (UK, Hungary, Czechia, Austria, Norway, Germany, Italy, Belgium, Romania, Netherlands), listed in order:
+[9983.1, 4941.6, 8127.2, 8666, 2352.5, 708, 4226.1, 8610.3, 3104.3, 7090.1]
+
+The following 10 values represent Total_GWh for each Entity (UK, Hungary, Czechia, Austria, Norway, Germany, Italy, Belgium, Romania, Netherlands), listed in order:
+[2352.7, 19057.5, 31544.8, 8228.3, 45037.1, 9501.2, 45670.1, 12386.7, 49725.4, 31027.9]

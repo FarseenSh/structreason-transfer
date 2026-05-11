@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Hungary: {Unemployment_pct=21.6, Trust_in_govt_pct=15.2, Gini_index=33.6, Govt_expenditure_pct_GDP=53.9}
+  Portugal: {Unemployment_pct=10.5, Trust_in_govt_pct=19.2, Gini_index=37.6, Govt_expenditure_pct_GDP=39.7}
+  Czechia: {Unemployment_pct=18, Trust_in_govt_pct=56.6, Gini_index=23.1, Govt_expenditure_pct_GDP=53.9}
+  Belgium: {Unemployment_pct=4.2, Trust_in_govt_pct=59.1, Gini_index=31.7, Govt_expenditure_pct_GDP=38.4}
+  Germany: {Unemployment_pct=13.3, Trust_in_govt_pct=63.1, Gini_index=34.5, Govt_expenditure_pct_GDP=46.5}
+  Ireland: {Unemployment_pct=18.1, Trust_in_govt_pct=69.1, Gini_index=23.5, Govt_expenditure_pct_GDP=41.1}
+  Italy: {Unemployment_pct=20.5, Trust_in_govt_pct=60.8, Gini_index=29.8, Govt_expenditure_pct_GDP=37.7}
+  Switzerland: {Unemployment_pct=18.5, Trust_in_govt_pct=64.9, Gini_index=38.2, Govt_expenditure_pct_GDP=54.8}
+  Finland: {Unemployment_pct=3.2, Trust_in_govt_pct=15.2, Gini_index=34.4, Govt_expenditure_pct_GDP=35.3}
+  Greece: {Unemployment_pct=9.8, Trust_in_govt_pct=27.5, Gini_index=27, Govt_expenditure_pct_GDP=32.4}
+
+Edges (top 5 by metric similarity):
+  Germany -- Switzerland (sim=1.00, similar Trust_in_govt_pct)
+  Belgium -- Germany (sim=0.99, similar Gini_index)
+  Ireland -- Italy (sim=0.99, similar Unemployment_pct)
+  Portugal -- Finland (sim=0.99, similar Gini_index)
+  Germany -- Italy (sim=0.99, similar Trust_in_govt_pct)

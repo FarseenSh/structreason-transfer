@@ -1,0 +1,11 @@
+The following 10 values represent Maize_tonnes_ha for each Entity (Turkey, Indonesia, Mexico, Pakistan, Russia, Vietnam, Bangladesh, India, Germany, Ukraine), listed in order:
+[2.4, 9.3, 4.1, 8.6, 9.5, 2.6, 9.7, 4.7, 5.9, 2.9]
+
+The following 10 values represent Fertilizer_kg_ha for each Entity (Turkey, Indonesia, Mexico, Pakistan, Russia, Vietnam, Bangladesh, India, Germany, Ukraine), listed in order:
+[338.7, 233.1, 211.8, 388.1, 147.1, 358.5, 293.5, 372.8, 365, 396.6]
+
+The following 10 values represent Area_harvested_kha for each Entity (Turkey, Indonesia, Mexico, Pakistan, Russia, Vietnam, Bangladesh, India, Germany, Ukraine), listed in order:
+[5042.8, 27962.6, 28255.1, 22730.9, 10120.7, 33797.6, 7552.6, 17735.4, 18491.3, 6083.1]
+
+The following 10 values represent Wheat_tonnes_ha for each Entity (Turkey, Indonesia, Mexico, Pakistan, Russia, Vietnam, Bangladesh, India, Germany, Ukraine), listed in order:
+[6.9, 2.2, 6.7, 7.9, 4.1, 6.8, 2.7, 7.8, 8.6, 2.6]

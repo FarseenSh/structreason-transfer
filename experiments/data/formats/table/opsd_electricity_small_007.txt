@@ -1,0 +1,7 @@
+| Entity | Wind_GWh | Solar_GWh |
+|---|---|---|
+| Sweden | 1039.8 | 2073.3 |
+| Finland | 11715.6 | 1001.6 |
+| Hungary | 8277.4 | 1388.6 |
+| France | 2344.4 | 5249.2 |
+| Denmark | 366.3 | 3658.9 |

@@ -1,0 +1,7 @@
+| Entity | Wind_GWh | CO2_Mt |
+|---|---|---|
+| UK | 11485.9 | 61.9 |
+| Belgium | 3458.5 | 75.2 |
+| Switzerland | 7613.9 | 27.8 |
+| Poland | 2582.6 | 55.8 |
+| Greece | 6660.2 | 57.6 |

@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_006",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Trust_in_govt_pct",
+    "Unemployment_pct",
+    "Life_expectancy",
+    "GDP_per_capita"
+  ],
+  "data": [
+    {
+      "Entity": "Portugal",
+      "Trust_in_govt_pct": 67.7,
+      "Unemployment_pct": 11.9,
+      "Life_expectancy": 73.3,
+      "GDP_per_capita": 36527.5
+    },
+    {
+      "Entity": "Bulgaria",
+      "Trust_in_govt_pct": 54.1,
+      "Unemployment_pct": 17.5,
+      "Life_expectancy": 76.8,
+      "GDP_per_capita": 56893.4
+    },
+    {
+      "Entity": "Germany",
+      "Trust_in_govt_pct": 54.8,
+      "Unemployment_pct": 19.1,
+      "Life_expectancy": 83.0,
+      "GDP_per_capita": 15512.0
+    },
+    {
+      "Entity": "Poland",
+      "Trust_in_govt_pct": 56.2,
+      "Unemployment_pct": 12.3,
+      "Life_expectancy": 79.6,
+      "GDP_per_capita": 34461.5
+    },
+    {
+      "Entity": "Romania",
+      "Trust_in_govt_pct": 62.4,
+      "Unemployment_pct": 20.2,
+      "Life_expectancy": 74.1,
+      "GDP_per_capita": 64212.3
+    },
+    {
+      "Entity": "Austria",
+      "Trust_in_govt_pct": 15.8,
+      "Unemployment_pct": 13.9,
+      "Life_expectancy": 76.1,
+      "GDP_per_capita": 59363.9
+    },
+    {
+      "Entity": "Italy",
+      "Trust_in_govt_pct": 36.2,
+      "Unemployment_pct": 19.1,
+      "Life_expectancy": 74.3,
+      "GDP_per_capita": 83726.4
+    },
+    {
+      "Entity": "Greece",
+      "Trust_in_govt_pct": 47.6,
+      "Unemployment_pct": 9.1,
+      "Life_expectancy": 72.3,
+      "GDP_per_capita": 58425.0
+    },
+    {
+      "Entity": "Ireland",
+      "Trust_in_govt_pct": 34.3,
+      "Unemployment_pct": 12.2,
+      "Life_expectancy": 83.1,
+      "GDP_per_capita": 48425.4
+    },
+    {
+      "Entity": "Norway",
+      "Trust_in_govt_pct": 67.7,
+      "Unemployment_pct": 12.9,
+      "Life_expectancy": 77.4,
+      "GDP_per_capita": 68300.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Trust_in_govt_pct",
+    "Unemployment_pct",
+    "Life_expectancy",
+    "GDP_per_capita"
+  ]
+}

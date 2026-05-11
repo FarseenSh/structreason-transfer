@@ -1,0 +1,20 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_U20: {O3_ppb=34.1, NO2_ppb=8.7, PM10_ug_m3=23.2, PM25_ug_m3=34.4}
+  Station_NW10: {O3_ppb=34.5, NO2_ppb=24.2, PM10_ug_m3=76.1, PM25_ug_m3=23.3}
+  Station_SE3: {O3_ppb=84.4, NO2_ppb=59.2, PM10_ug_m3=95, PM25_ug_m3=3.7}
+  Station_S16: {O3_ppb=79.7, NO2_ppb=15, PM10_ug_m3=104.9, PM25_ug_m3=5.2}
+  Station_N15: {O3_ppb=20.3, NO2_ppb=12, PM10_ug_m3=35.6, PM25_ug_m3=52.1}
+  Station_C5: {O3_ppb=61, NO2_ppb=45.1, PM10_ug_m3=22.3, PM25_ug_m3=33.4}
+  Station_R19: {O3_ppb=47, NO2_ppb=47.8, PM10_ug_m3=95.5, PM25_ug_m3=12.3}
+  Station_S7: {O3_ppb=63.2, NO2_ppb=42, PM10_ug_m3=36.7, PM25_ug_m3=25.2}
+  Station_NW1: {O3_ppb=56.8, NO2_ppb=47.7, PM10_ug_m3=11.6, PM25_ug_m3=13.2}
+  Station_E8: {O3_ppb=77.2, NO2_ppb=43.2, PM10_ug_m3=100.4, PM25_ug_m3=10}
+
+Edges (top 5 by metric similarity):
+  Station_SE3 -- Station_E8 (sim=0.99, similar PM10_ug_m3)
+  Station_C5 -- Station_S7 (sim=0.98, similar O3_ppb)
+  Station_R19 -- Station_E8 (sim=0.98, similar PM25_ug_m3)
+  Station_NW10 -- Station_R19 (sim=0.98, similar PM25_ug_m3)
+  Station_S16 -- Station_E8 (sim=0.98, similar O3_ppb)

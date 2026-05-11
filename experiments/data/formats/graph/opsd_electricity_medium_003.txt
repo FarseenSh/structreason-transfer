@@ -1,0 +1,20 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Switzerland: {CO2_Mt=19.7, Nuclear_GWh=7340.4, Solar_GWh=3546, Total_GWh=33609.3}
+  Czechia: {CO2_Mt=24.4, Nuclear_GWh=8320.8, Solar_GWh=365.2, Total_GWh=49611}
+  Netherlands: {CO2_Mt=24.8, Nuclear_GWh=303.9, Solar_GWh=4964.6, Total_GWh=13302.8}
+  Germany: {CO2_Mt=4.2, Nuclear_GWh=12633.6, Solar_GWh=2583.4, Total_GWh=45469.6}
+  Poland: {CO2_Mt=25.9, Nuclear_GWh=14605, Solar_GWh=2547, Total_GWh=15373.6}
+  Finland: {CO2_Mt=70.4, Nuclear_GWh=9801.1, Solar_GWh=2030.3, Total_GWh=33099.2}
+  Sweden: {CO2_Mt=73, Nuclear_GWh=9906.8, Solar_GWh=5819.2, Total_GWh=3943.9}
+  Ireland: {CO2_Mt=9.7, Nuclear_GWh=7919.7, Solar_GWh=1132, Total_GWh=25791.4}
+  Denmark: {CO2_Mt=37.2, Nuclear_GWh=5014.1, Solar_GWh=992.7, Total_GWh=33419.4}
+  Greece: {CO2_Mt=31.1, Nuclear_GWh=2234.7, Solar_GWh=1076.6, Total_GWh=27743.3}
+
+Edges (top 5 by metric similarity):
+  Germany -- Finland (sim=1.00, similar CO2_Mt)
+  Finland -- Ireland (sim=1.00, similar CO2_Mt)
+  Czechia -- Denmark (sim=1.00, similar CO2_Mt)
+  Germany -- Ireland (sim=1.00, similar CO2_Mt)
+  Denmark -- Greece (sim=1.00, similar CO2_Mt)

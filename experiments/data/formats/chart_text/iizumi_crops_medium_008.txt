@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Rice_tonnes_ha: Ukraine=4.8, Canada=4.1, France=4.2, Australia=5, Nigeria=4, India=6, China=4.1, Bangladesh=4.1, Germany=5.4, Turkey=2.3.
+Soybean_tonnes_ha: Ukraine=3, Canada=2.5, France=2.4, Australia=3.2, Nigeria=3.3, India=3.5, China=2.1, Bangladesh=2, Germany=3.1, Turkey=2.7.
+Area_harvested_kha: Ukraine=22297.2, Canada=19665.5, France=27157.9, Australia=7056.4, Nigeria=19672.1, India=5954.5, China=14550.2, Bangladesh=23407.8, Germany=17511, Turkey=13595.9.
+Fertilizer_kg_ha: Ukraine=356.3, Canada=313.7, France=220, Australia=381, Nigeria=181.3, India=319.5, China=83.8, Bangladesh=128.6, Germany=148.5, Turkey=60.2.

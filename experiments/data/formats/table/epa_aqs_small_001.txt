@@ -1,0 +1,7 @@
+| Entity | AQI | O3_ppb |
+|---|---|---|
+| Station_NW1 | 38.2 | 29.9 |
+| Station_C5 | 167.9 | 46.4 |
+| Station_SE12 | 164.6 | 29.2 |
+| Station_S16 | 103.1 | 16.5 |
+| Station_NW10 | 120 | 83.7 |

@@ -1,0 +1,230 @@
+{
+  "id": "epa_aqs_large_001",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "PM25_ug_m3",
+    "CO_ppm",
+    "SO2_ppb",
+    "Temperature_C",
+    "AQI",
+    "PM10_ug_m3",
+    "O3_ppb"
+  ],
+  "data": [
+    {
+      "Entity": "Station_E17",
+      "PM25_ug_m3": 38.9,
+      "CO_ppm": 4.4,
+      "SO2_ppb": 9.5,
+      "Temperature_C": 24.6,
+      "AQI": 60.5,
+      "PM10_ug_m3": 103.2,
+      "O3_ppb": 27.4
+    },
+    {
+      "Entity": "Station_S7",
+      "PM25_ug_m3": 33.5,
+      "CO_ppm": 3.4,
+      "SO2_ppb": 1.7,
+      "Temperature_C": -2.9,
+      "AQI": 79.8,
+      "PM10_ug_m3": 24.9,
+      "O3_ppb": 49.2
+    },
+    {
+      "Entity": "Station_SE12",
+      "PM25_ug_m3": 27.6,
+      "CO_ppm": 4.4,
+      "SO2_ppb": 21.2,
+      "Temperature_C": 30.5,
+      "AQI": 115.0,
+      "PM10_ug_m3": 88.0,
+      "O3_ppb": 22.2
+    },
+    {
+      "Entity": "Station_U20",
+      "PM25_ug_m3": 41.0,
+      "CO_ppm": 3.4,
+      "SO2_ppb": 16.0,
+      "Temperature_C": 37.9,
+      "AQI": 95.3,
+      "PM10_ug_m3": 60.6,
+      "O3_ppb": 76.1
+    },
+    {
+      "Entity": "Station_SW4",
+      "PM25_ug_m3": 10.7,
+      "CO_ppm": 2.8,
+      "SO2_ppb": 11.0,
+      "Temperature_C": 28.3,
+      "AQI": 78.3,
+      "PM10_ug_m3": 103.5,
+      "O3_ppb": 54.2
+    },
+    {
+      "Entity": "Station_R19",
+      "PM25_ug_m3": 13.1,
+      "CO_ppm": 3.4,
+      "SO2_ppb": 6.9,
+      "Temperature_C": 28.6,
+      "AQI": 119.9,
+      "PM10_ug_m3": 109.6,
+      "O3_ppb": 43.3
+    },
+    {
+      "Entity": "Station_S16",
+      "PM25_ug_m3": 21.8,
+      "CO_ppm": 3.0,
+      "SO2_ppb": 18.9,
+      "Temperature_C": 11.8,
+      "AQI": 152.6,
+      "PM10_ug_m3": 105.7,
+      "O3_ppb": 20.6
+    },
+    {
+      "Entity": "Station_N6",
+      "PM25_ug_m3": 13.6,
+      "CO_ppm": 2.2,
+      "SO2_ppb": 23.7,
+      "Temperature_C": -2.2,
+      "AQI": 58.7,
+      "PM10_ug_m3": 15.2,
+      "O3_ppb": 43.4
+    },
+    {
+      "Entity": "Station_W9",
+      "PM25_ug_m3": 45.0,
+      "CO_ppm": 1.5,
+      "SO2_ppb": 10.1,
+      "Temperature_C": 29.1,
+      "AQI": 74.9,
+      "PM10_ug_m3": 92.8,
+      "O3_ppb": 75.6
+    },
+    {
+      "Entity": "Station_NW1",
+      "PM25_ug_m3": 4.5,
+      "CO_ppm": 2.4,
+      "SO2_ppb": 4.2,
+      "Temperature_C": 20.7,
+      "AQI": 132.8,
+      "PM10_ug_m3": 111.2,
+      "O3_ppb": 64.2
+    },
+    {
+      "Entity": "Station_W18",
+      "PM25_ug_m3": 12.9,
+      "CO_ppm": 1.3,
+      "SO2_ppb": 3.6,
+      "Temperature_C": 34.1,
+      "AQI": 144.5,
+      "PM10_ug_m3": 77.6,
+      "O3_ppb": 20.8
+    },
+    {
+      "Entity": "Station_E8",
+      "PM25_ug_m3": 59.0,
+      "CO_ppm": 2.3,
+      "SO2_ppb": 1.2,
+      "Temperature_C": -0.0,
+      "AQI": 152.1,
+      "PM10_ug_m3": 75.3,
+      "O3_ppb": 26.2
+    },
+    {
+      "Entity": "Station_NE2",
+      "PM25_ug_m3": 64.8,
+      "CO_ppm": 0.8,
+      "SO2_ppb": 18.9,
+      "Temperature_C": 8.1,
+      "AQI": 53.5,
+      "PM10_ug_m3": 13.0,
+      "O3_ppb": 42.5
+    },
+    {
+      "Entity": "Station_C14",
+      "PM25_ug_m3": 33.2,
+      "CO_ppm": 2.6,
+      "SO2_ppb": 24.6,
+      "Temperature_C": 10.5,
+      "AQI": 106.3,
+      "PM10_ug_m3": 103.9,
+      "O3_ppb": 22.1
+    },
+    {
+      "Entity": "Station_C5",
+      "PM25_ug_m3": 33.7,
+      "CO_ppm": 1.3,
+      "SO2_ppb": 24.8,
+      "Temperature_C": 24.4,
+      "AQI": 164.0,
+      "PM10_ug_m3": 13.2,
+      "O3_ppb": 80.4
+    },
+    {
+      "Entity": "Station_SW13",
+      "PM25_ug_m3": 51.0,
+      "CO_ppm": 1.5,
+      "SO2_ppb": 19.8,
+      "Temperature_C": 28.9,
+      "AQI": 82.7,
+      "PM10_ug_m3": 43.1,
+      "O3_ppb": 60.7
+    },
+    {
+      "Entity": "Station_NE11",
+      "PM25_ug_m3": 5.2,
+      "CO_ppm": 2.3,
+      "SO2_ppb": 4.9,
+      "Temperature_C": 36.3,
+      "AQI": 88.8,
+      "PM10_ug_m3": 111.7,
+      "O3_ppb": 21.6
+    },
+    {
+      "Entity": "Station_N15",
+      "PM25_ug_m3": 29.5,
+      "CO_ppm": 0.9,
+      "SO2_ppb": 24.5,
+      "Temperature_C": 7.7,
+      "AQI": 177.6,
+      "PM10_ug_m3": 114.4,
+      "O3_ppb": 70.2
+    },
+    {
+      "Entity": "Station_NW10",
+      "PM25_ug_m3": 9.2,
+      "CO_ppm": 4.3,
+      "SO2_ppb": 8.9,
+      "Temperature_C": 16.2,
+      "AQI": 38.1,
+      "PM10_ug_m3": 119.1,
+      "O3_ppb": 40.8
+    },
+    {
+      "Entity": "Station_SE3",
+      "PM25_ug_m3": 27.9,
+      "CO_ppm": 2.1,
+      "SO2_ppb": 9.0,
+      "Temperature_C": -3.8,
+      "AQI": 132.9,
+      "PM10_ug_m3": 61.4,
+      "O3_ppb": 32.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "PM25_ug_m3",
+    "CO_ppm",
+    "SO2_ppb",
+    "Temperature_C",
+    "AQI",
+    "PM10_ug_m3",
+    "O3_ppb"
+  ]
+}

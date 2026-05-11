@@ -1,0 +1,94 @@
+{
+  "id": "sec_xbrl_medium_001",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Operating_margin_pct",
+    "Debt_ratio",
+    "Net_income_M",
+    "EPS"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyB",
+      "Operating_margin_pct": 18.9,
+      "Debt_ratio": 0.5,
+      "Net_income_M": -58.5,
+      "EPS": 25.0
+    },
+    {
+      "Entity": "CompanyK",
+      "Operating_margin_pct": 6.6,
+      "Debt_ratio": 0.8,
+      "Net_income_M": 577.9,
+      "EPS": 19.5
+    },
+    {
+      "Entity": "CompanyO",
+      "Operating_margin_pct": -4.4,
+      "Debt_ratio": 0.1,
+      "Net_income_M": -132.0,
+      "EPS": 11.6
+    },
+    {
+      "Entity": "CompanyT",
+      "Operating_margin_pct": 29.0,
+      "Debt_ratio": 0.6,
+      "Net_income_M": 1125.2,
+      "EPS": 21.9
+    },
+    {
+      "Entity": "CompanyG",
+      "Operating_margin_pct": 11.1,
+      "Debt_ratio": 0.7,
+      "Net_income_M": 1271.9,
+      "EPS": 17.1
+    },
+    {
+      "Entity": "CompanyC",
+      "Operating_margin_pct": -2.0,
+      "Debt_ratio": 0.7,
+      "Net_income_M": -177.3,
+      "EPS": 5.9
+    },
+    {
+      "Entity": "CompanyL",
+      "Operating_margin_pct": 17.9,
+      "Debt_ratio": 0.2,
+      "Net_income_M": 1177.0,
+      "EPS": 4.1
+    },
+    {
+      "Entity": "CompanyH",
+      "Operating_margin_pct": 39.0,
+      "Debt_ratio": 0.8,
+      "Net_income_M": 1468.1,
+      "EPS": 11.8
+    },
+    {
+      "Entity": "CompanyN",
+      "Operating_margin_pct": 25.5,
+      "Debt_ratio": 0.4,
+      "Net_income_M": -148.4,
+      "EPS": 8.1
+    },
+    {
+      "Entity": "CompanyA",
+      "Operating_margin_pct": 2.1,
+      "Debt_ratio": 0.1,
+      "Net_income_M": 1032.4,
+      "EPS": 6.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Operating_margin_pct",
+    "Debt_ratio",
+    "Net_income_M",
+    "EPS"
+  ]
+}

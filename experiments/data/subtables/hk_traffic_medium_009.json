@@ -1,0 +1,94 @@
+{
+  "id": "hk_traffic_medium_009",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Bus_passengers",
+    "Transit_ridership",
+    "Congestion_index",
+    "Accidents_monthly"
+  ],
+  "data": [
+    {
+      "Entity": "Route_A1",
+      "Bus_passengers": 46812.9,
+      "Transit_ridership": 137499.6,
+      "Congestion_index": 1.7,
+      "Accidents_monthly": 20.7
+    },
+    {
+      "Entity": "Route_P16",
+      "Bus_passengers": 19885.3,
+      "Transit_ridership": 155227.1,
+      "Congestion_index": 1.7,
+      "Accidents_monthly": 41.7
+    },
+    {
+      "Entity": "Route_N14",
+      "Bus_passengers": 41957.3,
+      "Transit_ridership": 199654.6,
+      "Congestion_index": 1.3,
+      "Accidents_monthly": 14.4
+    },
+    {
+      "Entity": "Route_G7",
+      "Bus_passengers": 4681.8,
+      "Transit_ridership": 101030.3,
+      "Congestion_index": 4.1,
+      "Accidents_monthly": 31.2
+    },
+    {
+      "Entity": "Route_B2",
+      "Bus_passengers": 37251.7,
+      "Transit_ridership": 16954.3,
+      "Congestion_index": 3.5,
+      "Accidents_monthly": 4.3
+    },
+    {
+      "Entity": "Route_S19",
+      "Bus_passengers": 49433.9,
+      "Transit_ridership": 121192.3,
+      "Congestion_index": 1.2,
+      "Accidents_monthly": 43.1
+    },
+    {
+      "Entity": "Route_K11",
+      "Bus_passengers": 42483.3,
+      "Transit_ridership": 28209.7,
+      "Congestion_index": 1.2,
+      "Accidents_monthly": 44.2
+    },
+    {
+      "Entity": "Route_T20",
+      "Bus_passengers": 29403.6,
+      "Transit_ridership": 52729.2,
+      "Congestion_index": 3.0,
+      "Accidents_monthly": 33.8
+    },
+    {
+      "Entity": "Route_L12",
+      "Bus_passengers": 31711.5,
+      "Transit_ridership": 69112.1,
+      "Congestion_index": 2.1,
+      "Accidents_monthly": 22.0
+    },
+    {
+      "Entity": "Route_M13",
+      "Bus_passengers": 18311.2,
+      "Transit_ridership": 147550.8,
+      "Congestion_index": 3.1,
+      "Accidents_monthly": 11.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Bus_passengers",
+    "Transit_ridership",
+    "Congestion_index",
+    "Accidents_monthly"
+  ]
+}

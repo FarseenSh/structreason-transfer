@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Revenue_k_USD: Line_Brown=5110.2, Line_Green=7827, Line_Gold=2961.4, Tram_3=9471.7, Ferry_A=2698.8, Ferry_B=12488.5, Line_Purple=14022.9.
+On_time_pct: Line_Brown=83.8, Line_Green=82, Line_Gold=78.2, Tram_3=92, Ferry_A=90.5, Ferry_B=78.9, Line_Purple=67.9.
+Monthly_riders_k: Line_Brown=6224.4, Line_Green=3351.4, Line_Gold=3781.3, Tram_3=3477.5, Ferry_A=4889.4, Ferry_B=7777.8, Line_Purple=4609.5.
+Complaints_per_10k: Line_Brown=1.4, Line_Green=12.2, Line_Gold=6.7, Tram_3=12.1, Ferry_A=3.8, Ferry_B=7.4, Line_Purple=13.5.

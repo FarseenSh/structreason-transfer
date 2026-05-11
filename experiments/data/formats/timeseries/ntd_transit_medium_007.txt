@@ -1,0 +1,11 @@
+The following 10 values represent Monthly_riders_k for each Entity (Line_Yellow, Bus_303, Bus_404, Line_Blue, Line_Green, Line_Red, Ferry_B, Tram_1, Bus_505, Tram_3), listed in order:
+[3141.5, 4702.9, 2447.5, 5636.2, 856.5, 619.6, 5967.1, 5827, 2156.8, 2872.6]
+
+The following 10 values represent Revenue_k_USD for each Entity (Line_Yellow, Bus_303, Bus_404, Line_Blue, Line_Green, Line_Red, Ferry_B, Tram_1, Bus_505, Tram_3), listed in order:
+[14363.2, 1654.5, 2828.9, 6507.6, 4303.3, 9770.2, 10390, 7943.2, 9206.8, 6558]
+
+The following 10 values represent On_time_pct for each Entity (Line_Yellow, Bus_303, Bus_404, Line_Blue, Line_Green, Line_Red, Ferry_B, Tram_1, Bus_505, Tram_3), listed in order:
+[90.1, 66.4, 75.3, 87.6, 75.9, 67.6, 76.4, 88.5, 69, 88.9]
+
+The following 10 values represent Farebox_recovery_pct for each Entity (Line_Yellow, Bus_303, Bus_404, Line_Blue, Line_Green, Line_Red, Ferry_B, Tram_1, Bus_505, Tram_3), listed in order:
+[69.3, 59.5, 32.1, 71.4, 30, 78.4, 64.5, 18.8, 71, 50.5]

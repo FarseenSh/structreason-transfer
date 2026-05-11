@@ -1,0 +1,7 @@
+| Entity | Road_condition_score | Transit_ridership |
+|---|---|---|
+| Route_Q17 | 69.2 | 165662.9 |
+| Route_H8 | 48.8 | 55060.7 |
+| Route_I9 | 60.4 | 194105.5 |
+| Route_S19 | 72.8 | 158020.8 |
+| Route_A1 | 64 | 193680.6 |

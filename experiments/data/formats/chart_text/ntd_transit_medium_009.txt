@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Farebox_recovery_pct: Line_Pink=23.7, Bus_303=70, Bus_404=41.4, Tram_1=79.3, Ferry_A=80, Line_Brown=48.2, Line_Green=80.6.
+Operating_cost_k: Line_Pink=19203.9, Bus_303=19223.2, Bus_404=9355.6, Tram_1=4363.9, Ferry_A=18778.3, Line_Brown=7398.4, Line_Green=18475.5.
+Avg_trip_minutes: Line_Pink=53.6, Bus_303=52.5, Bus_404=31.1, Tram_1=54.4, Ferry_A=16.8, Line_Brown=53.3, Line_Green=33.2.
+Monthly_riders_k: Line_Pink=1099.8, Bus_303=4130.3, Bus_404=4843, Tram_1=3266.8, Ferry_A=7094.9, Line_Brown=7307.1, Line_Green=4884.1.

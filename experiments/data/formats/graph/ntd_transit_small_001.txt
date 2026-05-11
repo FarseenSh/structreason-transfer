@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Orange: {Operating_cost_k=200.3, Monthly_riders_k=5320.9}
+  Line_Gold: {Operating_cost_k=1377, Monthly_riders_k=5673.7}
+  Tram_3: {Operating_cost_k=14029.6, Monthly_riders_k=5929.7}
+  Line_Red: {Operating_cost_k=16097.4, Monthly_riders_k=5808.8}
+  Line_Brown: {Operating_cost_k=14410.5, Monthly_riders_k=5917.2}
+
+Edges (top 3 by metric similarity):
+  Tram_3 -- Line_Brown (sim=1.00, similar Monthly_riders_k)
+  Line_Red -- Line_Brown (sim=1.00, similar Monthly_riders_k)
+  Tram_3 -- Line_Red (sim=1.00, similar Monthly_riders_k)

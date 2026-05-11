@@ -1,0 +1,7 @@
+| Entity | EPS | ROE_pct |
+|---|---|---|
+| CompanyO | 17.4 | 4.6 |
+| CompanyN | 14.4 | -7.5 |
+| CompanyT | 11 | -7.4 |
+| CompanyR | 17.2 | -13.7 |
+| CompanyC | 1.4 | 30.4 |

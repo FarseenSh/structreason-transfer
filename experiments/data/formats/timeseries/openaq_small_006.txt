@@ -1,0 +1,5 @@
+The following 5 values represent PM25_ug_m3 for each Entity (Station_NW1, Station_E17, Station_S7, Station_NW10, Station_C14), listed in order:
+[19.6, 8.4, 56.1, 28.9, 30.4]
+
+The following 5 values represent O3_ppb for each Entity (Station_NW1, Station_E17, Station_S7, Station_NW10, Station_C14), listed in order:
+[68.5, 74.5, 50.8, 59.3, 31.7]

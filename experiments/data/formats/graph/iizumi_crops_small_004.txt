@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  France: {Soybean_tonnes_ha=1.1, Production_Mt=219.8}
+  Mexico: {Soybean_tonnes_ha=2.6, Production_Mt=217.2}
+  Canada: {Soybean_tonnes_ha=3.4, Production_Mt=82.4}
+  Thailand: {Soybean_tonnes_ha=3, Production_Mt=188.7}
+  Pakistan: {Soybean_tonnes_ha=1.6, Production_Mt=185.2}
+
+Edges (top 3 by metric similarity):
+  Mexico -- Pakistan (sim=1.00, similar Soybean_tonnes_ha)
+  France -- Pakistan (sim=1.00, similar Soybean_tonnes_ha)
+  Mexico -- Thailand (sim=1.00, similar Soybean_tonnes_ha)

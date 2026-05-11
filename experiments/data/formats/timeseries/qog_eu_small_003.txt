@@ -1,0 +1,5 @@
+The following 5 values represent GDP_per_capita for each Entity (Denmark, Sweden, Greece, Poland, Ireland), listed in order:
+[74738.2, 31375.8, 19081.2, 34696.9, 35551.6]
+
+The following 5 values represent Govt_expenditure_pct_GDP for each Entity (Denmark, Sweden, Greece, Poland, Ireland), listed in order:
+[48.5, 45.6, 51.9, 48.6, 41.4]

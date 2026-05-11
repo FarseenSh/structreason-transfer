@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Austria: {Life_expectancy=82.1, Gini_index=30.8, Trust_in_govt_pct=52.9, HDI=0.9}
+  Netherlands: {Life_expectancy=75.1, Gini_index=35.1, Trust_in_govt_pct=27.9, HDI=0.8}
+  Poland: {Life_expectancy=75.9, Gini_index=25.6, Trust_in_govt_pct=49.6, HDI=0.9}
+  France: {Life_expectancy=74.9, Gini_index=23.8, Trust_in_govt_pct=51, HDI=0.8}
+  Italy: {Life_expectancy=77.8, Gini_index=25.3, Trust_in_govt_pct=68.1, HDI=0.9}
+  Denmark: {Life_expectancy=80.2, Gini_index=38.6, Trust_in_govt_pct=12.3, HDI=1}
+  Greece: {Life_expectancy=74.7, Gini_index=23.2, Trust_in_govt_pct=68.3, HDI=0.8}
+  Bulgaria: {Life_expectancy=76, Gini_index=26.2, Trust_in_govt_pct=52.9, HDI=0.9}
+  Hungary: {Life_expectancy=83.2, Gini_index=23.5, Trust_in_govt_pct=22.7, HDI=0.8}
+  Germany: {Life_expectancy=72.6, Gini_index=24.9, Trust_in_govt_pct=63, HDI=0.9}
+
+Edges (top 5 by metric similarity):
+  Italy -- Germany (sim=1.00, similar HDI)
+  France -- Bulgaria (sim=1.00, similar HDI)
+  Italy -- Greece (sim=1.00, similar HDI)
+  Poland -- France (sim=1.00, similar HDI)
+  Poland -- Bulgaria (sim=1.00, similar HDI)

@@ -1,0 +1,11 @@
+The following 10 values represent Avg_speed_kmh for each Entity (Route_E5, Route_D4, Route_P16, Route_Q17, Route_S19, Route_A1, Route_J10, Route_T20, Route_K11, Route_C3), listed in order:
+[15.8, 48.1, 48, 43.4, 37.1, 31.2, 49.3, 39.4, 78, 26.2]
+
+The following 10 values represent Accidents_monthly for each Entity (Route_E5, Route_D4, Route_P16, Route_Q17, Route_S19, Route_A1, Route_J10, Route_T20, Route_K11, Route_C3), listed in order:
+[15.7, 14.6, 25.4, 23.5, 29.7, 42.9, 14.3, 31.8, 3.1, 13.3]
+
+The following 10 values represent Peak_hour_flow for each Entity (Route_E5, Route_D4, Route_P16, Route_Q17, Route_S19, Route_A1, Route_J10, Route_T20, Route_K11, Route_C3), listed in order:
+[14984.2, 2867.9, 19294.7, 20992.7, 22908.5, 16464.1, 18910.5, 13089.8, 3155.1, 4798.7]
+
+The following 10 values represent Transit_ridership for each Entity (Route_E5, Route_D4, Route_P16, Route_Q17, Route_S19, Route_A1, Route_J10, Route_T20, Route_K11, Route_C3), listed in order:
+[132724.2, 199133.3, 8081.6, 113728.8, 151446.7, 166221.1, 111315, 125883.6, 140861.4, 172498.4]

@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Production_Mt: Vietnam=250.5, China=254.2, Ukraine=191.2, Bangladesh=163.8, Mexico=274.6.
+Fertilizer_kg_ha: Vietnam=324.5, China=355.3, Ukraine=398.4, Bangladesh=173.3, Mexico=292.4.

@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+SO2_ppb: Station_SW13=6.5, Station_NE2=15.8, Station_S16=8.9, Station_E8=20.7, Station_W18=21.5, Station_N6=8.9, Station_U20=14.4.
+AQI: Station_SW13=114.8, Station_NE2=96.4, Station_S16=41.7, Station_E8=85.4, Station_W18=64.8, Station_N6=40.5, Station_U20=145.1.
+NO2_ppb: Station_SW13=35.2, Station_NE2=6.3, Station_S16=55, Station_E8=53.4, Station_W18=59.6, Station_N6=37.3, Station_U20=57.2.
+O3_ppb: Station_SW13=36.9, Station_NE2=75.4, Station_S16=69.3, Station_E8=77.7, Station_W18=43, Station_N6=59.8, Station_U20=76.6.

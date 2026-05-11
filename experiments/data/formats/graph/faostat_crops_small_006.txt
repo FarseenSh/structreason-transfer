@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  USA: {Fertilizer_kg_ha=374.5, Rice_tonnes_ha=2.7}
+  Australia: {Fertilizer_kg_ha=364.1, Rice_tonnes_ha=2.9}
+  Pakistan: {Fertilizer_kg_ha=262.8, Rice_tonnes_ha=4.4}
+  Mexico: {Fertilizer_kg_ha=150.1, Rice_tonnes_ha=3.6}
+  Argentina: {Fertilizer_kg_ha=371.7, Rice_tonnes_ha=5.4}
+
+Edges (top 3 by metric similarity):
+  USA -- Australia (sim=1.00, similar Rice_tonnes_ha)
+  Pakistan -- Argentina (sim=1.00, similar Rice_tonnes_ha)
+  Australia -- Argentina (sim=1.00, similar Rice_tonnes_ha)

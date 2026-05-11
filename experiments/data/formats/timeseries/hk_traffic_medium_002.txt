@@ -1,0 +1,11 @@
+The following 10 values represent Accidents_monthly for each Entity (Route_F6, Route_C3, Route_O15, Route_J10, Route_I9, Route_G7, Route_N14, Route_B2, Route_H8, Route_S19), listed in order:
+[4.4, 38.7, 12.1, 25.6, 20.3, 36.2, 23, 23.5, 44.5, 8.5]
+
+The following 10 values represent Transit_ridership for each Entity (Route_F6, Route_C3, Route_O15, Route_J10, Route_I9, Route_G7, Route_N14, Route_B2, Route_H8, Route_S19), listed in order:
+[166987.3, 15091.2, 98141.5, 177835.3, 134716.7, 138616.9, 56346.9, 86622.1, 76483.3, 106681.4]
+
+The following 10 values represent Peak_hour_flow for each Entity (Route_F6, Route_C3, Route_O15, Route_J10, Route_I9, Route_G7, Route_N14, Route_B2, Route_H8, Route_S19), listed in order:
+[14942.4, 11153.2, 10553.5, 9023.9, 12221.3, 6198.4, 26418.9, 18859.3, 5746, 21428.1]
+
+The following 10 values represent Bus_passengers for each Entity (Route_F6, Route_C3, Route_O15, Route_J10, Route_I9, Route_G7, Route_N14, Route_B2, Route_H8, Route_S19), listed in order:
+[42535.7, 12639.2, 8379.4, 1422.2, 3315.3, 38350.3, 49372.1, 3199.1, 37655.5, 4521.2]

@@ -1,0 +1,35 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Mexico: {Maize_tonnes_ha=4.2, Yield_index=85.2, Area_harvested_kha=18595.3, Wheat_tonnes_ha=3.7, Fertilizer_kg_ha=81.9, Production_Mt=233.8, Soybean_tonnes_ha=3}
+  Bangladesh: {Maize_tonnes_ha=5.8, Yield_index=173.8, Area_harvested_kha=18870.9, Wheat_tonnes_ha=6.5, Fertilizer_kg_ha=122.1, Production_Mt=36.5, Soybean_tonnes_ha=2.7}
+  Germany: {Maize_tonnes_ha=5.5, Yield_index=153.3, Area_harvested_kha=11516, Wheat_tonnes_ha=6.9, Fertilizer_kg_ha=236.9, Production_Mt=158.2, Soybean_tonnes_ha=3.6}
+  Egypt: {Maize_tonnes_ha=7, Yield_index=101.5, Area_harvested_kha=28123.5, Wheat_tonnes_ha=3.8, Fertilizer_kg_ha=236.2, Production_Mt=15.3, Soybean_tonnes_ha=1.7}
+  Turkey: {Maize_tonnes_ha=11.5, Yield_index=102.9, Area_harvested_kha=4311.8, Wheat_tonnes_ha=4.1, Fertilizer_kg_ha=107.3, Production_Mt=178.7, Soybean_tonnes_ha=1.2}
+  Australia: {Maize_tonnes_ha=8.2, Yield_index=116.3, Area_harvested_kha=10888.1, Wheat_tonnes_ha=2.7, Fertilizer_kg_ha=305.3, Production_Mt=280.3, Soybean_tonnes_ha=3.9}
+  India: {Maize_tonnes_ha=5.1, Yield_index=140.9, Area_harvested_kha=3845.9, Wheat_tonnes_ha=6, Fertilizer_kg_ha=53.4, Production_Mt=113.6, Soybean_tonnes_ha=1.2}
+  Russia: {Maize_tonnes_ha=11.4, Yield_index=127.3, Area_harvested_kha=7889.2, Wheat_tonnes_ha=8.7, Fertilizer_kg_ha=256.8, Production_Mt=155, Soybean_tonnes_ha=3.7}
+  Vietnam: {Maize_tonnes_ha=9, Yield_index=153.1, Area_harvested_kha=20737.6, Wheat_tonnes_ha=4.6, Fertilizer_kg_ha=181.8, Production_Mt=72.1, Soybean_tonnes_ha=2.8}
+  France: {Maize_tonnes_ha=4.7, Yield_index=66.5, Area_harvested_kha=4845.6, Wheat_tonnes_ha=9, Fertilizer_kg_ha=68.3, Production_Mt=164.6, Soybean_tonnes_ha=3.8}
+  Ukraine: {Maize_tonnes_ha=11.1, Yield_index=158.3, Area_harvested_kha=3971.3, Wheat_tonnes_ha=2.8, Fertilizer_kg_ha=261.1, Production_Mt=241.8, Soybean_tonnes_ha=2.7}
+  Pakistan: {Maize_tonnes_ha=5.4, Yield_index=67, Area_harvested_kha=28993.9, Wheat_tonnes_ha=7.5, Fertilizer_kg_ha=275.8, Production_Mt=68.5, Soybean_tonnes_ha=3.5}
+  Nigeria: {Maize_tonnes_ha=7.2, Yield_index=165.7, Area_harvested_kha=4581.3, Wheat_tonnes_ha=8.5, Fertilizer_kg_ha=187.2, Production_Mt=168.3, Soybean_tonnes_ha=3.2}
+  Canada: {Maize_tonnes_ha=6.8, Yield_index=65.2, Area_harvested_kha=21477.8, Wheat_tonnes_ha=6.7, Fertilizer_kg_ha=323.2, Production_Mt=109.6, Soybean_tonnes_ha=2.6}
+  USA: {Maize_tonnes_ha=11.2, Yield_index=75.3, Area_harvested_kha=12644.4, Wheat_tonnes_ha=2.3, Fertilizer_kg_ha=213.5, Production_Mt=225.6, Soybean_tonnes_ha=2.1}
+  China: {Maize_tonnes_ha=4.7, Yield_index=81.6, Area_harvested_kha=31424.7, Wheat_tonnes_ha=3.9, Fertilizer_kg_ha=128.6, Production_Mt=212.1, Soybean_tonnes_ha=1}
+  Argentina: {Maize_tonnes_ha=5.3, Yield_index=86.8, Area_harvested_kha=24910.5, Wheat_tonnes_ha=2.1, Fertilizer_kg_ha=382.4, Production_Mt=211.1, Soybean_tonnes_ha=1.8}
+  Brazil: {Maize_tonnes_ha=8.6, Yield_index=108.2, Area_harvested_kha=2550.3, Wheat_tonnes_ha=6, Fertilizer_kg_ha=378.7, Production_Mt=116.5, Soybean_tonnes_ha=3.9}
+  Indonesia: {Maize_tonnes_ha=10.9, Yield_index=138.7, Area_harvested_kha=31393.6, Wheat_tonnes_ha=9, Fertilizer_kg_ha=56.3, Production_Mt=181.8, Soybean_tonnes_ha=1.8}
+  Thailand: {Maize_tonnes_ha=3.1, Yield_index=167.1, Area_harvested_kha=14779.5, Wheat_tonnes_ha=4.3, Fertilizer_kg_ha=379.5, Production_Mt=197.1, Soybean_tonnes_ha=3.3}
+
+Edges (top 10 by metric similarity):
+  Egypt -- Pakistan (sim=1.00, similar Maize_tonnes_ha)
+  China -- Indonesia (sim=1.00, similar Soybean_tonnes_ha)
+  Bangladesh -- Vietnam (sim=1.00, similar Soybean_tonnes_ha)
+  Canada -- Argentina (sim=1.00, similar Soybean_tonnes_ha)
+  Egypt -- Vietnam (sim=1.00, similar Wheat_tonnes_ha)
+  Vietnam -- Pakistan (sim=1.00, similar Soybean_tonnes_ha)
+  Germany -- Thailand (sim=1.00, similar Soybean_tonnes_ha)
+  Bangladesh -- Egypt (sim=1.00, similar Soybean_tonnes_ha)
+  Mexico -- China (sim=1.00, similar Wheat_tonnes_ha)
+  Pakistan -- Canada (sim=1.00, similar Wheat_tonnes_ha)

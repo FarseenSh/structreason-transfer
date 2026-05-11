@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Avg_speed_kmh: Route_G7=31.5, Route_B2=60.8, Route_J10=17.5, Route_N14=57.5, Route_S19=57.6, Route_D4=21.1, Route_E5=63.7.
+Congestion_index: Route_G7=4.1, Route_B2=1.6, Route_J10=2.4, Route_N14=2.9, Route_S19=1.3, Route_D4=2.4, Route_E5=2.4.
+Road_condition_score: Route_G7=51.4, Route_B2=55.2, Route_J10=62.5, Route_N14=60, Route_S19=84.8, Route_D4=62, Route_E5=96.
+Bus_passengers: Route_G7=26577, Route_B2=45580.1, Route_J10=3877.2, Route_N14=22025.8, Route_S19=49348.9, Route_D4=23460.4, Route_E5=28538.4.

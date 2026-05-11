@@ -1,0 +1,11 @@
+The following 10 values represent HDI for each Entity (Germany, Netherlands, Sweden, Greece, Czechia, France, Bulgaria, Italy, Romania, Belgium), listed in order:
+[0.8, 0.9, 0.8, 0.9, 0.8, 0.8, 0.9, 0.8, 0.8, 0.9]
+
+The following 10 values represent Life_expectancy for each Entity (Germany, Netherlands, Sweden, Greece, Czechia, France, Bulgaria, Italy, Romania, Belgium), listed in order:
+[82.5, 74.4, 75.7, 81.3, 83.7, 78, 73.7, 72.2, 74.8, 73.6]
+
+The following 10 values represent Trust_in_govt_pct for each Entity (Germany, Netherlands, Sweden, Greece, Czechia, France, Bulgaria, Italy, Romania, Belgium), listed in order:
+[56.7, 20, 45.4, 57.8, 50.4, 25.2, 65.1, 59.2, 60.8, 20.6]
+
+The following 10 values represent Govt_expenditure_pct_GDP for each Entity (Germany, Netherlands, Sweden, Greece, Czechia, France, Bulgaria, Italy, Romania, Belgium), listed in order:
+[33.5, 56, 41.1, 38.4, 43.7, 48.6, 56.8, 38, 55.9, 30.7]

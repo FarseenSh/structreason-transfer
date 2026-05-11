@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_008",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Unemployment_pct",
+    "Life_expectancy",
+    "GDP_per_capita",
+    "Govt_expenditure_pct_GDP"
+  ],
+  "data": [
+    {
+      "Entity": "Romania",
+      "Unemployment_pct": 21.2,
+      "Life_expectancy": 79.1,
+      "GDP_per_capita": 69867.7,
+      "Govt_expenditure_pct_GDP": 32.9
+    },
+    {
+      "Entity": "Germany",
+      "Unemployment_pct": 17.2,
+      "Life_expectancy": 79.8,
+      "GDP_per_capita": 45687.0,
+      "Govt_expenditure_pct_GDP": 48.3
+    },
+    {
+      "Entity": "Bulgaria",
+      "Unemployment_pct": 13.0,
+      "Life_expectancy": 75.6,
+      "GDP_per_capita": 48338.0,
+      "Govt_expenditure_pct_GDP": 56.7
+    },
+    {
+      "Entity": "Spain",
+      "Unemployment_pct": 8.0,
+      "Life_expectancy": 74.9,
+      "GDP_per_capita": 84629.1,
+      "Govt_expenditure_pct_GDP": 44.4
+    },
+    {
+      "Entity": "France",
+      "Unemployment_pct": 20.0,
+      "Life_expectancy": 75.9,
+      "GDP_per_capita": 62221.8,
+      "Govt_expenditure_pct_GDP": 42.1
+    },
+    {
+      "Entity": "Switzerland",
+      "Unemployment_pct": 7.1,
+      "Life_expectancy": 73.9,
+      "GDP_per_capita": 72024.7,
+      "Govt_expenditure_pct_GDP": 31.0
+    },
+    {
+      "Entity": "Belgium",
+      "Unemployment_pct": 8.8,
+      "Life_expectancy": 82.5,
+      "GDP_per_capita": 78178.8,
+      "Govt_expenditure_pct_GDP": 56.9
+    },
+    {
+      "Entity": "Netherlands",
+      "Unemployment_pct": 20.2,
+      "Life_expectancy": 75.4,
+      "GDP_per_capita": 70131.3,
+      "Govt_expenditure_pct_GDP": 32.9
+    },
+    {
+      "Entity": "Ireland",
+      "Unemployment_pct": 12.8,
+      "Life_expectancy": 78.7,
+      "GDP_per_capita": 27962.6,
+      "Govt_expenditure_pct_GDP": 31.2
+    },
+    {
+      "Entity": "Hungary",
+      "Unemployment_pct": 17.0,
+      "Life_expectancy": 81.5,
+      "GDP_per_capita": 54352.0,
+      "Govt_expenditure_pct_GDP": 36.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Unemployment_pct",
+    "Life_expectancy",
+    "GDP_per_capita",
+    "Govt_expenditure_pct_GDP"
+  ]
+}

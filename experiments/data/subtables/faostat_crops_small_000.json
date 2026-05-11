@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_000",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Wheat_tonnes_ha",
+    "Yield_index"
+  ],
+  "data": [
+    {
+      "Entity": "China",
+      "Wheat_tonnes_ha": 6.1,
+      "Yield_index": 148.7
+    },
+    {
+      "Entity": "Egypt",
+      "Wheat_tonnes_ha": 5.9,
+      "Yield_index": 88.2
+    },
+    {
+      "Entity": "France",
+      "Wheat_tonnes_ha": 4.6,
+      "Yield_index": 145.0
+    },
+    {
+      "Entity": "Canada",
+      "Wheat_tonnes_ha": 1.5,
+      "Yield_index": 61.8
+    },
+    {
+      "Entity": "Germany",
+      "Wheat_tonnes_ha": 4.9,
+      "Yield_index": 169.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Wheat_tonnes_ha",
+    "Yield_index"
+  ]
+}

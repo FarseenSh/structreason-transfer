@@ -1,0 +1,20 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Ukraine: {Maize_tonnes_ha=11.7, Rice_tonnes_ha=3.5, Soybean_tonnes_ha=1.7, Yield_index=162.2}
+  Turkey: {Maize_tonnes_ha=10.6, Rice_tonnes_ha=2.5, Soybean_tonnes_ha=1.3, Yield_index=89.4}
+  Indonesia: {Maize_tonnes_ha=7.1, Rice_tonnes_ha=4.2, Soybean_tonnes_ha=1, Yield_index=92}
+  Australia: {Maize_tonnes_ha=4.5, Rice_tonnes_ha=2.1, Soybean_tonnes_ha=3.1, Yield_index=157}
+  Bangladesh: {Maize_tonnes_ha=8.9, Rice_tonnes_ha=2.6, Soybean_tonnes_ha=1.8, Yield_index=92.8}
+  Argentina: {Maize_tonnes_ha=6.3, Rice_tonnes_ha=3.5, Soybean_tonnes_ha=2.5, Yield_index=60.3}
+  Germany: {Maize_tonnes_ha=10, Rice_tonnes_ha=2.9, Soybean_tonnes_ha=1.3, Yield_index=111.3}
+  Vietnam: {Maize_tonnes_ha=12, Rice_tonnes_ha=6, Soybean_tonnes_ha=4, Yield_index=61.5}
+  Thailand: {Maize_tonnes_ha=5.5, Rice_tonnes_ha=2.6, Soybean_tonnes_ha=1.4, Yield_index=169.2}
+  Pakistan: {Maize_tonnes_ha=4.4, Rice_tonnes_ha=6.8, Soybean_tonnes_ha=2.2, Yield_index=137}
+
+Edges (top 5 by metric similarity):
+  Bangladesh -- Germany (sim=1.00, similar Rice_tonnes_ha)
+  Australia -- Thailand (sim=1.00, similar Rice_tonnes_ha)
+  Ukraine -- Germany (sim=1.00, similar Soybean_tonnes_ha)
+  Turkey -- Bangladesh (sim=1.00, similar Rice_tonnes_ha)
+  Indonesia -- Germany (sim=1.00, similar Soybean_tonnes_ha)

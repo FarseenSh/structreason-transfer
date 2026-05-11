@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+HDI: Poland=0.9, Bulgaria=0.9, France=0.9, Sweden=0.9, Czechia=0.9, Switzerland=0.9, Finland=0.9, Greece=0.8, Romania=0.9, Belgium=0.9.
+Trust_in_govt_pct: Poland=19.6, Bulgaria=16.8, France=67.6, Sweden=15.7, Czechia=30.5, Switzerland=34.1, Finland=23.4, Greece=32.7, Romania=61, Belgium=13.
+Education_spending_pct: Poland=7.6, Bulgaria=7.8, France=5.4, Sweden=4.3, Czechia=6.5, Switzerland=4.1, Finland=5.3, Greece=8.3, Romania=8.5, Belgium=7.4.
+Gini_index: Poland=28.3, Bulgaria=34.7, France=35, Sweden=29.6, Czechia=33.9, Switzerland=23.2, Finland=26.6, Greece=31.9, Romania=25.8, Belgium=25.8.

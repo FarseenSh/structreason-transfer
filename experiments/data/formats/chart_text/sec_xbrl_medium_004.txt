@@ -1,0 +1,5 @@
+Bar chart: "SEC XBRL Financials — Finance".
+ROE_pct: CompanyD=20, CompanyS=-8.8, CompanyI=42, CompanyM=23.8, CompanyK=18.3, CompanyH=-3.1, CompanyJ=15.9, CompanyC=5.6, CompanyE=25.5, CompanyT=21.3.
+Total_assets_M: CompanyD=25065.5, CompanyS=12786.5, CompanyI=26382, CompanyM=23192.5, CompanyK=42593, CompanyH=44738, CompanyJ=38010.6, CompanyC=16118.1, CompanyE=2096.9, CompanyT=46281.7.
+Revenue_M: CompanyD=4960.5, CompanyS=678.8, CompanyI=3443.8, CompanyM=2154.5, CompanyK=785.2, CompanyH=4990.6, CompanyJ=4669.5, CompanyC=4913.9, CompanyE=762.3, CompanyT=2485.
+Net_income_M: CompanyD=1322.8, CompanyS=947.8, CompanyI=538.8, CompanyM=678.4, CompanyK=-134.4, CompanyH=839.6, CompanyJ=1261.5, CompanyC=-195.3, CompanyE=71.9, CompanyT=680.6.

@@ -1,0 +1,65 @@
+project:
+  name: StructReason-Transfer
+  venue: SURGeLLM 2026
+  seed: 42
+
+data:
+  n_datasets: 10
+  subtables_per_dataset: 25
+  total_subtables: 250
+  complexity_tiers:
+    small: {rows: 5, cols: 3, count: 80}
+    medium: {rows: 10, cols: 5, count: 100}
+    large: {rows: 20, cols: 8, count: 70}
+
+formats:
+  - table        # Format A: Markdown table
+  - chart_image  # Format B: matplotlib PNG
+  - chart_text   # Format B': text-description (length-matched ±20%)
+  - graph        # Format C: entity-relationship edge list
+  - timeseries   # Format D: unlabeled numerical array
+
+question_types:
+  - {id: Q1, name: lookup, scoring: exact_match, tolerance: 0.02}
+  - {id: Q2, name: comparison, scoring: exact_match, tolerance: 0}
+  - {id: Q3, name: aggregation, scoring: exact_match, tolerance: 0.05}
+  - {id: Q4, name: trend, scoring: exact_match, tolerance: 0}
+  - {id: Q5, name: extremum, scoring: exact_match, tolerance: 0}
+  - {id: Q6, name: multi_hop, scoring: exact_match, tolerance: 0.02}
+  - {id: Q7, name: conditional_aggregation, scoring: exact_match, tolerance: 0.05}
+
+questions:
+  total: 1750  # 7 types × 250 sub-tables
+  q6_tie_break_threshold: 0.05  # exclude if gap < 5%
+  q7_pass_rate_range: [0.3, 0.7]
+
+metrics:
+  primary: tetrachoric_correlation  # via ordinalcorr
+  secondary: [phi_coefficient, kendall_tau_b]
+  bootstrap_resamples: 10000
+  ci_level: 0.95
+
+token_counting:
+  encoding: cl100k_base  # tiktoken
+
+pilot:
+  model: deepseek/deepseek-chat-v3.2
+  platform: openrouter
+
+models:
+  - {name: gemini-3.1-pro, platform: google, vision: true}
+  - {name: claude-sonnet-4.6, platform: aws_bedrock, vision: true}
+  - {name: moonshot/kimi-k2.5, platform: openrouter, vision: true}
+  - {name: zhipu/glm-5, platform: openrouter, vision: true}
+  - {name: qwen/qwen3.5-397b, platform: openrouter, vision: check}
+  - {name: deepseek/deepseek-chat-v3.2, platform: openrouter, vision: check}
+  - {name: minimax/m2.5, platform: openrouter, vision: check}
+
+prompt_template: |
+  You are given data in the following format. Answer the question precisely.
+
+  {data}
+
+  Question: {question}
+
+  Answer with ONLY the answer value, no explanation.

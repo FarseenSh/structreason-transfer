@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Monthly_riders_k: Line_Silver=6553.8, Ferry_B=2128.4, Line_Purple=4528, Bus_101=1899.4, Tram_3=2716.3, Line_Yellow=6246.8, Bus_404=6863.2.
+Farebox_recovery_pct: Line_Silver=68.7, Ferry_B=75.3, Line_Purple=31.1, Bus_101=51.5, Tram_3=41.4, Line_Yellow=19.2, Bus_404=31.9.
+Operating_cost_k: Line_Silver=17427.2, Ferry_B=9384.2, Line_Purple=19250, Bus_101=6123.9, Tram_3=650.7, Line_Yellow=2261.5, Bus_404=6385.9.
+Revenue_k_USD: Line_Silver=6104.5, Ferry_B=7207.5, Line_Purple=1086.6, Bus_101=10195.1, Tram_3=12161.1, Line_Yellow=13944.4, Bus_404=8979.8.

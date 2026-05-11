@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Fertilizer_kg_ha: USA=374.5, Australia=364.1, Pakistan=262.8, Mexico=150.1, Argentina=371.7.
+Rice_tonnes_ha: USA=2.7, Australia=2.9, Pakistan=4.4, Mexico=3.6, Argentina=5.4.

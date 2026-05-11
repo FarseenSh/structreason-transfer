@@ -1,0 +1,3 @@
+Bar chart: "Ember Monthly Elec — Energy".
+CO2_Mt: Hungary=18.6, Romania=41.5, Spain=66, Finland=69, Ireland=45.4.
+Hydro_GWh: Hungary=4230.1, Romania=5611.7, Spain=4273.2, Finland=3399.7, Ireland=774.8.

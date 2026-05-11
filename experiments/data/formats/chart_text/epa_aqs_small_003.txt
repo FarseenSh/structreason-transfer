@@ -1,0 +1,3 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+Temperature_C: Station_SW4=21.1, Station_NE2=33.4, Station_N6=-0.3, Station_NE11=34.8, Station_E17=17.4.
+PM10_ug_m3: Station_SW4=82.9, Station_NE2=49.8, Station_N6=14.6, Station_NE11=115.3, Station_E17=119.4.

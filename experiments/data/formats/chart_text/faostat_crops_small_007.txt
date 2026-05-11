@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Fertilizer_kg_ha: USA=39.7, Egypt=278.6, Turkey=180.2, Australia=189.2, India=359.5.
+Area_harvested_kha: USA=25945.4, Egypt=8070.8, Turkey=23172.2, Australia=5062.8, India=7195.2.

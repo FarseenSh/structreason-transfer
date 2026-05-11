@@ -1,0 +1,45 @@
+{
+  "id": "openaq_small_002",
+  "dataset": "OpenAQ",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Temperature_C",
+    "AQI"
+  ],
+  "data": [
+    {
+      "Entity": "Station_C14",
+      "Temperature_C": 20.9,
+      "AQI": 153.1
+    },
+    {
+      "Entity": "Station_NW10",
+      "Temperature_C": 6.7,
+      "AQI": 35.7
+    },
+    {
+      "Entity": "Station_S7",
+      "Temperature_C": 35.9,
+      "AQI": 57.2
+    },
+    {
+      "Entity": "Station_NE11",
+      "Temperature_C": 8.2,
+      "AQI": 54.4
+    },
+    {
+      "Entity": "Station_NW1",
+      "Temperature_C": 29.6,
+      "AQI": 167.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Temperature_C",
+    "AQI"
+  ]
+}

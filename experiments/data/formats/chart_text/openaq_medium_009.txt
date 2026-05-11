@@ -1,0 +1,5 @@
+Bar chart: "OpenAQ — Air Quality".
+SO2_ppb: Station_NW10=18.5, Station_SW13=6.5, Station_W18=9.4, Station_U20=15.4, Station_W9=8.1, Station_NW1=11.5, Station_N6=14.2.
+Temperature_C: Station_NW10=-2.6, Station_SW13=25.7, Station_W18=15.9, Station_U20=15.1, Station_W9=-3.7, Station_NW1=6.7, Station_N6=12.8.
+NO2_ppb: Station_NW10=39.2, Station_SW13=41, Station_W18=11.5, Station_U20=41.4, Station_W9=50.8, Station_NW1=16.3, Station_N6=24.9.
+CO_ppm: Station_NW10=2.9, Station_SW13=2.3, Station_W18=0.5, Station_U20=3.1, Station_W9=3.1, Station_NW1=1.5, Station_N6=1.1.

@@ -1,0 +1,5 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Revenue_M: CompanyG=1733.7, CompanyS=2675.2, CompanyP=3086.6, CompanyQ=2998.9, CompanyF=3942.7, CompanyC=2879.9, CompanyH=4262.7, CompanyN=468.9, CompanyO=4301.9, CompanyB=2970.5.
+Net_income_M: CompanyG=179, CompanyS=1462.2, CompanyP=1397.5, CompanyQ=1237.7, CompanyF=1349.7, CompanyC=449.6, CompanyH=187.3, CompanyN=110.9, CompanyO=1285.4, CompanyB=1205.3.
+Current_ratio: CompanyG=3.9, CompanyS=3.5, CompanyP=2.7, CompanyQ=1, CompanyF=1.1, CompanyC=2.2, CompanyH=3.2, CompanyN=1.1, CompanyO=3.7, CompanyB=2.9.
+Operating_margin_pct: CompanyG=9.1, CompanyS=34.9, CompanyP=21.9, CompanyQ=28, CompanyF=12.3, CompanyC=12.7, CompanyH=-4.4, CompanyN=19.2, CompanyO=29.2, CompanyB=38.6.

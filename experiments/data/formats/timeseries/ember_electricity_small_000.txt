@@ -1,0 +1,5 @@
+The following 5 values represent Solar_GWh for each Entity (Czechia, Finland, Sweden, Switzerland, France), listed in order:
+[3143.4, 4285.5, 4363.2, 491.5, 1413.4]
+
+The following 5 values represent Nuclear_GWh for each Entity (Czechia, Finland, Sweden, Switzerland, France), listed in order:
+[194.5, 7647.1, 13137, 9143.3, 7503.1]

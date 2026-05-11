@@ -1,0 +1,11 @@
+The following 10 values represent Total_GWh for each Entity (Poland, UK, Netherlands, Denmark, Germany, Greece, Spain, Norway, Hungary, Portugal), listed in order:
+[32550.1, 17805.6, 4861.7, 24572.7, 26204.9, 38991.3, 32733.9, 43820.4, 39583.2, 19562.1]
+
+The following 10 values represent Hydro_GWh for each Entity (Poland, UK, Netherlands, Denmark, Germany, Greece, Spain, Norway, Hungary, Portugal), listed in order:
+[5094.5, 6003.6, 7659.4, 3436.6, 5221.4, 3202, 5928.8, 7304.7, 7361.9, 1341]
+
+The following 10 values represent CO2_Mt for each Entity (Poland, UK, Netherlands, Denmark, Germany, Greece, Spain, Norway, Hungary, Portugal), listed in order:
+[17.1, 60.6, 50.8, 72.5, 25.8, 68, 55, 16.4, 11, 56.5]
+
+The following 10 values represent Nuclear_GWh for each Entity (Poland, UK, Netherlands, Denmark, Germany, Greece, Spain, Norway, Hungary, Portugal), listed in order:
+[2376.9, 11914.9, 8356.4, 7153, 4132.9, 14757.7, 10832.5, 11671, 11530.7, 8760.2]

@@ -1,0 +1,94 @@
+{
+  "id": "ember_electricity_medium_008",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Nuclear_GWh",
+    "Total_GWh",
+    "Gas_GWh",
+    "Coal_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Austria",
+      "Nuclear_GWh": 8770.6,
+      "Total_GWh": 35691.2,
+      "Gas_GWh": 8431.3,
+      "Coal_GWh": 531.5
+    },
+    {
+      "Entity": "Greece",
+      "Nuclear_GWh": 11855.4,
+      "Total_GWh": 17026.6,
+      "Gas_GWh": 3050.8,
+      "Coal_GWh": 662.1
+    },
+    {
+      "Entity": "Spain",
+      "Nuclear_GWh": 5250.2,
+      "Total_GWh": 3065.3,
+      "Gas_GWh": 6449.0,
+      "Coal_GWh": 4797.3
+    },
+    {
+      "Entity": "Finland",
+      "Nuclear_GWh": 3634.8,
+      "Total_GWh": 26362.4,
+      "Gas_GWh": 5698.9,
+      "Coal_GWh": 4433.4
+    },
+    {
+      "Entity": "Switzerland",
+      "Nuclear_GWh": 10875.0,
+      "Total_GWh": 15716.9,
+      "Gas_GWh": 9264.4,
+      "Coal_GWh": 4605.6
+    },
+    {
+      "Entity": "Denmark",
+      "Nuclear_GWh": 11788.1,
+      "Total_GWh": 15911.4,
+      "Gas_GWh": 2039.2,
+      "Coal_GWh": 3815.5
+    },
+    {
+      "Entity": "Italy",
+      "Nuclear_GWh": 14314.3,
+      "Total_GWh": 46502.7,
+      "Gas_GWh": 2284.3,
+      "Coal_GWh": 5951.8
+    },
+    {
+      "Entity": "Czechia",
+      "Nuclear_GWh": 2213.8,
+      "Total_GWh": 9342.5,
+      "Gas_GWh": 9505.0,
+      "Coal_GWh": 7937.9
+    },
+    {
+      "Entity": "Poland",
+      "Nuclear_GWh": 13339.0,
+      "Total_GWh": 46843.2,
+      "Gas_GWh": 1250.3,
+      "Coal_GWh": 2242.5
+    },
+    {
+      "Entity": "Hungary",
+      "Nuclear_GWh": 11476.5,
+      "Total_GWh": 26182.7,
+      "Gas_GWh": 6456.4,
+      "Coal_GWh": 2621.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Nuclear_GWh",
+    "Total_GWh",
+    "Gas_GWh",
+    "Coal_GWh"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "epa_aqs_small_007",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "PM25_ug_m3",
+    "Temperature_C"
+  ],
+  "data": [
+    {
+      "Entity": "Station_W9",
+      "PM25_ug_m3": 36.9,
+      "Temperature_C": -3.4
+    },
+    {
+      "Entity": "Station_SE12",
+      "PM25_ug_m3": 60.0,
+      "Temperature_C": 18.4
+    },
+    {
+      "Entity": "Station_N15",
+      "PM25_ug_m3": 57.0,
+      "Temperature_C": -2.3
+    },
+    {
+      "Entity": "Station_C14",
+      "PM25_ug_m3": 22.0,
+      "Temperature_C": 35.4
+    },
+    {
+      "Entity": "Station_SE3",
+      "PM25_ug_m3": 29.6,
+      "Temperature_C": 32.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "PM25_ug_m3",
+    "Temperature_C"
+  ]
+}

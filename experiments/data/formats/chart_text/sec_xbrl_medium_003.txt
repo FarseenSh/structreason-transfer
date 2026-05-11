@@ -1,0 +1,5 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Current_ratio: CompanyJ=1.7, CompanyC=2.7, CompanyR=1.9, CompanyE=3.3, CompanyM=3.8, CompanyO=1.4, CompanyK=2.3, CompanyI=3, CompanyB=1.1, CompanyQ=3.3.
+EPS: CompanyJ=13.7, CompanyC=2, CompanyR=21.4, CompanyE=9.5, CompanyM=2.8, CompanyO=3.3, CompanyK=19.2, CompanyI=23.3, CompanyB=8.2, CompanyQ=0.1.
+Net_income_M: CompanyJ=-28.6, CompanyC=912.6, CompanyR=430.3, CompanyE=524.4, CompanyM=373, CompanyO=591.4, CompanyK=894, CompanyI=719.9, CompanyB=79.2, CompanyQ=635.2.
+Debt_ratio: CompanyJ=0.5, CompanyC=0.5, CompanyR=0.2, CompanyE=0.2, CompanyM=0.5, CompanyO=0.3, CompanyK=0.6, CompanyI=0.4, CompanyB=0.3, CompanyQ=0.6.

@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Denmark: {GDP_per_capita=74738.2, Govt_expenditure_pct_GDP=48.5}
+  Sweden: {GDP_per_capita=31375.8, Govt_expenditure_pct_GDP=45.6}
+  Greece: {GDP_per_capita=19081.2, Govt_expenditure_pct_GDP=51.9}
+  Poland: {GDP_per_capita=34696.9, Govt_expenditure_pct_GDP=48.6}
+  Ireland: {GDP_per_capita=35551.6, Govt_expenditure_pct_GDP=41.4}
+
+Edges (top 3 by metric similarity):
+  Sweden -- Poland (sim=1.00, similar Govt_expenditure_pct_GDP)
+  Poland -- Ireland (sim=1.00, similar Govt_expenditure_pct_GDP)
+  Sweden -- Ireland (sim=1.00, similar Govt_expenditure_pct_GDP)

@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Fertilizer_kg_ha: Thailand=94.2, Germany=224.9, Vietnam=195.1, Russia=382, Mexico=53.6, Ukraine=239.2, Egypt=293.8, Canada=68.5, Pakistan=261.9, India=348.4.
+Rice_tonnes_ha: Thailand=6.3, Germany=7.1, Vietnam=6, Russia=4.2, Mexico=7.1, Ukraine=3.2, Egypt=5.2, Canada=6.2, Pakistan=6.8, India=7.
+Maize_tonnes_ha: Thailand=2.8, Germany=9.3, Vietnam=4, Russia=9.8, Mexico=9, Ukraine=3.8, Egypt=10.3, Canada=6.6, Pakistan=7.4, India=11.7.
+Production_Mt: Thailand=198.7, Germany=178.6, Vietnam=9.9, Russia=63.8, Mexico=12.8, Ukraine=103.3, Egypt=106.6, Canada=161.4, Pakistan=208.5, India=57.9.

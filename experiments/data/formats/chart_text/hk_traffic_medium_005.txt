@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Avg_speed_kmh: Route_E5=15.8, Route_D4=48.1, Route_Q17=43.4, Route_S19=37.1, Route_J10=49.3, Route_T20=39.4, Route_C3=26.2.
+Accidents_monthly: Route_E5=15.7, Route_D4=14.6, Route_Q17=23.5, Route_S19=29.7, Route_J10=14.3, Route_T20=31.8, Route_C3=13.3.
+Peak_hour_flow: Route_E5=14984.2, Route_D4=2867.9, Route_Q17=20992.7, Route_S19=22908.5, Route_J10=18910.5, Route_T20=13089.8, Route_C3=4798.7.
+Transit_ridership: Route_E5=132724.2, Route_D4=199133.3, Route_Q17=113728.8, Route_S19=151446.7, Route_J10=111315, Route_T20=125883.6, Route_C3=172498.4.

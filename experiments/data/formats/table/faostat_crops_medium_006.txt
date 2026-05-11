@@ -1,0 +1,12 @@
+| Entity | Yield_index | Wheat_tonnes_ha | Area_harvested_kha | Soybean_tonnes_ha |
+|---|---|---|---|---|
+| Egypt | 118 | 5.4 | 26672 | 3.5 |
+| Australia | 74.2 | 1.5 | 33018.4 | 1.3 |
+| Ukraine | 158.6 | 5.8 | 18477.8 | 2.3 |
+| Germany | 132.2 | 1.5 | 12763.4 | 3.7 |
+| India | 67 | 8.4 | 2037.1 | 2.3 |
+| Nigeria | 141.2 | 3.5 | 20638 | 2.7 |
+| Russia | 94 | 8 | 13611.5 | 3.6 |
+| Canada | 68.3 | 1.6 | 31865.1 | 1.7 |
+| Argentina | 132.8 | 2.2 | 17062 | 3.7 |
+| Indonesia | 147.9 | 4.9 | 26907.9 | 2.2 |

@@ -1,0 +1,94 @@
+{
+  "id": "ntd_transit_medium_001",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Monthly_riders_k",
+    "Vehicles_in_service",
+    "Revenue_k_USD",
+    "Avg_trip_minutes"
+  ],
+  "data": [
+    {
+      "Entity": "Ferry_A",
+      "Monthly_riders_k": 7970.3,
+      "Vehicles_in_service": 12.0,
+      "Revenue_k_USD": 11725.6,
+      "Avg_trip_minutes": 48.5
+    },
+    {
+      "Entity": "Bus_202",
+      "Monthly_riders_k": 1885.2,
+      "Vehicles_in_service": 170.3,
+      "Revenue_k_USD": 7953.7,
+      "Avg_trip_minutes": 26.0
+    },
+    {
+      "Entity": "Line_Pink",
+      "Monthly_riders_k": 7307.2,
+      "Vehicles_in_service": 21.3,
+      "Revenue_k_USD": 2699.9,
+      "Avg_trip_minutes": 17.4
+    },
+    {
+      "Entity": "Line_Purple",
+      "Monthly_riders_k": 7347.8,
+      "Vehicles_in_service": 14.2,
+      "Revenue_k_USD": 6001.2,
+      "Avg_trip_minutes": 30.0
+    },
+    {
+      "Entity": "Line_Gold",
+      "Monthly_riders_k": 3397.0,
+      "Vehicles_in_service": 58.6,
+      "Revenue_k_USD": 9426.4,
+      "Avg_trip_minutes": 20.0
+    },
+    {
+      "Entity": "Line_Brown",
+      "Monthly_riders_k": 2466.8,
+      "Vehicles_in_service": 97.8,
+      "Revenue_k_USD": 14601.1,
+      "Avg_trip_minutes": 19.1
+    },
+    {
+      "Entity": "Tram_2",
+      "Monthly_riders_k": 3079.2,
+      "Vehicles_in_service": 179.6,
+      "Revenue_k_USD": 9961.0,
+      "Avg_trip_minutes": 34.9
+    },
+    {
+      "Entity": "Tram_1",
+      "Monthly_riders_k": 7915.2,
+      "Vehicles_in_service": 159.1,
+      "Revenue_k_USD": 341.3,
+      "Avg_trip_minutes": 44.1
+    },
+    {
+      "Entity": "Line_Blue",
+      "Monthly_riders_k": 4969.4,
+      "Vehicles_in_service": 43.5,
+      "Revenue_k_USD": 10604.6,
+      "Avg_trip_minutes": 47.2
+    },
+    {
+      "Entity": "Bus_101",
+      "Monthly_riders_k": 4381.0,
+      "Vehicles_in_service": 77.6,
+      "Revenue_k_USD": 3837.9,
+      "Avg_trip_minutes": 26.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Monthly_riders_k",
+    "Vehicles_in_service",
+    "Revenue_k_USD",
+    "Avg_trip_minutes"
+  ]
+}

@@ -1,0 +1,11 @@
+The following 10 values represent Area_harvested_kha for each Entity (Nigeria, Russia, France, Vietnam, Australia, China, USA, Thailand, Germany, Ukraine), listed in order:
+[23746.9, 9956.7, 26246.8, 17922.2, 12526.6, 27647.8, 21779, 18000.8, 27172.2, 19296.6]
+
+The following 10 values represent Production_Mt for each Entity (Nigeria, Russia, France, Vietnam, Australia, China, USA, Thailand, Germany, Ukraine), listed in order:
+[281.9, 246.3, 110.7, 142.2, 287.4, 269.1, 61.4, 85.9, 112.5, 264.6]
+
+The following 10 values represent Fertilizer_kg_ha for each Entity (Nigeria, Russia, France, Vietnam, Australia, China, USA, Thailand, Germany, Ukraine), listed in order:
+[372.4, 324.9, 124.8, 357.1, 32.5, 180.7, 163.5, 223.4, 233, 105.7]
+
+The following 10 values represent Rice_tonnes_ha for each Entity (Nigeria, Russia, France, Vietnam, Australia, China, USA, Thailand, Germany, Ukraine), listed in order:
+[3.1, 6.4, 2.4, 4.7, 3.1, 3.8, 3.5, 5.9, 4.5, 3.6]

@@ -1,0 +1,45 @@
+{
+  "id": "epa_aqs_small_005",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "SO2_ppb",
+    "CO_ppm"
+  ],
+  "data": [
+    {
+      "Entity": "Station_S16",
+      "SO2_ppb": 7.4,
+      "CO_ppm": 1.6
+    },
+    {
+      "Entity": "Station_C14",
+      "SO2_ppb": 9.9,
+      "CO_ppm": 2.2
+    },
+    {
+      "Entity": "Station_SE12",
+      "SO2_ppb": 11.1,
+      "CO_ppm": 2.8
+    },
+    {
+      "Entity": "Station_U20",
+      "SO2_ppb": 18.9,
+      "CO_ppm": 1.9
+    },
+    {
+      "Entity": "Station_R19",
+      "SO2_ppb": 23.2,
+      "CO_ppm": 2.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "SO2_ppb",
+    "CO_ppm"
+  ]
+}

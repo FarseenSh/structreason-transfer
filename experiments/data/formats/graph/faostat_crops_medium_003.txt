@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Russia: {Soybean_tonnes_ha=3.9, Rice_tonnes_ha=2.8, Fertilizer_kg_ha=197.7, Production_Mt=264.9}
+  India: {Soybean_tonnes_ha=1, Rice_tonnes_ha=5.4, Fertilizer_kg_ha=100.7, Production_Mt=194.5}
+  Brazil: {Soybean_tonnes_ha=2, Rice_tonnes_ha=4.9, Fertilizer_kg_ha=37.4, Production_Mt=217.5}
+  USA: {Soybean_tonnes_ha=2, Rice_tonnes_ha=7.4, Fertilizer_kg_ha=338.5, Production_Mt=197.4}
+  Pakistan: {Soybean_tonnes_ha=1.9, Rice_tonnes_ha=6.1, Fertilizer_kg_ha=329.6, Production_Mt=217.8}
+  Canada: {Soybean_tonnes_ha=3.5, Rice_tonnes_ha=7.4, Fertilizer_kg_ha=81.8, Production_Mt=47.8}
+  Germany: {Soybean_tonnes_ha=1.1, Rice_tonnes_ha=3, Fertilizer_kg_ha=265.2, Production_Mt=277.2}
+  Egypt: {Soybean_tonnes_ha=2.1, Rice_tonnes_ha=6.2, Fertilizer_kg_ha=300.3, Production_Mt=89.3}
+  Vietnam: {Soybean_tonnes_ha=3.1, Rice_tonnes_ha=5, Fertilizer_kg_ha=231.9, Production_Mt=251.8}
+  Mexico: {Soybean_tonnes_ha=2.2, Rice_tonnes_ha=5.9, Fertilizer_kg_ha=140.5, Production_Mt=268.5}
+
+Edges (top 5 by metric similarity):
+  India -- Mexico (sim=1.00, similar Rice_tonnes_ha)
+  Germany -- Vietnam (sim=1.00, similar Soybean_tonnes_ha)
+  USA -- Pakistan (sim=1.00, similar Soybean_tonnes_ha)
+  USA -- Canada (sim=1.00, similar Rice_tonnes_ha)
+  Pakistan -- Canada (sim=1.00, similar Rice_tonnes_ha)

@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Hydro_GWh: Switzerland=5020.5, Norway=6810.7, Italy=2714.3, Hungary=1641.6, Poland=2193.7, Austria=2256.2, Belgium=3632.9, Greece=2675.1, Finland=2243.1, Ireland=5223.2.
+Solar_GWh: Switzerland=412.9, Norway=2108.1, Italy=4169.5, Hungary=1137.5, Poland=1403.5, Austria=1283.9, Belgium=105.5, Greece=2895.2, Finland=329.9, Ireland=1710.3.
+Gas_GWh: Switzerland=9949.6, Norway=9208.4, Italy=2386.2, Hungary=3307, Poland=4797.9, Austria=8490.8, Belgium=8085.7, Greece=1524.5, Finland=1507.2, Ireland=4342.3.
+Coal_GWh: Switzerland=6967.3, Norway=7062.6, Italy=903.6, Hungary=4615.7, Poland=1287.6, Austria=5504.7, Belgium=7335.6, Greece=3665.4, Finland=710.5, Ireland=4655.1.

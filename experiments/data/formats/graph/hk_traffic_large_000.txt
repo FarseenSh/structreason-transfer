@@ -1,0 +1,35 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_O15: {Road_condition_score=64.1, Peak_hour_flow=17355.1, Daily_vehicles=39121.3, Transit_ridership=16698.2, Avg_speed_kmh=33.4, Bus_passengers=13600.4, Congestion_index=1.3}
+  Route_N14: {Road_condition_score=47.2, Peak_hour_flow=8211.1, Daily_vehicles=63389.7, Transit_ridership=120009, Avg_speed_kmh=42.2, Bus_passengers=27604.1, Congestion_index=1.9}
+  Route_I9: {Road_condition_score=63.8, Peak_hour_flow=2678.4, Daily_vehicles=92111.6, Transit_ridership=138380, Avg_speed_kmh=36.1, Bus_passengers=16702.3, Congestion_index=1.3}
+  Route_P16: {Road_condition_score=72.3, Peak_hour_flow=28358.3, Daily_vehicles=10184.1, Transit_ridership=119688.5, Avg_speed_kmh=66.9, Bus_passengers=14889.8, Congestion_index=3}
+  Route_H8: {Road_condition_score=94, Peak_hour_flow=5032.6, Daily_vehicles=88057.8, Transit_ridership=76211, Avg_speed_kmh=77.3, Bus_passengers=29118.4, Congestion_index=1.6}
+  Route_M13: {Road_condition_score=42.1, Peak_hour_flow=5552, Daily_vehicles=56103, Transit_ridership=140970, Avg_speed_kmh=71.9, Bus_passengers=9982.6, Congestion_index=3.2}
+  Route_B2: {Road_condition_score=76, Peak_hour_flow=6103.3, Daily_vehicles=68395.7, Transit_ridership=120887.4, Avg_speed_kmh=25, Bus_passengers=23987.5, Congestion_index=3.8}
+  Route_Q17: {Road_condition_score=66.5, Peak_hour_flow=29475.7, Daily_vehicles=18426.6, Transit_ridership=45489.2, Avg_speed_kmh=65.5, Bus_passengers=32889.8, Congestion_index=3.9}
+  Route_D4: {Road_condition_score=41.2, Peak_hour_flow=19294.5, Daily_vehicles=53004.9, Transit_ridership=114811.4, Avg_speed_kmh=24.6, Bus_passengers=7280.9, Congestion_index=2.2}
+  Route_S19: {Road_condition_score=54.5, Peak_hour_flow=19088.1, Daily_vehicles=65616.2, Transit_ridership=176971.9, Avg_speed_kmh=74.4, Bus_passengers=46599.1, Congestion_index=3}
+  Route_L12: {Road_condition_score=46.9, Peak_hour_flow=29627.5, Daily_vehicles=46062.3, Transit_ridership=135032.5, Avg_speed_kmh=48.7, Bus_passengers=25780.5, Congestion_index=3}
+  Route_E5: {Road_condition_score=52.6, Peak_hour_flow=4476.3, Daily_vehicles=18948.7, Transit_ridership=96999.3, Avg_speed_kmh=36.9, Bus_passengers=41156.9, Congestion_index=2.7}
+  Route_K11: {Road_condition_score=55.9, Peak_hour_flow=29286, Daily_vehicles=26970.7, Transit_ridership=67708.9, Avg_speed_kmh=25.2, Bus_passengers=33041.4, Congestion_index=3.3}
+  Route_C3: {Road_condition_score=63.3, Peak_hour_flow=7712.4, Daily_vehicles=81895.4, Transit_ridership=21747.8, Avg_speed_kmh=15.8, Bus_passengers=35790, Congestion_index=1.8}
+  Route_A1: {Road_condition_score=70.7, Peak_hour_flow=19446, Daily_vehicles=8102.4, Transit_ridership=52702.3, Avg_speed_kmh=31.1, Bus_passengers=36090.4, Congestion_index=4.4}
+  Route_R18: {Road_condition_score=40.1, Peak_hour_flow=13762.3, Daily_vehicles=68797.6, Transit_ridership=7181.4, Avg_speed_kmh=74.4, Bus_passengers=43879.9, Congestion_index=1.4}
+  Route_G7: {Road_condition_score=49.4, Peak_hour_flow=12750.7, Daily_vehicles=94945.1, Transit_ridership=197392.1, Avg_speed_kmh=66.8, Bus_passengers=31066.7, Congestion_index=3.9}
+  Route_T20: {Road_condition_score=45.4, Peak_hour_flow=28074.8, Daily_vehicles=5673.5, Transit_ridership=48384, Avg_speed_kmh=78, Bus_passengers=14632.6, Congestion_index=3.1}
+  Route_F6: {Road_condition_score=71.9, Peak_hour_flow=6178.4, Daily_vehicles=19494.1, Transit_ridership=163900.8, Avg_speed_kmh=21.5, Bus_passengers=5876, Congestion_index=1.9}
+  Route_J10: {Road_condition_score=59.1, Peak_hour_flow=29917.9, Daily_vehicles=65673, Transit_ridership=37885.8, Avg_speed_kmh=53.5, Bus_passengers=30706.3, Congestion_index=3.6}
+
+Edges (top 10 by metric similarity):
+  Route_N14 -- Route_B2 (sim=1.00, similar Congestion_index)
+  Route_N14 -- Route_G7 (sim=1.00, similar Congestion_index)
+  Route_B2 -- Route_G7 (sim=1.00, similar Congestion_index)
+  Route_M13 -- Route_G7 (sim=0.99, similar Congestion_index)
+  Route_I9 -- Route_B2 (sim=0.99, similar Congestion_index)
+  Route_S19 -- Route_L12 (sim=0.99, similar Congestion_index)
+  Route_D4 -- Route_G7 (sim=0.99, similar Congestion_index)
+  Route_M13 -- Route_D4 (sim=0.99, similar Road_condition_score)
+  Route_O15 -- Route_J10 (sim=0.99, similar Congestion_index)
+  Route_N14 -- Route_S19 (sim=0.99, similar Congestion_index)

@@ -1,0 +1,5 @@
+The following 5 values represent PM25_ug_m3 for each Entity (Station_SW4, Station_N6, Station_U20, Station_NW10, Station_E17), listed in order:
+[9.1, 61.1, 61.1, 35.2, 34.6]
+
+The following 5 values represent PM10_ug_m3 for each Entity (Station_SW4, Station_N6, Station_U20, Station_NW10, Station_E17), listed in order:
+[79.1, 73, 68.9, 74, 104.2]

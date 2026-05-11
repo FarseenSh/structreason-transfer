@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Transit_ridership: Route_J10=149459, Route_G7=158018.2, Route_A1=81724.1, Route_O15=179116.5, Route_S19=63258, Route_I9=113233.2, Route_K11=58048.8.
+Congestion_index: Route_J10=2.7, Route_G7=1.7, Route_A1=3.5, Route_O15=3.1, Route_S19=4, Route_I9=1.7, Route_K11=2.3.
+Road_condition_score: Route_J10=85.4, Route_G7=52, Route_A1=68.8, Route_O15=41.9, Route_S19=82, Route_I9=88.6, Route_K11=91.2.
+Avg_speed_kmh: Route_J10=66.8, Route_G7=71.5, Route_A1=58.8, Route_O15=49.1, Route_S19=74.7, Route_I9=21.5, Route_K11=19.7.

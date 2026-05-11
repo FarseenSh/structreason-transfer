@@ -1,0 +1,20 @@
+The following 20 values represent Transit_ridership for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[175897, 65366.5, 44052.8, 21547.4, 104748.6, 92893.8, 151505.9, 95597.5, 72044.1, 56022.7, 59238.6, 185930.3, 37190.3, 197694.4, 68749.3, 22236.1, 53494.6, 16390.8, 159055.8, 104947.8]
+
+The following 20 values represent Accidents_monthly for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[16.5, 30.5, 29.1, 42.4, 43.3, 31.3, 37.2, 36.1, 23.1, 32.3, 5.4, 34.6, 43.4, 5.7, 38, 42.1, 11.7, 24.6, 41.9, 43.3]
+
+The following 20 values represent Daily_vehicles for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[16509.4, 36410.4, 67833, 24940.3, 34229.4, 7096.2, 18817, 55609.7, 63778.1, 63402.1, 75052.4, 42375.3, 29614.2, 6402.3, 23596.7, 33114.9, 21038.6, 6813, 19170.3, 64949]
+
+The following 20 values represent Road_condition_score for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[76.5, 94.3, 86.3, 72.9, 48, 72.7, 43.6, 65, 62.6, 64.8, 56.2, 79.8, 88.8, 84.6, 76.4, 71.2, 41.8, 81.9, 71.6, 55.7]
+
+The following 20 values represent Bus_passengers for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[17064.3, 46844.7, 31593.8, 24319.7, 31425.2, 21273.4, 24038.9, 15225.2, 22552.8, 34594, 2957.2, 39956.3, 14866, 34445.4, 32493.5, 32978.8, 30798.3, 47996, 25908.9, 36883.6]
+
+The following 20 values represent Peak_hour_flow for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[21752.6, 8615.5, 9932.6, 13872.5, 9775.5, 12268.8, 12946.9, 18908.2, 8156.9, 24520.2, 14251, 21774.8, 4280.4, 15159, 2790.1, 20925.5, 11623.9, 28579.1, 11075.5, 17786.6]
+
+The following 20 values represent Avg_speed_kmh for each Entity (Route_E5, Route_C3, Route_M13, Route_A1, Route_S19, Route_Q17, Route_N14, Route_G7, Route_O15, Route_P16, Route_H8, Route_F6, Route_B2, Route_R18, Route_K11, Route_I9, Route_T20, Route_L12, Route_D4, Route_J10), listed in order:
+[31.7, 55.3, 45.4, 39.1, 28.2, 22.2, 22.8, 79.9, 41.8, 15.1, 76.9, 16.3, 42.2, 61.6, 74.4, 61.3, 45.1, 78.3, 17.6, 79.1]

@@ -1,0 +1,11 @@
+The following 10 values represent SO2_ppb for each Entity (Station_NW10, Station_E17, Station_R19, Station_U20, Station_N15, Station_S16, Station_NW1, Station_W9, Station_SE3, Station_SE12), listed in order:
+[1.6, 2.2, 22.7, 22.2, 20.4, 5.8, 13.6, 20.1, 17.2, 3.8]
+
+The following 10 values represent PM10_ug_m3 for each Entity (Station_NW10, Station_E17, Station_R19, Station_U20, Station_N15, Station_S16, Station_NW1, Station_W9, Station_SE3, Station_SE12), listed in order:
+[108.3, 26, 27.2, 108.9, 62.3, 49.8, 70, 117.9, 21.4, 92.8]
+
+The following 10 values represent CO_ppm for each Entity (Station_NW10, Station_E17, Station_R19, Station_U20, Station_N15, Station_S16, Station_NW1, Station_W9, Station_SE3, Station_SE12), listed in order:
+[1.6, 0.7, 2, 2.6, 1.1, 1.9, 2.9, 2.7, 3.3, 3.8]
+
+The following 10 values represent O3_ppb for each Entity (Station_NW10, Station_E17, Station_R19, Station_U20, Station_N15, Station_S16, Station_NW1, Station_W9, Station_SE3, Station_SE12), listed in order:
+[43.6, 44.6, 49.8, 54.6, 22.6, 36.9, 27, 42, 83.1, 55.8]

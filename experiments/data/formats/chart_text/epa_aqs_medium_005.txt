@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+O3_ppb: Station_U20=34.1, Station_NW10=34.5, Station_S16=79.7, Station_N15=20.3, Station_R19=47, Station_S7=63.2, Station_E8=77.2.
+NO2_ppb: Station_U20=8.7, Station_NW10=24.2, Station_S16=15, Station_N15=12, Station_R19=47.8, Station_S7=42, Station_E8=43.2.
+PM10_ug_m3: Station_U20=23.2, Station_NW10=76.1, Station_S16=104.9, Station_N15=35.6, Station_R19=95.5, Station_S7=36.7, Station_E8=100.4.
+PM25_ug_m3: Station_U20=34.4, Station_NW10=23.3, Station_S16=5.2, Station_N15=52.1, Station_R19=12.3, Station_S7=25.2, Station_E8=10.

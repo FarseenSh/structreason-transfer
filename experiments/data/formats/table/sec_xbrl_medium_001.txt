@@ -1,0 +1,12 @@
+| Entity | Operating_margin_pct | Debt_ratio | Net_income_M | EPS |
+|---|---|---|---|---|
+| CompanyB | 18.9 | 0.5 | -58.5 | 25 |
+| CompanyK | 6.6 | 0.8 | 577.9 | 19.5 |
+| CompanyO | -4.4 | 0.1 | -132 | 11.6 |
+| CompanyT | 29 | 0.6 | 1125.2 | 21.9 |
+| CompanyG | 11.1 | 0.7 | 1271.9 | 17.1 |
+| CompanyC | -2 | 0.7 | -177.3 | 5.9 |
+| CompanyL | 17.9 | 0.2 | 1177 | 4.1 |
+| CompanyH | 39 | 0.8 | 1468.1 | 11.8 |
+| CompanyN | 25.5 | 0.4 | -148.4 | 8.1 |
+| CompanyA | 2.1 | 0.1 | 1032.4 | 6.9 |

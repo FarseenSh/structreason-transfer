@@ -1,0 +1,230 @@
+{
+  "id": "qog_eu_large_003",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "Govt_expenditure_pct_GDP",
+    "Life_expectancy",
+    "Education_spending_pct",
+    "Gini_index",
+    "HDI",
+    "Unemployment_pct",
+    "Trust_in_govt_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Austria",
+      "Govt_expenditure_pct_GDP": 31.1,
+      "Life_expectancy": 83.9,
+      "Education_spending_pct": 5.1,
+      "Gini_index": 29.6,
+      "HDI": 0.8,
+      "Unemployment_pct": 8.8,
+      "Trust_in_govt_pct": 27.0
+    },
+    {
+      "Entity": "Netherlands",
+      "Govt_expenditure_pct_GDP": 42.9,
+      "Life_expectancy": 83.5,
+      "Education_spending_pct": 4.4,
+      "Gini_index": 29.1,
+      "HDI": 0.8,
+      "Unemployment_pct": 15.2,
+      "Trust_in_govt_pct": 54.1
+    },
+    {
+      "Entity": "Bulgaria",
+      "Govt_expenditure_pct_GDP": 44.6,
+      "Life_expectancy": 72.5,
+      "Education_spending_pct": 4.9,
+      "Gini_index": 29.7,
+      "HDI": 0.9,
+      "Unemployment_pct": 15.6,
+      "Trust_in_govt_pct": 15.4
+    },
+    {
+      "Entity": "Ireland",
+      "Govt_expenditure_pct_GDP": 36.0,
+      "Life_expectancy": 80.5,
+      "Education_spending_pct": 8.3,
+      "Gini_index": 24.5,
+      "HDI": 0.9,
+      "Unemployment_pct": 11.0,
+      "Trust_in_govt_pct": 76.8
+    },
+    {
+      "Entity": "Germany",
+      "Govt_expenditure_pct_GDP": 33.9,
+      "Life_expectancy": 75.6,
+      "Education_spending_pct": 4.0,
+      "Gini_index": 24.3,
+      "HDI": 0.9,
+      "Unemployment_pct": 7.0,
+      "Trust_in_govt_pct": 43.0
+    },
+    {
+      "Entity": "Czechia",
+      "Govt_expenditure_pct_GDP": 35.3,
+      "Life_expectancy": 82.8,
+      "Education_spending_pct": 7.8,
+      "Gini_index": 36.3,
+      "HDI": 0.9,
+      "Unemployment_pct": 16.6,
+      "Trust_in_govt_pct": 71.2
+    },
+    {
+      "Entity": "Spain",
+      "Govt_expenditure_pct_GDP": 39.6,
+      "Life_expectancy": 72.5,
+      "Education_spending_pct": 7.0,
+      "Gini_index": 30.6,
+      "HDI": 0.8,
+      "Unemployment_pct": 5.8,
+      "Trust_in_govt_pct": 43.4
+    },
+    {
+      "Entity": "Denmark",
+      "Govt_expenditure_pct_GDP": 32.7,
+      "Life_expectancy": 83.2,
+      "Education_spending_pct": 7.7,
+      "Gini_index": 38.8,
+      "HDI": 0.9,
+      "Unemployment_pct": 20.8,
+      "Trust_in_govt_pct": 16.0
+    },
+    {
+      "Entity": "Norway",
+      "Govt_expenditure_pct_GDP": 56.5,
+      "Life_expectancy": 82.0,
+      "Education_spending_pct": 8.4,
+      "Gini_index": 33.4,
+      "HDI": 0.9,
+      "Unemployment_pct": 6.2,
+      "Trust_in_govt_pct": 66.3
+    },
+    {
+      "Entity": "France",
+      "Govt_expenditure_pct_GDP": 41.3,
+      "Life_expectancy": 73.4,
+      "Education_spending_pct": 7.7,
+      "Gini_index": 23.6,
+      "HDI": 0.9,
+      "Unemployment_pct": 4.6,
+      "Trust_in_govt_pct": 54.8
+    },
+    {
+      "Entity": "Switzerland",
+      "Govt_expenditure_pct_GDP": 52.7,
+      "Life_expectancy": 72.7,
+      "Education_spending_pct": 8.2,
+      "Gini_index": 25.7,
+      "HDI": 0.9,
+      "Unemployment_pct": 12.2,
+      "Trust_in_govt_pct": 63.6
+    },
+    {
+      "Entity": "Portugal",
+      "Govt_expenditure_pct_GDP": 57.3,
+      "Life_expectancy": 82.0,
+      "Education_spending_pct": 4.1,
+      "Gini_index": 26.5,
+      "HDI": 0.8,
+      "Unemployment_pct": 12.6,
+      "Trust_in_govt_pct": 40.3
+    },
+    {
+      "Entity": "Belgium",
+      "Govt_expenditure_pct_GDP": 32.3,
+      "Life_expectancy": 73.9,
+      "Education_spending_pct": 7.5,
+      "Gini_index": 39.6,
+      "HDI": 0.8,
+      "Unemployment_pct": 12.4,
+      "Trust_in_govt_pct": 54.1
+    },
+    {
+      "Entity": "Poland",
+      "Govt_expenditure_pct_GDP": 48.2,
+      "Life_expectancy": 78.4,
+      "Education_spending_pct": 6.2,
+      "Gini_index": 26.7,
+      "HDI": 0.8,
+      "Unemployment_pct": 11.0,
+      "Trust_in_govt_pct": 68.5
+    },
+    {
+      "Entity": "Finland",
+      "Govt_expenditure_pct_GDP": 54.4,
+      "Life_expectancy": 83.0,
+      "Education_spending_pct": 6.2,
+      "Gini_index": 31.8,
+      "HDI": 0.8,
+      "Unemployment_pct": 21.9,
+      "Trust_in_govt_pct": 53.7
+    },
+    {
+      "Entity": "Italy",
+      "Govt_expenditure_pct_GDP": 47.8,
+      "Life_expectancy": 78.8,
+      "Education_spending_pct": 8.0,
+      "Gini_index": 38.9,
+      "HDI": 0.9,
+      "Unemployment_pct": 12.0,
+      "Trust_in_govt_pct": 34.9
+    },
+    {
+      "Entity": "Hungary",
+      "Govt_expenditure_pct_GDP": 42.0,
+      "Life_expectancy": 76.8,
+      "Education_spending_pct": 8.4,
+      "Gini_index": 39.6,
+      "HDI": 0.8,
+      "Unemployment_pct": 11.8,
+      "Trust_in_govt_pct": 55.7
+    },
+    {
+      "Entity": "Greece",
+      "Govt_expenditure_pct_GDP": 42.1,
+      "Life_expectancy": 77.3,
+      "Education_spending_pct": 7.0,
+      "Gini_index": 27.0,
+      "HDI": 0.9,
+      "Unemployment_pct": 10.7,
+      "Trust_in_govt_pct": 56.3
+    },
+    {
+      "Entity": "Romania",
+      "Govt_expenditure_pct_GDP": 31.0,
+      "Life_expectancy": 72.8,
+      "Education_spending_pct": 5.9,
+      "Gini_index": 23.8,
+      "HDI": 0.9,
+      "Unemployment_pct": 3.8,
+      "Trust_in_govt_pct": 75.4
+    },
+    {
+      "Entity": "Sweden",
+      "Govt_expenditure_pct_GDP": 45.0,
+      "Life_expectancy": 83.6,
+      "Education_spending_pct": 5.8,
+      "Gini_index": 25.6,
+      "HDI": 0.8,
+      "Unemployment_pct": 14.1,
+      "Trust_in_govt_pct": 36.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Govt_expenditure_pct_GDP",
+    "Life_expectancy",
+    "Education_spending_pct",
+    "Gini_index",
+    "HDI",
+    "Unemployment_pct",
+    "Trust_in_govt_pct"
+  ]
+}

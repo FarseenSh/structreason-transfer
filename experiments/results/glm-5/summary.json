@@ -1,0 +1,25 @@
+{
+  "model_id": "z-ai/glm-5",
+  "model_name": "GLM-5",
+  "vision": false,
+  "total_calls": 6896,
+  "errors": 0,
+  "elapsed_seconds": 2861.6,
+  "total_input_tokens": 3844711,
+  "total_output_tokens": 5731371,
+  "accuracy_by_format": {
+    "table": 0.8881,
+    "chart_text": 0.8126,
+    "graph": 0.8892,
+    "timeseries": 0.8875
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.978,
+    "Q2_comparison": 0.956,
+    "Q3_aggregation": 0.783,
+    "Q4_trend": 0.996,
+    "Q5_extremum": 0.941,
+    "Q6_multi_hop": 0.9766,
+    "Q7_conditional_aggregation": 0.466
+  }
+}

@@ -1,0 +1,11 @@
+The following 10 values represent Trust_in_govt_pct for each Entity (Portugal, Bulgaria, Germany, Poland, Romania, Austria, Italy, Greece, Ireland, Norway), listed in order:
+[67.7, 54.1, 54.8, 56.2, 62.4, 15.8, 36.2, 47.6, 34.3, 67.7]
+
+The following 10 values represent Unemployment_pct for each Entity (Portugal, Bulgaria, Germany, Poland, Romania, Austria, Italy, Greece, Ireland, Norway), listed in order:
+[11.9, 17.5, 19.1, 12.3, 20.2, 13.9, 19.1, 9.1, 12.2, 12.9]
+
+The following 10 values represent Life_expectancy for each Entity (Portugal, Bulgaria, Germany, Poland, Romania, Austria, Italy, Greece, Ireland, Norway), listed in order:
+[73.3, 76.8, 83, 79.6, 74.1, 76.1, 74.3, 72.3, 83.1, 77.4]
+
+The following 10 values represent GDP_per_capita for each Entity (Portugal, Bulgaria, Germany, Poland, Romania, Austria, Italy, Greece, Ireland, Norway), listed in order:
+[36527.5, 56893.4, 15512, 34461.5, 64212.3, 59363.9, 83726.4, 58425, 48425.4, 68300.3]

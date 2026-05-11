@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Switzerland: {Education_spending_pct=4.7, Unemployment_pct=8.9, Govt_expenditure_pct_GDP=49.5, Trust_in_govt_pct=64.9}
+  Portugal: {Education_spending_pct=5.3, Unemployment_pct=12.9, Govt_expenditure_pct_GDP=54.1, Trust_in_govt_pct=51.2}
+  Spain: {Education_spending_pct=5.3, Unemployment_pct=19, Govt_expenditure_pct_GDP=33.7, Trust_in_govt_pct=63.7}
+  Denmark: {Education_spending_pct=5.1, Unemployment_pct=15.2, Govt_expenditure_pct_GDP=47.2, Trust_in_govt_pct=64.5}
+  Greece: {Education_spending_pct=5.4, Unemployment_pct=18.2, Govt_expenditure_pct_GDP=32.7, Trust_in_govt_pct=74.4}
+  Sweden: {Education_spending_pct=6.9, Unemployment_pct=12.9, Govt_expenditure_pct_GDP=50.3, Trust_in_govt_pct=28.7}
+  Bulgaria: {Education_spending_pct=5, Unemployment_pct=14.8, Govt_expenditure_pct_GDP=32.4, Trust_in_govt_pct=50.9}
+  Netherlands: {Education_spending_pct=8.2, Unemployment_pct=8.1, Govt_expenditure_pct_GDP=56.2, Trust_in_govt_pct=18.3}
+  Czechia: {Education_spending_pct=8.1, Unemployment_pct=16.8, Govt_expenditure_pct_GDP=33.8, Trust_in_govt_pct=52.7}
+  Italy: {Education_spending_pct=5.9, Unemployment_pct=6.4, Govt_expenditure_pct_GDP=56.8, Trust_in_govt_pct=23.3}
+
+Edges (top 5 by metric similarity):
+  Bulgaria -- Czechia (sim=1.00, similar Govt_expenditure_pct_GDP)
+  Spain -- Greece (sim=1.00, similar Education_spending_pct)
+  Spain -- Bulgaria (sim=1.00, similar Education_spending_pct)
+  Switzerland -- Denmark (sim=1.00, similar Education_spending_pct)
+  Denmark -- Bulgaria (sim=1.00, similar Education_spending_pct)

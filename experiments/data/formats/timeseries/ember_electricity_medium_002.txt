@@ -1,0 +1,11 @@
+The following 10 values represent Solar_GWh for each Entity (Italy, Romania, Hungary, Portugal, Belgium, Denmark, Netherlands, Finland, France, UK), listed in order:
+[5638, 1514.3, 4029.9, 1000, 4311.1, 166.9, 3969.9, 1063, 1163.9, 3397.6]
+
+The following 10 values represent CO2_Mt for each Entity (Italy, Romania, Hungary, Portugal, Belgium, Denmark, Netherlands, Finland, France, UK), listed in order:
+[30.7, 38.2, 25.4, 76.3, 24, 43.8, 68.5, 53.5, 26.5, 44.6]
+
+The following 10 values represent Total_GWh for each Entity (Italy, Romania, Hungary, Portugal, Belgium, Denmark, Netherlands, Finland, France, UK), listed in order:
+[5983.6, 28192.9, 22706.7, 38380.8, 42699.3, 11581.6, 5913.7, 20746.7, 27639.2, 20086.5]
+
+The following 10 values represent Gas_GWh for each Entity (Italy, Romania, Hungary, Portugal, Belgium, Denmark, Netherlands, Finland, France, UK), listed in order:
+[6397, 5204.8, 9385.3, 4271.1, 1100.2, 3228.8, 6177.2, 2783.4, 2909.2, 3593.9]

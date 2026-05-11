@@ -1,0 +1,3 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Life_expectancy: Sweden=81.4, Finland=80, Portugal=80.5, Italy=81.4, Greece=77.5.
+Education_spending_pct: Sweden=6.3, Finland=4.2, Portugal=4.1, Italy=6.8, Greece=5.9.

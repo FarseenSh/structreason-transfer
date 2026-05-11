@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_003",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "GDP_per_capita",
+    "Trust_in_govt_pct",
+    "Govt_expenditure_pct_GDP",
+    "Education_spending_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Greece",
+      "GDP_per_capita": 26032.8,
+      "Trust_in_govt_pct": 36.8,
+      "Govt_expenditure_pct_GDP": 30.3,
+      "Education_spending_pct": 8.5
+    },
+    {
+      "Entity": "Austria",
+      "GDP_per_capita": 25344.8,
+      "Trust_in_govt_pct": 77.1,
+      "Govt_expenditure_pct_GDP": 42.7,
+      "Education_spending_pct": 7.9
+    },
+    {
+      "Entity": "Germany",
+      "GDP_per_capita": 80528.9,
+      "Trust_in_govt_pct": 59.4,
+      "Govt_expenditure_pct_GDP": 53.1,
+      "Education_spending_pct": 4.9
+    },
+    {
+      "Entity": "Poland",
+      "GDP_per_capita": 45653.3,
+      "Trust_in_govt_pct": 74.8,
+      "Govt_expenditure_pct_GDP": 38.3,
+      "Education_spending_pct": 7.7
+    },
+    {
+      "Entity": "Sweden",
+      "GDP_per_capita": 41832.4,
+      "Trust_in_govt_pct": 19.8,
+      "Govt_expenditure_pct_GDP": 42.8,
+      "Education_spending_pct": 4.0
+    },
+    {
+      "Entity": "Belgium",
+      "GDP_per_capita": 66078.0,
+      "Trust_in_govt_pct": 68.1,
+      "Govt_expenditure_pct_GDP": 42.4,
+      "Education_spending_pct": 8.5
+    },
+    {
+      "Entity": "Denmark",
+      "GDP_per_capita": 53709.5,
+      "Trust_in_govt_pct": 54.0,
+      "Govt_expenditure_pct_GDP": 38.5,
+      "Education_spending_pct": 6.8
+    },
+    {
+      "Entity": "Czechia",
+      "GDP_per_capita": 80529.8,
+      "Trust_in_govt_pct": 20.0,
+      "Govt_expenditure_pct_GDP": 55.7,
+      "Education_spending_pct": 6.8
+    },
+    {
+      "Entity": "Switzerland",
+      "GDP_per_capita": 69621.1,
+      "Trust_in_govt_pct": 50.8,
+      "Govt_expenditure_pct_GDP": 51.9,
+      "Education_spending_pct": 4.0
+    },
+    {
+      "Entity": "Spain",
+      "GDP_per_capita": 48555.9,
+      "Trust_in_govt_pct": 57.3,
+      "Govt_expenditure_pct_GDP": 33.1,
+      "Education_spending_pct": 8.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "GDP_per_capita",
+    "Trust_in_govt_pct",
+    "Govt_expenditure_pct_GDP",
+    "Education_spending_pct"
+  ]
+}

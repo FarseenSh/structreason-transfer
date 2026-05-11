@@ -1,0 +1,20 @@
+The following 20 values represent Trust_in_govt_pct for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[15.6, 50.4, 13.4, 68, 22.3, 52, 41.3, 41.2, 16.7, 65, 70.9, 12.7, 23.8, 71.7, 48.3, 21.9, 25.4, 55.6, 59.8, 51.6]
+
+The following 20 values represent GDP_per_capita for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[81720.4, 49584.5, 36019, 48406.3, 40176.6, 30709.1, 18217.4, 39654.9, 64798.7, 16290.6, 45742.5, 60080.7, 57728.3, 69365.4, 71736.4, 64819.4, 22195.8, 48251.6, 57238.4, 32189.6]
+
+The following 20 values represent HDI for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[0.8, 0.8, 0.8, 0.8, 0.8, 0.9, 0.9, 0.8, 0.9, 0.8, 0.9, 0.9, 0.8, 0.9, 1, 0.9, 1, 0.9, 0.8, 0.9]
+
+The following 20 values represent Govt_expenditure_pct_GDP for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[47.2, 47.2, 41.7, 46, 34.3, 50.7, 32.1, 50.4, 53.8, 43.2, 44.3, 38.7, 57.1, 50.5, 40.3, 34.9, 36.1, 43, 56.4, 50.6]
+
+The following 20 values represent Gini_index for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[26.7, 37.6, 29.4, 37.5, 27.1, 33.5, 38.8, 27.4, 34.8, 39.8, 25.6, 24.5, 34.5, 28.8, 24.2, 31.1, 35.8, 27.8, 28.7, 37.4]
+
+The following 20 values represent Education_spending_pct for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[6.1, 7.7, 5.7, 8.3, 6.8, 4.1, 7.9, 5.9, 4.2, 4.3, 6.9, 3.7, 4.9, 4.2, 5.7, 5.6, 6.1, 4.9, 3.7, 6.6]
+
+The following 20 values represent Unemployment_pct for each Entity (Romania, Finland, Greece, Austria, Denmark, Sweden, Bulgaria, Netherlands, Spain, Switzerland, Ireland, Portugal, Hungary, Italy, Norway, Belgium, Poland, France, Germany, Czechia), listed in order:
+[9.8, 15.2, 4.6, 2.8, 7.3, 11.4, 10.2, 18.3, 9.9, 12.8, 14.1, 2.9, 12.5, 9.2, 10.7, 4.5, 17.8, 20.9, 2.9, 14.2]

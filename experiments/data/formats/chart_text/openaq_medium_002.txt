@@ -1,0 +1,5 @@
+Bar chart: "OpenAQ — Air Quality".
+SO2_ppb: Station_S16=15.6, Station_W9=10.4, Station_NE11=22.4, Station_S7=4.4, Station_NW1=17, Station_SE3=19.8, Station_N15=6.5.
+PM25_ug_m3: Station_S16=57.7, Station_W9=40.8, Station_NE11=7.2, Station_S7=25.1, Station_NW1=38.8, Station_SE3=9.1, Station_N15=44.3.
+CO_ppm: Station_S16=1.8, Station_W9=2.4, Station_NE11=3.9, Station_S7=2.8, Station_NW1=4.3, Station_SE3=3.1, Station_N15=3.
+O3_ppb: Station_S16=82.3, Station_W9=16.6, Station_NE11=26, Station_S7=72.2, Station_NW1=80.6, Station_SE3=61.9, Station_N15=50.7.

@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Bus_passengers: Route_A1=46812.9, Route_P16=19885.3, Route_G7=4681.8, Route_B2=37251.7, Route_K11=42483.3, Route_T20=29403.6, Route_M13=18311.2.
+Transit_ridership: Route_A1=137499.6, Route_P16=155227.1, Route_G7=101030.3, Route_B2=16954.3, Route_K11=28209.7, Route_T20=52729.2, Route_M13=147550.8.
+Congestion_index: Route_A1=1.7, Route_P16=1.7, Route_G7=4.1, Route_B2=3.5, Route_K11=1.2, Route_T20=3, Route_M13=3.1.
+Accidents_monthly: Route_A1=20.7, Route_P16=41.7, Route_G7=31.2, Route_B2=4.3, Route_K11=44.2, Route_T20=33.8, Route_M13=11.5.

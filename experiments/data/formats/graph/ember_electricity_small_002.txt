@@ -1,0 +1,13 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  UK: {Total_GWh=24022.4, CO2_Mt=14.4}
+  Greece: {Total_GWh=11702.5, CO2_Mt=4.7}
+  Portugal: {Total_GWh=36626.8, CO2_Mt=12.3}
+  Ireland: {Total_GWh=6944.3, CO2_Mt=69.7}
+  Czechia: {Total_GWh=26348.1, CO2_Mt=14.9}
+
+Edges (top 3 by metric similarity):
+  UK -- Czechia (sim=1.00, similar CO2_Mt)
+  Greece -- Portugal (sim=1.00, similar CO2_Mt)
+  Greece -- Czechia (sim=1.00, similar CO2_Mt)

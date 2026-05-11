@@ -1,0 +1,20 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_SW4: {NO2_ppb=28.5, O3_ppb=33.2, Temperature_C=2.7, SO2_ppb=10.9}
+  Station_NW1: {NO2_ppb=27.6, O3_ppb=26.4, Temperature_C=26.2, SO2_ppb=21.8}
+  Station_SE12: {NO2_ppb=34.5, O3_ppb=25.8, Temperature_C=35.3, SO2_ppb=13.2}
+  Station_R19: {NO2_ppb=7.8, O3_ppb=66, Temperature_C=20.8, SO2_ppb=13.4}
+  Station_E17: {NO2_ppb=21.4, O3_ppb=60, Temperature_C=3.4, SO2_ppb=1.1}
+  Station_S7: {NO2_ppb=59.3, O3_ppb=19.9, Temperature_C=24.2, SO2_ppb=16.3}
+  Station_W9: {NO2_ppb=41.4, O3_ppb=23.1, Temperature_C=9.8, SO2_ppb=3.6}
+  Station_SE3: {NO2_ppb=28, O3_ppb=59.4, Temperature_C=-2.9, SO2_ppb=12.5}
+  Station_C5: {NO2_ppb=17.2, O3_ppb=55, Temperature_C=8, SO2_ppb=7.2}
+  Station_NW10: {NO2_ppb=46, O3_ppb=63, Temperature_C=33.9, SO2_ppb=10.4}
+
+Edges (top 5 by metric similarity):
+  Station_E17 -- Station_C5 (sim=0.99, similar NO2_ppb)
+  Station_E17 -- Station_SE3 (sim=0.98, similar O3_ppb)
+  Station_SE3 -- Station_C5 (sim=0.97, similar O3_ppb)
+  Station_NW1 -- Station_SE12 (sim=0.97, similar O3_ppb)
+  Station_R19 -- Station_C5 (sim=0.97, similar SO2_ppb)

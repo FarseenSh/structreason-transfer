@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "ember_electricity_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 899,
+      "chart_text": 979,
+      "graph": 1472,
+      "timeseries": 1203
+    }
+  },
+  {
+    "id": "ember_electricity_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 891,
+      "chart_text": 971,
+      "graph": 1493,
+      "timeseries": 1195
+    }
+  },
+  {
+    "id": "ember_electricity_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 902,
+      "chart_text": 981,
+      "graph": 1524,
+      "timeseries": 1199
+    }
+  },
+  {
+    "id": "ember_electricity_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 895,
+      "chart_text": 974,
+      "graph": 1498,
+      "timeseries": 1199
+    }
+  },
+  {
+    "id": "ember_electricity_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 892,
+      "chart_text": 972,
+      "graph": 1495,
+      "timeseries": 1196
+    }
+  },
+  {
+    "id": "ember_electricity_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 899,
+      "chart_text": 979,
+      "graph": 1502,
+      "timeseries": 1196
+    }
+  },
+  {
+    "id": "ember_electricity_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 902,
+      "chart_text": 982,
+      "graph": 1524,
+      "timeseries": 1199
+    }
+  },
+  {
+    "id": "ember_electricity_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 290,
+      "chart_text": 303,
+      "graph": 501,
+      "timeseries": 385
+    }
+  },
+  {
+    "id": "ember_electricity_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 269,
+      "chart_text": 278,
+      "graph": 484,
+      "timeseries": 361
+    }
+  },
+  {
+    "id": "ember_electricity_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 280,
+      "chart_text": 288,
+      "graph": 495,
+      "timeseries": 368
+    }
+  },
+  {
+    "id": "ember_electricity_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 287,
+      "graph": 492,
+      "timeseries": 369
+    }
+  },
+  {
+    "id": "ember_electricity_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 291,
+      "chart_text": 302,
+      "graph": 493,
+      "timeseries": 382
+    }
+  },
+  {
+    "id": "ember_electricity_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 289,
+      "chart_text": 300,
+      "graph": 490,
+      "timeseries": 380
+    }
+  },
+  {
+    "id": "ember_electricity_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 275,
+      "chart_text": 284,
+      "graph": 490,
+      "timeseries": 363
+    }
+  },
+  {
+    "id": "ember_electricity_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 285,
+      "chart_text": 297,
+      "graph": 497,
+      "timeseries": 380
+    }
+  },
+  {
+    "id": "ember_electricity_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 291,
+      "chart_text": 303,
+      "graph": 502,
+      "timeseries": 386
+    }
+  },
+  {
+    "id": "ember_electricity_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 281,
+      "chart_text": 293,
+      "graph": 482,
+      "timeseries": 376
+    }
+  },
+  {
+    "id": "ember_electricity_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 89,
+      "graph": 176,
+      "timeseries": 114
+    }
+  },
+  {
+    "id": "ember_electricity_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 84,
+      "chart_text": 82,
+      "graph": 177,
+      "timeseries": 107
+    }
+  },
+  {
+    "id": "ember_electricity_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 88,
+      "graph": 185,
+      "timeseries": 112
+    }
+  },
+  {
+    "id": "ember_electricity_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 89,
+      "chart_text": 86,
+      "graph": 182,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "ember_electricity_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 84,
+      "graph": 180,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "ember_electricity_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 89,
+      "graph": 176,
+      "timeseries": 112
+    }
+  },
+  {
+    "id": "ember_electricity_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 86,
+      "graph": 178,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "ember_electricity_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 84,
+      "graph": 180,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "epa_aqs_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 836,
+      "chart_text": 885,
+      "graph": 1530,
+      "timeseries": 1379
+    }
+  },
+  {
+    "id": "epa_aqs_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 830,
+      "chart_text": 878,
+      "graph": 1561,
+      "timeseries": 1373
+    }
+  },
+  {
+    "id": "epa_aqs_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 818,
+      "chart_text": 867,
+      "graph": 1548,
+      "timeseries": 1361
+    }
+  },
+  {
+    "id": "epa_aqs_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 830,
+      "chart_text": 881,
+      "graph": 1569,
+      "timeseries": 1373
+    }
+  },
+  {
+    "id": "epa_aqs_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 828,
+      "chart_text": 883,
+      "graph": 1594,
+      "timeseries": 1371
+    }
+  },
+  {
+    "id": "epa_aqs_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 827,
+      "chart_text": 876,
+      "graph": 1591,
+      "timeseries": 1370
+    }
+  },
+  {
+    "id": "epa_aqs_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 828,
+      "chart_text": 883,
+      "graph": 1598,
+      "timeseries": 1371
+    }
+  },
+  {
+    "id": "epa_aqs_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 258,
+      "graph": 546,
+      "timeseries": 431
+    }
+  },
+  {
+    "id": "epa_aqs_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 270,
+      "chart_text": 249,
+      "graph": 492,
+      "timeseries": 418
+    }
+  },
+  {
+    "id": "epa_aqs_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 275,
+      "chart_text": 253,
+      "graph": 542,
+      "timeseries": 426
+    }
+  },
+  {
+    "id": "epa_aqs_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 248,
+      "graph": 491,
+      "timeseries": 431
+    }
+  },
+  {
+    "id": "epa_aqs_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 270,
+      "chart_text": 253,
+      "graph": 515,
+      "timeseries": 424
+    }
+  },
+  {
+    "id": "epa_aqs_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 255,
+      "graph": 581,
+      "timeseries": 430
+    }
+  },
+  {
+    "id": "epa_aqs_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 256,
+      "graph": 523,
+      "timeseries": 427
+    }
+  },
+  {
+    "id": "epa_aqs_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 274,
+      "chart_text": 251,
+      "graph": 518,
+      "timeseries": 422
+    }
+  },
+  {
+    "id": "epa_aqs_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 279,
+      "chart_text": 259,
+      "graph": 581,
+      "timeseries": 430
+    }
+  },
+  {
+    "id": "epa_aqs_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 253,
+      "graph": 513,
+      "timeseries": 430
+    }
+  },
+  {
+    "id": "epa_aqs_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 99,
+      "graph": 193,
+      "timeseries": 122
+    }
+  },
+  {
+    "id": "epa_aqs_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 103,
+      "graph": 194,
+      "timeseries": 126
+    }
+  },
+  {
+    "id": "epa_aqs_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 98,
+      "graph": 192,
+      "timeseries": 121
+    }
+  },
+  {
+    "id": "epa_aqs_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 95,
+      "chart_text": 103,
+      "graph": 202,
+      "timeseries": 126
+    }
+  },
+  {
+    "id": "epa_aqs_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 96,
+      "chart_text": 105,
+      "graph": 214,
+      "timeseries": 128
+    }
+  },
+  {
+    "id": "epa_aqs_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 94,
+      "chart_text": 102,
+      "graph": 196,
+      "timeseries": 125
+    }
+  },
+  {
+    "id": "epa_aqs_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 102,
+      "graph": 195,
+      "timeseries": 125
+    }
+  },
+  {
+    "id": "epa_aqs_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 89,
+      "chart_text": 97,
+      "graph": 196,
+      "timeseries": 120
+    }
+  },
+  {
+    "id": "faostat_crops_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 824,
+      "chart_text": 899,
+      "graph": 1873,
+      "timeseries": 1122
+    }
+  },
+  {
+    "id": "faostat_crops_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 785,
+      "chart_text": 861,
+      "graph": 1739,
+      "timeseries": 1076
+    }
+  },
+  {
+    "id": "faostat_crops_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 824,
+      "chart_text": 899,
+      "graph": 1777,
+      "timeseries": 1115
+    }
+  },
+  {
+    "id": "faostat_crops_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 812,
+      "chart_text": 888,
+      "graph": 1843,
+      "timeseries": 1103
+    }
+  },
+  {
+    "id": "faostat_crops_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 823,
+      "chart_text": 898,
+      "graph": 1850,
+      "timeseries": 1114
+    }
+  },
+  {
+    "id": "faostat_crops_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 804,
+      "chart_text": 880,
+      "graph": 1759,
+      "timeseries": 1095
+    }
+  },
+  {
+    "id": "faostat_crops_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 815,
+      "chart_text": 891,
+      "graph": 1765,
+      "timeseries": 1113
+    }
+  },
+  {
+    "id": "faostat_crops_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 265,
+      "chart_text": 275,
+      "graph": 594,
+      "timeseries": 353
+    }
+  },
+  {
+    "id": "faostat_crops_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 274,
+      "chart_text": 284,
+      "graph": 591,
+      "timeseries": 366
+    }
+  },
+  {
+    "id": "faostat_crops_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 254,
+      "chart_text": 264,
+      "graph": 532,
+      "timeseries": 342
+    }
+  },
+  {
+    "id": "faostat_crops_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 261,
+      "chart_text": 271,
+      "graph": 589,
+      "timeseries": 349
+    }
+  },
+  {
+    "id": "faostat_crops_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 261,
+      "chart_text": 270,
+      "graph": 578,
+      "timeseries": 353
+    }
+  },
+  {
+    "id": "faostat_crops_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 286,
+      "graph": 590,
+      "timeseries": 369
+    }
+  },
+  {
+    "id": "faostat_crops_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 266,
+      "chart_text": 277,
+      "graph": 587,
+      "timeseries": 354
+    }
+  },
+  {
+    "id": "faostat_crops_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 280,
+      "chart_text": 290,
+      "graph": 623,
+      "timeseries": 368
+    }
+  },
+  {
+    "id": "faostat_crops_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 258,
+      "chart_text": 268,
+      "graph": 533,
+      "timeseries": 346
+    }
+  },
+  {
+    "id": "faostat_crops_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 285,
+      "graph": 652,
+      "timeseries": 364
+    }
+  },
+  {
+    "id": "faostat_crops_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 81,
+      "chart_text": 80,
+      "graph": 190,
+      "timeseries": 102
+    }
+  },
+  {
+    "id": "faostat_crops_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 84,
+      "graph": 190,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "faostat_crops_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 80,
+      "chart_text": 79,
+      "graph": 196,
+      "timeseries": 101
+    }
+  },
+  {
+    "id": "faostat_crops_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 86,
+      "chart_text": 84,
+      "graph": 187,
+      "timeseries": 107
+    }
+  },
+  {
+    "id": "faostat_crops_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 80,
+      "chart_text": 78,
+      "graph": 165,
+      "timeseries": 103
+    }
+  },
+  {
+    "id": "faostat_crops_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 90,
+      "graph": 224,
+      "timeseries": 114
+    }
+  },
+  {
+    "id": "faostat_crops_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 88,
+      "graph": 214,
+      "timeseries": 111
+    }
+  },
+  {
+    "id": "faostat_crops_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 96,
+      "chart_text": 93,
+      "graph": 227,
+      "timeseries": 117
+    }
+  },
+  {
+    "id": "hk_traffic_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 892,
+      "chart_text": 907,
+      "graph": 1542,
+      "timeseries": 1423
+    }
+  },
+  {
+    "id": "hk_traffic_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 897,
+      "chart_text": 916,
+      "graph": 1575,
+      "timeseries": 1428
+    }
+  },
+  {
+    "id": "hk_traffic_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 881,
+      "chart_text": 903,
+      "graph": 1552,
+      "timeseries": 1412
+    }
+  },
+  {
+    "id": "hk_traffic_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 905,
+      "chart_text": 926,
+      "graph": 1579,
+      "timeseries": 1436
+    }
+  },
+  {
+    "id": "hk_traffic_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 883,
+      "chart_text": 905,
+      "graph": 1552,
+      "timeseries": 1414
+    }
+  },
+  {
+    "id": "hk_traffic_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 905,
+      "chart_text": 918,
+      "graph": 1599,
+      "timeseries": 1436
+    }
+  },
+  {
+    "id": "hk_traffic_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 880,
+      "chart_text": 903,
+      "graph": 1531,
+      "timeseries": 1411
+    }
+  },
+  {
+    "id": "hk_traffic_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 275,
+      "chart_text": 250,
+      "graph": 504,
+      "timeseries": 423
+    }
+  },
+  {
+    "id": "hk_traffic_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 301,
+      "chart_text": 265,
+      "graph": 530,
+      "timeseries": 449
+    }
+  },
+  {
+    "id": "hk_traffic_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 308,
+      "chart_text": 272,
+      "graph": 551,
+      "timeseries": 456
+    }
+  },
+  {
+    "id": "hk_traffic_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 298,
+      "chart_text": 262,
+      "graph": 541,
+      "timeseries": 446
+    }
+  },
+  {
+    "id": "hk_traffic_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 298,
+      "chart_text": 262,
+      "graph": 541,
+      "timeseries": 446
+    }
+  },
+  {
+    "id": "hk_traffic_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 297,
+      "chart_text": 266,
+      "graph": 549,
+      "timeseries": 445
+    }
+  },
+  {
+    "id": "hk_traffic_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 297,
+      "chart_text": 261,
+      "graph": 528,
+      "timeseries": 445
+    }
+  },
+  {
+    "id": "hk_traffic_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 289,
+      "chart_text": 253,
+      "graph": 522,
+      "timeseries": 437
+    }
+  },
+  {
+    "id": "hk_traffic_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 282,
+      "chart_text": 250,
+      "graph": 530,
+      "timeseries": 430
+    }
+  },
+  {
+    "id": "hk_traffic_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 298,
+      "chart_text": 265,
+      "graph": 536,
+      "timeseries": 446
+    }
+  },
+  {
+    "id": "hk_traffic_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 98,
+      "chart_text": 104,
+      "graph": 206,
+      "timeseries": 129
+    }
+  },
+  {
+    "id": "hk_traffic_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 103,
+      "chart_text": 108,
+      "graph": 200,
+      "timeseries": 134
+    }
+  },
+  {
+    "id": "hk_traffic_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 95,
+      "graph": 187,
+      "timeseries": 121
+    }
+  },
+  {
+    "id": "hk_traffic_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 95,
+      "chart_text": 100,
+      "graph": 199,
+      "timeseries": 126
+    }
+  },
+  {
+    "id": "hk_traffic_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 97,
+      "chart_text": 102,
+      "graph": 201,
+      "timeseries": 128
+    }
+  },
+  {
+    "id": "hk_traffic_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 92,
+      "chart_text": 97,
+      "graph": 189,
+      "timeseries": 123
+    }
+  },
+  {
+    "id": "hk_traffic_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 97,
+      "chart_text": 103,
+      "graph": 198,
+      "timeseries": 128
+    }
+  },
+  {
+    "id": "hk_traffic_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 94,
+      "chart_text": 99,
+      "graph": 195,
+      "timeseries": 125
+    }
+  },
+  {
+    "id": "iizumi_crops_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 818,
+      "chart_text": 894,
+      "graph": 1792,
+      "timeseries": 1116
+    }
+  },
+  {
+    "id": "iizumi_crops_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 815,
+      "chart_text": 891,
+      "graph": 1866,
+      "timeseries": 1113
+    }
+  },
+  {
+    "id": "iizumi_crops_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 821,
+      "chart_text": 898,
+      "graph": 1776,
+      "timeseries": 1112
+    }
+  },
+  {
+    "id": "iizumi_crops_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 802,
+      "chart_text": 878,
+      "graph": 1752,
+      "timeseries": 1093
+    }
+  },
+  {
+    "id": "iizumi_crops_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 829,
+      "chart_text": 905,
+      "graph": 1780,
+      "timeseries": 1120
+    }
+  },
+  {
+    "id": "iizumi_crops_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 807,
+      "chart_text": 884,
+      "graph": 1760,
+      "timeseries": 1098
+    }
+  },
+  {
+    "id": "iizumi_crops_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 811,
+      "chart_text": 888,
+      "graph": 1763,
+      "timeseries": 1102
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 283,
+      "chart_text": 293,
+      "graph": 638,
+      "timeseries": 371
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 288,
+      "graph": 634,
+      "timeseries": 365
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 262,
+      "chart_text": 273,
+      "graph": 580,
+      "timeseries": 354
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 259,
+      "chart_text": 270,
+      "graph": 590,
+      "timeseries": 347
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 263,
+      "chart_text": 275,
+      "graph": 526,
+      "timeseries": 351
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 254,
+      "chart_text": 266,
+      "graph": 564,
+      "timeseries": 346
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 260,
+      "chart_text": 271,
+      "graph": 534,
+      "timeseries": 348
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 263,
+      "chart_text": 274,
+      "graph": 559,
+      "timeseries": 355
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 269,
+      "chart_text": 280,
+      "graph": 636,
+      "timeseries": 361
+    }
+  },
+  {
+    "id": "iizumi_crops_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 266,
+      "chart_text": 277,
+      "graph": 577,
+      "timeseries": 354
+    }
+  },
+  {
+    "id": "iizumi_crops_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 91,
+      "chart_text": 90,
+      "graph": 216,
+      "timeseries": 112
+    }
+  },
+  {
+    "id": "iizumi_crops_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 86,
+      "chart_text": 85,
+      "graph": 216,
+      "timeseries": 109
+    }
+  },
+  {
+    "id": "iizumi_crops_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 91,
+      "chart_text": 89,
+      "graph": 223,
+      "timeseries": 112
+    }
+  },
+  {
+    "id": "iizumi_crops_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 83,
+      "chart_text": 83,
+      "graph": 193,
+      "timeseries": 106
+    }
+  },
+  {
+    "id": "iizumi_crops_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 85,
+      "chart_text": 84,
+      "graph": 206,
+      "timeseries": 106
+    }
+  },
+  {
+    "id": "iizumi_crops_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 89,
+      "graph": 215,
+      "timeseries": 111
+    }
+  },
+  {
+    "id": "iizumi_crops_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 88,
+      "chart_text": 87,
+      "graph": 218,
+      "timeseries": 111
+    }
+  },
+  {
+    "id": "iizumi_crops_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 92,
+      "graph": 218,
+      "timeseries": 114
+    }
+  },
+  {
+    "id": "ntd_transit_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 885,
+      "chart_text": 895,
+      "graph": 1626,
+      "timeseries": 1410
+    }
+  },
+  {
+    "id": "ntd_transit_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 868,
+      "chart_text": 893,
+      "graph": 1581,
+      "timeseries": 1400
+    }
+  },
+  {
+    "id": "ntd_transit_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 888,
+      "chart_text": 921,
+      "graph": 1633,
+      "timeseries": 1413
+    }
+  },
+  {
+    "id": "ntd_transit_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 872,
+      "chart_text": 892,
+      "graph": 1627,
+      "timeseries": 1397
+    }
+  },
+  {
+    "id": "ntd_transit_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 863,
+      "chart_text": 888,
+      "graph": 1588,
+      "timeseries": 1388
+    }
+  },
+  {
+    "id": "ntd_transit_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 848,
+      "chart_text": 883,
+      "graph": 1586,
+      "timeseries": 1373
+    }
+  },
+  {
+    "id": "ntd_transit_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 860,
+      "chart_text": 876,
+      "graph": 1624,
+      "timeseries": 1392
+    }
+  },
+  {
+    "id": "ntd_transit_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 283,
+      "chart_text": 256,
+      "graph": 551,
+      "timeseries": 434
+    }
+  },
+  {
+    "id": "ntd_transit_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 287,
+      "chart_text": 257,
+      "graph": 527,
+      "timeseries": 439
+    }
+  },
+  {
+    "id": "ntd_transit_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 278,
+      "chart_text": 254,
+      "graph": 536,
+      "timeseries": 427
+    }
+  },
+  {
+    "id": "ntd_transit_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 293,
+      "chart_text": 261,
+      "graph": 575,
+      "timeseries": 435
+    }
+  },
+  {
+    "id": "ntd_transit_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 272,
+      "chart_text": 248,
+      "graph": 524,
+      "timeseries": 417
+    }
+  },
+  {
+    "id": "ntd_transit_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 297,
+      "chart_text": 266,
+      "graph": 537,
+      "timeseries": 448
+    }
+  },
+  {
+    "id": "ntd_transit_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 289,
+      "chart_text": 254,
+      "graph": 525,
+      "timeseries": 428
+    }
+  },
+  {
+    "id": "ntd_transit_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 288,
+      "chart_text": 260,
+      "graph": 536,
+      "timeseries": 433
+    }
+  },
+  {
+    "id": "ntd_transit_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 305,
+      "chart_text": 271,
+      "graph": 559,
+      "timeseries": 450
+    }
+  },
+  {
+    "id": "ntd_transit_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 294,
+      "chart_text": 262,
+      "graph": 544,
+      "timeseries": 442
+    }
+  },
+  {
+    "id": "ntd_transit_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 100,
+      "chart_text": 108,
+      "graph": 209,
+      "timeseries": 132
+    }
+  },
+  {
+    "id": "ntd_transit_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 101,
+      "chart_text": 107,
+      "graph": 206,
+      "timeseries": 132
+    }
+  },
+  {
+    "id": "ntd_transit_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 101,
+      "graph": 221,
+      "timeseries": 124
+    }
+  },
+  {
+    "id": "ntd_transit_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 99,
+      "graph": 216,
+      "timeseries": 123
+    }
+  },
+  {
+    "id": "ntd_transit_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 91,
+      "chart_text": 98,
+      "graph": 194,
+      "timeseries": 122
+    }
+  },
+  {
+    "id": "ntd_transit_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 96,
+      "chart_text": 103,
+      "graph": 220,
+      "timeseries": 127
+    }
+  },
+  {
+    "id": "ntd_transit_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 96,
+      "chart_text": 101,
+      "graph": 205,
+      "timeseries": 125
+    }
+  },
+  {
+    "id": "ntd_transit_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 97,
+      "chart_text": 101,
+      "graph": 200,
+      "timeseries": 126
+    }
+  },
+  {
+    "id": "openaq_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 828,
+      "chart_text": 878,
+      "graph": 1597,
+      "timeseries": 1371
+    }
+  },
+  {
+    "id": "openaq_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 818,
+      "chart_text": 865,
+      "graph": 1551,
+      "timeseries": 1361
+    }
+  },
+  {
+    "id": "openaq_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 812,
+      "chart_text": 868,
+      "graph": 1504,
+      "timeseries": 1355
+    }
+  },
+  {
+    "id": "openaq_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 822,
+      "chart_text": 874,
+      "graph": 1551,
+      "timeseries": 1365
+    }
+  },
+  {
+    "id": "openaq_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 822,
+      "chart_text": 858,
+      "graph": 1590,
+      "timeseries": 1365
+    }
+  },
+  {
+    "id": "openaq_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 830,
+      "chart_text": 880,
+      "graph": 1566,
+      "timeseries": 1373
+    }
+  },
+  {
+    "id": "openaq_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 838,
+      "chart_text": 882,
+      "graph": 1566,
+      "timeseries": 1381
+    }
+  },
+  {
+    "id": "openaq_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 282,
+      "chart_text": 257,
+      "graph": 550,
+      "timeseries": 433
+    }
+  },
+  {
+    "id": "openaq_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 268,
+      "chart_text": 248,
+      "graph": 493,
+      "timeseries": 422
+    }
+  },
+  {
+    "id": "openaq_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 275,
+      "chart_text": 253,
+      "graph": 542,
+      "timeseries": 429
+    }
+  },
+  {
+    "id": "openaq_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 272,
+      "chart_text": 246,
+      "graph": 512,
+      "timeseries": 420
+    }
+  },
+  {
+    "id": "openaq_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 246,
+      "graph": 512,
+      "timeseries": 424
+    }
+  },
+  {
+    "id": "openaq_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 282,
+      "chart_text": 251,
+      "graph": 551,
+      "timeseries": 433
+    }
+  },
+  {
+    "id": "openaq_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 273,
+      "chart_text": 248,
+      "graph": 555,
+      "timeseries": 424
+    }
+  },
+  {
+    "id": "openaq_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 254,
+      "graph": 517,
+      "timeseries": 430
+    }
+  },
+  {
+    "id": "openaq_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 273,
+      "chart_text": 253,
+      "graph": 503,
+      "timeseries": 427
+    }
+  },
+  {
+    "id": "openaq_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 281,
+      "chart_text": 257,
+      "graph": 512,
+      "timeseries": 435
+    }
+  },
+  {
+    "id": "openaq_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 96,
+      "chart_text": 101,
+      "graph": 207,
+      "timeseries": 127
+    }
+  },
+  {
+    "id": "openaq_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 98,
+      "graph": 198,
+      "timeseries": 124
+    }
+  },
+  {
+    "id": "openaq_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 100,
+      "graph": 181,
+      "timeseries": 126
+    }
+  },
+  {
+    "id": "openaq_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 92,
+      "chart_text": 97,
+      "graph": 184,
+      "timeseries": 123
+    }
+  },
+  {
+    "id": "openaq_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 96,
+      "chart_text": 102,
+      "graph": 226,
+      "timeseries": 128
+    }
+  },
+  {
+    "id": "openaq_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 97,
+      "chart_text": 102,
+      "graph": 226,
+      "timeseries": 128
+    }
+  },
+  {
+    "id": "openaq_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 99,
+      "chart_text": 106,
+      "graph": 217,
+      "timeseries": 132
+    }
+  },
+  {
+    "id": "openaq_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 94,
+      "chart_text": 100,
+      "graph": 202,
+      "timeseries": 126
+    }
+  },
+  {
+    "id": "opsd_electricity_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 904,
+      "chart_text": 982,
+      "graph": 1526,
+      "timeseries": 1201
+    }
+  },
+  {
+    "id": "opsd_electricity_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 897,
+      "chart_text": 975,
+      "graph": 1496,
+      "timeseries": 1201
+    }
+  },
+  {
+    "id": "opsd_electricity_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 899,
+      "chart_text": 977,
+      "graph": 1500,
+      "timeseries": 1203
+    }
+  },
+  {
+    "id": "opsd_electricity_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 901,
+      "chart_text": 979,
+      "graph": 1523,
+      "timeseries": 1205
+    }
+  },
+  {
+    "id": "opsd_electricity_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 906,
+      "chart_text": 984,
+      "graph": 1481,
+      "timeseries": 1210
+    }
+  },
+  {
+    "id": "opsd_electricity_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 914,
+      "chart_text": 992,
+      "graph": 1517,
+      "timeseries": 1211
+    }
+  },
+  {
+    "id": "opsd_electricity_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 904,
+      "chart_text": 982,
+      "graph": 1496,
+      "timeseries": 1208
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 285,
+      "chart_text": 295,
+      "graph": 486,
+      "timeseries": 376
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 280,
+      "chart_text": 291,
+      "graph": 490,
+      "timeseries": 371
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 281,
+      "chart_text": 288,
+      "graph": 495,
+      "timeseries": 373
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 287,
+      "graph": 492,
+      "timeseries": 372
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 278,
+      "chart_text": 285,
+      "graph": 488,
+      "timeseries": 370
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 295,
+      "chart_text": 301,
+      "graph": 495,
+      "timeseries": 387
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 293,
+      "chart_text": 300,
+      "graph": 503,
+      "timeseries": 385
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 290,
+      "chart_text": 300,
+      "graph": 500,
+      "timeseries": 385
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 291,
+      "chart_text": 298,
+      "graph": 491,
+      "timeseries": 379
+    }
+  },
+  {
+    "id": "opsd_electricity_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 288,
+      "chart_text": 295,
+      "graph": 502,
+      "timeseries": 376
+    }
+  },
+  {
+    "id": "opsd_electricity_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 86,
+      "chart_text": 81,
+      "graph": 171,
+      "timeseries": 109
+    }
+  },
+  {
+    "id": "opsd_electricity_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 93,
+      "chart_text": 88,
+      "graph": 178,
+      "timeseries": 116
+    }
+  },
+  {
+    "id": "opsd_electricity_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 91,
+      "chart_text": 87,
+      "graph": 176,
+      "timeseries": 114
+    }
+  },
+  {
+    "id": "opsd_electricity_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 88,
+      "chart_text": 84,
+      "graph": 185,
+      "timeseries": 111
+    }
+  },
+  {
+    "id": "opsd_electricity_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 82,
+      "graph": 179,
+      "timeseries": 108
+    }
+  },
+  {
+    "id": "opsd_electricity_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 82,
+      "graph": 179,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "opsd_electricity_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 92,
+      "chart_text": 88,
+      "graph": 177,
+      "timeseries": 115
+    }
+  },
+  {
+    "id": "opsd_electricity_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 92,
+      "chart_text": 87,
+      "graph": 177,
+      "timeseries": 113
+    }
+  },
+  {
+    "id": "qog_eu_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 808,
+      "chart_text": 888,
+      "graph": 1546,
+      "timeseries": 1112
+    }
+  },
+  {
+    "id": "qog_eu_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 809,
+      "chart_text": 889,
+      "graph": 1526,
+      "timeseries": 1106
+    }
+  },
+  {
+    "id": "qog_eu_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 813,
+      "chart_text": 893,
+      "graph": 1530,
+      "timeseries": 1110
+    }
+  },
+  {
+    "id": "qog_eu_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 779,
+      "chart_text": 858,
+      "graph": 1496,
+      "timeseries": 1083
+    }
+  },
+  {
+    "id": "qog_eu_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 813,
+      "chart_text": 893,
+      "graph": 1552,
+      "timeseries": 1117
+    }
+  },
+  {
+    "id": "qog_eu_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 821,
+      "chart_text": 901,
+      "graph": 1520,
+      "timeseries": 1125
+    }
+  },
+  {
+    "id": "qog_eu_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 822,
+      "chart_text": 902,
+      "graph": 1558,
+      "timeseries": 1126
+    }
+  },
+  {
+    "id": "qog_eu_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 260,
+      "chart_text": 272,
+      "graph": 522,
+      "timeseries": 351
+    }
+  },
+  {
+    "id": "qog_eu_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 258,
+      "chart_text": 267,
+      "graph": 526,
+      "timeseries": 350
+    }
+  },
+  {
+    "id": "qog_eu_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 266,
+      "chart_text": 278,
+      "graph": 559,
+      "timeseries": 361
+    }
+  },
+  {
+    "id": "qog_eu_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 269,
+      "chart_text": 282,
+      "graph": 576,
+      "timeseries": 364
+    }
+  },
+  {
+    "id": "qog_eu_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 287,
+      "graph": 568,
+      "timeseries": 369
+    }
+  },
+  {
+    "id": "qog_eu_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 258,
+      "chart_text": 270,
+      "graph": 484,
+      "timeseries": 353
+    }
+  },
+  {
+    "id": "qog_eu_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 268,
+      "chart_text": 278,
+      "graph": 506,
+      "timeseries": 360
+    }
+  },
+  {
+    "id": "qog_eu_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 265,
+      "chart_text": 277,
+      "graph": 545,
+      "timeseries": 360
+    }
+  },
+  {
+    "id": "qog_eu_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 260,
+      "chart_text": 270,
+      "graph": 526,
+      "timeseries": 352
+    }
+  },
+  {
+    "id": "qog_eu_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 254,
+      "chart_text": 263,
+      "graph": 469,
+      "timeseries": 346
+    }
+  },
+  {
+    "id": "qog_eu_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 92,
+      "chart_text": 91,
+      "graph": 223,
+      "timeseries": 113
+    }
+  },
+  {
+    "id": "qog_eu_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 81,
+      "chart_text": 79,
+      "graph": 165,
+      "timeseries": 102
+    }
+  },
+  {
+    "id": "qog_eu_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 82,
+      "chart_text": 80,
+      "graph": 175,
+      "timeseries": 103
+    }
+  },
+  {
+    "id": "qog_eu_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 94,
+      "chart_text": 93,
+      "graph": 225,
+      "timeseries": 117
+    }
+  },
+  {
+    "id": "qog_eu_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 83,
+      "chart_text": 81,
+      "graph": 189,
+      "timeseries": 104
+    }
+  },
+  {
+    "id": "qog_eu_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 82,
+      "chart_text": 80,
+      "graph": 176,
+      "timeseries": 105
+    }
+  },
+  {
+    "id": "qog_eu_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 83,
+      "chart_text": 81,
+      "graph": 167,
+      "timeseries": 106
+    }
+  },
+  {
+    "id": "qog_eu_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 80,
+      "chart_text": 78,
+      "graph": 173,
+      "timeseries": 101
+    }
+  },
+  {
+    "id": "sec_xbrl_large_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 833,
+      "chart_text": 780,
+      "graph": 1340,
+      "timeseries": 1244
+    }
+  },
+  {
+    "id": "sec_xbrl_large_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 825,
+      "chart_text": 773,
+      "graph": 1315,
+      "timeseries": 1236
+    }
+  },
+  {
+    "id": "sec_xbrl_large_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 846,
+      "chart_text": 789,
+      "graph": 1354,
+      "timeseries": 1257
+    }
+  },
+  {
+    "id": "sec_xbrl_large_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 857,
+      "chart_text": 799,
+      "graph": 1365,
+      "timeseries": 1268
+    }
+  },
+  {
+    "id": "sec_xbrl_large_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 859,
+      "chart_text": 797,
+      "graph": 1406,
+      "timeseries": 1270
+    }
+  },
+  {
+    "id": "sec_xbrl_large_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 845,
+      "chart_text": 786,
+      "graph": 1372,
+      "timeseries": 1256
+    }
+  },
+  {
+    "id": "sec_xbrl_large_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 830,
+      "chart_text": 778,
+      "graph": 1319,
+      "timeseries": 1241
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 267,
+      "chart_text": 306,
+      "graph": 475,
+      "timeseries": 385
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 260,
+      "chart_text": 299,
+      "graph": 440,
+      "timeseries": 378
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 279,
+      "chart_text": 318,
+      "graph": 477,
+      "timeseries": 397
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 258,
+      "chart_text": 297,
+      "graph": 429,
+      "timeseries": 376
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 276,
+      "chart_text": 314,
+      "graph": 479,
+      "timeseries": 394
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 267,
+      "chart_text": 305,
+      "graph": 446,
+      "timeseries": 385
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 262,
+      "chart_text": 300,
+      "graph": 442,
+      "timeseries": 380
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 277,
+      "chart_text": 315,
+      "graph": 466,
+      "timeseries": 395
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_008",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 262,
+      "chart_text": 300,
+      "graph": 443,
+      "timeseries": 380
+    }
+  },
+  {
+    "id": "sec_xbrl_medium_009",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 280,
+      "chart_text": 318,
+      "graph": 478,
+      "timeseries": 398
+    }
+  },
+  {
+    "id": "sec_xbrl_small_000",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 84,
+      "chart_text": 86,
+      "graph": 163,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "sec_xbrl_small_001",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 84,
+      "chart_text": 86,
+      "graph": 165,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "sec_xbrl_small_002",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 80,
+      "chart_text": 82,
+      "graph": 159,
+      "timeseries": 106
+    }
+  },
+  {
+    "id": "sec_xbrl_small_003",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 89,
+      "chart_text": 91,
+      "graph": 168,
+      "timeseries": 115
+    }
+  },
+  {
+    "id": "sec_xbrl_small_004",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 88,
+      "chart_text": 90,
+      "graph": 177,
+      "timeseries": 114
+    }
+  },
+  {
+    "id": "sec_xbrl_small_005",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 84,
+      "chart_text": 86,
+      "graph": 165,
+      "timeseries": 110
+    }
+  },
+  {
+    "id": "sec_xbrl_small_006",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 90,
+      "chart_text": 92,
+      "graph": 179,
+      "timeseries": 116
+    }
+  },
+  {
+    "id": "sec_xbrl_small_007",
+    "chart_type": "bar",
+    "tokens": {
+      "table": 87,
+      "chart_text": 89,
+      "graph": 180,
+      "timeseries": 113
+    }
+  }
+]

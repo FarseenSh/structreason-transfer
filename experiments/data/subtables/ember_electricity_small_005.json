@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_005",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Gas_GWh",
+    "Hydro_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Sweden",
+      "Gas_GWh": 3816.2,
+      "Hydro_GWh": 1867.1
+    },
+    {
+      "Entity": "Denmark",
+      "Gas_GWh": 4151.4,
+      "Hydro_GWh": 4532.6
+    },
+    {
+      "Entity": "Portugal",
+      "Gas_GWh": 2052.0,
+      "Hydro_GWh": 2225.0
+    },
+    {
+      "Entity": "Germany",
+      "Gas_GWh": 6001.9,
+      "Hydro_GWh": 5153.4
+    },
+    {
+      "Entity": "Czechia",
+      "Gas_GWh": 1695.3,
+      "Hydro_GWh": 5555.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Gas_GWh",
+    "Hydro_GWh"
+  ]
+}

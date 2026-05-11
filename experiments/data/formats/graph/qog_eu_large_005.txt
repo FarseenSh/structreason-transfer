@@ -1,0 +1,35 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Romania: {GDP_per_capita=16711.6, Life_expectancy=74.9, Education_spending_pct=5.2, Govt_expenditure_pct_GDP=34.8, HDI=0.9, Unemployment_pct=20.6, Gini_index=23.5}
+  Poland: {GDP_per_capita=30411.1, Life_expectancy=74.8, Education_spending_pct=4.3, Govt_expenditure_pct_GDP=52.3, HDI=0.9, Unemployment_pct=12.1, Gini_index=32.7}
+  Netherlands: {GDP_per_capita=64834.2, Life_expectancy=72.3, Education_spending_pct=4.6, Govt_expenditure_pct_GDP=37.3, HDI=0.8, Unemployment_pct=12.8, Gini_index=25.6}
+  Denmark: {GDP_per_capita=54446.6, Life_expectancy=83.5, Education_spending_pct=4, Govt_expenditure_pct_GDP=34.3, HDI=0.9, Unemployment_pct=14.2, Gini_index=39}
+  Italy: {GDP_per_capita=49692.4, Life_expectancy=80.5, Education_spending_pct=4.1, Govt_expenditure_pct_GDP=36.9, HDI=0.9, Unemployment_pct=16.9, Gini_index=25.8}
+  Switzerland: {GDP_per_capita=18864.7, Life_expectancy=79.6, Education_spending_pct=3.9, Govt_expenditure_pct_GDP=53.6, HDI=0.9, Unemployment_pct=3.9, Gini_index=33.7}
+  Ireland: {GDP_per_capita=39379.3, Life_expectancy=80.9, Education_spending_pct=8.4, Govt_expenditure_pct_GDP=39.2, HDI=0.8, Unemployment_pct=12.6, Gini_index=28.5}
+  Finland: {GDP_per_capita=75557, Life_expectancy=78.4, Education_spending_pct=3.9, Govt_expenditure_pct_GDP=49.2, HDI=0.8, Unemployment_pct=11.9, Gini_index=33.9}
+  Sweden: {GDP_per_capita=17162.5, Life_expectancy=77.7, Education_spending_pct=4.2, Govt_expenditure_pct_GDP=54, HDI=0.8, Unemployment_pct=20.5, Gini_index=30}
+  Belgium: {GDP_per_capita=42750.5, Life_expectancy=77.4, Education_spending_pct=7.6, Govt_expenditure_pct_GDP=32.2, HDI=0.8, Unemployment_pct=12.1, Gini_index=35.9}
+  France: {GDP_per_capita=81160.4, Life_expectancy=79.7, Education_spending_pct=6.4, Govt_expenditure_pct_GDP=51.4, HDI=0.8, Unemployment_pct=11.6, Gini_index=26.9}
+  Norway: {GDP_per_capita=18561.7, Life_expectancy=74.4, Education_spending_pct=7.4, Govt_expenditure_pct_GDP=38.6, HDI=0.8, Unemployment_pct=21.3, Gini_index=38.4}
+  Austria: {GDP_per_capita=67479.4, Life_expectancy=82.7, Education_spending_pct=6.7, Govt_expenditure_pct_GDP=36.1, HDI=0.9, Unemployment_pct=11.3, Gini_index=31.5}
+  Czechia: {GDP_per_capita=33032.9, Life_expectancy=81.7, Education_spending_pct=7.9, Govt_expenditure_pct_GDP=49.3, HDI=0.8, Unemployment_pct=6, Gini_index=35.9}
+  Portugal: {GDP_per_capita=75662.6, Life_expectancy=76.2, Education_spending_pct=6.7, Govt_expenditure_pct_GDP=55.5, HDI=0.9, Unemployment_pct=6.7, Gini_index=37.4}
+  Spain: {GDP_per_capita=67224.8, Life_expectancy=78.9, Education_spending_pct=6.1, Govt_expenditure_pct_GDP=38.3, HDI=0.9, Unemployment_pct=4.4, Gini_index=40}
+  Germany: {GDP_per_capita=76999.4, Life_expectancy=73.7, Education_spending_pct=7.1, Govt_expenditure_pct_GDP=45.9, HDI=0.9, Unemployment_pct=2.5, Gini_index=26.8}
+  Greece: {GDP_per_capita=30114.7, Life_expectancy=83.7, Education_spending_pct=5.7, Govt_expenditure_pct_GDP=38.1, HDI=0.8, Unemployment_pct=10.9, Gini_index=27.9}
+  Hungary: {GDP_per_capita=52190.5, Life_expectancy=82.8, Education_spending_pct=5.2, Govt_expenditure_pct_GDP=45.5, HDI=0.9, Unemployment_pct=17.5, Gini_index=27.3}
+  Bulgaria: {GDP_per_capita=69548.9, Life_expectancy=83.1, Education_spending_pct=5.8, Govt_expenditure_pct_GDP=47.4, HDI=0.9, Unemployment_pct=16.8, Gini_index=27.5}
+
+Edges (top 10 by metric similarity):
+  France -- Germany (sim=1.00, similar Gini_index)
+  Finland -- Portugal (sim=1.00, similar HDI)
+  Netherlands -- Finland (sim=1.00, similar HDI)
+  Finland -- France (sim=1.00, similar HDI)
+  Italy -- Hungary (sim=1.00, similar HDI)
+  Netherlands -- Bulgaria (sim=1.00, similar HDI)
+  Netherlands -- Austria (sim=1.00, similar HDI)
+  Netherlands -- France (sim=1.00, similar HDI)
+  Austria -- Spain (sim=1.00, similar HDI)
+  Austria -- Bulgaria (sim=1.00, similar HDI)

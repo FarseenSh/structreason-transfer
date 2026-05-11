@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_006",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Wheat_tonnes_ha",
+    "Area_harvested_kha",
+    "Soybean_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Egypt",
+      "Yield_index": 118.0,
+      "Wheat_tonnes_ha": 5.4,
+      "Area_harvested_kha": 26672.0,
+      "Soybean_tonnes_ha": 3.5
+    },
+    {
+      "Entity": "Australia",
+      "Yield_index": 74.2,
+      "Wheat_tonnes_ha": 1.5,
+      "Area_harvested_kha": 33018.4,
+      "Soybean_tonnes_ha": 1.3
+    },
+    {
+      "Entity": "Ukraine",
+      "Yield_index": 158.6,
+      "Wheat_tonnes_ha": 5.8,
+      "Area_harvested_kha": 18477.8,
+      "Soybean_tonnes_ha": 2.3
+    },
+    {
+      "Entity": "Germany",
+      "Yield_index": 132.2,
+      "Wheat_tonnes_ha": 1.5,
+      "Area_harvested_kha": 12763.4,
+      "Soybean_tonnes_ha": 3.7
+    },
+    {
+      "Entity": "India",
+      "Yield_index": 67.0,
+      "Wheat_tonnes_ha": 8.4,
+      "Area_harvested_kha": 2037.1,
+      "Soybean_tonnes_ha": 2.3
+    },
+    {
+      "Entity": "Nigeria",
+      "Yield_index": 141.2,
+      "Wheat_tonnes_ha": 3.5,
+      "Area_harvested_kha": 20638.0,
+      "Soybean_tonnes_ha": 2.7
+    },
+    {
+      "Entity": "Russia",
+      "Yield_index": 94.0,
+      "Wheat_tonnes_ha": 8.0,
+      "Area_harvested_kha": 13611.5,
+      "Soybean_tonnes_ha": 3.6
+    },
+    {
+      "Entity": "Canada",
+      "Yield_index": 68.3,
+      "Wheat_tonnes_ha": 1.6,
+      "Area_harvested_kha": 31865.1,
+      "Soybean_tonnes_ha": 1.7
+    },
+    {
+      "Entity": "Argentina",
+      "Yield_index": 132.8,
+      "Wheat_tonnes_ha": 2.2,
+      "Area_harvested_kha": 17062.0,
+      "Soybean_tonnes_ha": 3.7
+    },
+    {
+      "Entity": "Indonesia",
+      "Yield_index": 147.9,
+      "Wheat_tonnes_ha": 4.9,
+      "Area_harvested_kha": 26907.9,
+      "Soybean_tonnes_ha": 2.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Wheat_tonnes_ha",
+    "Area_harvested_kha",
+    "Soybean_tonnes_ha"
+  ]
+}

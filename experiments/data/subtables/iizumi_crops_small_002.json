@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_002",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Fertilizer_kg_ha",
+    "Maize_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "India",
+      "Fertilizer_kg_ha": 189.1,
+      "Maize_tonnes_ha": 8.1
+    },
+    {
+      "Entity": "Indonesia",
+      "Fertilizer_kg_ha": 91.9,
+      "Maize_tonnes_ha": 8.5
+    },
+    {
+      "Entity": "Nigeria",
+      "Fertilizer_kg_ha": 79.5,
+      "Maize_tonnes_ha": 9.7
+    },
+    {
+      "Entity": "USA",
+      "Fertilizer_kg_ha": 56.4,
+      "Maize_tonnes_ha": 5.3
+    },
+    {
+      "Entity": "China",
+      "Fertilizer_kg_ha": 263.3,
+      "Maize_tonnes_ha": 11.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Fertilizer_kg_ha",
+    "Maize_tonnes_ha"
+  ]
+}

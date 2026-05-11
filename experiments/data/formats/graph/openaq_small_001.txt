@@ -1,0 +1,13 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_E17: {AQI=43.3, PM10_ug_m3=46.9}
+  Station_S7: {AQI=80.4, PM10_ug_m3=83.1}
+  Station_W9: {AQI=178.3, PM10_ug_m3=33.2}
+  Station_E8: {AQI=103.5, PM10_ug_m3=116}
+  Station_NE11: {AQI=25.5, PM10_ug_m3=55.6}
+
+Edges (top 3 by metric similarity):
+  Station_E17 -- Station_E8 (sim=1.00, similar AQI)
+  Station_E17 -- Station_S7 (sim=1.00, similar PM10_ug_m3)
+  Station_S7 -- Station_E8 (sim=1.00, similar AQI)

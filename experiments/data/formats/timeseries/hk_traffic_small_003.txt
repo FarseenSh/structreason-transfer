@@ -1,0 +1,5 @@
+The following 5 values represent Peak_hour_flow for each Entity (Route_M13, Route_K11, Route_G7, Route_C3, Route_F6), listed in order:
+[16931, 6981.5, 19167.1, 2395.5, 27974.7]
+
+The following 5 values represent Avg_speed_kmh for each Entity (Route_M13, Route_K11, Route_G7, Route_C3, Route_F6), listed in order:
+[32.2, 17.6, 22, 30.6, 32.8]

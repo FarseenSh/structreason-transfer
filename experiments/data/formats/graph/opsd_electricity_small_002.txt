@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Switzerland: {Total_GWh=14858, Nuclear_GWh=14265.7}
+  Greece: {Total_GWh=30296.3, Nuclear_GWh=11973.2}
+  Austria: {Total_GWh=43528.8, Nuclear_GWh=13305.6}
+  Poland: {Total_GWh=17263.3, Nuclear_GWh=5778.7}
+  France: {Total_GWh=25210.4, Nuclear_GWh=14947.6}
+
+Edges (top 3 by metric similarity):
+  Austria -- Poland (sim=1.00, similar Nuclear_GWh)
+  Greece -- Poland (sim=1.00, similar Nuclear_GWh)
+  Greece -- Austria (sim=1.00, similar Nuclear_GWh)

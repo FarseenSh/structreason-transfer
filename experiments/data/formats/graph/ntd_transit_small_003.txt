@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Silver: {Complaints_per_10k=6, Avg_trip_minutes=19.4}
+  Line_Red: {Complaints_per_10k=13.8, Avg_trip_minutes=22.1}
+  Bus_505: {Complaints_per_10k=12.6, Avg_trip_minutes=27.9}
+  Bus_404: {Complaints_per_10k=14.5, Avg_trip_minutes=30.2}
+  Bus_303: {Complaints_per_10k=1.5, Avg_trip_minutes=21.7}
+
+Edges (top 3 by metric similarity):
+  Bus_505 -- Bus_404 (sim=1.00, similar Complaints_per_10k)
+  Line_Red -- Bus_404 (sim=0.99, similar Complaints_per_10k)
+  Line_Silver -- Bus_505 (sim=0.99, similar Complaints_per_10k)

@@ -1,0 +1,94 @@
+{
+  "id": "opsd_electricity_medium_000",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Solar_GWh",
+    "Nuclear_GWh",
+    "Gas_GWh",
+    "Total_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "UK",
+      "Solar_GWh": 2107.5,
+      "Nuclear_GWh": 14387.6,
+      "Gas_GWh": 9983.1,
+      "Total_GWh": 2352.7
+    },
+    {
+      "Entity": "Hungary",
+      "Solar_GWh": 984.0,
+      "Nuclear_GWh": 13315.2,
+      "Gas_GWh": 4941.6,
+      "Total_GWh": 19057.5
+    },
+    {
+      "Entity": "Czechia",
+      "Solar_GWh": 1201.9,
+      "Nuclear_GWh": 4247.0,
+      "Gas_GWh": 8127.2,
+      "Total_GWh": 31544.8
+    },
+    {
+      "Entity": "Austria",
+      "Solar_GWh": 3231.5,
+      "Nuclear_GWh": 12254.2,
+      "Gas_GWh": 8666.0,
+      "Total_GWh": 8228.3
+    },
+    {
+      "Entity": "Norway",
+      "Solar_GWh": 5092.5,
+      "Nuclear_GWh": 10288.0,
+      "Gas_GWh": 2352.5,
+      "Total_GWh": 45037.1
+    },
+    {
+      "Entity": "Germany",
+      "Solar_GWh": 516.8,
+      "Nuclear_GWh": 7677.3,
+      "Gas_GWh": 708.0,
+      "Total_GWh": 9501.2
+    },
+    {
+      "Entity": "Italy",
+      "Solar_GWh": 279.8,
+      "Nuclear_GWh": 6343.7,
+      "Gas_GWh": 4226.1,
+      "Total_GWh": 45670.1
+    },
+    {
+      "Entity": "Belgium",
+      "Solar_GWh": 2844.5,
+      "Nuclear_GWh": 12232.5,
+      "Gas_GWh": 8610.3,
+      "Total_GWh": 12386.7
+    },
+    {
+      "Entity": "Romania",
+      "Solar_GWh": 5741.5,
+      "Nuclear_GWh": 11896.2,
+      "Gas_GWh": 3104.3,
+      "Total_GWh": 49725.4
+    },
+    {
+      "Entity": "Netherlands",
+      "Solar_GWh": 1746.2,
+      "Nuclear_GWh": 11354.0,
+      "Gas_GWh": 7090.1,
+      "Total_GWh": 31027.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Solar_GWh",
+    "Nuclear_GWh",
+    "Gas_GWh",
+    "Total_GWh"
+  ]
+}

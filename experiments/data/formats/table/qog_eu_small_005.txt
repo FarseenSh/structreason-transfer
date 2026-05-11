@@ -1,0 +1,7 @@
+| Entity | Gini_index | Education_spending_pct |
+|---|---|---|
+| Poland | 32.8 | 5.7 |
+| Belgium | 26 | 6.6 |
+| France | 37.6 | 6.4 |
+| Hungary | 35.9 | 6.7 |
+| Spain | 35.2 | 3.9 |

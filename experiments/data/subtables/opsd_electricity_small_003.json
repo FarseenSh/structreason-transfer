@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_003",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Nuclear_GWh",
+    "CO2_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "Austria",
+      "Nuclear_GWh": 305.5,
+      "CO2_Mt": 31.8
+    },
+    {
+      "Entity": "UK",
+      "Nuclear_GWh": 7545.7,
+      "CO2_Mt": 42.8
+    },
+    {
+      "Entity": "Germany",
+      "Nuclear_GWh": 12839.6,
+      "CO2_Mt": 3.6
+    },
+    {
+      "Entity": "Denmark",
+      "Nuclear_GWh": 10639.1,
+      "CO2_Mt": 31.3
+    },
+    {
+      "Entity": "Switzerland",
+      "Nuclear_GWh": 11935.6,
+      "CO2_Mt": 38.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Nuclear_GWh",
+    "CO2_Mt"
+  ]
+}

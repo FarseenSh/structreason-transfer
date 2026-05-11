@@ -1,0 +1,11 @@
+The following 10 values represent Govt_expenditure_pct_GDP for each Entity (Denmark, Hungary, Italy, Greece, Bulgaria, Finland, Netherlands, Norway, Poland, Switzerland), listed in order:
+[44.1, 50.9, 47.6, 53.8, 34.3, 50.6, 35.4, 37.6, 49.9, 57.4]
+
+The following 10 values represent GDP_per_capita for each Entity (Denmark, Hungary, Italy, Greece, Bulgaria, Finland, Netherlands, Norway, Poland, Switzerland), listed in order:
+[57808.1, 18815, 58141.6, 17964.5, 76890.2, 64670.5, 27118.9, 21420.5, 27847.3, 83601.9]
+
+The following 10 values represent Life_expectancy for each Entity (Denmark, Hungary, Italy, Greece, Bulgaria, Finland, Netherlands, Norway, Poland, Switzerland), listed in order:
+[77.5, 81.4, 79.6, 78.9, 73.7, 83.4, 75.6, 78.9, 80.4, 79.8]
+
+The following 10 values represent Trust_in_govt_pct for each Entity (Denmark, Hungary, Italy, Greece, Bulgaria, Finland, Netherlands, Norway, Poland, Switzerland), listed in order:
+[74.1, 21.8, 45.6, 38.7, 43.3, 19.9, 20.9, 30.4, 32.1, 40.2]

@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Monthly_riders_k: Ferry_A=7970.3, Bus_202=1885.2, Line_Purple=7347.8, Line_Gold=3397, Tram_2=3079.2, Tram_1=7915.2, Bus_101=4381.
+Vehicles_in_service: Ferry_A=12, Bus_202=170.3, Line_Purple=14.2, Line_Gold=58.6, Tram_2=179.6, Tram_1=159.1, Bus_101=77.6.
+Revenue_k_USD: Ferry_A=11725.6, Bus_202=7953.7, Line_Purple=6001.2, Line_Gold=9426.4, Tram_2=9961, Tram_1=341.3, Bus_101=3837.9.
+Avg_trip_minutes: Ferry_A=48.5, Bus_202=26, Line_Purple=30, Line_Gold=20, Tram_2=34.9, Tram_1=44.1, Bus_101=26.7.

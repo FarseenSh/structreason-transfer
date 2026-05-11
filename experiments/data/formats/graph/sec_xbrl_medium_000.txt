@@ -1,0 +1,20 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyH: {Debt_ratio=0.3, Net_income_M=1149.7, Operating_margin_pct=22.5, ROE_pct=15.7}
+  CompanyT: {Debt_ratio=0.7, Net_income_M=280.4, Operating_margin_pct=21.3, ROE_pct=-3.1}
+  CompanyN: {Debt_ratio=0.7, Net_income_M=162.4, Operating_margin_pct=19.2, ROE_pct=-9.6}
+  CompanyQ: {Debt_ratio=0.9, Net_income_M=733, Operating_margin_pct=16.8, ROE_pct=-10.5}
+  CompanyC: {Debt_ratio=0.3, Net_income_M=-4, Operating_margin_pct=24.9, ROE_pct=-12.8}
+  CompanyM: {Debt_ratio=0.8, Net_income_M=273.9, Operating_margin_pct=33.3, ROE_pct=19.4}
+  CompanyI: {Debt_ratio=0.2, Net_income_M=82.6, Operating_margin_pct=2.3, ROE_pct=-5.7}
+  CompanyG: {Debt_ratio=0.2, Net_income_M=344.1, Operating_margin_pct=31.6, ROE_pct=33.5}
+  CompanyO: {Debt_ratio=0.7, Net_income_M=1101.3, Operating_margin_pct=-2.2, ROE_pct=38.9}
+  CompanyR: {Debt_ratio=0.5, Net_income_M=5.3, Operating_margin_pct=16.7, ROE_pct=2.5}
+
+Edges (top 5 by metric similarity):
+  CompanyH -- CompanyQ (sim=1.00, similar Debt_ratio)
+  CompanyH -- CompanyO (sim=1.00, similar Debt_ratio)
+  CompanyM -- CompanyG (sim=1.00, similar Debt_ratio)
+  CompanyT -- CompanyQ (sim=1.00, similar Debt_ratio)
+  CompanyQ -- CompanyI (sim=1.00, similar Debt_ratio)

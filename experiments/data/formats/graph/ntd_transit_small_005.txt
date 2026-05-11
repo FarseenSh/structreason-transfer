@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Green: {Complaints_per_10k=14.8, Avg_trip_minutes=48.8}
+  Line_Orange: {Complaints_per_10k=4.1, Avg_trip_minutes=36.4}
+  Line_Pink: {Complaints_per_10k=8.8, Avg_trip_minutes=31.9}
+  Line_Purple: {Complaints_per_10k=9.4, Avg_trip_minutes=13.8}
+  Line_Brown: {Complaints_per_10k=8.5, Avg_trip_minutes=41.1}
+
+Edges (top 3 by metric similarity):
+  Line_Green -- Line_Pink (sim=1.00, similar Complaints_per_10k)
+  Line_Pink -- Line_Brown (sim=1.00, similar Complaints_per_10k)
+  Line_Green -- Line_Brown (sim=1.00, similar Complaints_per_10k)

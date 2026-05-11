@@ -1,0 +1,20 @@
+The following 20 values represent Life_expectancy for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[82.5, 75, 79.3, 78.6, 76.8, 80.1, 80.7, 78.8, 81.1, 83.8, 77, 78.2, 72.1, 81.6, 78.2, 76.9, 73.1, 82.7, 76.7, 80.2]
+
+The following 20 values represent Trust_in_govt_pct for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[21.9, 75.5, 23.8, 25.2, 68.7, 72.2, 26, 43, 60.4, 70, 37, 46.1, 61, 60.3, 63.7, 49.6, 18.9, 71.7, 69.1, 64.7]
+
+The following 20 values represent Gini_index for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[24.7, 26.5, 35.6, 23.4, 39.6, 29.4, 35.2, 38.1, 29.7, 28.4, 33.3, 32.9, 30, 33.2, 38.9, 30.9, 26.3, 29.4, 29.7, 25.2]
+
+The following 20 values represent GDP_per_capita for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[26401, 62919.3, 38763.4, 81842.9, 32051.8, 21924.7, 67745.3, 76672.5, 34467.9, 29146.2, 28003.6, 51540.9, 47789.2, 33160.8, 18162.1, 48704.4, 82153.3, 60676.3, 49685.5, 22748.4]
+
+The following 20 values represent Education_spending_pct for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[4.8, 5, 7.3, 7.9, 8, 8.4, 8.4, 8.3, 3.9, 4.2, 5, 6.3, 4, 7.7, 6.6, 6.2, 4.3, 4.8, 4.3, 7.8]
+
+The following 20 values represent Govt_expenditure_pct_GDP for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[46.4, 50.6, 38.3, 40.4, 41.3, 51.3, 51.6, 35.8, 56.4, 33.4, 55.1, 32.8, 37.4, 53.7, 35, 41.6, 42.6, 36.9, 49.9, 53.8]
+
+The following 20 values represent HDI for each Entity (Belgium, Italy, Netherlands, Austria, Norway, Denmark, Switzerland, Poland, Finland, Romania, Bulgaria, Ireland, Sweden, Germany, Hungary, Portugal, France, Spain, Czechia, Greece), listed in order:
+[0.9, 0.8, 0.9, 0.8, 0.8, 0.8, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.8, 0.8, 0.8, 0.9, 0.9, 1, 0.8]

@@ -1,0 +1,7 @@
+| Entity | Soybean_tonnes_ha | Yield_index |
+|---|---|---|
+| Mexico | 2.7 | 109.9 |
+| Australia | 1.3 | 131.8 |
+| Thailand | 2 | 165 |
+| Vietnam | 2.1 | 111.1 |
+| Brazil | 3.7 | 166 |

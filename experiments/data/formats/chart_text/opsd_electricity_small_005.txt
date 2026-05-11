@@ -1,0 +1,3 @@
+Bar chart: "OPSD Electricity — Energy".
+CO2_Mt: Ireland=49.3, Germany=78.9, Sweden=52.7, Hungary=72, Austria=58.3.
+Total_GWh: Ireland=8114.5, Germany=35572.3, Sweden=25247.1, Hungary=46102.3, Austria=40728.1.

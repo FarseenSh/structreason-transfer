@@ -1,0 +1,13 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_U20: {CO_ppm=3.3, AQI=148.6}
+  Station_SW13: {CO_ppm=1.8, AQI=119.9}
+  Station_N6: {CO_ppm=2.2, AQI=177.5}
+  Station_S16: {CO_ppm=0.6, AQI=22.6}
+  Station_W18: {CO_ppm=2.9, AQI=22.5}
+
+Edges (top 3 by metric similarity):
+  Station_SW13 -- Station_N6 (sim=1.00, similar CO_ppm)
+  Station_U20 -- Station_S16 (sim=1.00, similar CO_ppm)
+  Station_U20 -- Station_SW13 (sim=1.00, similar CO_ppm)

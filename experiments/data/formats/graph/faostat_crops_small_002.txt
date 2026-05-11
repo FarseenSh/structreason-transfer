@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Mexico: {Soybean_tonnes_ha=2.7, Yield_index=109.9}
+  Australia: {Soybean_tonnes_ha=1.3, Yield_index=131.8}
+  Thailand: {Soybean_tonnes_ha=2, Yield_index=165}
+  Vietnam: {Soybean_tonnes_ha=2.1, Yield_index=111.1}
+  Brazil: {Soybean_tonnes_ha=3.7, Yield_index=166}
+
+Edges (top 3 by metric similarity):
+  Australia -- Thailand (sim=1.00, similar Soybean_tonnes_ha)
+  Mexico -- Brazil (sim=1.00, similar Soybean_tonnes_ha)
+  Vietnam -- Brazil (sim=1.00, similar Soybean_tonnes_ha)

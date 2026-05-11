@@ -1,0 +1,94 @@
+{
+  "id": "hk_traffic_medium_008",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Transit_ridership",
+    "Congestion_index",
+    "Road_condition_score",
+    "Avg_speed_kmh"
+  ],
+  "data": [
+    {
+      "Entity": "Route_J10",
+      "Transit_ridership": 149459.0,
+      "Congestion_index": 2.7,
+      "Road_condition_score": 85.4,
+      "Avg_speed_kmh": 66.8
+    },
+    {
+      "Entity": "Route_G7",
+      "Transit_ridership": 158018.2,
+      "Congestion_index": 1.7,
+      "Road_condition_score": 52.0,
+      "Avg_speed_kmh": 71.5
+    },
+    {
+      "Entity": "Route_E5",
+      "Transit_ridership": 31649.3,
+      "Congestion_index": 2.9,
+      "Road_condition_score": 50.8,
+      "Avg_speed_kmh": 60.4
+    },
+    {
+      "Entity": "Route_A1",
+      "Transit_ridership": 81724.1,
+      "Congestion_index": 3.5,
+      "Road_condition_score": 68.8,
+      "Avg_speed_kmh": 58.8
+    },
+    {
+      "Entity": "Route_O15",
+      "Transit_ridership": 179116.5,
+      "Congestion_index": 3.1,
+      "Road_condition_score": 41.9,
+      "Avg_speed_kmh": 49.1
+    },
+    {
+      "Entity": "Route_Q17",
+      "Transit_ridership": 5527.9,
+      "Congestion_index": 1.4,
+      "Road_condition_score": 53.1,
+      "Avg_speed_kmh": 57.4
+    },
+    {
+      "Entity": "Route_S19",
+      "Transit_ridership": 63258.0,
+      "Congestion_index": 4.0,
+      "Road_condition_score": 82.0,
+      "Avg_speed_kmh": 74.7
+    },
+    {
+      "Entity": "Route_I9",
+      "Transit_ridership": 113233.2,
+      "Congestion_index": 1.7,
+      "Road_condition_score": 88.6,
+      "Avg_speed_kmh": 21.5
+    },
+    {
+      "Entity": "Route_H8",
+      "Transit_ridership": 70148.3,
+      "Congestion_index": 3.7,
+      "Road_condition_score": 44.7,
+      "Avg_speed_kmh": 35.5
+    },
+    {
+      "Entity": "Route_K11",
+      "Transit_ridership": 58048.8,
+      "Congestion_index": 2.3,
+      "Road_condition_score": 91.2,
+      "Avg_speed_kmh": 19.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Transit_ridership",
+    "Congestion_index",
+    "Road_condition_score",
+    "Avg_speed_kmh"
+  ]
+}

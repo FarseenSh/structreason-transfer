@@ -1,0 +1,13 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Sweden: {Gas_GWh=3816.2, Hydro_GWh=1867.1}
+  Denmark: {Gas_GWh=4151.4, Hydro_GWh=4532.6}
+  Portugal: {Gas_GWh=2052, Hydro_GWh=2225}
+  Germany: {Gas_GWh=6001.9, Hydro_GWh=5153.4}
+  Czechia: {Gas_GWh=1695.3, Hydro_GWh=5555.1}
+
+Edges (top 3 by metric similarity):
+  Denmark -- Portugal (sim=1.00, similar Gas_GWh)
+  Portugal -- Germany (sim=0.99, similar Hydro_GWh)
+  Denmark -- Germany (sim=0.99, similar Hydro_GWh)

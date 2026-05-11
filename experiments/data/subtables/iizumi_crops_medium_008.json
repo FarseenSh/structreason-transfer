@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_008",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Rice_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Area_harvested_kha",
+    "Fertilizer_kg_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Ukraine",
+      "Rice_tonnes_ha": 4.8,
+      "Soybean_tonnes_ha": 3.0,
+      "Area_harvested_kha": 22297.2,
+      "Fertilizer_kg_ha": 356.3
+    },
+    {
+      "Entity": "Canada",
+      "Rice_tonnes_ha": 4.1,
+      "Soybean_tonnes_ha": 2.5,
+      "Area_harvested_kha": 19665.5,
+      "Fertilizer_kg_ha": 313.7
+    },
+    {
+      "Entity": "France",
+      "Rice_tonnes_ha": 4.2,
+      "Soybean_tonnes_ha": 2.4,
+      "Area_harvested_kha": 27157.9,
+      "Fertilizer_kg_ha": 220.0
+    },
+    {
+      "Entity": "Australia",
+      "Rice_tonnes_ha": 5.0,
+      "Soybean_tonnes_ha": 3.2,
+      "Area_harvested_kha": 7056.4,
+      "Fertilizer_kg_ha": 381.0
+    },
+    {
+      "Entity": "Nigeria",
+      "Rice_tonnes_ha": 4.0,
+      "Soybean_tonnes_ha": 3.3,
+      "Area_harvested_kha": 19672.1,
+      "Fertilizer_kg_ha": 181.3
+    },
+    {
+      "Entity": "India",
+      "Rice_tonnes_ha": 6.0,
+      "Soybean_tonnes_ha": 3.5,
+      "Area_harvested_kha": 5954.5,
+      "Fertilizer_kg_ha": 319.5
+    },
+    {
+      "Entity": "China",
+      "Rice_tonnes_ha": 4.1,
+      "Soybean_tonnes_ha": 2.1,
+      "Area_harvested_kha": 14550.2,
+      "Fertilizer_kg_ha": 83.8
+    },
+    {
+      "Entity": "Bangladesh",
+      "Rice_tonnes_ha": 4.1,
+      "Soybean_tonnes_ha": 2.0,
+      "Area_harvested_kha": 23407.8,
+      "Fertilizer_kg_ha": 128.6
+    },
+    {
+      "Entity": "Germany",
+      "Rice_tonnes_ha": 5.4,
+      "Soybean_tonnes_ha": 3.1,
+      "Area_harvested_kha": 17511.0,
+      "Fertilizer_kg_ha": 148.5
+    },
+    {
+      "Entity": "Turkey",
+      "Rice_tonnes_ha": 2.3,
+      "Soybean_tonnes_ha": 2.7,
+      "Area_harvested_kha": 13595.9,
+      "Fertilizer_kg_ha": 60.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Rice_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Area_harvested_kha",
+    "Fertilizer_kg_ha"
+  ]
+}

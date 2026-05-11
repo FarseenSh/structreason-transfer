@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_001",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Maize_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Mexico",
+      "Maize_tonnes_ha": 5.4,
+      "Soybean_tonnes_ha": 3.2,
+      "Area_harvested_kha": 33025.4,
+      "Wheat_tonnes_ha": 3.0
+    },
+    {
+      "Entity": "India",
+      "Maize_tonnes_ha": 3.5,
+      "Soybean_tonnes_ha": 2.5,
+      "Area_harvested_kha": 18024.8,
+      "Wheat_tonnes_ha": 5.7
+    },
+    {
+      "Entity": "France",
+      "Maize_tonnes_ha": 9.1,
+      "Soybean_tonnes_ha": 3.1,
+      "Area_harvested_kha": 16785.9,
+      "Wheat_tonnes_ha": 6.8
+    },
+    {
+      "Entity": "China",
+      "Maize_tonnes_ha": 10.7,
+      "Soybean_tonnes_ha": 3.3,
+      "Area_harvested_kha": 12512.8,
+      "Wheat_tonnes_ha": 8.1
+    },
+    {
+      "Entity": "Ukraine",
+      "Maize_tonnes_ha": 11.1,
+      "Soybean_tonnes_ha": 3.8,
+      "Area_harvested_kha": 22559.5,
+      "Wheat_tonnes_ha": 1.9
+    },
+    {
+      "Entity": "Australia",
+      "Maize_tonnes_ha": 10.8,
+      "Soybean_tonnes_ha": 3.3,
+      "Area_harvested_kha": 18441.8,
+      "Wheat_tonnes_ha": 8.8
+    },
+    {
+      "Entity": "Canada",
+      "Maize_tonnes_ha": 6.5,
+      "Soybean_tonnes_ha": 2.3,
+      "Area_harvested_kha": 4952.2,
+      "Wheat_tonnes_ha": 6.8
+    },
+    {
+      "Entity": "Vietnam",
+      "Maize_tonnes_ha": 4.8,
+      "Soybean_tonnes_ha": 1.8,
+      "Area_harvested_kha": 30487.7,
+      "Wheat_tonnes_ha": 3.6
+    },
+    {
+      "Entity": "Turkey",
+      "Maize_tonnes_ha": 8.4,
+      "Soybean_tonnes_ha": 2.5,
+      "Area_harvested_kha": 12885.9,
+      "Wheat_tonnes_ha": 3.0
+    },
+    {
+      "Entity": "Indonesia",
+      "Maize_tonnes_ha": 11.5,
+      "Soybean_tonnes_ha": 2.0,
+      "Area_harvested_kha": 15424.0,
+      "Wheat_tonnes_ha": 3.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Maize_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ]
+}

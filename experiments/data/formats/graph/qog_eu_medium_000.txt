@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Germany: {HDI=0.8, Life_expectancy=82.5, Trust_in_govt_pct=56.7, Govt_expenditure_pct_GDP=33.5}
+  Netherlands: {HDI=0.9, Life_expectancy=74.4, Trust_in_govt_pct=20, Govt_expenditure_pct_GDP=56}
+  Sweden: {HDI=0.8, Life_expectancy=75.7, Trust_in_govt_pct=45.4, Govt_expenditure_pct_GDP=41.1}
+  Greece: {HDI=0.9, Life_expectancy=81.3, Trust_in_govt_pct=57.8, Govt_expenditure_pct_GDP=38.4}
+  Czechia: {HDI=0.8, Life_expectancy=83.7, Trust_in_govt_pct=50.4, Govt_expenditure_pct_GDP=43.7}
+  France: {HDI=0.8, Life_expectancy=78, Trust_in_govt_pct=25.2, Govt_expenditure_pct_GDP=48.6}
+  Bulgaria: {HDI=0.9, Life_expectancy=73.7, Trust_in_govt_pct=65.1, Govt_expenditure_pct_GDP=56.8}
+  Italy: {HDI=0.8, Life_expectancy=72.2, Trust_in_govt_pct=59.2, Govt_expenditure_pct_GDP=38}
+  Romania: {HDI=0.8, Life_expectancy=74.8, Trust_in_govt_pct=60.8, Govt_expenditure_pct_GDP=55.9}
+  Belgium: {HDI=0.9, Life_expectancy=73.6, Trust_in_govt_pct=20.6, Govt_expenditure_pct_GDP=30.7}
+
+Edges (top 5 by metric similarity):
+  Sweden -- Czechia (sim=1.00, similar HDI)
+  Bulgaria -- Romania (sim=1.00, similar HDI)
+  Germany -- Greece (sim=1.00, similar HDI)
+  Greece -- Italy (sim=1.00, similar HDI)
+  Greece -- Czechia (sim=1.00, similar HDI)

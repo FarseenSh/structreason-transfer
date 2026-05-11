@@ -1,0 +1,45 @@
+{
+  "id": "epa_aqs_small_004",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "NO2_ppb",
+    "PM25_ug_m3"
+  ],
+  "data": [
+    {
+      "Entity": "Station_NW1",
+      "NO2_ppb": 42.8,
+      "PM25_ug_m3": 38.2
+    },
+    {
+      "Entity": "Station_W18",
+      "NO2_ppb": 16.0,
+      "PM25_ug_m3": 25.7
+    },
+    {
+      "Entity": "Station_E8",
+      "NO2_ppb": 47.2,
+      "PM25_ug_m3": 8.2
+    },
+    {
+      "Entity": "Station_S7",
+      "NO2_ppb": 18.7,
+      "PM25_ug_m3": 54.3
+    },
+    {
+      "Entity": "Station_C5",
+      "NO2_ppb": 46.8,
+      "PM25_ug_m3": 61.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "NO2_ppb",
+    "PM25_ug_m3"
+  ]
+}

@@ -1,0 +1,3 @@
+Bar chart: "OPSD Electricity — Energy".
+Gas_GWh: Switzerland=582, Norway=4244, Belgium=6597.3, Spain=5867.6, UK=1815.5.
+Total_GWh: Switzerland=23633.3, Norway=19734.6, Belgium=15161.7, Spain=37005, UK=16863.3.

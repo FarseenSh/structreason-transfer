@@ -1,0 +1,20 @@
+The following 20 values represent Unemployment_pct for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[18.6, 10.3, 21.8, 5.2, 15.2, 11.3, 10.2, 19.6, 21.5, 19.5, 6.2, 6.8, 15.3, 8.1, 16.8, 13.5, 13.2, 18.7, 16.4, 3]
+
+The following 20 values represent HDI for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[0.8, 0.9, 0.9, 0.8, 0.8, 0.9, 0.9, 0.9, 0.8, 0.8, 0.9, 0.8, 0.9, 0.9, 0.8, 0.8, 0.8, 0.9, 0.9, 0.8]
+
+The following 20 values represent Govt_expenditure_pct_GDP for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[54.9, 43.2, 43.3, 56.2, 31.7, 36, 46.4, 35.5, 49, 36, 32.8, 35.8, 41.8, 34.9, 33.8, 54.1, 39, 40.1, 31.5, 40]
+
+The following 20 values represent Gini_index for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[27.5, 33.4, 26.5, 38.1, 38.8, 24.7, 24.8, 25, 33.5, 25.1, 37.5, 35.8, 36.9, 31.9, 39.9, 23.8, 29.8, 28.5, 39.1, 32.8]
+
+The following 20 values represent Trust_in_govt_pct for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[65.2, 23.2, 76.6, 44.9, 44.6, 76.1, 37.1, 38.2, 50.6, 20.5, 33.2, 24.8, 18.8, 69.2, 50.9, 35.7, 39, 40.5, 53.8, 73.2]
+
+The following 20 values represent GDP_per_capita for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[80294.6, 42404.4, 38048.4, 46573.3, 54755.4, 47327.3, 61112.7, 53807.9, 37450.1, 39201.2, 41501.5, 21624.8, 26624.4, 65618, 42236.8, 30017.7, 54387.1, 67887.8, 33019.6, 72875.3]
+
+The following 20 values represent Life_expectancy for each Entity (Italy, Finland, Austria, Spain, Ireland, Germany, Belgium, France, Czechia, Poland, Greece, Romania, Portugal, Netherlands, Bulgaria, Hungary, Norway, Denmark, Switzerland, Sweden), listed in order:
+[83.1, 79.2, 80, 72.6, 83.3, 76.7, 83.1, 78.9, 72.1, 72.5, 80.2, 78.8, 72.3, 80.9, 82.2, 78, 77.6, 72.1, 81.4, 76]

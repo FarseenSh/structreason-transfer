@@ -1,0 +1,20 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_SW13: {SO2_ppb=6.5, AQI=114.8, NO2_ppb=35.2, O3_ppb=36.9}
+  Station_NE2: {SO2_ppb=15.8, AQI=96.4, NO2_ppb=6.3, O3_ppb=75.4}
+  Station_SE12: {SO2_ppb=16.8, AQI=116, NO2_ppb=48.4, O3_ppb=70.5}
+  Station_S16: {SO2_ppb=8.9, AQI=41.7, NO2_ppb=55, O3_ppb=69.3}
+  Station_E8: {SO2_ppb=20.7, AQI=85.4, NO2_ppb=53.4, O3_ppb=77.7}
+  Station_R19: {SO2_ppb=22.2, AQI=48.4, NO2_ppb=50.3, O3_ppb=41.9}
+  Station_W18: {SO2_ppb=21.5, AQI=64.8, NO2_ppb=59.6, O3_ppb=43}
+  Station_N6: {SO2_ppb=8.9, AQI=40.5, NO2_ppb=37.3, O3_ppb=59.8}
+  Station_W9: {SO2_ppb=18.9, AQI=54, NO2_ppb=57.9, O3_ppb=66.6}
+  Station_U20: {SO2_ppb=14.4, AQI=145.1, NO2_ppb=57.2, O3_ppb=76.6}
+
+Edges (top 5 by metric similarity):
+  Station_SE12 -- Station_U20 (sim=1.00, similar SO2_ppb)
+  Station_R19 -- Station_W18 (sim=0.99, similar SO2_ppb)
+  Station_S16 -- Station_N6 (sim=0.99, similar SO2_ppb)
+  Station_S16 -- Station_W9 (sim=0.99, similar O3_ppb)
+  Station_N6 -- Station_W9 (sim=0.99, similar O3_ppb)

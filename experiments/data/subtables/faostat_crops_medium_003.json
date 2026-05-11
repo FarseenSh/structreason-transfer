@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_003",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Soybean_tonnes_ha",
+    "Rice_tonnes_ha",
+    "Fertilizer_kg_ha",
+    "Production_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "Russia",
+      "Soybean_tonnes_ha": 3.9,
+      "Rice_tonnes_ha": 2.8,
+      "Fertilizer_kg_ha": 197.7,
+      "Production_Mt": 264.9
+    },
+    {
+      "Entity": "India",
+      "Soybean_tonnes_ha": 1.0,
+      "Rice_tonnes_ha": 5.4,
+      "Fertilizer_kg_ha": 100.7,
+      "Production_Mt": 194.5
+    },
+    {
+      "Entity": "Brazil",
+      "Soybean_tonnes_ha": 2.0,
+      "Rice_tonnes_ha": 4.9,
+      "Fertilizer_kg_ha": 37.4,
+      "Production_Mt": 217.5
+    },
+    {
+      "Entity": "USA",
+      "Soybean_tonnes_ha": 2.0,
+      "Rice_tonnes_ha": 7.4,
+      "Fertilizer_kg_ha": 338.5,
+      "Production_Mt": 197.4
+    },
+    {
+      "Entity": "Pakistan",
+      "Soybean_tonnes_ha": 1.9,
+      "Rice_tonnes_ha": 6.1,
+      "Fertilizer_kg_ha": 329.6,
+      "Production_Mt": 217.8
+    },
+    {
+      "Entity": "Canada",
+      "Soybean_tonnes_ha": 3.5,
+      "Rice_tonnes_ha": 7.4,
+      "Fertilizer_kg_ha": 81.8,
+      "Production_Mt": 47.8
+    },
+    {
+      "Entity": "Germany",
+      "Soybean_tonnes_ha": 1.1,
+      "Rice_tonnes_ha": 3.0,
+      "Fertilizer_kg_ha": 265.2,
+      "Production_Mt": 277.2
+    },
+    {
+      "Entity": "Egypt",
+      "Soybean_tonnes_ha": 2.1,
+      "Rice_tonnes_ha": 6.2,
+      "Fertilizer_kg_ha": 300.3,
+      "Production_Mt": 89.3
+    },
+    {
+      "Entity": "Vietnam",
+      "Soybean_tonnes_ha": 3.1,
+      "Rice_tonnes_ha": 5.0,
+      "Fertilizer_kg_ha": 231.9,
+      "Production_Mt": 251.8
+    },
+    {
+      "Entity": "Mexico",
+      "Soybean_tonnes_ha": 2.2,
+      "Rice_tonnes_ha": 5.9,
+      "Fertilizer_kg_ha": 140.5,
+      "Production_Mt": 268.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Soybean_tonnes_ha",
+    "Rice_tonnes_ha",
+    "Fertilizer_kg_ha",
+    "Production_Mt"
+  ]
+}

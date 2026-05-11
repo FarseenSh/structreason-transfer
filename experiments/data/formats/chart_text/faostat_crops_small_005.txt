@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Area_harvested_kha: Argentina=34218.5, Egypt=30256.1, Mexico=698.1, Canada=26405.6, Pakistan=20272.
+Maize_tonnes_ha: Argentina=2.9, Egypt=11.3, Mexico=9.8, Canada=3.5, Pakistan=11.6.

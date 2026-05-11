@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Solar_GWh: Spain=4202.9, Switzerland=266.7, Norway=2867.2, Austria=408.4, Italy=2050, Denmark=191.9, Greece=2867.7, France=4625.4, Ireland=691.3, UK=4437.8.
+Wind_GWh: Spain=7093.5, Switzerland=6154.3, Norway=7273.9, Austria=4163.6, Italy=8582, Denmark=9400.1, Greece=9383, France=3379.6, Ireland=7916.1, UK=1947.5.
+Nuclear_GWh: Spain=7431.3, Switzerland=39.4, Norway=2903.8, Austria=9476, Italy=13115.4, Denmark=735.4, Greece=8378.3, France=9551.6, Ireland=13985.9, UK=9827.2.
+CO2_Mt: Spain=9.1, Switzerland=12.6, Norway=51.2, Austria=18, Italy=74.3, Denmark=73.7, Greece=75.9, France=24.1, Ireland=57.6, UK=53.4.

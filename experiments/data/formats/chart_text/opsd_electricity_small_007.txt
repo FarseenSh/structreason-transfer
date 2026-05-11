@@ -1,0 +1,3 @@
+Bar chart: "OPSD Electricity — Energy".
+Wind_GWh: Sweden=1039.8, Finland=11715.6, Hungary=8277.4, France=2344.4, Denmark=366.3.
+Solar_GWh: Sweden=2073.3, Finland=1001.6, Hungary=1388.6, France=5249.2, Denmark=3658.9.

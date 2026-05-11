@@ -1,0 +1,5 @@
+The following 5 values represent EPS for each Entity (CompanyS, CompanyB, CompanyG, CompanyR, CompanyF), listed in order:
+[0.7, 12.4, 16.2, 6.6, -1.8]
+
+The following 5 values represent Operating_margin_pct for each Entity (CompanyS, CompanyB, CompanyG, CompanyR, CompanyF), listed in order:
+[23, -3.2, 14.5, 32.1, 39.9]

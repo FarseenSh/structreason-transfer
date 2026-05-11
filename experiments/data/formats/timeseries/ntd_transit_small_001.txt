@@ -1,0 +1,5 @@
+The following 5 values represent Operating_cost_k for each Entity (Line_Orange, Line_Gold, Tram_3, Line_Red, Line_Brown), listed in order:
+[200.3, 1377, 14029.6, 16097.4, 14410.5]
+
+The following 5 values represent Monthly_riders_k for each Entity (Line_Orange, Line_Gold, Tram_3, Line_Red, Line_Brown), listed in order:
+[5320.9, 5673.7, 5929.7, 5808.8, 5917.2]

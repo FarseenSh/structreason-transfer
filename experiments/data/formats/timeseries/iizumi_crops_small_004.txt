@@ -1,0 +1,5 @@
+The following 5 values represent Soybean_tonnes_ha for each Entity (France, Mexico, Canada, Thailand, Pakistan), listed in order:
+[1.1, 2.6, 3.4, 3, 1.6]
+
+The following 5 values represent Production_Mt for each Entity (France, Mexico, Canada, Thailand, Pakistan), listed in order:
+[219.8, 217.2, 82.4, 188.7, 185.2]

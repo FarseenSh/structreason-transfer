@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Bangladesh: {Yield_index=81.5, Production_Mt=27.8}
+  Indonesia: {Yield_index=175.9, Production_Mt=15}
+  Russia: {Yield_index=83.4, Production_Mt=23.9}
+  Vietnam: {Yield_index=87.9, Production_Mt=41.4}
+  Egypt: {Yield_index=134.2, Production_Mt=131.6}
+
+Edges (top 3 by metric similarity):
+  Bangladesh -- Russia (sim=1.00, similar Yield_index)
+  Bangladesh -- Vietnam (sim=0.99, similar Yield_index)
+  Russia -- Vietnam (sim=0.99, similar Yield_index)

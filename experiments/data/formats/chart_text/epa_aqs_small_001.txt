@@ -1,0 +1,3 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+AQI: Station_NW1=38.2, Station_C5=167.9, Station_SE12=164.6, Station_S16=103.1, Station_NW10=120.
+O3_ppb: Station_NW1=29.9, Station_C5=46.4, Station_SE12=29.2, Station_S16=16.5, Station_NW10=83.7.

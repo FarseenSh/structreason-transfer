@@ -1,0 +1,11 @@
+The following 10 values represent Hydro_GWh for each Entity (Switzerland, Norway, Italy, Hungary, Poland, Austria, Belgium, Greece, Finland, Ireland), listed in order:
+[5020.5, 6810.7, 2714.3, 1641.6, 2193.7, 2256.2, 3632.9, 2675.1, 2243.1, 5223.2]
+
+The following 10 values represent Solar_GWh for each Entity (Switzerland, Norway, Italy, Hungary, Poland, Austria, Belgium, Greece, Finland, Ireland), listed in order:
+[412.9, 2108.1, 4169.5, 1137.5, 1403.5, 1283.9, 105.5, 2895.2, 329.9, 1710.3]
+
+The following 10 values represent Gas_GWh for each Entity (Switzerland, Norway, Italy, Hungary, Poland, Austria, Belgium, Greece, Finland, Ireland), listed in order:
+[9949.6, 9208.4, 2386.2, 3307, 4797.9, 8490.8, 8085.7, 1524.5, 1507.2, 4342.3]
+
+The following 10 values represent Coal_GWh for each Entity (Switzerland, Norway, Italy, Hungary, Poland, Austria, Belgium, Greece, Finland, Ireland), listed in order:
+[6967.3, 7062.6, 903.6, 4615.7, 1287.6, 5504.7, 7335.6, 3665.4, 710.5, 4655.1]

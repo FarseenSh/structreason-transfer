@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Total_GWh: Poland=32550.1, UK=17805.6, Netherlands=4861.7, Denmark=24572.7, Germany=26204.9, Greece=38991.3, Spain=32733.9, Norway=43820.4, Hungary=39583.2, Portugal=19562.1.
+Hydro_GWh: Poland=5094.5, UK=6003.6, Netherlands=7659.4, Denmark=3436.6, Germany=5221.4, Greece=3202, Spain=5928.8, Norway=7304.7, Hungary=7361.9, Portugal=1341.
+CO2_Mt: Poland=17.1, UK=60.6, Netherlands=50.8, Denmark=72.5, Germany=25.8, Greece=68, Spain=55, Norway=16.4, Hungary=11, Portugal=56.5.
+Nuclear_GWh: Poland=2376.9, UK=11914.9, Netherlands=8356.4, Denmark=7153, Germany=4132.9, Greece=14757.7, Spain=10832.5, Norway=11671, Hungary=11530.7, Portugal=8760.2.

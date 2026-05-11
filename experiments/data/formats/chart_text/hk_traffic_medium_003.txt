@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Accidents_monthly: Route_Q17=25.1, Route_K11=22.9, Route_F6=12.2, Route_J10=24.7, Route_L12=42.1, Route_A1=7.3, Route_H8=34.9.
+Bus_passengers: Route_Q17=5749.8, Route_K11=45113.6, Route_F6=4362.4, Route_J10=34900.5, Route_L12=38110.1, Route_A1=41581.7, Route_H8=29722.6.
+Peak_hour_flow: Route_Q17=11029, Route_K11=21523.7, Route_F6=18450.6, Route_J10=20601.7, Route_L12=23171.4, Route_A1=29934.7, Route_H8=7667.3.
+Avg_speed_kmh: Route_Q17=50.1, Route_K11=46.3, Route_F6=18.2, Route_J10=41.3, Route_L12=53, Route_A1=57.7, Route_H8=56.7.

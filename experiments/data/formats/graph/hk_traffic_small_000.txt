@@ -1,0 +1,13 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_B2: {Avg_speed_kmh=36.9, Transit_ridership=68160.7}
+  Route_N14: {Avg_speed_kmh=79.2, Transit_ridership=98560.7}
+  Route_E5: {Avg_speed_kmh=16.1, Transit_ridership=195718.9}
+  Route_F6: {Avg_speed_kmh=44.4, Transit_ridership=97601}
+  Route_R18: {Avg_speed_kmh=69.8, Transit_ridership=30529.7}
+
+Edges (top 3 by metric similarity):
+  Route_B2 -- Route_F6 (sim=1.00, similar Avg_speed_kmh)
+  Route_B2 -- Route_N14 (sim=1.00, similar Avg_speed_kmh)
+  Route_N14 -- Route_F6 (sim=1.00, similar Avg_speed_kmh)

@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_009",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Life_expectancy",
+    "Gini_index",
+    "Trust_in_govt_pct",
+    "HDI"
+  ],
+  "data": [
+    {
+      "Entity": "Austria",
+      "Life_expectancy": 82.1,
+      "Gini_index": 30.8,
+      "Trust_in_govt_pct": 52.9,
+      "HDI": 0.9
+    },
+    {
+      "Entity": "Netherlands",
+      "Life_expectancy": 75.1,
+      "Gini_index": 35.1,
+      "Trust_in_govt_pct": 27.9,
+      "HDI": 0.8
+    },
+    {
+      "Entity": "Poland",
+      "Life_expectancy": 75.9,
+      "Gini_index": 25.6,
+      "Trust_in_govt_pct": 49.6,
+      "HDI": 0.9
+    },
+    {
+      "Entity": "France",
+      "Life_expectancy": 74.9,
+      "Gini_index": 23.8,
+      "Trust_in_govt_pct": 51.0,
+      "HDI": 0.8
+    },
+    {
+      "Entity": "Italy",
+      "Life_expectancy": 77.8,
+      "Gini_index": 25.3,
+      "Trust_in_govt_pct": 68.1,
+      "HDI": 0.9
+    },
+    {
+      "Entity": "Denmark",
+      "Life_expectancy": 80.2,
+      "Gini_index": 38.6,
+      "Trust_in_govt_pct": 12.3,
+      "HDI": 1.0
+    },
+    {
+      "Entity": "Greece",
+      "Life_expectancy": 74.7,
+      "Gini_index": 23.2,
+      "Trust_in_govt_pct": 68.3,
+      "HDI": 0.8
+    },
+    {
+      "Entity": "Bulgaria",
+      "Life_expectancy": 76.0,
+      "Gini_index": 26.2,
+      "Trust_in_govt_pct": 52.9,
+      "HDI": 0.9
+    },
+    {
+      "Entity": "Hungary",
+      "Life_expectancy": 83.2,
+      "Gini_index": 23.5,
+      "Trust_in_govt_pct": 22.7,
+      "HDI": 0.8
+    },
+    {
+      "Entity": "Germany",
+      "Life_expectancy": 72.6,
+      "Gini_index": 24.9,
+      "Trust_in_govt_pct": 63.0,
+      "HDI": 0.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Life_expectancy",
+    "Gini_index",
+    "Trust_in_govt_pct",
+    "HDI"
+  ]
+}

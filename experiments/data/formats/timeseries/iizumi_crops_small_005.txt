@@ -1,0 +1,5 @@
+The following 5 values represent Fertilizer_kg_ha for each Entity (Pakistan, USA, Mexico, Brazil, China), listed in order:
+[209.4, 232.3, 90.7, 75.9, 277.4]
+
+The following 5 values represent Wheat_tonnes_ha for each Entity (Pakistan, USA, Mexico, Brazil, China), listed in order:
+[4.5, 3.7, 1.7, 7.8, 1.7]

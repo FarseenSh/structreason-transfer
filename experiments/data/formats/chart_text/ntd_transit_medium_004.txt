@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Avg_trip_minutes: Line_Silver=50.7, Line_Green=35.2, Tram_2=40.1, Ferry_B=19.1, Line_Yellow=48.2, Line_Pink=36.5, Bus_202=22.
+Complaints_per_10k: Line_Silver=14.9, Line_Green=9.7, Tram_2=1.5, Ferry_B=14.6, Line_Yellow=8.4, Line_Pink=5, Bus_202=12.6.
+Vehicles_in_service: Line_Silver=158.3, Line_Green=195.5, Tram_2=67.6, Ferry_B=102.1, Line_Yellow=56.7, Line_Pink=50.1, Bus_202=91.7.
+On_time_pct: Line_Silver=91.9, Line_Green=69.7, Tram_2=73.8, Ferry_B=88, Line_Yellow=80, Line_Pink=80.8, Bus_202=88.2.

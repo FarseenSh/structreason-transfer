@@ -1,0 +1,20 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_G7: {Avg_speed_kmh=31.5, Congestion_index=4.1, Road_condition_score=51.4, Bus_passengers=26577}
+  Route_B2: {Avg_speed_kmh=60.8, Congestion_index=1.6, Road_condition_score=55.2, Bus_passengers=45580.1}
+  Route_C3: {Avg_speed_kmh=19.4, Congestion_index=2.2, Road_condition_score=76.4, Bus_passengers=39890}
+  Route_J10: {Avg_speed_kmh=17.5, Congestion_index=2.4, Road_condition_score=62.5, Bus_passengers=3877.2}
+  Route_N14: {Avg_speed_kmh=57.5, Congestion_index=2.9, Road_condition_score=60, Bus_passengers=22025.8}
+  Route_H8: {Avg_speed_kmh=37, Congestion_index=2.1, Road_condition_score=71, Bus_passengers=35217.6}
+  Route_S19: {Avg_speed_kmh=57.6, Congestion_index=1.3, Road_condition_score=84.8, Bus_passengers=49348.9}
+  Route_D4: {Avg_speed_kmh=21.1, Congestion_index=2.4, Road_condition_score=62, Bus_passengers=23460.4}
+  Route_T20: {Avg_speed_kmh=76.7, Congestion_index=2, Road_condition_score=74.1, Bus_passengers=5546.5}
+  Route_E5: {Avg_speed_kmh=63.7, Congestion_index=2.4, Road_condition_score=96, Bus_passengers=28538.4}
+
+Edges (top 5 by metric similarity):
+  Route_G7 -- Route_H8 (sim=1.00, similar Congestion_index)
+  Route_G7 -- Route_S19 (sim=1.00, similar Congestion_index)
+  Route_H8 -- Route_S19 (sim=1.00, similar Congestion_index)
+  Route_B2 -- Route_S19 (sim=1.00, similar Congestion_index)
+  Route_C3 -- Route_H8 (sim=1.00, similar Congestion_index)

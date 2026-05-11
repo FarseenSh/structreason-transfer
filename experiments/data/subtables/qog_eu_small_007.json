@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_007",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Unemployment_pct",
+    "Education_spending_pct"
+  ],
+  "data": [
+    {
+      "Entity": "France",
+      "Unemployment_pct": 4.6,
+      "Education_spending_pct": 7.3
+    },
+    {
+      "Entity": "Austria",
+      "Unemployment_pct": 15.6,
+      "Education_spending_pct": 4.0
+    },
+    {
+      "Entity": "Poland",
+      "Unemployment_pct": 8.0,
+      "Education_spending_pct": 8.1
+    },
+    {
+      "Entity": "Switzerland",
+      "Unemployment_pct": 15.4,
+      "Education_spending_pct": 4.7
+    },
+    {
+      "Entity": "Bulgaria",
+      "Unemployment_pct": 16.7,
+      "Education_spending_pct": 3.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Unemployment_pct",
+    "Education_spending_pct"
+  ]
+}

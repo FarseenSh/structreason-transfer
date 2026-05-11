@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Brazil: {Maize_tonnes_ha=9.7, Production_Mt=63.8, Wheat_tonnes_ha=8.4, Yield_index=144.7}
+  Vietnam: {Maize_tonnes_ha=5.8, Production_Mt=250, Wheat_tonnes_ha=6.4, Yield_index=114.8}
+  USA: {Maize_tonnes_ha=4.4, Production_Mt=33.1, Wheat_tonnes_ha=2.8, Yield_index=98.8}
+  Russia: {Maize_tonnes_ha=3.1, Production_Mt=271.1, Wheat_tonnes_ha=7.5, Yield_index=147.2}
+  Argentina: {Maize_tonnes_ha=8.7, Production_Mt=12.9, Wheat_tonnes_ha=4.8, Yield_index=104.3}
+  Pakistan: {Maize_tonnes_ha=6.7, Production_Mt=159.1, Wheat_tonnes_ha=1.6, Yield_index=80.4}
+  Turkey: {Maize_tonnes_ha=10.1, Production_Mt=22.2, Wheat_tonnes_ha=5.2, Yield_index=98.5}
+  France: {Maize_tonnes_ha=6.6, Production_Mt=235, Wheat_tonnes_ha=7.6, Yield_index=165.2}
+  India: {Maize_tonnes_ha=6.1, Production_Mt=67.4, Wheat_tonnes_ha=4.7, Yield_index=94}
+  Canada: {Maize_tonnes_ha=5, Production_Mt=171.9, Wheat_tonnes_ha=7.2, Yield_index=88.2}
+
+Edges (top 5 by metric similarity):
+  Russia -- Canada (sim=1.00, similar Wheat_tonnes_ha)
+  Pakistan -- Canada (sim=1.00, similar Maize_tonnes_ha)
+  Russia -- Pakistan (sim=1.00, similar Maize_tonnes_ha)
+  Vietnam -- Pakistan (sim=1.00, similar Maize_tonnes_ha)
+  Vietnam -- Canada (sim=1.00, similar Maize_tonnes_ha)

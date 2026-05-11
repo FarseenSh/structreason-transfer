@@ -1,0 +1,26 @@
+{
+  "model_id": "moonshotai/kimi-k2.5",
+  "model_name": "Kimi-K2.5",
+  "vision": true,
+  "total_calls": 8620,
+  "errors": 0,
+  "elapsed_seconds": 2746.7,
+  "total_input_tokens": 5438918,
+  "total_output_tokens": 6773646,
+  "accuracy_by_format": {
+    "table": 0.891,
+    "chart_text": 0.8161,
+    "graph": 0.8875,
+    "timeseries": 0.8782,
+    "chart_image": 0.319
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.8272,
+    "Q2_comparison": 0.8944,
+    "Q3_aggregation": 0.7072,
+    "Q4_trend": 0.924,
+    "Q5_extremum": 0.86,
+    "Q6_multi_hop": 0.8036,
+    "Q7_conditional_aggregation": 0.2968
+  }
+}

@@ -1,0 +1,5 @@
+The following 5 values represent HDI for each Entity (France, Portugal, Bulgaria, Sweden, Netherlands), listed in order:
+[1, 0.8, 0.8, 0.8, 0.8]
+
+The following 5 values represent Education_spending_pct for each Entity (France, Portugal, Bulgaria, Sweden, Netherlands), listed in order:
+[4.1, 5.9, 4.6, 6.8, 5.7]

@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+PM10_ug_m3: Station_NW1=49.3, Station_E8=64.1, Station_S7=53.4, Station_C5=56.3, Station_N15=68, Station_R19=32.6, Station_NE2=91.7.
+AQI: Station_NW1=85.6, Station_E8=139.6, Station_S7=75.1, Station_C5=90.4, Station_N15=139.8, Station_R19=174, Station_NE2=76.1.
+O3_ppb: Station_NW1=57.7, Station_E8=34.7, Station_S7=82.3, Station_C5=71.7, Station_N15=30.2, Station_R19=16.2, Station_NE2=80.4.
+Temperature_C: Station_NW1=0.9, Station_E8=0, Station_S7=27.9, Station_C5=28.8, Station_N15=-2.7, Station_R19=26.1, Station_NE2=1.8.

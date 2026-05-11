@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Soybean_tonnes_ha: Mexico=2.7, Australia=1.3, Thailand=2, Vietnam=2.1, Brazil=3.7.
+Yield_index: Mexico=109.9, Australia=131.8, Thailand=165, Vietnam=111.1, Brazil=166.

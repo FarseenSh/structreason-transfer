@@ -1,0 +1,5 @@
+The following 5 values represent NO2_ppb for each Entity (Station_NW1, Station_W18, Station_E8, Station_S7, Station_C5), listed in order:
+[42.8, 16, 47.2, 18.7, 46.8]
+
+The following 5 values represent PM25_ug_m3 for each Entity (Station_NW1, Station_W18, Station_E8, Station_S7, Station_C5), listed in order:
+[38.2, 25.7, 8.2, 54.3, 61.3]

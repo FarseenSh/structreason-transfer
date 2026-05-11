@@ -1,0 +1,45 @@
+{
+  "id": "ntd_transit_small_000",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Monthly_riders_k",
+    "Farebox_recovery_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Bus_101",
+      "Monthly_riders_k": 837.8,
+      "Farebox_recovery_pct": 68.9
+    },
+    {
+      "Entity": "Tram_2",
+      "Monthly_riders_k": 5475.6,
+      "Farebox_recovery_pct": 44.5
+    },
+    {
+      "Entity": "Line_Silver",
+      "Monthly_riders_k": 5049.5,
+      "Farebox_recovery_pct": 49.2
+    },
+    {
+      "Entity": "Line_Gold",
+      "Monthly_riders_k": 6482.1,
+      "Farebox_recovery_pct": 64.1
+    },
+    {
+      "Entity": "Bus_202",
+      "Monthly_riders_k": 5228.5,
+      "Farebox_recovery_pct": 54.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Monthly_riders_k",
+    "Farebox_recovery_pct"
+  ]
+}

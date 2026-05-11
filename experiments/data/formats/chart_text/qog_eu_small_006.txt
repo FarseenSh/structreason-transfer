@@ -1,0 +1,3 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Education_spending_pct: Norway=6.5, Belgium=3.6, Denmark=8.3, Spain=5.9, Greece=7.4.
+HDI: Norway=0.8, Belgium=0.9, Denmark=0.9, Spain=0.9, Greece=0.9.

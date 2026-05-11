@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Coal_GWh: UK=1613.5, Belgium=4261.9, Germany=2944.7, Romania=3886.2, Finland=7396.8, Poland=4381.9, Ireland=3350.2, Netherlands=7916, Sweden=568.5, Spain=7460.3.
+Solar_GWh: UK=3059.8, Belgium=3072.2, Germany=5539.6, Romania=3093.2, Finland=2686.6, Poland=1707.7, Ireland=3987, Netherlands=3460.9, Sweden=1364.6, Spain=4285.5.
+Wind_GWh: UK=7800.2, Belgium=4888.5, Germany=251.9, Romania=5469.7, Finland=271.5, Poland=1085, Ireland=5281.2, Netherlands=1166.7, Sweden=3452.9, Spain=7934.8.
+Nuclear_GWh: UK=4629.2, Belgium=14964.7, Germany=13744.5, Romania=8779.6, Finland=14504.2, Poland=13020.3, Ireland=4783.5, Netherlands=11243.9, Sweden=2052.5, Spain=10268.3.

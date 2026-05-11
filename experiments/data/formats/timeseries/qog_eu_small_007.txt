@@ -1,0 +1,5 @@
+The following 5 values represent Unemployment_pct for each Entity (France, Austria, Poland, Switzerland, Bulgaria), listed in order:
+[4.6, 15.6, 8, 15.4, 16.7]
+
+The following 5 values represent Education_spending_pct for each Entity (France, Austria, Poland, Switzerland, Bulgaria), listed in order:
+[7.3, 4, 8.1, 4.7, 3.7]

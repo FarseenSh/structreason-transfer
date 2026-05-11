@@ -1,0 +1,12 @@
+| Entity | Fertilizer_kg_ha | Rice_tonnes_ha | Maize_tonnes_ha | Production_Mt |
+|---|---|---|---|---|
+| Thailand | 94.2 | 6.3 | 2.8 | 198.7 |
+| Germany | 224.9 | 7.1 | 9.3 | 178.6 |
+| Vietnam | 195.1 | 6 | 4 | 9.9 |
+| Russia | 382 | 4.2 | 9.8 | 63.8 |
+| Mexico | 53.6 | 7.1 | 9 | 12.8 |
+| Ukraine | 239.2 | 3.2 | 3.8 | 103.3 |
+| Egypt | 293.8 | 5.2 | 10.3 | 106.6 |
+| Canada | 68.5 | 6.2 | 6.6 | 161.4 |
+| Pakistan | 261.9 | 6.8 | 7.4 | 208.5 |
+| India | 348.4 | 7 | 11.7 | 57.9 |

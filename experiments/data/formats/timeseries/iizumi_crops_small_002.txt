@@ -1,0 +1,5 @@
+The following 5 values represent Fertilizer_kg_ha for each Entity (India, Indonesia, Nigeria, USA, China), listed in order:
+[189.1, 91.9, 79.5, 56.4, 263.3]
+
+The following 5 values represent Maize_tonnes_ha for each Entity (India, Indonesia, Nigeria, USA, China), listed in order:
+[8.1, 8.5, 9.7, 5.3, 11.2]

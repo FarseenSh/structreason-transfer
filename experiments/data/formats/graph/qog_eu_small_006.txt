@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Norway: {Education_spending_pct=6.5, HDI=0.8}
+  Belgium: {Education_spending_pct=3.6, HDI=0.9}
+  Denmark: {Education_spending_pct=8.3, HDI=0.9}
+  Spain: {Education_spending_pct=5.9, HDI=0.9}
+  Greece: {Education_spending_pct=7.4, HDI=0.9}
+
+Edges (top 3 by metric similarity):
+  Norway -- Greece (sim=1.00, similar HDI)
+  Denmark -- Greece (sim=1.00, similar HDI)
+  Norway -- Denmark (sim=1.00, similar HDI)

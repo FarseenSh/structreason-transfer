@@ -1,0 +1,20 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  UK: {Solar_GWh=1597.6, Gas_GWh=2558.5, Wind_GWh=7858.5, Total_GWh=36324.5}
+  Ireland: {Solar_GWh=4012.8, Gas_GWh=3162.3, Wind_GWh=11232.8, Total_GWh=44371.7}
+  France: {Solar_GWh=1463, Gas_GWh=1222.6, Wind_GWh=1372.7, Total_GWh=10197.5}
+  Poland: {Solar_GWh=3973.3, Gas_GWh=544, Wind_GWh=3075.8, Total_GWh=11870.7}
+  Czechia: {Solar_GWh=3128, Gas_GWh=9739.4, Wind_GWh=10351.5, Total_GWh=29886}
+  Denmark: {Solar_GWh=999.5, Gas_GWh=1235.2, Wind_GWh=9411.5, Total_GWh=42503.6}
+  Germany: {Solar_GWh=1624.5, Gas_GWh=1511.4, Wind_GWh=11932.2, Total_GWh=5789.6}
+  Hungary: {Solar_GWh=3178.2, Gas_GWh=8748.4, Wind_GWh=3904.1, Total_GWh=42842.3}
+  Spain: {Solar_GWh=4425.3, Gas_GWh=6736, Wind_GWh=11349.7, Total_GWh=18469.8}
+  Finland: {Solar_GWh=2449.7, Gas_GWh=4529.9, Wind_GWh=4255.5, Total_GWh=21498.9}
+
+Edges (top 5 by metric similarity):
+  UK -- Denmark (sim=1.00, similar Solar_GWh)
+  UK -- Ireland (sim=1.00, similar Gas_GWh)
+  Ireland -- Denmark (sim=1.00, similar Wind_GWh)
+  Hungary -- Finland (sim=0.99, similar Wind_GWh)
+  France -- Finland (sim=0.99, similar Solar_GWh)

@@ -1,0 +1,20 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Mexico: {Maize_tonnes_ha=5.4, Soybean_tonnes_ha=3.2, Area_harvested_kha=33025.4, Wheat_tonnes_ha=3}
+  India: {Maize_tonnes_ha=3.5, Soybean_tonnes_ha=2.5, Area_harvested_kha=18024.8, Wheat_tonnes_ha=5.7}
+  France: {Maize_tonnes_ha=9.1, Soybean_tonnes_ha=3.1, Area_harvested_kha=16785.9, Wheat_tonnes_ha=6.8}
+  China: {Maize_tonnes_ha=10.7, Soybean_tonnes_ha=3.3, Area_harvested_kha=12512.8, Wheat_tonnes_ha=8.1}
+  Ukraine: {Maize_tonnes_ha=11.1, Soybean_tonnes_ha=3.8, Area_harvested_kha=22559.5, Wheat_tonnes_ha=1.9}
+  Australia: {Maize_tonnes_ha=10.8, Soybean_tonnes_ha=3.3, Area_harvested_kha=18441.8, Wheat_tonnes_ha=8.8}
+  Canada: {Maize_tonnes_ha=6.5, Soybean_tonnes_ha=2.3, Area_harvested_kha=4952.2, Wheat_tonnes_ha=6.8}
+  Vietnam: {Maize_tonnes_ha=4.8, Soybean_tonnes_ha=1.8, Area_harvested_kha=30487.7, Wheat_tonnes_ha=3.6}
+  Turkey: {Maize_tonnes_ha=8.4, Soybean_tonnes_ha=2.5, Area_harvested_kha=12885.9, Wheat_tonnes_ha=3}
+  Indonesia: {Maize_tonnes_ha=11.5, Soybean_tonnes_ha=2, Area_harvested_kha=15424, Wheat_tonnes_ha=3.7}
+
+Edges (top 5 by metric similarity):
+  Mexico -- Vietnam (sim=1.00, similar Wheat_tonnes_ha)
+  France -- Australia (sim=1.00, similar Soybean_tonnes_ha)
+  Turkey -- Indonesia (sim=1.00, similar Soybean_tonnes_ha)
+  France -- Turkey (sim=1.00, similar Soybean_tonnes_ha)
+  India -- Vietnam (sim=1.00, similar Soybean_tonnes_ha)

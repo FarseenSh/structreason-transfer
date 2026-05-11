@@ -1,0 +1,20 @@
+The following 20 values represent Wheat_tonnes_ha for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[7.1, 7.4, 4.7, 5.3, 4, 2.8, 3.5, 8.3, 3.8, 8.8, 3.3, 6.9, 5.8, 6.7, 6.3, 6.8, 8.3, 5.7, 2, 3.5]
+
+The following 20 values represent Fertilizer_kg_ha for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[289.1, 207.7, 228.4, 246.7, 165.4, 314.1, 294.9, 291.4, 291.8, 358.3, 246.2, 387.5, 65.3, 260.1, 292.4, 201.3, 129.5, 229, 158.6, 365.5]
+
+The following 20 values represent Production_Mt for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[110.3, 56.8, 175, 121.8, 33.3, 171.6, 163.7, 56.1, 181.3, 172.4, 233.2, 111.7, 78.4, 285.6, 170.6, 13, 247.1, 63, 236.9, 213]
+
+The following 20 values represent Maize_tonnes_ha for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[11.7, 11.7, 4.7, 9.7, 5.2, 8.3, 8, 2.5, 2.1, 2.6, 3.3, 4.6, 11.1, 7.2, 10, 10.4, 9.3, 5.9, 10.6, 9.4]
+
+The following 20 values represent Soybean_tonnes_ha for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[3.2, 3.7, 2.8, 2.6, 3.7, 2.4, 3.4, 1.2, 1, 2.6, 1.2, 3.9, 1, 3.2, 1.7, 3.9, 2.1, 1.1, 1.1, 2.7]
+
+The following 20 values represent Yield_index for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[178.4, 177.6, 100.5, 117.9, 72.1, 122.7, 132, 90.1, 133.5, 168, 60.1, 87.5, 85.2, 74.9, 79.9, 135.1, 72.3, 148.6, 166.4, 171.2]
+
+The following 20 values represent Area_harvested_kha for each Entity (Indonesia, Turkey, Thailand, Germany, India, Mexico, China, France, USA, Ukraine, Nigeria, Brazil, Egypt, Argentina, Australia, Bangladesh, Russia, Vietnam, Canada, Pakistan), listed in order:
+[23276.1, 7310.2, 3442.7, 8504.9, 33687.5, 33700.9, 13676.2, 11739.8, 18095.4, 10563.2, 34298.4, 8132.1, 13235.4, 15313.3, 4814.7, 13707.5, 30057.2, 5342.5, 20648.8, 14529]

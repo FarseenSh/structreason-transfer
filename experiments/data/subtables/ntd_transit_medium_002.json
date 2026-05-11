@@ -1,0 +1,94 @@
+{
+  "id": "ntd_transit_medium_002",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "On_time_pct",
+    "Complaints_per_10k",
+    "Avg_trip_minutes",
+    "Vehicles_in_service"
+  ],
+  "data": [
+    {
+      "Entity": "Ferry_A",
+      "On_time_pct": 88.0,
+      "Complaints_per_10k": 1.7,
+      "Avg_trip_minutes": 38.7,
+      "Vehicles_in_service": 132.2
+    },
+    {
+      "Entity": "Line_Gold",
+      "On_time_pct": 86.8,
+      "Complaints_per_10k": 0.8,
+      "Avg_trip_minutes": 35.9,
+      "Vehicles_in_service": 26.3
+    },
+    {
+      "Entity": "Line_Red",
+      "On_time_pct": 90.4,
+      "Complaints_per_10k": 11.8,
+      "Avg_trip_minutes": 52.7,
+      "Vehicles_in_service": 104.3
+    },
+    {
+      "Entity": "Line_Silver",
+      "On_time_pct": 77.1,
+      "Complaints_per_10k": 8.5,
+      "Avg_trip_minutes": 50.6,
+      "Vehicles_in_service": 140.6
+    },
+    {
+      "Entity": "Ferry_B",
+      "On_time_pct": 66.7,
+      "Complaints_per_10k": 11.8,
+      "Avg_trip_minutes": 43.2,
+      "Vehicles_in_service": 17.7
+    },
+    {
+      "Entity": "Line_Orange",
+      "On_time_pct": 70.6,
+      "Complaints_per_10k": 2.9,
+      "Avg_trip_minutes": 8.9,
+      "Vehicles_in_service": 72.2
+    },
+    {
+      "Entity": "Tram_1",
+      "On_time_pct": 85.3,
+      "Complaints_per_10k": 6.4,
+      "Avg_trip_minutes": 30.6,
+      "Vehicles_in_service": 144.8
+    },
+    {
+      "Entity": "Bus_404",
+      "On_time_pct": 90.6,
+      "Complaints_per_10k": 13.8,
+      "Avg_trip_minutes": 50.1,
+      "Vehicles_in_service": 35.6
+    },
+    {
+      "Entity": "Bus_101",
+      "On_time_pct": 89.9,
+      "Complaints_per_10k": 3.0,
+      "Avg_trip_minutes": 28.4,
+      "Vehicles_in_service": 72.9
+    },
+    {
+      "Entity": "Tram_2",
+      "On_time_pct": 84.3,
+      "Complaints_per_10k": 1.4,
+      "Avg_trip_minutes": 53.2,
+      "Vehicles_in_service": 139.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "On_time_pct",
+    "Complaints_per_10k",
+    "Avg_trip_minutes",
+    "Vehicles_in_service"
+  ]
+}

@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Daily_vehicles: Route_S19=9534.2, Route_A1=17870.7, Route_Q17=38604.5, Route_J10=89972.9, Route_P16=26135.6, Route_K11=14517.5, Route_D4=78415.8.
+Accidents_monthly: Route_S19=18.5, Route_A1=35.2, Route_Q17=6.8, Route_J10=28.2, Route_P16=19.3, Route_K11=4.2, Route_D4=40.
+Peak_hour_flow: Route_S19=16620, Route_A1=17463.1, Route_Q17=24944.6, Route_J10=15960.8, Route_P16=21124.4, Route_K11=28613.9, Route_D4=9761.5.
+Avg_speed_kmh: Route_S19=18.5, Route_A1=76.1, Route_Q17=49.6, Route_J10=56.8, Route_P16=42.3, Route_K11=22.8, Route_D4=30.1.

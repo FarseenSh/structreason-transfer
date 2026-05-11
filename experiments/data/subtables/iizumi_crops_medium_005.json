@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_005",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Maize_tonnes_ha",
+    "Rice_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Yield_index"
+  ],
+  "data": [
+    {
+      "Entity": "Ukraine",
+      "Maize_tonnes_ha": 11.7,
+      "Rice_tonnes_ha": 3.5,
+      "Soybean_tonnes_ha": 1.7,
+      "Yield_index": 162.2
+    },
+    {
+      "Entity": "Turkey",
+      "Maize_tonnes_ha": 10.6,
+      "Rice_tonnes_ha": 2.5,
+      "Soybean_tonnes_ha": 1.3,
+      "Yield_index": 89.4
+    },
+    {
+      "Entity": "Indonesia",
+      "Maize_tonnes_ha": 7.1,
+      "Rice_tonnes_ha": 4.2,
+      "Soybean_tonnes_ha": 1.0,
+      "Yield_index": 92.0
+    },
+    {
+      "Entity": "Australia",
+      "Maize_tonnes_ha": 4.5,
+      "Rice_tonnes_ha": 2.1,
+      "Soybean_tonnes_ha": 3.1,
+      "Yield_index": 157.0
+    },
+    {
+      "Entity": "Bangladesh",
+      "Maize_tonnes_ha": 8.9,
+      "Rice_tonnes_ha": 2.6,
+      "Soybean_tonnes_ha": 1.8,
+      "Yield_index": 92.8
+    },
+    {
+      "Entity": "Argentina",
+      "Maize_tonnes_ha": 6.3,
+      "Rice_tonnes_ha": 3.5,
+      "Soybean_tonnes_ha": 2.5,
+      "Yield_index": 60.3
+    },
+    {
+      "Entity": "Germany",
+      "Maize_tonnes_ha": 10.0,
+      "Rice_tonnes_ha": 2.9,
+      "Soybean_tonnes_ha": 1.3,
+      "Yield_index": 111.3
+    },
+    {
+      "Entity": "Vietnam",
+      "Maize_tonnes_ha": 12.0,
+      "Rice_tonnes_ha": 6.0,
+      "Soybean_tonnes_ha": 4.0,
+      "Yield_index": 61.5
+    },
+    {
+      "Entity": "Thailand",
+      "Maize_tonnes_ha": 5.5,
+      "Rice_tonnes_ha": 2.6,
+      "Soybean_tonnes_ha": 1.4,
+      "Yield_index": 169.2
+    },
+    {
+      "Entity": "Pakistan",
+      "Maize_tonnes_ha": 4.4,
+      "Rice_tonnes_ha": 6.8,
+      "Soybean_tonnes_ha": 2.2,
+      "Yield_index": 137.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Maize_tonnes_ha",
+    "Rice_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Yield_index"
+  ]
+}

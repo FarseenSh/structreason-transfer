@@ -1,0 +1,7 @@
+| Entity | Life_expectancy | Education_spending_pct |
+|---|---|---|
+| Sweden | 81.4 | 6.3 |
+| Finland | 80 | 4.2 |
+| Portugal | 80.5 | 4.1 |
+| Italy | 81.4 | 6.8 |
+| Greece | 77.5 | 5.9 |

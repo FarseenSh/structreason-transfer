@@ -1,0 +1,5 @@
+The following 5 values represent CO2_Mt for each Entity (Hungary, Romania, Spain, Finland, Ireland), listed in order:
+[18.6, 41.5, 66, 69, 45.4]
+
+The following 5 values represent Hydro_GWh for each Entity (Hungary, Romania, Spain, Finland, Ireland), listed in order:
+[4230.1, 5611.7, 4273.2, 3399.7, 774.8]

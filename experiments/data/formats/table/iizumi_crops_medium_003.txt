@@ -1,0 +1,12 @@
+| Entity | Wheat_tonnes_ha | Production_Mt | Soybean_tonnes_ha | Maize_tonnes_ha |
+|---|---|---|---|---|
+| Germany | 6.9 | 297.6 | 3.6 | 10.5 |
+| Turkey | 3.5 | 172.7 | 3.2 | 3.6 |
+| Mexico | 5.7 | 38.9 | 3.9 | 10.5 |
+| Bangladesh | 7.9 | 18.4 | 3.7 | 2.1 |
+| Nigeria | 3.4 | 238.1 | 1.8 | 6.4 |
+| Ukraine | 7 | 130 | 3 | 6.7 |
+| Argentina | 8.7 | 77.8 | 1.1 | 5.7 |
+| USA | 8 | 107.6 | 4 | 7.9 |
+| Australia | 4.5 | 228.4 | 1.8 | 11.1 |
+| Egypt | 6.1 | 142.2 | 3 | 5.3 |

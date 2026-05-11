@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+Temperature_C: Station_U20=4.9, Station_W9=-0.2, Station_SE12=-0.2, Station_SW13=6.1, Station_C5=-4.7, Station_N6=8.5, Station_SW4=9.7.
+AQI: Station_U20=100.7, Station_W9=139.3, Station_SE12=139, Station_SW13=125.9, Station_C5=123.9, Station_N6=147.9, Station_SW4=146.7.
+NO2_ppb: Station_U20=13, Station_W9=42.3, Station_SE12=21.5, Station_SW13=53.1, Station_C5=18.4, Station_N6=52.7, Station_SW4=27.9.
+CO_ppm: Station_U20=1.8, Station_W9=4.1, Station_SE12=3.2, Station_SW13=3.6, Station_C5=4.3, Station_N6=3.7, Station_SW4=4.3.

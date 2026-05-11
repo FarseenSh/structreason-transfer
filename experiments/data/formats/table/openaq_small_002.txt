@@ -1,0 +1,7 @@
+| Entity | Temperature_C | AQI |
+|---|---|---|
+| Station_C14 | 20.9 | 153.1 |
+| Station_NW10 | 6.7 | 35.7 |
+| Station_S7 | 35.9 | 57.2 |
+| Station_NE11 | 8.2 | 54.4 |
+| Station_NW1 | 29.6 | 167.1 |

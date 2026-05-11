@@ -1,0 +1,5 @@
+The following 5 values represent CO2_Mt for each Entity (Switzerland, Sweden, Romania, Spain, Finland), listed in order:
+[36.4, 53.8, 30.7, 26.3, 66.9]
+
+The following 5 values represent Total_GWh for each Entity (Switzerland, Sweden, Romania, Spain, Finland), listed in order:
+[33466.3, 18843, 45879.7, 25928.6, 11037.2]

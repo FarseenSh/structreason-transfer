@@ -1,0 +1,13 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_NW1: {PM25_ug_m3=19.6, O3_ppb=68.5}
+  Station_E17: {PM25_ug_m3=8.4, O3_ppb=74.5}
+  Station_S7: {PM25_ug_m3=56.1, O3_ppb=50.8}
+  Station_NW10: {PM25_ug_m3=28.9, O3_ppb=59.3}
+  Station_C14: {PM25_ug_m3=30.4, O3_ppb=31.7}
+
+Edges (top 3 by metric similarity):
+  Station_S7 -- Station_C14 (sim=1.00, similar O3_ppb)
+  Station_NW1 -- Station_E17 (sim=0.99, similar O3_ppb)
+  Station_NW1 -- Station_NW10 (sim=0.98, similar O3_ppb)

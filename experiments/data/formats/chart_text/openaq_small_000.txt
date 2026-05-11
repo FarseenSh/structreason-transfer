@@ -1,0 +1,3 @@
+Bar chart: "OpenAQ — Air Quality".
+PM25_ug_m3: Station_N6=40.2, Station_W18=48.5, Station_SW4=19.7, Station_C5=43.7, Station_W9=48.6.
+CO_ppm: Station_N6=0.7, Station_W18=1.6, Station_SW4=1.9, Station_C5=3.5, Station_W9=2.6.

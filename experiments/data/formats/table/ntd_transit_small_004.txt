@@ -1,0 +1,7 @@
+| Entity | Vehicles_in_service | Avg_trip_minutes |
+|---|---|---|
+| Line_Purple | 14 | 52.9 |
+| Line_Brown | 196.8 | 17.4 |
+| Line_Silver | 135.9 | 16.7 |
+| Bus_505 | 169.6 | 49.8 |
+| Bus_202 | 90.4 | 49.9 |

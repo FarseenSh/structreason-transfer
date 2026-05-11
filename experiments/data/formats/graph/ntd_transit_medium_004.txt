@@ -1,0 +1,20 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Silver: {Avg_trip_minutes=50.7, Complaints_per_10k=14.9, Vehicles_in_service=158.3, On_time_pct=91.9}
+  Line_Green: {Avg_trip_minutes=35.2, Complaints_per_10k=9.7, Vehicles_in_service=195.5, On_time_pct=69.7}
+  Ferry_A: {Avg_trip_minutes=31.3, Complaints_per_10k=9.7, Vehicles_in_service=129.2, On_time_pct=76.1}
+  Tram_2: {Avg_trip_minutes=40.1, Complaints_per_10k=1.5, Vehicles_in_service=67.6, On_time_pct=73.8}
+  Ferry_B: {Avg_trip_minutes=19.1, Complaints_per_10k=14.6, Vehicles_in_service=102.1, On_time_pct=88}
+  Bus_303: {Avg_trip_minutes=11, Complaints_per_10k=13.4, Vehicles_in_service=164.2, On_time_pct=90.1}
+  Line_Yellow: {Avg_trip_minutes=48.2, Complaints_per_10k=8.4, Vehicles_in_service=56.7, On_time_pct=80}
+  Line_Pink: {Avg_trip_minutes=36.5, Complaints_per_10k=5, Vehicles_in_service=50.1, On_time_pct=80.8}
+  Bus_505: {Avg_trip_minutes=15.7, Complaints_per_10k=10.6, Vehicles_in_service=146.3, On_time_pct=69.4}
+  Bus_202: {Avg_trip_minutes=22, Complaints_per_10k=12.6, Vehicles_in_service=91.7, On_time_pct=88.2}
+
+Edges (top 5 by metric similarity):
+  Ferry_B -- Bus_202 (sim=1.00, similar On_time_pct)
+  Line_Silver -- Ferry_A (sim=1.00, similar Complaints_per_10k)
+  Bus_303 -- Bus_505 (sim=1.00, similar Complaints_per_10k)
+  Line_Yellow -- Line_Pink (sim=0.99, similar On_time_pct)
+  Line_Green -- Bus_505 (sim=0.99, similar On_time_pct)

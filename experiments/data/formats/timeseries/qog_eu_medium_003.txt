@@ -1,0 +1,11 @@
+The following 10 values represent GDP_per_capita for each Entity (Greece, Austria, Germany, Poland, Sweden, Belgium, Denmark, Czechia, Switzerland, Spain), listed in order:
+[26032.8, 25344.8, 80528.9, 45653.3, 41832.4, 66078, 53709.5, 80529.8, 69621.1, 48555.9]
+
+The following 10 values represent Trust_in_govt_pct for each Entity (Greece, Austria, Germany, Poland, Sweden, Belgium, Denmark, Czechia, Switzerland, Spain), listed in order:
+[36.8, 77.1, 59.4, 74.8, 19.8, 68.1, 54, 20, 50.8, 57.3]
+
+The following 10 values represent Govt_expenditure_pct_GDP for each Entity (Greece, Austria, Germany, Poland, Sweden, Belgium, Denmark, Czechia, Switzerland, Spain), listed in order:
+[30.3, 42.7, 53.1, 38.3, 42.8, 42.4, 38.5, 55.7, 51.9, 33.1]
+
+The following 10 values represent Education_spending_pct for each Entity (Greece, Austria, Germany, Poland, Sweden, Belgium, Denmark, Czechia, Switzerland, Spain), listed in order:
+[8.5, 7.9, 4.9, 7.7, 4, 8.5, 6.8, 6.8, 4, 8]

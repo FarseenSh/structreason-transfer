@@ -1,0 +1,7 @@
+| Entity | Farebox_recovery_pct | Complaints_per_10k |
+|---|---|---|
+| Tram_3 | 27.4 | 3.9 |
+| Line_Blue | 40.2 | 5.4 |
+| Line_Brown | 43.1 | 5 |
+| Bus_101 | 36 | 11.9 |
+| Bus_202 | 15.2 | 1.2 |

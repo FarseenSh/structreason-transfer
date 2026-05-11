@@ -1,0 +1,5 @@
+The following 5 values represent Fertilizer_kg_ha for each Entity (USA, Egypt, Turkey, Australia, India), listed in order:
+[39.7, 278.6, 180.2, 189.2, 359.5]
+
+The following 5 values represent Area_harvested_kha for each Entity (USA, Egypt, Turkey, Australia, India), listed in order:
+[25945.4, 8070.8, 23172.2, 5062.8, 7195.2]

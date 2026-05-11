@@ -1,0 +1,5 @@
+The following 5 values represent Temperature_C for each Entity (Station_C14, Station_NW10, Station_S7, Station_NE11, Station_NW1), listed in order:
+[20.9, 6.7, 35.9, 8.2, 29.6]
+
+The following 5 values represent AQI for each Entity (Station_C14, Station_NW10, Station_S7, Station_NE11, Station_NW1), listed in order:
+[153.1, 35.7, 57.2, 54.4, 167.1]

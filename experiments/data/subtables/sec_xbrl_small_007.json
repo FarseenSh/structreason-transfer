@@ -1,0 +1,45 @@
+{
+  "id": "sec_xbrl_small_007",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Net_income_M",
+    "Operating_margin_pct"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyS",
+      "Net_income_M": 48.2,
+      "Operating_margin_pct": 39.4
+    },
+    {
+      "Entity": "CompanyJ",
+      "Net_income_M": -99.1,
+      "Operating_margin_pct": 11.2
+    },
+    {
+      "Entity": "CompanyD",
+      "Net_income_M": 334.2,
+      "Operating_margin_pct": 7.4
+    },
+    {
+      "Entity": "CompanyO",
+      "Net_income_M": 1092.5,
+      "Operating_margin_pct": 12.0
+    },
+    {
+      "Entity": "CompanyT",
+      "Net_income_M": 980.1,
+      "Operating_margin_pct": 30.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Net_income_M",
+    "Operating_margin_pct"
+  ]
+}

@@ -1,0 +1,5 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Operating_margin_pct: CompanyB=18.9, CompanyK=6.6, CompanyO=-4.4, CompanyT=29, CompanyG=11.1, CompanyC=-2, CompanyL=17.9, CompanyH=39, CompanyN=25.5, CompanyA=2.1.
+Debt_ratio: CompanyB=0.5, CompanyK=0.8, CompanyO=0.1, CompanyT=0.6, CompanyG=0.7, CompanyC=0.7, CompanyL=0.2, CompanyH=0.8, CompanyN=0.4, CompanyA=0.1.
+Net_income_M: CompanyB=-58.5, CompanyK=577.9, CompanyO=-132, CompanyT=1125.2, CompanyG=1271.9, CompanyC=-177.3, CompanyL=1177, CompanyH=1468.1, CompanyN=-148.4, CompanyA=1032.4.
+EPS: CompanyB=25, CompanyK=19.5, CompanyO=11.6, CompanyT=21.9, CompanyG=17.1, CompanyC=5.9, CompanyL=4.1, CompanyH=11.8, CompanyN=8.1, CompanyA=6.9.

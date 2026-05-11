@@ -1,0 +1,20 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyG: {Revenue_M=1733.7, Net_income_M=179, Current_ratio=3.9, Operating_margin_pct=9.1}
+  CompanyS: {Revenue_M=2675.2, Net_income_M=1462.2, Current_ratio=3.5, Operating_margin_pct=34.9}
+  CompanyP: {Revenue_M=3086.6, Net_income_M=1397.5, Current_ratio=2.7, Operating_margin_pct=21.9}
+  CompanyQ: {Revenue_M=2998.9, Net_income_M=1237.7, Current_ratio=1, Operating_margin_pct=28}
+  CompanyF: {Revenue_M=3942.7, Net_income_M=1349.7, Current_ratio=1.1, Operating_margin_pct=12.3}
+  CompanyC: {Revenue_M=2879.9, Net_income_M=449.6, Current_ratio=2.2, Operating_margin_pct=12.7}
+  CompanyH: {Revenue_M=4262.7, Net_income_M=187.3, Current_ratio=3.2, Operating_margin_pct=-4.4}
+  CompanyN: {Revenue_M=468.9, Net_income_M=110.9, Current_ratio=1.1, Operating_margin_pct=19.2}
+  CompanyO: {Revenue_M=4301.9, Net_income_M=1285.4, Current_ratio=3.7, Operating_margin_pct=29.2}
+  CompanyB: {Revenue_M=2970.5, Net_income_M=1205.3, Current_ratio=2.9, Operating_margin_pct=38.6}
+
+Edges (top 5 by metric similarity):
+  CompanyQ -- CompanyB (sim=1.00, similar Current_ratio)
+  CompanyP -- CompanyQ (sim=1.00, similar Current_ratio)
+  CompanyF -- CompanyO (sim=1.00, similar Current_ratio)
+  CompanyP -- CompanyB (sim=1.00, similar Current_ratio)
+  CompanyG -- CompanyC (sim=1.00, similar Current_ratio)

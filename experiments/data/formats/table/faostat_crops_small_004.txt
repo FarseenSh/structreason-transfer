@@ -1,0 +1,7 @@
+| Entity | Yield_index | Production_Mt |
+|---|---|---|
+| Bangladesh | 81.5 | 27.8 |
+| Indonesia | 175.9 | 15 |
+| Russia | 83.4 | 23.9 |
+| Vietnam | 87.9 | 41.4 |
+| Egypt | 134.2 | 131.6 |

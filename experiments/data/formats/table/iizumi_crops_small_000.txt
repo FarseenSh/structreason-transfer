@@ -1,0 +1,7 @@
+| Entity | Area_harvested_kha | Wheat_tonnes_ha |
+|---|---|---|
+| Mexico | 22523 | 7.8 |
+| Argentina | 5316.3 | 4.7 |
+| Bangladesh | 19573.7 | 8.8 |
+| Germany | 7323 | 8.8 |
+| China | 29643.2 | 2.5 |

@@ -1,0 +1,13 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_O15: {Congestion_index=1.3, Accidents_monthly=13.1}
+  Route_S19: {Congestion_index=3.1, Accidents_monthly=30.5}
+  Route_J10: {Congestion_index=3.9, Accidents_monthly=7.1}
+  Route_T20: {Congestion_index=1.3, Accidents_monthly=42.3}
+  Route_C3: {Congestion_index=2.8, Accidents_monthly=40.5}
+
+Edges (top 3 by metric similarity):
+  Route_O15 -- Route_S19 (sim=1.00, similar Congestion_index)
+  Route_O15 -- Route_C3 (sim=1.00, similar Congestion_index)
+  Route_S19 -- Route_C3 (sim=1.00, similar Congestion_index)

@@ -1,0 +1,20 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Bus_404: {Vehicles_in_service=26.7, Complaints_per_10k=0.8, Avg_trip_minutes=35.1, Operating_cost_k=10218}
+  Tram_2: {Vehicles_in_service=52.7, Complaints_per_10k=12.3, Avg_trip_minutes=34.7, Operating_cost_k=11777.6}
+  Line_Gold: {Vehicles_in_service=146.6, Complaints_per_10k=11.6, Avg_trip_minutes=38.4, Operating_cost_k=4356.5}
+  Line_Pink: {Vehicles_in_service=156.3, Complaints_per_10k=5, Avg_trip_minutes=28.7, Operating_cost_k=4179.2}
+  Line_Yellow: {Vehicles_in_service=115.3, Complaints_per_10k=9.7, Avg_trip_minutes=10.5, Operating_cost_k=15684.3}
+  Line_Orange: {Vehicles_in_service=54.7, Complaints_per_10k=9.2, Avg_trip_minutes=26.6, Operating_cost_k=13502.7}
+  Ferry_A: {Vehicles_in_service=106.7, Complaints_per_10k=2.6, Avg_trip_minutes=50.3, Operating_cost_k=13014.3}
+  Line_Purple: {Vehicles_in_service=7.9, Complaints_per_10k=3.3, Avg_trip_minutes=45.8, Operating_cost_k=5486.4}
+  Tram_3: {Vehicles_in_service=138, Complaints_per_10k=10.4, Avg_trip_minutes=51.6, Operating_cost_k=10234}
+  Bus_505: {Vehicles_in_service=124.8, Complaints_per_10k=14, Avg_trip_minutes=15.2, Operating_cost_k=656.8}
+
+Edges (top 5 by metric similarity):
+  Tram_2 -- Line_Orange (sim=1.00, similar Vehicles_in_service)
+  Bus_404 -- Line_Orange (sim=1.00, similar Complaints_per_10k)
+  Bus_404 -- Tram_2 (sim=1.00, similar Avg_trip_minutes)
+  Line_Yellow -- Ferry_A (sim=1.00, similar Complaints_per_10k)
+  Line_Yellow -- Line_Orange (sim=1.00, similar Complaints_per_10k)

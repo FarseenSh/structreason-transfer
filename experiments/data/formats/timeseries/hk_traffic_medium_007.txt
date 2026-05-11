@@ -1,0 +1,11 @@
+The following 10 values represent Road_condition_score for each Entity (Route_T20, Route_O15, Route_I9, Route_H8, Route_N14, Route_E5, Route_J10, Route_K11, Route_P16, Route_F6), listed in order:
+[54.3, 68.5, 86.7, 91.9, 44.1, 73.3, 67.1, 75.6, 65.9, 63.1]
+
+The following 10 values represent Avg_speed_kmh for each Entity (Route_T20, Route_O15, Route_I9, Route_H8, Route_N14, Route_E5, Route_J10, Route_K11, Route_P16, Route_F6), listed in order:
+[45.7, 52.8, 47.6, 45.7, 68.2, 63.5, 37.2, 67, 70.5, 25]
+
+The following 10 values represent Peak_hour_flow for each Entity (Route_T20, Route_O15, Route_I9, Route_H8, Route_N14, Route_E5, Route_J10, Route_K11, Route_P16, Route_F6), listed in order:
+[18315.1, 9988.7, 22696.8, 8686, 20799.3, 9143.5, 16312, 28562.1, 12676.6, 26520.7]
+
+The following 10 values represent Daily_vehicles for each Entity (Route_T20, Route_O15, Route_I9, Route_H8, Route_N14, Route_E5, Route_J10, Route_K11, Route_P16, Route_F6), listed in order:
+[93825, 83736.6, 19927.9, 78769.2, 7893.4, 40397.2, 83366, 66987.7, 52946.6, 39907.8]

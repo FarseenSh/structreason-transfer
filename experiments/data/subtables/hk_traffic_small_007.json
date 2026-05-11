@@ -1,0 +1,45 @@
+{
+  "id": "hk_traffic_small_007",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Congestion_index",
+    "Accidents_monthly"
+  ],
+  "data": [
+    {
+      "Entity": "Route_O15",
+      "Congestion_index": 1.3,
+      "Accidents_monthly": 13.1
+    },
+    {
+      "Entity": "Route_S19",
+      "Congestion_index": 3.1,
+      "Accidents_monthly": 30.5
+    },
+    {
+      "Entity": "Route_J10",
+      "Congestion_index": 3.9,
+      "Accidents_monthly": 7.1
+    },
+    {
+      "Entity": "Route_T20",
+      "Congestion_index": 1.3,
+      "Accidents_monthly": 42.3
+    },
+    {
+      "Entity": "Route_C3",
+      "Congestion_index": 2.8,
+      "Accidents_monthly": 40.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Congestion_index",
+    "Accidents_monthly"
+  ]
+}

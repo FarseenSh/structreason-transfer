@@ -1,0 +1,11 @@
+The following 10 values represent Govt_expenditure_pct_GDP for each Entity (Greece, Sweden, Spain, Italy, Romania, Finland, Belgium, Hungary, Germany, Switzerland), listed in order:
+[41.9, 48.3, 54.3, 42.7, 36.9, 36.6, 50.9, 52.9, 32.9, 31.9]
+
+The following 10 values represent Education_spending_pct for each Entity (Greece, Sweden, Spain, Italy, Romania, Finland, Belgium, Hungary, Germany, Switzerland), listed in order:
+[6.5, 4.2, 7.6, 5.1, 4.2, 8.1, 4.3, 4.9, 4.3, 4.1]
+
+The following 10 values represent Gini_index for each Entity (Greece, Sweden, Spain, Italy, Romania, Finland, Belgium, Hungary, Germany, Switzerland), listed in order:
+[23.4, 23.9, 26, 23.9, 33, 34.6, 29.7, 28.4, 31.6, 37.9]
+
+The following 10 values represent Life_expectancy for each Entity (Greece, Sweden, Spain, Italy, Romania, Finland, Belgium, Hungary, Germany, Switzerland), listed in order:
+[82.2, 72.5, 74.2, 74.8, 75, 78.9, 77, 72.6, 76.5, 78.3]

@@ -1,0 +1,13 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_C14: {Temperature_C=20.9, AQI=153.1}
+  Station_NW10: {Temperature_C=6.7, AQI=35.7}
+  Station_S7: {Temperature_C=35.9, AQI=57.2}
+  Station_NE11: {Temperature_C=8.2, AQI=54.4}
+  Station_NW1: {Temperature_C=29.6, AQI=167.1}
+
+Edges (top 3 by metric similarity):
+  Station_NW10 -- Station_NW1 (sim=1.00, similar Temperature_C)
+  Station_C14 -- Station_NE11 (sim=1.00, similar Temperature_C)
+  Station_NE11 -- Station_NW1 (sim=1.00, similar Temperature_C)

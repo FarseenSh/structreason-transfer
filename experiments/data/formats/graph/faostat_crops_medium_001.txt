@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Bangladesh: {Wheat_tonnes_ha=5.3, Area_harvested_kha=10109.1, Production_Mt=188.3, Rice_tonnes_ha=5}
+  Canada: {Wheat_tonnes_ha=6.6, Area_harvested_kha=22627, Production_Mt=203.1, Rice_tonnes_ha=5.3}
+  Vietnam: {Wheat_tonnes_ha=2.8, Area_harvested_kha=34969.7, Production_Mt=233, Rice_tonnes_ha=5.4}
+  Nigeria: {Wheat_tonnes_ha=7.6, Area_harvested_kha=8911.3, Production_Mt=24.8, Rice_tonnes_ha=2.2}
+  China: {Wheat_tonnes_ha=3.8, Area_harvested_kha=16814.2, Production_Mt=190.2, Rice_tonnes_ha=2.5}
+  Australia: {Wheat_tonnes_ha=2.2, Area_harvested_kha=31900.7, Production_Mt=277.6, Rice_tonnes_ha=5.4}
+  Pakistan: {Wheat_tonnes_ha=7.2, Area_harvested_kha=4056.2, Production_Mt=287.1, Rice_tonnes_ha=3.7}
+  Russia: {Wheat_tonnes_ha=6.8, Area_harvested_kha=32524.6, Production_Mt=290.7, Rice_tonnes_ha=3.7}
+  France: {Wheat_tonnes_ha=8.1, Area_harvested_kha=17341.4, Production_Mt=195.5, Rice_tonnes_ha=3.1}
+  Argentina: {Wheat_tonnes_ha=8.2, Area_harvested_kha=31309.9, Production_Mt=191.8, Rice_tonnes_ha=6.4}
+
+Edges (top 5 by metric similarity):
+  Canada -- Russia (sim=1.00, similar Wheat_tonnes_ha)
+  China -- France (sim=1.00, similar Rice_tonnes_ha)
+  Australia -- Russia (sim=1.00, similar Rice_tonnes_ha)
+  Canada -- Australia (sim=1.00, similar Rice_tonnes_ha)
+  Vietnam -- Argentina (sim=1.00, similar Rice_tonnes_ha)

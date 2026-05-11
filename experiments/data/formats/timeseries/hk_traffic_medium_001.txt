@@ -1,0 +1,11 @@
+The following 10 values represent Daily_vehicles for each Entity (Route_A1, Route_B2, Route_Q17, Route_P16, Route_K11, Route_J10, Route_O15, Route_N14, Route_R18, Route_I9), listed in order:
+[22981.5, 31308, 92486.3, 68736.6, 59947, 32686.6, 31921.3, 8557.1, 70563.4, 8885.8]
+
+The following 10 values represent Peak_hour_flow for each Entity (Route_A1, Route_B2, Route_Q17, Route_P16, Route_K11, Route_J10, Route_O15, Route_N14, Route_R18, Route_I9), listed in order:
+[2136, 22425.9, 28568.5, 23182.1, 15205.9, 15609.3, 14211.8, 11090, 16608, 14072.2]
+
+The following 10 values represent Transit_ridership for each Entity (Route_A1, Route_B2, Route_Q17, Route_P16, Route_K11, Route_J10, Route_O15, Route_N14, Route_R18, Route_I9), listed in order:
+[121642.7, 180133.4, 199026.8, 20354.9, 80013.3, 40237.7, 73663.5, 61057.2, 39034.7, 153994.8]
+
+The following 10 values represent Road_condition_score for each Entity (Route_A1, Route_B2, Route_Q17, Route_P16, Route_K11, Route_J10, Route_O15, Route_N14, Route_R18, Route_I9), listed in order:
+[68.8, 93.3, 41.9, 43.9, 63.4, 44.7, 55.2, 97.2, 52.1, 51.5]

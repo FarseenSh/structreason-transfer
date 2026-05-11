@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_003",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "GDP_per_capita",
+    "Govt_expenditure_pct_GDP"
+  ],
+  "data": [
+    {
+      "Entity": "Denmark",
+      "GDP_per_capita": 74738.2,
+      "Govt_expenditure_pct_GDP": 48.5
+    },
+    {
+      "Entity": "Sweden",
+      "GDP_per_capita": 31375.8,
+      "Govt_expenditure_pct_GDP": 45.6
+    },
+    {
+      "Entity": "Greece",
+      "GDP_per_capita": 19081.2,
+      "Govt_expenditure_pct_GDP": 51.9
+    },
+    {
+      "Entity": "Poland",
+      "GDP_per_capita": 34696.9,
+      "Govt_expenditure_pct_GDP": 48.6
+    },
+    {
+      "Entity": "Ireland",
+      "GDP_per_capita": 35551.6,
+      "Govt_expenditure_pct_GDP": 41.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "GDP_per_capita",
+    "Govt_expenditure_pct_GDP"
+  ]
+}

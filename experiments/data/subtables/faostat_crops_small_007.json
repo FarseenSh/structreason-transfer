@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_007",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Fertilizer_kg_ha",
+    "Area_harvested_kha"
+  ],
+  "data": [
+    {
+      "Entity": "USA",
+      "Fertilizer_kg_ha": 39.7,
+      "Area_harvested_kha": 25945.4
+    },
+    {
+      "Entity": "Egypt",
+      "Fertilizer_kg_ha": 278.6,
+      "Area_harvested_kha": 8070.8
+    },
+    {
+      "Entity": "Turkey",
+      "Fertilizer_kg_ha": 180.2,
+      "Area_harvested_kha": 23172.2
+    },
+    {
+      "Entity": "Australia",
+      "Fertilizer_kg_ha": 189.2,
+      "Area_harvested_kha": 5062.8
+    },
+    {
+      "Entity": "India",
+      "Fertilizer_kg_ha": 359.5,
+      "Area_harvested_kha": 7195.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Fertilizer_kg_ha",
+    "Area_harvested_kha"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "openaq_small_003",
+  "dataset": "OpenAQ",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "CO_ppm",
+    "AQI"
+  ],
+  "data": [
+    {
+      "Entity": "Station_U20",
+      "CO_ppm": 3.3,
+      "AQI": 148.6
+    },
+    {
+      "Entity": "Station_SW13",
+      "CO_ppm": 1.8,
+      "AQI": 119.9
+    },
+    {
+      "Entity": "Station_N6",
+      "CO_ppm": 2.2,
+      "AQI": 177.5
+    },
+    {
+      "Entity": "Station_S16",
+      "CO_ppm": 0.6,
+      "AQI": 22.6
+    },
+    {
+      "Entity": "Station_W18",
+      "CO_ppm": 2.9,
+      "AQI": 22.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO_ppm",
+    "AQI"
+  ]
+}

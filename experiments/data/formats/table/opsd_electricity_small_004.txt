@@ -1,0 +1,7 @@
+| Entity | CO2_Mt | Wind_GWh |
+|---|---|---|
+| France | 72.7 | 3506.7 |
+| Netherlands | 6.6 | 10348.1 |
+| Italy | 36.6 | 4877 |
+| Switzerland | 17.4 | 7737.3 |
+| Germany | 42.4 | 3136.8 |

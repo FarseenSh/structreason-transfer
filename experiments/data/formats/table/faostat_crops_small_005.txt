@@ -1,0 +1,7 @@
+| Entity | Area_harvested_kha | Maize_tonnes_ha |
+|---|---|---|
+| Argentina | 34218.5 | 2.9 |
+| Egypt | 30256.1 | 11.3 |
+| Mexico | 698.1 | 9.8 |
+| Canada | 26405.6 | 3.5 |
+| Pakistan | 20272 | 11.6 |

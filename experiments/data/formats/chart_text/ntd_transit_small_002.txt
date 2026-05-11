@@ -1,0 +1,3 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Farebox_recovery_pct: Tram_3=27.4, Line_Blue=40.2, Line_Brown=43.1, Bus_101=36, Bus_202=15.2.
+Complaints_per_10k: Tram_3=3.9, Line_Blue=5.4, Line_Brown=5, Bus_101=11.9, Bus_202=1.2.

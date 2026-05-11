@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  France: {CO2_Mt=72.7, Wind_GWh=3506.7}
+  Netherlands: {CO2_Mt=6.6, Wind_GWh=10348.1}
+  Italy: {CO2_Mt=36.6, Wind_GWh=4877}
+  Switzerland: {CO2_Mt=17.4, Wind_GWh=7737.3}
+  Germany: {CO2_Mt=42.4, Wind_GWh=3136.8}
+
+Edges (top 3 by metric similarity):
+  Netherlands -- Switzerland (sim=1.00, similar CO2_Mt)
+  Italy -- Switzerland (sim=1.00, similar CO2_Mt)
+  Italy -- Germany (sim=1.00, similar CO2_Mt)

@@ -1,0 +1,20 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_NW1: {AQI=57, NO2_ppb=28.7, SO2_ppb=5, Temperature_C=12.6}
+  Station_S7: {AQI=179.3, NO2_ppb=17.8, SO2_ppb=17, Temperature_C=33.2}
+  Station_SW4: {AQI=87.3, NO2_ppb=8.5, SO2_ppb=12.8, Temperature_C=18.8}
+  Station_W18: {AQI=67.5, NO2_ppb=8.9, SO2_ppb=2.1, Temperature_C=9}
+  Station_N6: {AQI=29.9, NO2_ppb=15, SO2_ppb=19.9, Temperature_C=-4.6}
+  Station_C5: {AQI=26.7, NO2_ppb=22.4, SO2_ppb=18.2, Temperature_C=20.2}
+  Station_NE11: {AQI=35.2, NO2_ppb=13.1, SO2_ppb=24.5, Temperature_C=17.6}
+  Station_S16: {AQI=20.8, NO2_ppb=25.1, SO2_ppb=23.5, Temperature_C=29.9}
+  Station_SE12: {AQI=72.3, NO2_ppb=55.7, SO2_ppb=15, Temperature_C=3}
+  Station_NW10: {AQI=69.7, NO2_ppb=19.4, SO2_ppb=17.5, Temperature_C=30.1}
+
+Edges (top 5 by metric similarity):
+  Station_S7 -- Station_SW4 (sim=1.00, similar SO2_ppb)
+  Station_S7 -- Station_W18 (sim=1.00, similar NO2_ppb)
+  Station_SW4 -- Station_W18 (sim=0.99, similar NO2_ppb)
+  Station_C5 -- Station_S16 (sim=0.97, similar NO2_ppb)
+  Station_SW4 -- Station_NW10 (sim=0.97, similar SO2_ppb)

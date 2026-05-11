@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Area_harvested_kha: Brazil=22447.9, Bangladesh=34426.6, USA=31404.9, Argentina=24722.6, Australia=34675.6, Germany=25437.6, Thailand=12204.2, Indonesia=21242, Egypt=3251.9, France=8148.
+Wheat_tonnes_ha: Brazil=4.6, Bangladesh=3, USA=8.7, Argentina=9, Australia=4.3, Germany=6.8, Thailand=4.6, Indonesia=2.5, Egypt=4, France=3.3.
+Maize_tonnes_ha: Brazil=5.3, Bangladesh=4.2, USA=3.1, Argentina=4.2, Australia=11.1, Germany=2.9, Thailand=5.2, Indonesia=7.3, Egypt=5.5, France=7.2.
+Yield_index: Brazil=65.2, Bangladesh=137.8, USA=127.6, Argentina=141.7, Australia=128.1, Germany=112.5, Thailand=102, Indonesia=87.2, Egypt=120, France=63.1.

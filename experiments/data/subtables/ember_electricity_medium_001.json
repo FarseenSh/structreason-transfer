@@ -1,0 +1,94 @@
+{
+  "id": "ember_electricity_medium_001",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Solar_GWh",
+    "Gas_GWh",
+    "CO2_Mt",
+    "Nuclear_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Hungary",
+      "Solar_GWh": 884.5,
+      "Gas_GWh": 2366.0,
+      "CO2_Mt": 38.3,
+      "Nuclear_GWh": 3231.5
+    },
+    {
+      "Entity": "Romania",
+      "Solar_GWh": 4867.8,
+      "Gas_GWh": 7410.6,
+      "CO2_Mt": 69.0,
+      "Nuclear_GWh": 1.9
+    },
+    {
+      "Entity": "Germany",
+      "Solar_GWh": 2180.3,
+      "Gas_GWh": 2391.0,
+      "CO2_Mt": 52.0,
+      "Nuclear_GWh": 3862.6
+    },
+    {
+      "Entity": "Netherlands",
+      "Solar_GWh": 840.5,
+      "Gas_GWh": 2396.2,
+      "CO2_Mt": 7.6,
+      "Nuclear_GWh": 7313.1
+    },
+    {
+      "Entity": "UK",
+      "Solar_GWh": 567.0,
+      "Gas_GWh": 613.0,
+      "CO2_Mt": 65.0,
+      "Nuclear_GWh": 12319.2
+    },
+    {
+      "Entity": "Norway",
+      "Solar_GWh": 5073.9,
+      "Gas_GWh": 6089.5,
+      "CO2_Mt": 47.2,
+      "Nuclear_GWh": 9649.4
+    },
+    {
+      "Entity": "Portugal",
+      "Solar_GWh": 4693.8,
+      "Gas_GWh": 6983.1,
+      "CO2_Mt": 52.6,
+      "Nuclear_GWh": 13786.0
+    },
+    {
+      "Entity": "Finland",
+      "Solar_GWh": 1799.4,
+      "Gas_GWh": 6638.9,
+      "CO2_Mt": 15.2,
+      "Nuclear_GWh": 6833.5
+    },
+    {
+      "Entity": "Sweden",
+      "Solar_GWh": 786.5,
+      "Gas_GWh": 5815.4,
+      "CO2_Mt": 35.6,
+      "Nuclear_GWh": 5862.2
+    },
+    {
+      "Entity": "Belgium",
+      "Solar_GWh": 1558.7,
+      "Gas_GWh": 9670.9,
+      "CO2_Mt": 70.6,
+      "Nuclear_GWh": 3471.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Solar_GWh",
+    "Gas_GWh",
+    "CO2_Mt",
+    "Nuclear_GWh"
+  ]
+}

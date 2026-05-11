@@ -1,0 +1,45 @@
+{
+  "id": "ntd_transit_small_004",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Vehicles_in_service",
+    "Avg_trip_minutes"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Purple",
+      "Vehicles_in_service": 14.0,
+      "Avg_trip_minutes": 52.9
+    },
+    {
+      "Entity": "Line_Brown",
+      "Vehicles_in_service": 196.8,
+      "Avg_trip_minutes": 17.4
+    },
+    {
+      "Entity": "Line_Silver",
+      "Vehicles_in_service": 135.9,
+      "Avg_trip_minutes": 16.7
+    },
+    {
+      "Entity": "Bus_505",
+      "Vehicles_in_service": 169.6,
+      "Avg_trip_minutes": 49.8
+    },
+    {
+      "Entity": "Bus_202",
+      "Vehicles_in_service": 90.4,
+      "Avg_trip_minutes": 49.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Vehicles_in_service",
+    "Avg_trip_minutes"
+  ]
+}

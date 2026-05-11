@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Bus_101: {Monthly_riders_k=837.8, Farebox_recovery_pct=68.9}
+  Tram_2: {Monthly_riders_k=5475.6, Farebox_recovery_pct=44.5}
+  Line_Silver: {Monthly_riders_k=5049.5, Farebox_recovery_pct=49.2}
+  Line_Gold: {Monthly_riders_k=6482.1, Farebox_recovery_pct=64.1}
+  Bus_202: {Monthly_riders_k=5228.5, Farebox_recovery_pct=54.8}
+
+Edges (top 3 by metric similarity):
+  Line_Silver -- Line_Gold (sim=1.00, similar Farebox_recovery_pct)
+  Line_Gold -- Bus_202 (sim=1.00, similar Farebox_recovery_pct)
+  Line_Silver -- Bus_202 (sim=1.00, similar Farebox_recovery_pct)

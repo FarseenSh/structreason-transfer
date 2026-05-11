@@ -1,0 +1,11 @@
+The following 10 values represent NO2_ppb for each Entity (Station_SW4, Station_NW1, Station_SE12, Station_R19, Station_E17, Station_S7, Station_W9, Station_SE3, Station_C5, Station_NW10), listed in order:
+[28.5, 27.6, 34.5, 7.8, 21.4, 59.3, 41.4, 28, 17.2, 46]
+
+The following 10 values represent O3_ppb for each Entity (Station_SW4, Station_NW1, Station_SE12, Station_R19, Station_E17, Station_S7, Station_W9, Station_SE3, Station_C5, Station_NW10), listed in order:
+[33.2, 26.4, 25.8, 66, 60, 19.9, 23.1, 59.4, 55, 63]
+
+The following 10 values represent Temperature_C for each Entity (Station_SW4, Station_NW1, Station_SE12, Station_R19, Station_E17, Station_S7, Station_W9, Station_SE3, Station_C5, Station_NW10), listed in order:
+[2.7, 26.2, 35.3, 20.8, 3.4, 24.2, 9.8, -2.9, 8, 33.9]
+
+The following 10 values represent SO2_ppb for each Entity (Station_SW4, Station_NW1, Station_SE12, Station_R19, Station_E17, Station_S7, Station_W9, Station_SE3, Station_C5, Station_NW10), listed in order:
+[10.9, 21.8, 13.2, 13.4, 1.1, 16.3, 3.6, 12.5, 7.2, 10.4]

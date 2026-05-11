@@ -1,0 +1,35 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Brazil: {Production_Mt=171.8, Fertilizer_kg_ha=141.2, Rice_tonnes_ha=5.3, Soybean_tonnes_ha=3.6, Maize_tonnes_ha=6.3, Wheat_tonnes_ha=3.9, Area_harvested_kha=26067.5}
+  France: {Production_Mt=131.5, Fertilizer_kg_ha=216.4, Rice_tonnes_ha=4.4, Soybean_tonnes_ha=2.2, Maize_tonnes_ha=4.9, Wheat_tonnes_ha=7.8, Area_harvested_kha=3509.4}
+  Russia: {Production_Mt=296.5, Fertilizer_kg_ha=250.4, Rice_tonnes_ha=2.5, Soybean_tonnes_ha=3.9, Maize_tonnes_ha=10.2, Wheat_tonnes_ha=8.6, Area_harvested_kha=21820.8}
+  India: {Production_Mt=222.3, Fertilizer_kg_ha=159.7, Rice_tonnes_ha=7.1, Soybean_tonnes_ha=3, Maize_tonnes_ha=8.8, Wheat_tonnes_ha=7.7, Area_harvested_kha=21920.9}
+  Indonesia: {Production_Mt=243.2, Fertilizer_kg_ha=253.9, Rice_tonnes_ha=3.8, Soybean_tonnes_ha=1.3, Maize_tonnes_ha=8.1, Wheat_tonnes_ha=1.5, Area_harvested_kha=30265.8}
+  Turkey: {Production_Mt=248.5, Fertilizer_kg_ha=185, Rice_tonnes_ha=3.7, Soybean_tonnes_ha=2.4, Maize_tonnes_ha=11.3, Wheat_tonnes_ha=5.8, Area_harvested_kha=28879.9}
+  Mexico: {Production_Mt=11.5, Fertilizer_kg_ha=353.7, Rice_tonnes_ha=3.1, Soybean_tonnes_ha=1.1, Maize_tonnes_ha=2.9, Wheat_tonnes_ha=2.7, Area_harvested_kha=24138.2}
+  Nigeria: {Production_Mt=21.1, Fertilizer_kg_ha=293, Rice_tonnes_ha=7.5, Soybean_tonnes_ha=2.2, Maize_tonnes_ha=11.5, Wheat_tonnes_ha=4.3, Area_harvested_kha=13628.9}
+  Thailand: {Production_Mt=63.5, Fertilizer_kg_ha=62, Rice_tonnes_ha=7.2, Soybean_tonnes_ha=3.7, Maize_tonnes_ha=3, Wheat_tonnes_ha=4.7, Area_harvested_kha=6241}
+  Bangladesh: {Production_Mt=198.3, Fertilizer_kg_ha=323.8, Rice_tonnes_ha=3.9, Soybean_tonnes_ha=1.7, Maize_tonnes_ha=5.5, Wheat_tonnes_ha=8.6, Area_harvested_kha=22431.1}
+  China: {Production_Mt=189.1, Fertilizer_kg_ha=148.3, Rice_tonnes_ha=3.4, Soybean_tonnes_ha=3.9, Maize_tonnes_ha=8.3, Wheat_tonnes_ha=6.3, Area_harvested_kha=17645.5}
+  Argentina: {Production_Mt=100.9, Fertilizer_kg_ha=375.5, Rice_tonnes_ha=6.4, Soybean_tonnes_ha=1.3, Maize_tonnes_ha=5.4, Wheat_tonnes_ha=3.5, Area_harvested_kha=3189}
+  Vietnam: {Production_Mt=292, Fertilizer_kg_ha=249.3, Rice_tonnes_ha=4.3, Soybean_tonnes_ha=3, Maize_tonnes_ha=8.8, Wheat_tonnes_ha=6.3, Area_harvested_kha=33466.9}
+  Egypt: {Production_Mt=32.5, Fertilizer_kg_ha=30.5, Rice_tonnes_ha=7.3, Soybean_tonnes_ha=3.9, Maize_tonnes_ha=9.8, Wheat_tonnes_ha=8.6, Area_harvested_kha=11347.5}
+  Germany: {Production_Mt=234.1, Fertilizer_kg_ha=299.1, Rice_tonnes_ha=7, Soybean_tonnes_ha=3, Maize_tonnes_ha=10.3, Wheat_tonnes_ha=1.9, Area_harvested_kha=573.9}
+  USA: {Production_Mt=146.9, Fertilizer_kg_ha=69.7, Rice_tonnes_ha=6.2, Soybean_tonnes_ha=3.7, Maize_tonnes_ha=3.8, Wheat_tonnes_ha=7.6, Area_harvested_kha=31608.3}
+  Canada: {Production_Mt=128.6, Fertilizer_kg_ha=353.4, Rice_tonnes_ha=2.5, Soybean_tonnes_ha=4, Maize_tonnes_ha=3.8, Wheat_tonnes_ha=3.1, Area_harvested_kha=20408.3}
+  Pakistan: {Production_Mt=12.5, Fertilizer_kg_ha=380.4, Rice_tonnes_ha=5.9, Soybean_tonnes_ha=2.9, Maize_tonnes_ha=2.5, Wheat_tonnes_ha=2.6, Area_harvested_kha=25790.6}
+  Ukraine: {Production_Mt=219.7, Fertilizer_kg_ha=284.2, Rice_tonnes_ha=7.4, Soybean_tonnes_ha=3.3, Maize_tonnes_ha=6.9, Wheat_tonnes_ha=8.2, Area_harvested_kha=5767}
+  Australia: {Production_Mt=232.6, Fertilizer_kg_ha=222.5, Rice_tonnes_ha=4.1, Soybean_tonnes_ha=1.1, Maize_tonnes_ha=3.4, Wheat_tonnes_ha=1.5, Area_harvested_kha=14458.9}
+
+Edges (top 10 by metric similarity):
+  Mexico -- Pakistan (sim=1.00, similar Wheat_tonnes_ha)
+  Turkey -- Vietnam (sim=1.00, similar Wheat_tonnes_ha)
+  Indonesia -- Vietnam (sim=1.00, similar Rice_tonnes_ha)
+  India -- China (sim=1.00, similar Maize_tonnes_ha)
+  India -- Vietnam (sim=1.00, similar Soybean_tonnes_ha)
+  India -- Turkey (sim=1.00, similar Soybean_tonnes_ha)
+  Thailand -- China (sim=1.00, similar Soybean_tonnes_ha)
+  Indonesia -- Turkey (sim=1.00, similar Rice_tonnes_ha)
+  Egypt -- USA (sim=1.00, similar Soybean_tonnes_ha)
+  China -- Vietnam (sim=1.00, similar Wheat_tonnes_ha)

@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Sweden: {Life_expectancy=81.4, Education_spending_pct=6.3}
+  Finland: {Life_expectancy=80, Education_spending_pct=4.2}
+  Portugal: {Life_expectancy=80.5, Education_spending_pct=4.1}
+  Italy: {Life_expectancy=81.4, Education_spending_pct=6.8}
+  Greece: {Life_expectancy=77.5, Education_spending_pct=5.9}
+
+Edges (top 3 by metric similarity):
+  Sweden -- Greece (sim=1.00, similar Education_spending_pct)
+  Finland -- Portugal (sim=1.00, similar Education_spending_pct)
+  Sweden -- Italy (sim=1.00, similar Life_expectancy)

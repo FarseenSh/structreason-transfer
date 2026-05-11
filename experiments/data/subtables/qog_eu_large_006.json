@@ -1,0 +1,230 @@
+{
+  "id": "qog_eu_large_006",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "Trust_in_govt_pct",
+    "GDP_per_capita",
+    "HDI",
+    "Govt_expenditure_pct_GDP",
+    "Gini_index",
+    "Education_spending_pct",
+    "Unemployment_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Romania",
+      "Trust_in_govt_pct": 15.6,
+      "GDP_per_capita": 81720.4,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 47.2,
+      "Gini_index": 26.7,
+      "Education_spending_pct": 6.1,
+      "Unemployment_pct": 9.8
+    },
+    {
+      "Entity": "Finland",
+      "Trust_in_govt_pct": 50.4,
+      "GDP_per_capita": 49584.5,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 47.2,
+      "Gini_index": 37.6,
+      "Education_spending_pct": 7.7,
+      "Unemployment_pct": 15.2
+    },
+    {
+      "Entity": "Greece",
+      "Trust_in_govt_pct": 13.4,
+      "GDP_per_capita": 36019.0,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 41.7,
+      "Gini_index": 29.4,
+      "Education_spending_pct": 5.7,
+      "Unemployment_pct": 4.6
+    },
+    {
+      "Entity": "Austria",
+      "Trust_in_govt_pct": 68.0,
+      "GDP_per_capita": 48406.3,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 46.0,
+      "Gini_index": 37.5,
+      "Education_spending_pct": 8.3,
+      "Unemployment_pct": 2.8
+    },
+    {
+      "Entity": "Denmark",
+      "Trust_in_govt_pct": 22.3,
+      "GDP_per_capita": 40176.6,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 34.3,
+      "Gini_index": 27.1,
+      "Education_spending_pct": 6.8,
+      "Unemployment_pct": 7.3
+    },
+    {
+      "Entity": "Sweden",
+      "Trust_in_govt_pct": 52.0,
+      "GDP_per_capita": 30709.1,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 50.7,
+      "Gini_index": 33.5,
+      "Education_spending_pct": 4.1,
+      "Unemployment_pct": 11.4
+    },
+    {
+      "Entity": "Bulgaria",
+      "Trust_in_govt_pct": 41.3,
+      "GDP_per_capita": 18217.4,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 32.1,
+      "Gini_index": 38.8,
+      "Education_spending_pct": 7.9,
+      "Unemployment_pct": 10.2
+    },
+    {
+      "Entity": "Netherlands",
+      "Trust_in_govt_pct": 41.2,
+      "GDP_per_capita": 39654.9,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 50.4,
+      "Gini_index": 27.4,
+      "Education_spending_pct": 5.9,
+      "Unemployment_pct": 18.3
+    },
+    {
+      "Entity": "Spain",
+      "Trust_in_govt_pct": 16.7,
+      "GDP_per_capita": 64798.7,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 53.8,
+      "Gini_index": 34.8,
+      "Education_spending_pct": 4.2,
+      "Unemployment_pct": 9.9
+    },
+    {
+      "Entity": "Switzerland",
+      "Trust_in_govt_pct": 65.0,
+      "GDP_per_capita": 16290.6,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 43.2,
+      "Gini_index": 39.8,
+      "Education_spending_pct": 4.3,
+      "Unemployment_pct": 12.8
+    },
+    {
+      "Entity": "Ireland",
+      "Trust_in_govt_pct": 70.9,
+      "GDP_per_capita": 45742.5,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 44.3,
+      "Gini_index": 25.6,
+      "Education_spending_pct": 6.9,
+      "Unemployment_pct": 14.1
+    },
+    {
+      "Entity": "Portugal",
+      "Trust_in_govt_pct": 12.7,
+      "GDP_per_capita": 60080.7,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 38.7,
+      "Gini_index": 24.5,
+      "Education_spending_pct": 3.7,
+      "Unemployment_pct": 2.9
+    },
+    {
+      "Entity": "Hungary",
+      "Trust_in_govt_pct": 23.8,
+      "GDP_per_capita": 57728.3,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 57.1,
+      "Gini_index": 34.5,
+      "Education_spending_pct": 4.9,
+      "Unemployment_pct": 12.5
+    },
+    {
+      "Entity": "Italy",
+      "Trust_in_govt_pct": 71.7,
+      "GDP_per_capita": 69365.4,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 50.5,
+      "Gini_index": 28.8,
+      "Education_spending_pct": 4.2,
+      "Unemployment_pct": 9.2
+    },
+    {
+      "Entity": "Norway",
+      "Trust_in_govt_pct": 48.3,
+      "GDP_per_capita": 71736.4,
+      "HDI": 1.0,
+      "Govt_expenditure_pct_GDP": 40.3,
+      "Gini_index": 24.2,
+      "Education_spending_pct": 5.7,
+      "Unemployment_pct": 10.7
+    },
+    {
+      "Entity": "Belgium",
+      "Trust_in_govt_pct": 21.9,
+      "GDP_per_capita": 64819.4,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 34.9,
+      "Gini_index": 31.1,
+      "Education_spending_pct": 5.6,
+      "Unemployment_pct": 4.5
+    },
+    {
+      "Entity": "Poland",
+      "Trust_in_govt_pct": 25.4,
+      "GDP_per_capita": 22195.8,
+      "HDI": 1.0,
+      "Govt_expenditure_pct_GDP": 36.1,
+      "Gini_index": 35.8,
+      "Education_spending_pct": 6.1,
+      "Unemployment_pct": 17.8
+    },
+    {
+      "Entity": "France",
+      "Trust_in_govt_pct": 55.6,
+      "GDP_per_capita": 48251.6,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 43.0,
+      "Gini_index": 27.8,
+      "Education_spending_pct": 4.9,
+      "Unemployment_pct": 20.9
+    },
+    {
+      "Entity": "Germany",
+      "Trust_in_govt_pct": 59.8,
+      "GDP_per_capita": 57238.4,
+      "HDI": 0.8,
+      "Govt_expenditure_pct_GDP": 56.4,
+      "Gini_index": 28.7,
+      "Education_spending_pct": 3.7,
+      "Unemployment_pct": 2.9
+    },
+    {
+      "Entity": "Czechia",
+      "Trust_in_govt_pct": 51.6,
+      "GDP_per_capita": 32189.6,
+      "HDI": 0.9,
+      "Govt_expenditure_pct_GDP": 50.6,
+      "Gini_index": 37.4,
+      "Education_spending_pct": 6.6,
+      "Unemployment_pct": 14.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Trust_in_govt_pct",
+    "GDP_per_capita",
+    "HDI",
+    "Govt_expenditure_pct_GDP",
+    "Gini_index",
+    "Education_spending_pct",
+    "Unemployment_pct"
+  ]
+}

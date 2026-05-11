@@ -1,0 +1,11 @@
+The following 10 values represent Fertilizer_kg_ha for each Entity (Canada, India, China, USA, Egypt, France, Brazil, Pakistan, Russia, Mexico), listed in order:
+[200.4, 110.4, 281.5, 137.3, 77.7, 77.6, 68.3, 187.1, 21.2, 226.1]
+
+The following 10 values represent Wheat_tonnes_ha for each Entity (Canada, India, China, USA, Egypt, France, Brazil, Pakistan, Russia, Mexico), listed in order:
+[3.7, 5.6, 8.5, 8, 5.8, 4.6, 6.7, 8.4, 5.2, 2.2]
+
+The following 10 values represent Rice_tonnes_ha for each Entity (Canada, India, China, USA, Egypt, France, Brazil, Pakistan, Russia, Mexico), listed in order:
+[6.2, 2.1, 6.2, 2.5, 2.6, 6.3, 5.8, 5.1, 6.5, 6.7]
+
+The following 10 values represent Area_harvested_kha for each Entity (Canada, India, China, USA, Egypt, France, Brazil, Pakistan, Russia, Mexico), listed in order:
+[16284.2, 34872.3, 12836.5, 6417, 29686.2, 14837.2, 30670.2, 2610.2, 4331.3, 1889.4]

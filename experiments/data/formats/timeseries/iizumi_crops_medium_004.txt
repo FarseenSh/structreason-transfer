@@ -1,0 +1,11 @@
+The following 10 values represent Production_Mt for each Entity (Pakistan, Brazil, Turkey, China, Ukraine, Nigeria, Mexico, Canada, France, Bangladesh), listed in order:
+[106, 299.8, 94.3, 12.8, 156.3, 29.7, 85.8, 297.8, 212.9, 19.9]
+
+The following 10 values represent Rice_tonnes_ha for each Entity (Pakistan, Brazil, Turkey, China, Ukraine, Nigeria, Mexico, Canada, France, Bangladesh), listed in order:
+[4.5, 2.9, 2.7, 5.2, 4.8, 6.1, 6.9, 3.4, 7.1, 4.8]
+
+The following 10 values represent Yield_index for each Entity (Pakistan, Brazil, Turkey, China, Ukraine, Nigeria, Mexico, Canada, France, Bangladesh), listed in order:
+[91.1, 161.5, 64.3, 127.1, 146.6, 93.6, 163.6, 88.8, 160.8, 69.4]
+
+The following 10 values represent Wheat_tonnes_ha for each Entity (Pakistan, Brazil, Turkey, China, Ukraine, Nigeria, Mexico, Canada, France, Bangladesh), listed in order:
+[2.7, 4.4, 7.9, 2.6, 8.1, 3.2, 4.9, 4.1, 2.4, 8.6]

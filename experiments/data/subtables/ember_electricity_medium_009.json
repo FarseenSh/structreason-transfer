@@ -1,0 +1,94 @@
+{
+  "id": "ember_electricity_medium_009",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Solar_GWh",
+    "Hydro_GWh",
+    "Gas_GWh",
+    "Wind_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Netherlands",
+      "Solar_GWh": 5086.8,
+      "Hydro_GWh": 3019.0,
+      "Gas_GWh": 8113.6,
+      "Wind_GWh": 2774.4
+    },
+    {
+      "Entity": "Poland",
+      "Solar_GWh": 983.0,
+      "Hydro_GWh": 589.3,
+      "Gas_GWh": 2400.0,
+      "Wind_GWh": 5794.8
+    },
+    {
+      "Entity": "Czechia",
+      "Solar_GWh": 3721.1,
+      "Hydro_GWh": 3220.6,
+      "Gas_GWh": 1058.0,
+      "Wind_GWh": 5203.0
+    },
+    {
+      "Entity": "Austria",
+      "Solar_GWh": 4772.0,
+      "Hydro_GWh": 6648.1,
+      "Gas_GWh": 7570.2,
+      "Wind_GWh": 4801.8
+    },
+    {
+      "Entity": "Ireland",
+      "Solar_GWh": 4631.3,
+      "Hydro_GWh": 6769.9,
+      "Gas_GWh": 6198.8,
+      "Wind_GWh": 2446.2
+    },
+    {
+      "Entity": "Hungary",
+      "Solar_GWh": 2984.2,
+      "Hydro_GWh": 369.2,
+      "Gas_GWh": 4126.1,
+      "Wind_GWh": 9671.3
+    },
+    {
+      "Entity": "UK",
+      "Solar_GWh": 4417.8,
+      "Hydro_GWh": 649.3,
+      "Gas_GWh": 7019.4,
+      "Wind_GWh": 4678.3
+    },
+    {
+      "Entity": "France",
+      "Solar_GWh": 3543.2,
+      "Hydro_GWh": 5391.9,
+      "Gas_GWh": 9140.4,
+      "Wind_GWh": 10668.9
+    },
+    {
+      "Entity": "Italy",
+      "Solar_GWh": 1288.5,
+      "Hydro_GWh": 4050.0,
+      "Gas_GWh": 631.6,
+      "Wind_GWh": 4385.1
+    },
+    {
+      "Entity": "Finland",
+      "Solar_GWh": 430.7,
+      "Hydro_GWh": 1279.9,
+      "Gas_GWh": 6388.5,
+      "Wind_GWh": 10108.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Solar_GWh",
+    "Hydro_GWh",
+    "Gas_GWh",
+    "Wind_GWh"
+  ]
+}

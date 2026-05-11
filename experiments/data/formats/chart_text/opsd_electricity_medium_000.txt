@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Solar_GWh: UK=2107.5, Hungary=984, Czechia=1201.9, Austria=3231.5, Norway=5092.5, Germany=516.8, Italy=279.8, Belgium=2844.5, Romania=5741.5, Netherlands=1746.2.
+Nuclear_GWh: UK=14387.6, Hungary=13315.2, Czechia=4247, Austria=12254.2, Norway=10288, Germany=7677.3, Italy=6343.7, Belgium=12232.5, Romania=11896.2, Netherlands=11354.
+Gas_GWh: UK=9983.1, Hungary=4941.6, Czechia=8127.2, Austria=8666, Norway=2352.5, Germany=708, Italy=4226.1, Belgium=8610.3, Romania=3104.3, Netherlands=7090.1.
+Total_GWh: UK=2352.7, Hungary=19057.5, Czechia=31544.8, Austria=8228.3, Norway=45037.1, Germany=9501.2, Italy=45670.1, Belgium=12386.7, Romania=49725.4, Netherlands=31027.9.

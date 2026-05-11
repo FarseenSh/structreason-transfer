@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_002",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Soybean_tonnes_ha",
+    "Yield_index"
+  ],
+  "data": [
+    {
+      "Entity": "Mexico",
+      "Soybean_tonnes_ha": 2.7,
+      "Yield_index": 109.9
+    },
+    {
+      "Entity": "Australia",
+      "Soybean_tonnes_ha": 1.3,
+      "Yield_index": 131.8
+    },
+    {
+      "Entity": "Thailand",
+      "Soybean_tonnes_ha": 2.0,
+      "Yield_index": 165.0
+    },
+    {
+      "Entity": "Vietnam",
+      "Soybean_tonnes_ha": 2.1,
+      "Yield_index": 111.1
+    },
+    {
+      "Entity": "Brazil",
+      "Soybean_tonnes_ha": 3.7,
+      "Yield_index": 166.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Soybean_tonnes_ha",
+    "Yield_index"
+  ]
+}

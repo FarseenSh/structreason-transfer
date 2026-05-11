@@ -1,0 +1,45 @@
+{
+  "id": "sec_xbrl_small_005",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "EPS",
+    "ROE_pct"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyO",
+      "EPS": 17.4,
+      "ROE_pct": 4.6
+    },
+    {
+      "Entity": "CompanyN",
+      "EPS": 14.4,
+      "ROE_pct": -7.5
+    },
+    {
+      "Entity": "CompanyT",
+      "EPS": 11.0,
+      "ROE_pct": -7.4
+    },
+    {
+      "Entity": "CompanyR",
+      "EPS": 17.2,
+      "ROE_pct": -13.7
+    },
+    {
+      "Entity": "CompanyC",
+      "EPS": 1.4,
+      "ROE_pct": 30.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "EPS",
+    "ROE_pct"
+  ]
+}

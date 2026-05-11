@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Orange: {Operating_cost_k=15486.1, Monthly_riders_k=6712}
+  Line_Gold: {Operating_cost_k=19518.9, Monthly_riders_k=4380.5}
+  Ferry_A: {Operating_cost_k=559.9, Monthly_riders_k=4539}
+  Bus_404: {Operating_cost_k=19054.3, Monthly_riders_k=2907.1}
+  Line_Blue: {Operating_cost_k=7953.5, Monthly_riders_k=6636.4}
+
+Edges (top 3 by metric similarity):
+  Line_Gold -- Bus_404 (sim=1.00, similar Operating_cost_k)
+  Line_Orange -- Line_Gold (sim=0.98, similar Monthly_riders_k)
+  Line_Orange -- Bus_404 (sim=0.97, similar Operating_cost_k)

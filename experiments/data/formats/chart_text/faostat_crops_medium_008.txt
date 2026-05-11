@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Maize_tonnes_ha: Brazil=9.7, Vietnam=5.8, USA=4.4, Russia=3.1, Argentina=8.7, Pakistan=6.7, Turkey=10.1, France=6.6, India=6.1, Canada=5.
+Production_Mt: Brazil=63.8, Vietnam=250, USA=33.1, Russia=271.1, Argentina=12.9, Pakistan=159.1, Turkey=22.2, France=235, India=67.4, Canada=171.9.
+Wheat_tonnes_ha: Brazil=8.4, Vietnam=6.4, USA=2.8, Russia=7.5, Argentina=4.8, Pakistan=1.6, Turkey=5.2, France=7.6, India=4.7, Canada=7.2.
+Yield_index: Brazil=144.7, Vietnam=114.8, USA=98.8, Russia=147.2, Argentina=104.3, Pakistan=80.4, Turkey=98.5, France=165.2, India=94, Canada=88.2.

@@ -1,0 +1,94 @@
+{
+  "id": "ntd_transit_medium_009",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Farebox_recovery_pct",
+    "Operating_cost_k",
+    "Avg_trip_minutes",
+    "Monthly_riders_k"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Pink",
+      "Farebox_recovery_pct": 23.7,
+      "Operating_cost_k": 19203.9,
+      "Avg_trip_minutes": 53.6,
+      "Monthly_riders_k": 1099.8
+    },
+    {
+      "Entity": "Bus_303",
+      "Farebox_recovery_pct": 70.0,
+      "Operating_cost_k": 19223.2,
+      "Avg_trip_minutes": 52.5,
+      "Monthly_riders_k": 4130.3
+    },
+    {
+      "Entity": "Line_Gold",
+      "Farebox_recovery_pct": 58.2,
+      "Operating_cost_k": 16414.2,
+      "Avg_trip_minutes": 34.1,
+      "Monthly_riders_k": 7556.6
+    },
+    {
+      "Entity": "Bus_404",
+      "Farebox_recovery_pct": 41.4,
+      "Operating_cost_k": 9355.6,
+      "Avg_trip_minutes": 31.1,
+      "Monthly_riders_k": 4843.0
+    },
+    {
+      "Entity": "Tram_1",
+      "Farebox_recovery_pct": 79.3,
+      "Operating_cost_k": 4363.9,
+      "Avg_trip_minutes": 54.4,
+      "Monthly_riders_k": 3266.8
+    },
+    {
+      "Entity": "Line_Orange",
+      "Farebox_recovery_pct": 61.2,
+      "Operating_cost_k": 7792.1,
+      "Avg_trip_minutes": 18.3,
+      "Monthly_riders_k": 4431.3
+    },
+    {
+      "Entity": "Ferry_A",
+      "Farebox_recovery_pct": 80.0,
+      "Operating_cost_k": 18778.3,
+      "Avg_trip_minutes": 16.8,
+      "Monthly_riders_k": 7094.9
+    },
+    {
+      "Entity": "Line_Brown",
+      "Farebox_recovery_pct": 48.2,
+      "Operating_cost_k": 7398.4,
+      "Avg_trip_minutes": 53.3,
+      "Monthly_riders_k": 7307.1
+    },
+    {
+      "Entity": "Bus_505",
+      "Farebox_recovery_pct": 46.8,
+      "Operating_cost_k": 15183.0,
+      "Avg_trip_minutes": 40.4,
+      "Monthly_riders_k": 3230.7
+    },
+    {
+      "Entity": "Line_Green",
+      "Farebox_recovery_pct": 80.6,
+      "Operating_cost_k": 18475.5,
+      "Avg_trip_minutes": 33.2,
+      "Monthly_riders_k": 4884.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Farebox_recovery_pct",
+    "Operating_cost_k",
+    "Avg_trip_minutes",
+    "Monthly_riders_k"
+  ]
+}

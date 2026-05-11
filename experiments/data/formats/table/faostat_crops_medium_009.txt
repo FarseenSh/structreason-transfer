@@ -1,0 +1,12 @@
+| Entity | Soybean_tonnes_ha | Fertilizer_kg_ha | Area_harvested_kha | Maize_tonnes_ha |
+|---|---|---|---|---|
+| Turkey | 3.6 | 312.7 | 17525 | 6.4 |
+| Russia | 3.5 | 352.5 | 6419.3 | 10.9 |
+| Egypt | 3.6 | 240.5 | 11285.8 | 5.8 |
+| Australia | 2 | 63 | 33398.6 | 10.6 |
+| China | 2.4 | 135.4 | 15402.5 | 2.3 |
+| Canada | 3.5 | 345.7 | 15735.2 | 5.5 |
+| Thailand | 3.7 | 152.1 | 5780.9 | 10.6 |
+| India | 1.4 | 59.1 | 11007.1 | 11 |
+| Indonesia | 1.5 | 134.8 | 28606.7 | 9.6 |
+| Mexico | 2 | 326.5 | 27623.9 | 8.7 |

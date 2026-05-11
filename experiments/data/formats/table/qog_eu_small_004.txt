@@ -1,0 +1,7 @@
+| Entity | Trust_in_govt_pct | Education_spending_pct |
+|---|---|---|
+| France | 37.1 | 4.1 |
+| Italy | 31.9 | 8.3 |
+| Norway | 53.6 | 8 |
+| Bulgaria | 35.9 | 7 |
+| Netherlands | 17.8 | 4.8 |

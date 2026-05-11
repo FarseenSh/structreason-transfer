@@ -1,0 +1,13 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyP: {Revenue_M=1169.6, ROE_pct=-8.7}
+  CompanyH: {Revenue_M=4147.2, ROE_pct=-7.4}
+  CompanyN: {Revenue_M=1011.2, ROE_pct=1.9}
+  CompanyD: {Revenue_M=3234.8, ROE_pct=31}
+  CompanyO: {Revenue_M=2282.8, ROE_pct=28.7}
+
+Edges (top 3 by metric similarity):
+  CompanyD -- CompanyO (sim=1.00, similar ROE_pct)
+  CompanyH -- CompanyN (sim=1.00, similar ROE_pct)
+  CompanyP -- CompanyH (sim=1.00, similar ROE_pct)

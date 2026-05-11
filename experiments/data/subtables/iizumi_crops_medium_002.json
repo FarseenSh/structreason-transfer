@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_002",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Rice_tonnes_ha",
+    "Maize_tonnes_ha",
+    "Yield_index",
+    "Fertilizer_kg_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Thailand",
+      "Rice_tonnes_ha": 6.5,
+      "Maize_tonnes_ha": 4.1,
+      "Yield_index": 142.9,
+      "Fertilizer_kg_ha": 71.9
+    },
+    {
+      "Entity": "Canada",
+      "Rice_tonnes_ha": 2.9,
+      "Maize_tonnes_ha": 2.2,
+      "Yield_index": 100.9,
+      "Fertilizer_kg_ha": 176.2
+    },
+    {
+      "Entity": "Australia",
+      "Rice_tonnes_ha": 3.1,
+      "Maize_tonnes_ha": 9.6,
+      "Yield_index": 123.3,
+      "Fertilizer_kg_ha": 187.8
+    },
+    {
+      "Entity": "Russia",
+      "Rice_tonnes_ha": 2.0,
+      "Maize_tonnes_ha": 6.3,
+      "Yield_index": 140.3,
+      "Fertilizer_kg_ha": 61.5
+    },
+    {
+      "Entity": "France",
+      "Rice_tonnes_ha": 4.9,
+      "Maize_tonnes_ha": 11.5,
+      "Yield_index": 153.9,
+      "Fertilizer_kg_ha": 368.3
+    },
+    {
+      "Entity": "Mexico",
+      "Rice_tonnes_ha": 3.1,
+      "Maize_tonnes_ha": 7.3,
+      "Yield_index": 69.6,
+      "Fertilizer_kg_ha": 247.7
+    },
+    {
+      "Entity": "USA",
+      "Rice_tonnes_ha": 6.0,
+      "Maize_tonnes_ha": 3.6,
+      "Yield_index": 62.7,
+      "Fertilizer_kg_ha": 167.6
+    },
+    {
+      "Entity": "Nigeria",
+      "Rice_tonnes_ha": 7.3,
+      "Maize_tonnes_ha": 6.5,
+      "Yield_index": 73.7,
+      "Fertilizer_kg_ha": 212.6
+    },
+    {
+      "Entity": "Brazil",
+      "Rice_tonnes_ha": 3.1,
+      "Maize_tonnes_ha": 4.0,
+      "Yield_index": 107.4,
+      "Fertilizer_kg_ha": 139.4
+    },
+    {
+      "Entity": "Egypt",
+      "Rice_tonnes_ha": 5.6,
+      "Maize_tonnes_ha": 10.8,
+      "Yield_index": 116.0,
+      "Fertilizer_kg_ha": 344.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Rice_tonnes_ha",
+    "Maize_tonnes_ha",
+    "Yield_index",
+    "Fertilizer_kg_ha"
+  ]
+}

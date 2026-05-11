@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Solar_GWh: Hungary=884.5, Romania=4867.8, Germany=2180.3, Netherlands=840.5, UK=567, Norway=5073.9, Portugal=4693.8, Finland=1799.4, Sweden=786.5, Belgium=1558.7.
+Gas_GWh: Hungary=2366, Romania=7410.6, Germany=2391, Netherlands=2396.2, UK=613, Norway=6089.5, Portugal=6983.1, Finland=6638.9, Sweden=5815.4, Belgium=9670.9.
+CO2_Mt: Hungary=38.3, Romania=69, Germany=52, Netherlands=7.6, UK=65, Norway=47.2, Portugal=52.6, Finland=15.2, Sweden=35.6, Belgium=70.6.
+Nuclear_GWh: Hungary=3231.5, Romania=1.9, Germany=3862.6, Netherlands=7313.1, UK=12319.2, Norway=9649.4, Portugal=13786, Finland=6833.5, Sweden=5862.2, Belgium=3471.3.

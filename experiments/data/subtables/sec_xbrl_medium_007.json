@@ -1,0 +1,94 @@
+{
+  "id": "sec_xbrl_medium_007",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Revenue_M",
+    "Net_income_M",
+    "Current_ratio",
+    "Operating_margin_pct"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyG",
+      "Revenue_M": 1733.7,
+      "Net_income_M": 179.0,
+      "Current_ratio": 3.9,
+      "Operating_margin_pct": 9.1
+    },
+    {
+      "Entity": "CompanyS",
+      "Revenue_M": 2675.2,
+      "Net_income_M": 1462.2,
+      "Current_ratio": 3.5,
+      "Operating_margin_pct": 34.9
+    },
+    {
+      "Entity": "CompanyP",
+      "Revenue_M": 3086.6,
+      "Net_income_M": 1397.5,
+      "Current_ratio": 2.7,
+      "Operating_margin_pct": 21.9
+    },
+    {
+      "Entity": "CompanyQ",
+      "Revenue_M": 2998.9,
+      "Net_income_M": 1237.7,
+      "Current_ratio": 1.0,
+      "Operating_margin_pct": 28.0
+    },
+    {
+      "Entity": "CompanyF",
+      "Revenue_M": 3942.7,
+      "Net_income_M": 1349.7,
+      "Current_ratio": 1.1,
+      "Operating_margin_pct": 12.3
+    },
+    {
+      "Entity": "CompanyC",
+      "Revenue_M": 2879.9,
+      "Net_income_M": 449.6,
+      "Current_ratio": 2.2,
+      "Operating_margin_pct": 12.7
+    },
+    {
+      "Entity": "CompanyH",
+      "Revenue_M": 4262.7,
+      "Net_income_M": 187.3,
+      "Current_ratio": 3.2,
+      "Operating_margin_pct": -4.4
+    },
+    {
+      "Entity": "CompanyN",
+      "Revenue_M": 468.9,
+      "Net_income_M": 110.9,
+      "Current_ratio": 1.1,
+      "Operating_margin_pct": 19.2
+    },
+    {
+      "Entity": "CompanyO",
+      "Revenue_M": 4301.9,
+      "Net_income_M": 1285.4,
+      "Current_ratio": 3.7,
+      "Operating_margin_pct": 29.2
+    },
+    {
+      "Entity": "CompanyB",
+      "Revenue_M": 2970.5,
+      "Net_income_M": 1205.3,
+      "Current_ratio": 2.9,
+      "Operating_margin_pct": 38.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Revenue_M",
+    "Net_income_M",
+    "Current_ratio",
+    "Operating_margin_pct"
+  ]
+}

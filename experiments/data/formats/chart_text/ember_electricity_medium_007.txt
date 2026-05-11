@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Nuclear_GWh: Austria=4066.7, UK=1913.1, Norway=14011.4, Germany=4324.8, Spain=7517.6, Poland=14948, Czechia=8499.6, Belgium=6172.4, Romania=13946.9, Hungary=3337.5.
+Coal_GWh: Austria=1477, UK=4306.1, Norway=3447, Germany=6386, Spain=384, Poland=4960.9, Czechia=5699.9, Belgium=7776.7, Romania=1208.8, Hungary=2007.6.
+Solar_GWh: Austria=5601.4, UK=3820.7, Norway=324.5, Germany=556.3, Spain=4734.1, Poland=3448.1, Czechia=3436, Belgium=5291.2, Romania=1522.5, Hungary=1046.5.
+Gas_GWh: Austria=6253.9, UK=8859.5, Norway=2872.9, Germany=6908.6, Spain=1778.1, Poland=1967.5, Czechia=9044.6, Belgium=1444.3, Romania=536.2, Hungary=7816.9.

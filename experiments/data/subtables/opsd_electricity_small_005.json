@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_005",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "CO2_Mt",
+    "Total_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Ireland",
+      "CO2_Mt": 49.3,
+      "Total_GWh": 8114.5
+    },
+    {
+      "Entity": "Germany",
+      "CO2_Mt": 78.9,
+      "Total_GWh": 35572.3
+    },
+    {
+      "Entity": "Sweden",
+      "CO2_Mt": 52.7,
+      "Total_GWh": 25247.1
+    },
+    {
+      "Entity": "Hungary",
+      "CO2_Mt": 72.0,
+      "Total_GWh": 46102.3
+    },
+    {
+      "Entity": "Austria",
+      "CO2_Mt": 58.3,
+      "Total_GWh": 40728.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO2_Mt",
+    "Total_GWh"
+  ]
+}

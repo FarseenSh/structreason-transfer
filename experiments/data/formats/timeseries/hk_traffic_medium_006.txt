@@ -1,0 +1,11 @@
+The following 10 values represent Bus_passengers for each Entity (Route_O15, Route_G7, Route_P16, Route_F6, Route_N14, Route_H8, Route_B2, Route_L12, Route_A1, Route_E5), listed in order:
+[21149, 33702.4, 23380.5, 37919.6, 2547.5, 8063.7, 31095.7, 12395.1, 33636.6, 18209.9]
+
+The following 10 values represent Road_condition_score for each Entity (Route_O15, Route_G7, Route_P16, Route_F6, Route_N14, Route_H8, Route_B2, Route_L12, Route_A1, Route_E5), listed in order:
+[91.4, 87.5, 68.6, 84.8, 55.7, 68.7, 51.5, 89.9, 87.7, 92.3]
+
+The following 10 values represent Daily_vehicles for each Entity (Route_O15, Route_G7, Route_P16, Route_F6, Route_N14, Route_H8, Route_B2, Route_L12, Route_A1, Route_E5), listed in order:
+[83972.9, 91363.7, 25550.3, 88864.2, 56409.2, 43024.6, 55433.7, 35834.2, 30969.8, 26718.3]
+
+The following 10 values represent Avg_speed_kmh for each Entity (Route_O15, Route_G7, Route_P16, Route_F6, Route_N14, Route_H8, Route_B2, Route_L12, Route_A1, Route_E5), listed in order:
+[20.4, 47.3, 72.7, 56, 48.9, 42.9, 45.2, 28.6, 68.5, 27.9]

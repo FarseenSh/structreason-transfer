@@ -1,0 +1,45 @@
+{
+  "id": "ntd_transit_small_003",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Complaints_per_10k",
+    "Avg_trip_minutes"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Silver",
+      "Complaints_per_10k": 6.0,
+      "Avg_trip_minutes": 19.4
+    },
+    {
+      "Entity": "Line_Red",
+      "Complaints_per_10k": 13.8,
+      "Avg_trip_minutes": 22.1
+    },
+    {
+      "Entity": "Bus_505",
+      "Complaints_per_10k": 12.6,
+      "Avg_trip_minutes": 27.9
+    },
+    {
+      "Entity": "Bus_404",
+      "Complaints_per_10k": 14.5,
+      "Avg_trip_minutes": 30.2
+    },
+    {
+      "Entity": "Bus_303",
+      "Complaints_per_10k": 1.5,
+      "Avg_trip_minutes": 21.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Complaints_per_10k",
+    "Avg_trip_minutes"
+  ]
+}

@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Poland: {HDI=0.9, Trust_in_govt_pct=19.6, Education_spending_pct=7.6, Gini_index=28.3}
+  Bulgaria: {HDI=0.9, Trust_in_govt_pct=16.8, Education_spending_pct=7.8, Gini_index=34.7}
+  France: {HDI=0.9, Trust_in_govt_pct=67.6, Education_spending_pct=5.4, Gini_index=35}
+  Sweden: {HDI=0.9, Trust_in_govt_pct=15.7, Education_spending_pct=4.3, Gini_index=29.6}
+  Czechia: {HDI=0.9, Trust_in_govt_pct=30.5, Education_spending_pct=6.5, Gini_index=33.9}
+  Switzerland: {HDI=0.9, Trust_in_govt_pct=34.1, Education_spending_pct=4.1, Gini_index=23.2}
+  Finland: {HDI=0.9, Trust_in_govt_pct=23.4, Education_spending_pct=5.3, Gini_index=26.6}
+  Greece: {HDI=0.8, Trust_in_govt_pct=32.7, Education_spending_pct=8.3, Gini_index=31.9}
+  Romania: {HDI=0.9, Trust_in_govt_pct=61, Education_spending_pct=8.5, Gini_index=25.8}
+  Belgium: {HDI=0.9, Trust_in_govt_pct=13, Education_spending_pct=7.4, Gini_index=25.8}
+
+Edges (top 5 by metric similarity):
+  Czechia -- Finland (sim=1.00, similar HDI)
+  Bulgaria -- Belgium (sim=1.00, similar HDI)
+  Czechia -- Greece (sim=1.00, similar HDI)
+  Bulgaria -- Sweden (sim=1.00, similar HDI)
+  Finland -- Greece (sim=1.00, similar HDI)

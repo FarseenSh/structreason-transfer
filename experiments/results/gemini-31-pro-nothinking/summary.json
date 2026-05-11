@@ -1,0 +1,25 @@
+{
+  "model_id": "gemini-3.1-pro-preview",
+  "model_name": "Gemini-3.1-Pro-NoThinking",
+  "vision": true,
+  "thinking": false,
+  "thinking_budget": 0,
+  "total_results": 8620,
+  "errors": 0,
+  "accuracy_by_format": {
+    "table": 0.9884,
+    "chart_text": 0.9014,
+    "graph": 0.9901,
+    "timeseries": 0.9913,
+    "chart_image": 0.6856
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.9024,
+    "Q2_comparison": 0.9544,
+    "Q3_aggregation": 0.8944,
+    "Q4_trend": 0.9768,
+    "Q5_extremum": 0.9128,
+    "Q6_multi_hop": 0.8786,
+    "Q7_conditional_aggregation": 0.8568
+  }
+}

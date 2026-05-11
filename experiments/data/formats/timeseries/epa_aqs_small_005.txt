@@ -1,0 +1,5 @@
+The following 5 values represent SO2_ppb for each Entity (Station_S16, Station_C14, Station_SE12, Station_U20, Station_R19), listed in order:
+[7.4, 9.9, 11.1, 18.9, 23.2]
+
+The following 5 values represent CO_ppm for each Entity (Station_S16, Station_C14, Station_SE12, Station_U20, Station_R19), listed in order:
+[1.6, 2.2, 2.8, 1.9, 2.4]

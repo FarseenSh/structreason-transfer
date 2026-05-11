@@ -1,0 +1,5 @@
+The following 5 values represent AQI for each Entity (Station_E17, Station_S7, Station_W9, Station_E8, Station_NE11), listed in order:
+[43.3, 80.4, 178.3, 103.5, 25.5]
+
+The following 5 values represent PM10_ug_m3 for each Entity (Station_E17, Station_S7, Station_W9, Station_E8, Station_NE11), listed in order:
+[46.9, 83.1, 33.2, 116, 55.6]

@@ -1,0 +1,45 @@
+{
+  "id": "epa_aqs_small_001",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "AQI",
+    "O3_ppb"
+  ],
+  "data": [
+    {
+      "Entity": "Station_NW1",
+      "AQI": 38.2,
+      "O3_ppb": 29.9
+    },
+    {
+      "Entity": "Station_C5",
+      "AQI": 167.9,
+      "O3_ppb": 46.4
+    },
+    {
+      "Entity": "Station_SE12",
+      "AQI": 164.6,
+      "O3_ppb": 29.2
+    },
+    {
+      "Entity": "Station_S16",
+      "AQI": 103.1,
+      "O3_ppb": 16.5
+    },
+    {
+      "Entity": "Station_NW10",
+      "AQI": 120.0,
+      "O3_ppb": 83.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "AQI",
+    "O3_ppb"
+  ]
+}

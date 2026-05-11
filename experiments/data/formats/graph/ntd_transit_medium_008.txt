@@ -1,0 +1,20 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Silver: {Monthly_riders_k=6553.8, Farebox_recovery_pct=68.7, Operating_cost_k=17427.2, Revenue_k_USD=6104.5}
+  Ferry_B: {Monthly_riders_k=2128.4, Farebox_recovery_pct=75.3, Operating_cost_k=9384.2, Revenue_k_USD=7207.5}
+  Ferry_A: {Monthly_riders_k=7965.2, Farebox_recovery_pct=77.6, Operating_cost_k=13734.2, Revenue_k_USD=3755.4}
+  Line_Purple: {Monthly_riders_k=4528, Farebox_recovery_pct=31.1, Operating_cost_k=19250, Revenue_k_USD=1086.6}
+  Bus_101: {Monthly_riders_k=1899.4, Farebox_recovery_pct=51.5, Operating_cost_k=6123.9, Revenue_k_USD=10195.1}
+  Line_Orange: {Monthly_riders_k=3993.2, Farebox_recovery_pct=74.5, Operating_cost_k=15271.8, Revenue_k_USD=452.6}
+  Tram_3: {Monthly_riders_k=2716.3, Farebox_recovery_pct=41.4, Operating_cost_k=650.7, Revenue_k_USD=12161.1}
+  Line_Yellow: {Monthly_riders_k=6246.8, Farebox_recovery_pct=19.2, Operating_cost_k=2261.5, Revenue_k_USD=13944.4}
+  Line_Green: {Monthly_riders_k=891.2, Farebox_recovery_pct=35.4, Operating_cost_k=3404.9, Revenue_k_USD=10684.5}
+  Bus_404: {Monthly_riders_k=6863.2, Farebox_recovery_pct=31.9, Operating_cost_k=6385.9, Revenue_k_USD=8979.8}
+
+Edges (top 5 by metric similarity):
+  Line_Purple -- Line_Orange (sim=1.00, similar Farebox_recovery_pct)
+  Line_Silver -- Ferry_A (sim=0.98, similar Farebox_recovery_pct)
+  Tram_3 -- Line_Yellow (sim=0.98, similar Farebox_recovery_pct)
+  Bus_101 -- Line_Green (sim=0.97, similar Farebox_recovery_pct)
+  Tram_3 -- Line_Green (sim=0.96, similar Farebox_recovery_pct)

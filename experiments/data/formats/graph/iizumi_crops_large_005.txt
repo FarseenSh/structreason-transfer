@@ -1,0 +1,35 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Argentina: {Rice_tonnes_ha=6.1, Production_Mt=253.3, Yield_index=176.5, Wheat_tonnes_ha=8.7, Fertilizer_kg_ha=373.3, Soybean_tonnes_ha=1.6, Maize_tonnes_ha=3}
+  India: {Rice_tonnes_ha=3.8, Production_Mt=223.7, Yield_index=173.8, Wheat_tonnes_ha=3.8, Fertilizer_kg_ha=182.7, Soybean_tonnes_ha=2.9, Maize_tonnes_ha=11.4}
+  Nigeria: {Rice_tonnes_ha=6.8, Production_Mt=185.8, Yield_index=92.8, Wheat_tonnes_ha=4.2, Fertilizer_kg_ha=267.6, Soybean_tonnes_ha=1.5, Maize_tonnes_ha=3.4}
+  Egypt: {Rice_tonnes_ha=3.5, Production_Mt=16.5, Yield_index=63.5, Wheat_tonnes_ha=6.2, Fertilizer_kg_ha=169.8, Soybean_tonnes_ha=2.1, Maize_tonnes_ha=4.6}
+  Thailand: {Rice_tonnes_ha=2.4, Production_Mt=42.5, Yield_index=99.5, Wheat_tonnes_ha=8.6, Fertilizer_kg_ha=329.2, Soybean_tonnes_ha=3.1, Maize_tonnes_ha=8.9}
+  Mexico: {Rice_tonnes_ha=5.3, Production_Mt=152.5, Yield_index=145, Wheat_tonnes_ha=6.5, Fertilizer_kg_ha=238.8, Soybean_tonnes_ha=2.5, Maize_tonnes_ha=9.1}
+  Indonesia: {Rice_tonnes_ha=2.6, Production_Mt=225.2, Yield_index=67.2, Wheat_tonnes_ha=8.7, Fertilizer_kg_ha=341.3, Soybean_tonnes_ha=2.8, Maize_tonnes_ha=3.6}
+  China: {Rice_tonnes_ha=3.5, Production_Mt=141.9, Yield_index=103.2, Wheat_tonnes_ha=2.9, Fertilizer_kg_ha=93.6, Soybean_tonnes_ha=1.8, Maize_tonnes_ha=10.1}
+  Ukraine: {Rice_tonnes_ha=4.8, Production_Mt=10.1, Yield_index=95.8, Wheat_tonnes_ha=6.1, Fertilizer_kg_ha=90.3, Soybean_tonnes_ha=3.8, Maize_tonnes_ha=7.1}
+  Bangladesh: {Rice_tonnes_ha=3.6, Production_Mt=59.4, Yield_index=86.3, Wheat_tonnes_ha=7.7, Fertilizer_kg_ha=187.3, Soybean_tonnes_ha=2.2, Maize_tonnes_ha=10.5}
+  Brazil: {Rice_tonnes_ha=3.2, Production_Mt=178.7, Yield_index=144.7, Wheat_tonnes_ha=5.3, Fertilizer_kg_ha=21.8, Soybean_tonnes_ha=1.9, Maize_tonnes_ha=2.9}
+  Pakistan: {Rice_tonnes_ha=5.9, Production_Mt=209.8, Yield_index=139.1, Wheat_tonnes_ha=4.2, Fertilizer_kg_ha=283.3, Soybean_tonnes_ha=3.7, Maize_tonnes_ha=2.4}
+  Canada: {Rice_tonnes_ha=5, Production_Mt=14.9, Yield_index=124.3, Wheat_tonnes_ha=8.9, Fertilizer_kg_ha=132.5, Soybean_tonnes_ha=3, Maize_tonnes_ha=8.4}
+  Turkey: {Rice_tonnes_ha=6.6, Production_Mt=17.8, Yield_index=169.3, Wheat_tonnes_ha=2.6, Fertilizer_kg_ha=231.8, Soybean_tonnes_ha=2.8, Maize_tonnes_ha=3.5}
+  France: {Rice_tonnes_ha=5.2, Production_Mt=82.1, Yield_index=72.4, Wheat_tonnes_ha=4.6, Fertilizer_kg_ha=46.6, Soybean_tonnes_ha=3.7, Maize_tonnes_ha=7.2}
+  Germany: {Rice_tonnes_ha=4.7, Production_Mt=29.6, Yield_index=78, Wheat_tonnes_ha=8.1, Fertilizer_kg_ha=84.8, Soybean_tonnes_ha=1.2, Maize_tonnes_ha=2.1}
+  Vietnam: {Rice_tonnes_ha=3.4, Production_Mt=164.9, Yield_index=106, Wheat_tonnes_ha=8.3, Fertilizer_kg_ha=256.7, Soybean_tonnes_ha=3.5, Maize_tonnes_ha=9.8}
+  Russia: {Rice_tonnes_ha=6.4, Production_Mt=41.5, Yield_index=138.7, Wheat_tonnes_ha=8.9, Fertilizer_kg_ha=136.2, Soybean_tonnes_ha=3, Maize_tonnes_ha=11}
+  USA: {Rice_tonnes_ha=3.1, Production_Mt=196.2, Yield_index=130.1, Wheat_tonnes_ha=8.1, Fertilizer_kg_ha=101.6, Soybean_tonnes_ha=2.1, Maize_tonnes_ha=10.4}
+  Australia: {Rice_tonnes_ha=3.3, Production_Mt=234.3, Yield_index=68.9, Wheat_tonnes_ha=1.9, Fertilizer_kg_ha=107, Soybean_tonnes_ha=1.8, Maize_tonnes_ha=11.6}
+
+Edges (top 10 by metric similarity):
+  Argentina -- Pakistan (sim=1.00, similar Rice_tonnes_ha)
+  Argentina -- Vietnam (sim=1.00, similar Wheat_tonnes_ha)
+  Ukraine -- Canada (sim=1.00, similar Rice_tonnes_ha)
+  Nigeria -- Vietnam (sim=1.00, similar Soybean_tonnes_ha)
+  Egypt -- Thailand (sim=1.00, similar Soybean_tonnes_ha)
+  Germany -- Russia (sim=1.00, similar Wheat_tonnes_ha)
+  Pakistan -- Vietnam (sim=1.00, similar Soybean_tonnes_ha)
+  India -- China (sim=1.00, similar Rice_tonnes_ha)
+  China -- USA (sim=1.00, similar Soybean_tonnes_ha)
+  Argentina -- Nigeria (sim=1.00, similar Soybean_tonnes_ha)

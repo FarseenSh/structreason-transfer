@@ -1,0 +1,7 @@
+| Entity | Congestion_index | Accidents_monthly |
+|---|---|---|
+| Route_O15 | 1.3 | 13.1 |
+| Route_S19 | 3.1 | 30.5 |
+| Route_J10 | 3.9 | 7.1 |
+| Route_T20 | 1.3 | 42.3 |
+| Route_C3 | 2.8 | 40.5 |

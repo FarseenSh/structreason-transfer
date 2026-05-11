@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_007",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Fertilizer_kg_ha",
+    "Wheat_tonnes_ha",
+    "Rice_tonnes_ha",
+    "Area_harvested_kha"
+  ],
+  "data": [
+    {
+      "Entity": "Canada",
+      "Fertilizer_kg_ha": 200.4,
+      "Wheat_tonnes_ha": 3.7,
+      "Rice_tonnes_ha": 6.2,
+      "Area_harvested_kha": 16284.2
+    },
+    {
+      "Entity": "India",
+      "Fertilizer_kg_ha": 110.4,
+      "Wheat_tonnes_ha": 5.6,
+      "Rice_tonnes_ha": 2.1,
+      "Area_harvested_kha": 34872.3
+    },
+    {
+      "Entity": "China",
+      "Fertilizer_kg_ha": 281.5,
+      "Wheat_tonnes_ha": 8.5,
+      "Rice_tonnes_ha": 6.2,
+      "Area_harvested_kha": 12836.5
+    },
+    {
+      "Entity": "USA",
+      "Fertilizer_kg_ha": 137.3,
+      "Wheat_tonnes_ha": 8.0,
+      "Rice_tonnes_ha": 2.5,
+      "Area_harvested_kha": 6417.0
+    },
+    {
+      "Entity": "Egypt",
+      "Fertilizer_kg_ha": 77.7,
+      "Wheat_tonnes_ha": 5.8,
+      "Rice_tonnes_ha": 2.6,
+      "Area_harvested_kha": 29686.2
+    },
+    {
+      "Entity": "France",
+      "Fertilizer_kg_ha": 77.6,
+      "Wheat_tonnes_ha": 4.6,
+      "Rice_tonnes_ha": 6.3,
+      "Area_harvested_kha": 14837.2
+    },
+    {
+      "Entity": "Brazil",
+      "Fertilizer_kg_ha": 68.3,
+      "Wheat_tonnes_ha": 6.7,
+      "Rice_tonnes_ha": 5.8,
+      "Area_harvested_kha": 30670.2
+    },
+    {
+      "Entity": "Pakistan",
+      "Fertilizer_kg_ha": 187.1,
+      "Wheat_tonnes_ha": 8.4,
+      "Rice_tonnes_ha": 5.1,
+      "Area_harvested_kha": 2610.2
+    },
+    {
+      "Entity": "Russia",
+      "Fertilizer_kg_ha": 21.2,
+      "Wheat_tonnes_ha": 5.2,
+      "Rice_tonnes_ha": 6.5,
+      "Area_harvested_kha": 4331.3
+    },
+    {
+      "Entity": "Mexico",
+      "Fertilizer_kg_ha": 226.1,
+      "Wheat_tonnes_ha": 2.2,
+      "Rice_tonnes_ha": 6.7,
+      "Area_harvested_kha": 1889.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Fertilizer_kg_ha",
+    "Wheat_tonnes_ha",
+    "Rice_tonnes_ha",
+    "Area_harvested_kha"
+  ]
+}

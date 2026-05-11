@@ -1,0 +1,5 @@
+The following 5 values represent Trust_in_govt_pct for each Entity (France, Italy, Norway, Bulgaria, Netherlands), listed in order:
+[37.1, 31.9, 53.6, 35.9, 17.8]
+
+The following 5 values represent Education_spending_pct for each Entity (France, Italy, Norway, Bulgaria, Netherlands), listed in order:
+[4.1, 8.3, 8, 7, 4.8]

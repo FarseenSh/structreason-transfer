@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_000",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Mexico",
+      "Area_harvested_kha": 22523.0,
+      "Wheat_tonnes_ha": 7.8
+    },
+    {
+      "Entity": "Argentina",
+      "Area_harvested_kha": 5316.3,
+      "Wheat_tonnes_ha": 4.7
+    },
+    {
+      "Entity": "Bangladesh",
+      "Area_harvested_kha": 19573.7,
+      "Wheat_tonnes_ha": 8.8
+    },
+    {
+      "Entity": "Germany",
+      "Area_harvested_kha": 7323.0,
+      "Wheat_tonnes_ha": 8.8
+    },
+    {
+      "Entity": "China",
+      "Area_harvested_kha": 29643.2,
+      "Wheat_tonnes_ha": 2.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ]
+}

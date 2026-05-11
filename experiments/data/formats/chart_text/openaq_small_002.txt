@@ -1,0 +1,3 @@
+Bar chart: "OpenAQ — Air Quality".
+Temperature_C: Station_C14=20.9, Station_NW10=6.7, Station_S7=35.9, Station_NE11=8.2, Station_NW1=29.6.
+AQI: Station_C14=153.1, Station_NW10=35.7, Station_S7=57.2, Station_NE11=54.4, Station_NW1=167.1.

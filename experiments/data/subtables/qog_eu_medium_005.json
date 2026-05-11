@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_005",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "HDI",
+    "Trust_in_govt_pct",
+    "Education_spending_pct",
+    "Gini_index"
+  ],
+  "data": [
+    {
+      "Entity": "Poland",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 19.6,
+      "Education_spending_pct": 7.6,
+      "Gini_index": 28.3
+    },
+    {
+      "Entity": "Bulgaria",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 16.8,
+      "Education_spending_pct": 7.8,
+      "Gini_index": 34.7
+    },
+    {
+      "Entity": "France",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 67.6,
+      "Education_spending_pct": 5.4,
+      "Gini_index": 35.0
+    },
+    {
+      "Entity": "Sweden",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 15.7,
+      "Education_spending_pct": 4.3,
+      "Gini_index": 29.6
+    },
+    {
+      "Entity": "Czechia",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 30.5,
+      "Education_spending_pct": 6.5,
+      "Gini_index": 33.9
+    },
+    {
+      "Entity": "Switzerland",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 34.1,
+      "Education_spending_pct": 4.1,
+      "Gini_index": 23.2
+    },
+    {
+      "Entity": "Finland",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 23.4,
+      "Education_spending_pct": 5.3,
+      "Gini_index": 26.6
+    },
+    {
+      "Entity": "Greece",
+      "HDI": 0.8,
+      "Trust_in_govt_pct": 32.7,
+      "Education_spending_pct": 8.3,
+      "Gini_index": 31.9
+    },
+    {
+      "Entity": "Romania",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 61.0,
+      "Education_spending_pct": 8.5,
+      "Gini_index": 25.8
+    },
+    {
+      "Entity": "Belgium",
+      "HDI": 0.9,
+      "Trust_in_govt_pct": 13.0,
+      "Education_spending_pct": 7.4,
+      "Gini_index": 25.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "HDI",
+    "Trust_in_govt_pct",
+    "Education_spending_pct",
+    "Gini_index"
+  ]
+}

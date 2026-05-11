@@ -1,0 +1,94 @@
+{
+  "id": "ember_electricity_medium_000",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Nuclear_GWh",
+    "Solar_GWh",
+    "Gas_GWh",
+    "Hydro_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Czechia",
+      "Nuclear_GWh": 5619.7,
+      "Solar_GWh": 1320.4,
+      "Gas_GWh": 325.4,
+      "Hydro_GWh": 7125.4
+    },
+    {
+      "Entity": "UK",
+      "Nuclear_GWh": 1406.3,
+      "Solar_GWh": 3929.0,
+      "Gas_GWh": 6484.9,
+      "Hydro_GWh": 7982.5
+    },
+    {
+      "Entity": "Portugal",
+      "Nuclear_GWh": 8880.1,
+      "Solar_GWh": 3591.2,
+      "Gas_GWh": 2031.2,
+      "Hydro_GWh": 3643.6
+    },
+    {
+      "Entity": "Norway",
+      "Nuclear_GWh": 10076.1,
+      "Solar_GWh": 4131.6,
+      "Gas_GWh": 3163.4,
+      "Hydro_GWh": 2155.1
+    },
+    {
+      "Entity": "Poland",
+      "Nuclear_GWh": 11877.6,
+      "Solar_GWh": 4708.6,
+      "Gas_GWh": 3185.8,
+      "Hydro_GWh": 6839.5
+    },
+    {
+      "Entity": "Greece",
+      "Nuclear_GWh": 9757.8,
+      "Solar_GWh": 5498.8,
+      "Gas_GWh": 4986.4,
+      "Hydro_GWh": 994.0
+    },
+    {
+      "Entity": "Switzerland",
+      "Nuclear_GWh": 5945.7,
+      "Solar_GWh": 5699.4,
+      "Gas_GWh": 405.4,
+      "Hydro_GWh": 7796.5
+    },
+    {
+      "Entity": "Belgium",
+      "Nuclear_GWh": 14023.9,
+      "Solar_GWh": 3818.1,
+      "Gas_GWh": 2587.2,
+      "Hydro_GWh": 5747.2
+    },
+    {
+      "Entity": "Spain",
+      "Nuclear_GWh": 10895.0,
+      "Solar_GWh": 5799.1,
+      "Gas_GWh": 582.5,
+      "Hydro_GWh": 4081.1
+    },
+    {
+      "Entity": "France",
+      "Nuclear_GWh": 7915.2,
+      "Solar_GWh": 5477.4,
+      "Gas_GWh": 6610.4,
+      "Hydro_GWh": 863.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Nuclear_GWh",
+    "Solar_GWh",
+    "Gas_GWh",
+    "Hydro_GWh"
+  ]
+}

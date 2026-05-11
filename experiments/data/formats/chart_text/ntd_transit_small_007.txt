@@ -1,0 +1,3 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Operating_cost_k: Line_Orange=15486.1, Line_Gold=19518.9, Ferry_A=559.9, Bus_404=19054.3, Line_Blue=7953.5.
+Monthly_riders_k: Line_Orange=6712, Line_Gold=4380.5, Ferry_A=4539, Bus_404=2907.1, Line_Blue=6636.4.

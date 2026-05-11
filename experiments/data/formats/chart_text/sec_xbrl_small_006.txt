@@ -1,0 +1,3 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Revenue_M: CompanyP=1169.6, CompanyH=4147.2, CompanyN=1011.2, CompanyD=3234.8, CompanyO=2282.8.
+ROE_pct: CompanyP=-8.7, CompanyH=-7.4, CompanyN=1.9, CompanyD=31, CompanyO=28.7.

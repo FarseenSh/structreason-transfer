@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Solar_GWh: Netherlands=5086.8, Poland=983, Czechia=3721.1, Austria=4772, Ireland=4631.3, Hungary=2984.2, UK=4417.8, France=3543.2, Italy=1288.5, Finland=430.7.
+Hydro_GWh: Netherlands=3019, Poland=589.3, Czechia=3220.6, Austria=6648.1, Ireland=6769.9, Hungary=369.2, UK=649.3, France=5391.9, Italy=4050, Finland=1279.9.
+Gas_GWh: Netherlands=8113.6, Poland=2400, Czechia=1058, Austria=7570.2, Ireland=6198.8, Hungary=4126.1, UK=7019.4, France=9140.4, Italy=631.6, Finland=6388.5.
+Wind_GWh: Netherlands=2774.4, Poland=5794.8, Czechia=5203, Austria=4801.8, Ireland=2446.2, Hungary=9671.3, UK=4678.3, France=10668.9, Italy=4385.1, Finland=10108.6.

@@ -1,0 +1,5 @@
+The following 5 values represent Complaints_per_10k for each Entity (Line_Green, Line_Orange, Line_Pink, Line_Purple, Line_Brown), listed in order:
+[14.8, 4.1, 8.8, 9.4, 8.5]
+
+The following 5 values represent Avg_trip_minutes for each Entity (Line_Green, Line_Orange, Line_Pink, Line_Purple, Line_Brown), listed in order:
+[48.8, 36.4, 31.9, 13.8, 41.1]

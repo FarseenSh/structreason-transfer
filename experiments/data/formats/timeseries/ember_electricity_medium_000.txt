@@ -1,0 +1,11 @@
+The following 10 values represent Nuclear_GWh for each Entity (Czechia, UK, Portugal, Norway, Poland, Greece, Switzerland, Belgium, Spain, France), listed in order:
+[5619.7, 1406.3, 8880.1, 10076.1, 11877.6, 9757.8, 5945.7, 14023.9, 10895, 7915.2]
+
+The following 10 values represent Solar_GWh for each Entity (Czechia, UK, Portugal, Norway, Poland, Greece, Switzerland, Belgium, Spain, France), listed in order:
+[1320.4, 3929, 3591.2, 4131.6, 4708.6, 5498.8, 5699.4, 3818.1, 5799.1, 5477.4]
+
+The following 10 values represent Gas_GWh for each Entity (Czechia, UK, Portugal, Norway, Poland, Greece, Switzerland, Belgium, Spain, France), listed in order:
+[325.4, 6484.9, 2031.2, 3163.4, 3185.8, 4986.4, 405.4, 2587.2, 582.5, 6610.4]
+
+The following 10 values represent Hydro_GWh for each Entity (Czechia, UK, Portugal, Norway, Poland, Greece, Switzerland, Belgium, Spain, France), listed in order:
+[7125.4, 7982.5, 3643.6, 2155.1, 6839.5, 994, 7796.5, 5747.2, 4081.1, 863.5]

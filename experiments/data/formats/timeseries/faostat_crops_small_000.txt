@@ -1,0 +1,5 @@
+The following 5 values represent Wheat_tonnes_ha for each Entity (China, Egypt, France, Canada, Germany), listed in order:
+[6.1, 5.9, 4.6, 1.5, 4.9]
+
+The following 5 values represent Yield_index for each Entity (China, Egypt, France, Canada, Germany), listed in order:
+[148.7, 88.2, 145, 61.8, 169]

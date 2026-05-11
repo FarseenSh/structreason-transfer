@@ -1,0 +1,5 @@
+Bar chart: "OpenAQ — Air Quality".
+NO2_ppb: Station_NE2=17.5, Station_C14=54, Station_R19=32.2, Station_E17=29.8, Station_U20=34.5, Station_SW13=37.8, Station_NE11=32.6.
+O3_ppb: Station_NE2=26, Station_C14=27.6, Station_R19=80.7, Station_E17=70.5, Station_U20=73.8, Station_SW13=21.7, Station_NE11=64.3.
+AQI: Station_NE2=56, Station_C14=98.5, Station_R19=163.6, Station_E17=37.7, Station_U20=167.6, Station_SW13=167.8, Station_NE11=55.4.
+SO2_ppb: Station_NE2=17.6, Station_C14=8.7, Station_R19=19.3, Station_E17=1.7, Station_U20=23.7, Station_SW13=11.6, Station_NE11=10.8.

@@ -1,0 +1,12 @@
+| Entity | HDI | Trust_in_govt_pct | Education_spending_pct | Gini_index |
+|---|---|---|---|---|
+| Poland | 0.9 | 19.6 | 7.6 | 28.3 |
+| Bulgaria | 0.9 | 16.8 | 7.8 | 34.7 |
+| France | 0.9 | 67.6 | 5.4 | 35 |
+| Sweden | 0.9 | 15.7 | 4.3 | 29.6 |
+| Czechia | 0.9 | 30.5 | 6.5 | 33.9 |
+| Switzerland | 0.9 | 34.1 | 4.1 | 23.2 |
+| Finland | 0.9 | 23.4 | 5.3 | 26.6 |
+| Greece | 0.8 | 32.7 | 8.3 | 31.9 |
+| Romania | 0.9 | 61 | 8.5 | 25.8 |
+| Belgium | 0.9 | 13 | 7.4 | 25.8 |

@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_001",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Rice_tonnes_ha",
+    "Fertilizer_kg_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Thailand",
+      "Rice_tonnes_ha": 2.0,
+      "Fertilizer_kg_ha": 45.2
+    },
+    {
+      "Entity": "Vietnam",
+      "Rice_tonnes_ha": 2.3,
+      "Fertilizer_kg_ha": 140.8
+    },
+    {
+      "Entity": "Argentina",
+      "Rice_tonnes_ha": 4.0,
+      "Fertilizer_kg_ha": 113.1
+    },
+    {
+      "Entity": "Ukraine",
+      "Rice_tonnes_ha": 5.8,
+      "Fertilizer_kg_ha": 22.1
+    },
+    {
+      "Entity": "China",
+      "Rice_tonnes_ha": 3.9,
+      "Fertilizer_kg_ha": 223.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Rice_tonnes_ha",
+    "Fertilizer_kg_ha"
+  ]
+}

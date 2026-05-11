@@ -1,0 +1,7 @@
+| Entity | Unemployment_pct | Education_spending_pct |
+|---|---|---|
+| France | 4.6 | 7.3 |
+| Austria | 15.6 | 4 |
+| Poland | 8 | 8.1 |
+| Switzerland | 15.4 | 4.7 |
+| Bulgaria | 16.7 | 3.7 |

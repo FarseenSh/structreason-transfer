@@ -1,0 +1,20 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_Q17: {Accidents_monthly=25.1, Bus_passengers=5749.8, Peak_hour_flow=11029, Avg_speed_kmh=50.1}
+  Route_K11: {Accidents_monthly=22.9, Bus_passengers=45113.6, Peak_hour_flow=21523.7, Avg_speed_kmh=46.3}
+  Route_M13: {Accidents_monthly=6.6, Bus_passengers=36559.3, Peak_hour_flow=28795.2, Avg_speed_kmh=52.2}
+  Route_F6: {Accidents_monthly=12.2, Bus_passengers=4362.4, Peak_hour_flow=18450.6, Avg_speed_kmh=18.2}
+  Route_J10: {Accidents_monthly=24.7, Bus_passengers=34900.5, Peak_hour_flow=20601.7, Avg_speed_kmh=41.3}
+  Route_E5: {Accidents_monthly=4.9, Bus_passengers=31949.8, Peak_hour_flow=14239.6, Avg_speed_kmh=52.9}
+  Route_L12: {Accidents_monthly=42.1, Bus_passengers=38110.1, Peak_hour_flow=23171.4, Avg_speed_kmh=53}
+  Route_A1: {Accidents_monthly=7.3, Bus_passengers=41581.7, Peak_hour_flow=29934.7, Avg_speed_kmh=57.7}
+  Route_S19: {Accidents_monthly=10.5, Bus_passengers=36199.2, Peak_hour_flow=6490.9, Avg_speed_kmh=61.8}
+  Route_H8: {Accidents_monthly=34.9, Bus_passengers=29722.6, Peak_hour_flow=7667.3, Avg_speed_kmh=56.7}
+
+Edges (top 5 by metric similarity):
+  Route_J10 -- Route_L12 (sim=1.00, similar Avg_speed_kmh)
+  Route_K11 -- Route_E5 (sim=1.00, similar Avg_speed_kmh)
+  Route_M13 -- Route_A1 (sim=1.00, similar Accidents_monthly)
+  Route_S19 -- Route_H8 (sim=1.00, similar Avg_speed_kmh)
+  Route_L12 -- Route_A1 (sim=1.00, similar Avg_speed_kmh)

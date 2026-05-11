@@ -1,0 +1,5 @@
+The following 5 values represent Road_condition_score for each Entity (Route_Q17, Route_H8, Route_I9, Route_S19, Route_A1), listed in order:
+[69.2, 48.8, 60.4, 72.8, 64]
+
+The following 5 values represent Transit_ridership for each Entity (Route_Q17, Route_H8, Route_I9, Route_S19, Route_A1), listed in order:
+[165662.9, 55060.7, 194105.5, 158020.8, 193680.6]

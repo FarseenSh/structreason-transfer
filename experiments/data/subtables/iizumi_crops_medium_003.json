@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_003",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Wheat_tonnes_ha",
+    "Production_Mt",
+    "Soybean_tonnes_ha",
+    "Maize_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Germany",
+      "Wheat_tonnes_ha": 6.9,
+      "Production_Mt": 297.6,
+      "Soybean_tonnes_ha": 3.6,
+      "Maize_tonnes_ha": 10.5
+    },
+    {
+      "Entity": "Turkey",
+      "Wheat_tonnes_ha": 3.5,
+      "Production_Mt": 172.7,
+      "Soybean_tonnes_ha": 3.2,
+      "Maize_tonnes_ha": 3.6
+    },
+    {
+      "Entity": "Mexico",
+      "Wheat_tonnes_ha": 5.7,
+      "Production_Mt": 38.9,
+      "Soybean_tonnes_ha": 3.9,
+      "Maize_tonnes_ha": 10.5
+    },
+    {
+      "Entity": "Bangladesh",
+      "Wheat_tonnes_ha": 7.9,
+      "Production_Mt": 18.4,
+      "Soybean_tonnes_ha": 3.7,
+      "Maize_tonnes_ha": 2.1
+    },
+    {
+      "Entity": "Nigeria",
+      "Wheat_tonnes_ha": 3.4,
+      "Production_Mt": 238.1,
+      "Soybean_tonnes_ha": 1.8,
+      "Maize_tonnes_ha": 6.4
+    },
+    {
+      "Entity": "Ukraine",
+      "Wheat_tonnes_ha": 7.0,
+      "Production_Mt": 130.0,
+      "Soybean_tonnes_ha": 3.0,
+      "Maize_tonnes_ha": 6.7
+    },
+    {
+      "Entity": "Argentina",
+      "Wheat_tonnes_ha": 8.7,
+      "Production_Mt": 77.8,
+      "Soybean_tonnes_ha": 1.1,
+      "Maize_tonnes_ha": 5.7
+    },
+    {
+      "Entity": "USA",
+      "Wheat_tonnes_ha": 8.0,
+      "Production_Mt": 107.6,
+      "Soybean_tonnes_ha": 4.0,
+      "Maize_tonnes_ha": 7.9
+    },
+    {
+      "Entity": "Australia",
+      "Wheat_tonnes_ha": 4.5,
+      "Production_Mt": 228.4,
+      "Soybean_tonnes_ha": 1.8,
+      "Maize_tonnes_ha": 11.1
+    },
+    {
+      "Entity": "Egypt",
+      "Wheat_tonnes_ha": 6.1,
+      "Production_Mt": 142.2,
+      "Soybean_tonnes_ha": 3.0,
+      "Maize_tonnes_ha": 5.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Wheat_tonnes_ha",
+    "Production_Mt",
+    "Soybean_tonnes_ha",
+    "Maize_tonnes_ha"
+  ]
+}

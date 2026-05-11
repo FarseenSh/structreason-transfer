@@ -1,0 +1,35 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_I9: {Peak_hour_flow=27879.9, Bus_passengers=22653.2, Transit_ridership=27211.9, Daily_vehicles=22587.8, Accidents_monthly=16.3, Road_condition_score=50, Avg_speed_kmh=77.7}
+  Route_A1: {Peak_hour_flow=23412.3, Bus_passengers=12979.3, Transit_ridership=133566.3, Daily_vehicles=91344.1, Accidents_monthly=16.2, Road_condition_score=97.8, Avg_speed_kmh=24.3}
+  Route_E5: {Peak_hour_flow=14526.8, Bus_passengers=44257.7, Transit_ridership=157279.2, Daily_vehicles=73475.5, Accidents_monthly=21.5, Road_condition_score=43.7, Avg_speed_kmh=61.5}
+  Route_R18: {Peak_hour_flow=22986.4, Bus_passengers=19322.2, Transit_ridership=153385.8, Daily_vehicles=62685.1, Accidents_monthly=10.2, Road_condition_score=88, Avg_speed_kmh=54.1}
+  Route_H8: {Peak_hour_flow=29311.3, Bus_passengers=22855.6, Transit_ridership=66673.7, Daily_vehicles=65841.7, Accidents_monthly=10.3, Road_condition_score=77.1, Avg_speed_kmh=59.9}
+  Route_S19: {Peak_hour_flow=14907.5, Bus_passengers=21075.4, Transit_ridership=45025.7, Daily_vehicles=34832.7, Accidents_monthly=25.3, Road_condition_score=82.6, Avg_speed_kmh=21.3}
+  Route_C3: {Peak_hour_flow=19990.7, Bus_passengers=9915.2, Transit_ridership=93454.8, Daily_vehicles=63178.4, Accidents_monthly=7.5, Road_condition_score=81.3, Avg_speed_kmh=27.3}
+  Route_Q17: {Peak_hour_flow=27722.6, Bus_passengers=36849.7, Transit_ridership=111628.6, Daily_vehicles=21802.3, Accidents_monthly=31.6, Road_condition_score=89.8, Avg_speed_kmh=20}
+  Route_J10: {Peak_hour_flow=8962.9, Bus_passengers=22974.5, Transit_ridership=184222, Daily_vehicles=89393.5, Accidents_monthly=42.6, Road_condition_score=50.7, Avg_speed_kmh=54.3}
+  Route_M13: {Peak_hour_flow=26823.6, Bus_passengers=1796.6, Transit_ridership=175590.5, Daily_vehicles=32161.4, Accidents_monthly=20.4, Road_condition_score=40, Avg_speed_kmh=79.1}
+  Route_G7: {Peak_hour_flow=4731.3, Bus_passengers=48236.7, Transit_ridership=183631.4, Daily_vehicles=27966.8, Accidents_monthly=40.7, Road_condition_score=74.7, Avg_speed_kmh=58.7}
+  Route_B2: {Peak_hour_flow=20156.5, Bus_passengers=40972.4, Transit_ridership=170801.2, Daily_vehicles=69004.7, Accidents_monthly=6.2, Road_condition_score=60.5, Avg_speed_kmh=61.2}
+  Route_D4: {Peak_hour_flow=23919.5, Bus_passengers=36454.4, Transit_ridership=193093.3, Daily_vehicles=64080.4, Accidents_monthly=3.8, Road_condition_score=47.2, Avg_speed_kmh=79}
+  Route_T20: {Peak_hour_flow=19209, Bus_passengers=43585.5, Transit_ridership=95772.5, Daily_vehicles=45616.9, Accidents_monthly=33, Road_condition_score=50.8, Avg_speed_kmh=59.1}
+  Route_P16: {Peak_hour_flow=15875, Bus_passengers=45433.6, Transit_ridership=14257.3, Daily_vehicles=61920.2, Accidents_monthly=34.7, Road_condition_score=59.2, Avg_speed_kmh=17.6}
+  Route_L12: {Peak_hour_flow=19285.7, Bus_passengers=17537, Transit_ridership=21294.6, Daily_vehicles=19354.4, Accidents_monthly=38.3, Road_condition_score=44.1, Avg_speed_kmh=71.4}
+  Route_O15: {Peak_hour_flow=6246.6, Bus_passengers=30937, Transit_ridership=81103.8, Daily_vehicles=65599.5, Accidents_monthly=4.4, Road_condition_score=43.3, Avg_speed_kmh=38.7}
+  Route_F6: {Peak_hour_flow=8036, Bus_passengers=30831.6, Transit_ridership=55249, Daily_vehicles=29355, Accidents_monthly=35.4, Road_condition_score=93.1, Avg_speed_kmh=15.3}
+  Route_K11: {Peak_hour_flow=9557.2, Bus_passengers=14097.7, Transit_ridership=38138.4, Daily_vehicles=29555.2, Accidents_monthly=18.2, Road_condition_score=58.1, Avg_speed_kmh=48}
+  Route_N14: {Peak_hour_flow=18737.8, Bus_passengers=11875.7, Transit_ridership=190874.7, Daily_vehicles=19596.2, Accidents_monthly=15, Road_condition_score=97, Avg_speed_kmh=75.9}
+
+Edges (top 10 by metric similarity):
+  Route_A1 -- Route_C3 (sim=1.00, similar Avg_speed_kmh)
+  Route_E5 -- Route_B2 (sim=1.00, similar Avg_speed_kmh)
+  Route_B2 -- Route_D4 (sim=1.00, similar Accidents_monthly)
+  Route_I9 -- Route_L12 (sim=1.00, similar Road_condition_score)
+  Route_S19 -- Route_K11 (sim=1.00, similar Accidents_monthly)
+  Route_R18 -- Route_D4 (sim=1.00, similar Accidents_monthly)
+  Route_T20 -- Route_F6 (sim=1.00, similar Accidents_monthly)
+  Route_R18 -- Route_B2 (sim=0.99, similar Accidents_monthly)
+  Route_M13 -- Route_N14 (sim=0.99, similar Avg_speed_kmh)
+  Route_R18 -- Route_J10 (sim=0.99, similar Avg_speed_kmh)

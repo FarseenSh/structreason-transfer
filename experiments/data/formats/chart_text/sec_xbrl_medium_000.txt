@@ -1,0 +1,5 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Debt_ratio: CompanyH=0.3, CompanyT=0.7, CompanyN=0.7, CompanyQ=0.9, CompanyC=0.3, CompanyM=0.8, CompanyI=0.2, CompanyG=0.2, CompanyO=0.7, CompanyR=0.5.
+Net_income_M: CompanyH=1149.7, CompanyT=280.4, CompanyN=162.4, CompanyQ=733, CompanyC=-4, CompanyM=273.9, CompanyI=82.6, CompanyG=344.1, CompanyO=1101.3, CompanyR=5.3.
+Operating_margin_pct: CompanyH=22.5, CompanyT=21.3, CompanyN=19.2, CompanyQ=16.8, CompanyC=24.9, CompanyM=33.3, CompanyI=2.3, CompanyG=31.6, CompanyO=-2.2, CompanyR=16.7.
+ROE_pct: CompanyH=15.7, CompanyT=-3.1, CompanyN=-9.6, CompanyQ=-10.5, CompanyC=-12.8, CompanyM=19.4, CompanyI=-5.7, CompanyG=33.5, CompanyO=38.9, CompanyR=2.5.

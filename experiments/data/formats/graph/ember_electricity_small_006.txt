@@ -1,0 +1,13 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Switzerland: {Nuclear_GWh=12001.9, Hydro_GWh=1946.3}
+  Poland: {Nuclear_GWh=6296.1, Hydro_GWh=7005.5}
+  Ireland: {Nuclear_GWh=2293, Hydro_GWh=4076}
+  UK: {Nuclear_GWh=2338, Hydro_GWh=3747.7}
+  France: {Nuclear_GWh=13827.1, Hydro_GWh=4994.1}
+
+Edges (top 3 by metric similarity):
+  Ireland -- UK (sim=1.00, similar Nuclear_GWh)
+  Poland -- UK (sim=0.98, similar Hydro_GWh)
+  Switzerland -- France (sim=0.98, similar Nuclear_GWh)

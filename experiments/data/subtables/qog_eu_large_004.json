@@ -1,0 +1,230 @@
+{
+  "id": "qog_eu_large_004",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "GDP_per_capita",
+    "Unemployment_pct",
+    "Life_expectancy",
+    "Govt_expenditure_pct_GDP",
+    "Trust_in_govt_pct",
+    "HDI",
+    "Gini_index"
+  ],
+  "data": [
+    {
+      "Entity": "Romania",
+      "GDP_per_capita": 40256.7,
+      "Unemployment_pct": 19.9,
+      "Life_expectancy": 76.8,
+      "Govt_expenditure_pct_GDP": 49.0,
+      "Trust_in_govt_pct": 65.5,
+      "HDI": 0.8,
+      "Gini_index": 36.3
+    },
+    {
+      "Entity": "Hungary",
+      "GDP_per_capita": 27344.9,
+      "Unemployment_pct": 20.2,
+      "Life_expectancy": 75.2,
+      "Govt_expenditure_pct_GDP": 52.8,
+      "Trust_in_govt_pct": 17.9,
+      "HDI": 0.8,
+      "Gini_index": 26.6
+    },
+    {
+      "Entity": "Denmark",
+      "GDP_per_capita": 47723.9,
+      "Unemployment_pct": 17.9,
+      "Life_expectancy": 79.3,
+      "Govt_expenditure_pct_GDP": 36.6,
+      "Trust_in_govt_pct": 38.1,
+      "HDI": 0.8,
+      "Gini_index": 38.6
+    },
+    {
+      "Entity": "Germany",
+      "GDP_per_capita": 42444.2,
+      "Unemployment_pct": 11.5,
+      "Life_expectancy": 83.3,
+      "Govt_expenditure_pct_GDP": 37.7,
+      "Trust_in_govt_pct": 61.3,
+      "HDI": 0.8,
+      "Gini_index": 37.5
+    },
+    {
+      "Entity": "France",
+      "GDP_per_capita": 31864.9,
+      "Unemployment_pct": 4.1,
+      "Life_expectancy": 76.1,
+      "Govt_expenditure_pct_GDP": 57.0,
+      "Trust_in_govt_pct": 36.5,
+      "HDI": 0.8,
+      "Gini_index": 37.4
+    },
+    {
+      "Entity": "Netherlands",
+      "GDP_per_capita": 67624.6,
+      "Unemployment_pct": 2.8,
+      "Life_expectancy": 78.7,
+      "Govt_expenditure_pct_GDP": 37.4,
+      "Trust_in_govt_pct": 24.5,
+      "HDI": 0.9,
+      "Gini_index": 26.9
+    },
+    {
+      "Entity": "Austria",
+      "GDP_per_capita": 36969.3,
+      "Unemployment_pct": 11.8,
+      "Life_expectancy": 75.6,
+      "Govt_expenditure_pct_GDP": 42.0,
+      "Trust_in_govt_pct": 24.9,
+      "HDI": 0.9,
+      "Gini_index": 23.9
+    },
+    {
+      "Entity": "Poland",
+      "GDP_per_capita": 34096.3,
+      "Unemployment_pct": 12.1,
+      "Life_expectancy": 74.0,
+      "Govt_expenditure_pct_GDP": 42.1,
+      "Trust_in_govt_pct": 39.1,
+      "HDI": 0.9,
+      "Gini_index": 37.7
+    },
+    {
+      "Entity": "Bulgaria",
+      "GDP_per_capita": 24162.3,
+      "Unemployment_pct": 10.4,
+      "Life_expectancy": 74.3,
+      "Govt_expenditure_pct_GDP": 37.1,
+      "Trust_in_govt_pct": 43.6,
+      "HDI": 0.8,
+      "Gini_index": 28.2
+    },
+    {
+      "Entity": "Switzerland",
+      "GDP_per_capita": 45717.5,
+      "Unemployment_pct": 13.6,
+      "Life_expectancy": 72.7,
+      "Govt_expenditure_pct_GDP": 51.7,
+      "Trust_in_govt_pct": 68.9,
+      "HDI": 0.8,
+      "Gini_index": 33.5
+    },
+    {
+      "Entity": "Portugal",
+      "GDP_per_capita": 36207.5,
+      "Unemployment_pct": 13.3,
+      "Life_expectancy": 83.4,
+      "Govt_expenditure_pct_GDP": 51.6,
+      "Trust_in_govt_pct": 54.4,
+      "HDI": 0.8,
+      "Gini_index": 35.9
+    },
+    {
+      "Entity": "Sweden",
+      "GDP_per_capita": 40849.1,
+      "Unemployment_pct": 18.8,
+      "Life_expectancy": 76.8,
+      "Govt_expenditure_pct_GDP": 40.6,
+      "Trust_in_govt_pct": 57.6,
+      "HDI": 0.8,
+      "Gini_index": 25.2
+    },
+    {
+      "Entity": "Belgium",
+      "GDP_per_capita": 31519.8,
+      "Unemployment_pct": 4.6,
+      "Life_expectancy": 82.0,
+      "Govt_expenditure_pct_GDP": 53.4,
+      "Trust_in_govt_pct": 76.9,
+      "HDI": 0.9,
+      "Gini_index": 36.3
+    },
+    {
+      "Entity": "Czechia",
+      "GDP_per_capita": 68420.9,
+      "Unemployment_pct": 6.9,
+      "Life_expectancy": 80.2,
+      "Govt_expenditure_pct_GDP": 36.0,
+      "Trust_in_govt_pct": 39.2,
+      "HDI": 0.8,
+      "Gini_index": 39.0
+    },
+    {
+      "Entity": "Ireland",
+      "GDP_per_capita": 80100.2,
+      "Unemployment_pct": 18.0,
+      "Life_expectancy": 74.3,
+      "Govt_expenditure_pct_GDP": 30.1,
+      "Trust_in_govt_pct": 38.6,
+      "HDI": 0.8,
+      "Gini_index": 35.4
+    },
+    {
+      "Entity": "Greece",
+      "GDP_per_capita": 49855.2,
+      "Unemployment_pct": 19.0,
+      "Life_expectancy": 74.1,
+      "Govt_expenditure_pct_GDP": 46.0,
+      "Trust_in_govt_pct": 72.9,
+      "HDI": 0.9,
+      "Gini_index": 30.5
+    },
+    {
+      "Entity": "Norway",
+      "GDP_per_capita": 60009.9,
+      "Unemployment_pct": 21.9,
+      "Life_expectancy": 81.7,
+      "Govt_expenditure_pct_GDP": 57.8,
+      "Trust_in_govt_pct": 28.2,
+      "HDI": 0.8,
+      "Gini_index": 37.9
+    },
+    {
+      "Entity": "Italy",
+      "GDP_per_capita": 75702.1,
+      "Unemployment_pct": 19.5,
+      "Life_expectancy": 75.2,
+      "Govt_expenditure_pct_GDP": 31.1,
+      "Trust_in_govt_pct": 60.2,
+      "HDI": 0.8,
+      "Gini_index": 32.0
+    },
+    {
+      "Entity": "Finland",
+      "GDP_per_capita": 84918.1,
+      "Unemployment_pct": 19.9,
+      "Life_expectancy": 83.0,
+      "Govt_expenditure_pct_GDP": 35.8,
+      "Trust_in_govt_pct": 61.8,
+      "HDI": 0.8,
+      "Gini_index": 35.7
+    },
+    {
+      "Entity": "Spain",
+      "GDP_per_capita": 57946.2,
+      "Unemployment_pct": 8.6,
+      "Life_expectancy": 73.7,
+      "Govt_expenditure_pct_GDP": 44.5,
+      "Trust_in_govt_pct": 18.5,
+      "HDI": 0.9,
+      "Gini_index": 36.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "GDP_per_capita",
+    "Unemployment_pct",
+    "Life_expectancy",
+    "Govt_expenditure_pct_GDP",
+    "Trust_in_govt_pct",
+    "HDI",
+    "Gini_index"
+  ]
+}

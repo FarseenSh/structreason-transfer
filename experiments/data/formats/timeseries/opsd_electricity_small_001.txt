@@ -1,0 +1,5 @@
+The following 5 values represent Solar_GWh for each Entity (Romania, Ireland, UK, Norway, Belgium), listed in order:
+[1393.7, 2006.9, 3587.4, 3768.6, 4151.8]
+
+The following 5 values represent Coal_GWh for each Entity (Romania, Ireland, UK, Norway, Belgium), listed in order:
+[7246.3, 2395.6, 5287.1, 4499.8, 2481.4]

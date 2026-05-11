@@ -1,0 +1,5 @@
+The following 5 values represent Fertilizer_kg_ha for each Entity (USA, Australia, Pakistan, Mexico, Argentina), listed in order:
+[374.5, 364.1, 262.8, 150.1, 371.7]
+
+The following 5 values represent Rice_tonnes_ha for each Entity (USA, Australia, Pakistan, Mexico, Argentina), listed in order:
+[2.7, 2.9, 4.4, 3.6, 5.4]

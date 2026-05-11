@@ -1,0 +1,12 @@
+| Entity | Maize_tonnes_ha | Fertilizer_kg_ha | Area_harvested_kha | Wheat_tonnes_ha |
+|---|---|---|---|---|
+| Turkey | 2.4 | 338.7 | 5042.8 | 6.9 |
+| Indonesia | 9.3 | 233.1 | 27962.6 | 2.2 |
+| Mexico | 4.1 | 211.8 | 28255.1 | 6.7 |
+| Pakistan | 8.6 | 388.1 | 22730.9 | 7.9 |
+| Russia | 9.5 | 147.1 | 10120.7 | 4.1 |
+| Vietnam | 2.6 | 358.5 | 33797.6 | 6.8 |
+| Bangladesh | 9.7 | 293.5 | 7552.6 | 2.7 |
+| India | 4.7 | 372.8 | 17735.4 | 7.8 |
+| Germany | 5.9 | 365 | 18491.3 | 8.6 |
+| Ukraine | 2.9 | 396.6 | 6083.1 | 2.6 |

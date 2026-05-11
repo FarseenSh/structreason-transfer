@@ -1,0 +1,5 @@
+The following 5 values represent Bus_passengers for each Entity (Route_H8, Route_R18, Route_C3, Route_O15, Route_T20), listed in order:
+[38739.2, 40161.9, 30518.1, 42986.2, 5796.3]
+
+The following 5 values represent Road_condition_score for each Entity (Route_H8, Route_R18, Route_C3, Route_O15, Route_T20), listed in order:
+[56, 64, 42.5, 66, 55.4]

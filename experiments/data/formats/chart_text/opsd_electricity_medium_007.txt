@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Nuclear_GWh: Greece=6796.2, Ireland=12848.6, Czechia=10928.9, France=7074.4, Austria=3668.4, Belgium=10905.2, Sweden=12817.9, Finland=5999.3, Romania=10028.8, Poland=6003.2.
+Gas_GWh: Greece=4941.4, Ireland=5391.6, Czechia=7824.5, France=9781.8, Austria=4610.4, Belgium=3620.5, Sweden=3923.8, Finland=1598.7, Romania=3180.3, Poland=1138.5.
+Solar_GWh: Greece=2624.6, Ireland=1087.4, Czechia=2143.8, France=4782.1, Austria=1551, Belgium=3710.2, Sweden=5417, Finland=3444.9, Romania=1243.4, Poland=2134.1.
+Coal_GWh: Greece=4743.4, Ireland=4077.6, Czechia=1231.5, France=3602, Austria=4367.4, Belgium=2175.3, Sweden=4918.9, Finland=607.8, Romania=2726, Poland=6444.

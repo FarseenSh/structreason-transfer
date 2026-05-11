@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Maize_tonnes_ha: Turkey=2.4, Indonesia=9.3, Mexico=4.1, Pakistan=8.6, Russia=9.5, Vietnam=2.6, Bangladesh=9.7, India=4.7, Germany=5.9, Ukraine=2.9.
+Fertilizer_kg_ha: Turkey=338.7, Indonesia=233.1, Mexico=211.8, Pakistan=388.1, Russia=147.1, Vietnam=358.5, Bangladesh=293.5, India=372.8, Germany=365, Ukraine=396.6.
+Area_harvested_kha: Turkey=5042.8, Indonesia=27962.6, Mexico=28255.1, Pakistan=22730.9, Russia=10120.7, Vietnam=33797.6, Bangladesh=7552.6, India=17735.4, Germany=18491.3, Ukraine=6083.1.
+Wheat_tonnes_ha: Turkey=6.9, Indonesia=2.2, Mexico=6.7, Pakistan=7.9, Russia=4.1, Vietnam=6.8, Bangladesh=2.7, India=7.8, Germany=8.6, Ukraine=2.6.

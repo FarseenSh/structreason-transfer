@@ -1,0 +1,11 @@
+The following 10 values represent Yield_index for each Entity (Egypt, Australia, Ukraine, Germany, India, Nigeria, Russia, Canada, Argentina, Indonesia), listed in order:
+[118, 74.2, 158.6, 132.2, 67, 141.2, 94, 68.3, 132.8, 147.9]
+
+The following 10 values represent Wheat_tonnes_ha for each Entity (Egypt, Australia, Ukraine, Germany, India, Nigeria, Russia, Canada, Argentina, Indonesia), listed in order:
+[5.4, 1.5, 5.8, 1.5, 8.4, 3.5, 8, 1.6, 2.2, 4.9]
+
+The following 10 values represent Area_harvested_kha for each Entity (Egypt, Australia, Ukraine, Germany, India, Nigeria, Russia, Canada, Argentina, Indonesia), listed in order:
+[26672, 33018.4, 18477.8, 12763.4, 2037.1, 20638, 13611.5, 31865.1, 17062, 26907.9]
+
+The following 10 values represent Soybean_tonnes_ha for each Entity (Egypt, Australia, Ukraine, Germany, India, Nigeria, Russia, Canada, Argentina, Indonesia), listed in order:
+[3.5, 1.3, 2.3, 3.7, 2.3, 2.7, 3.6, 1.7, 3.7, 2.2]

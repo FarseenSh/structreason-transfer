@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_009",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha",
+    "Maize_tonnes_ha",
+    "Yield_index"
+  ],
+  "data": [
+    {
+      "Entity": "Brazil",
+      "Area_harvested_kha": 22447.9,
+      "Wheat_tonnes_ha": 4.6,
+      "Maize_tonnes_ha": 5.3,
+      "Yield_index": 65.2
+    },
+    {
+      "Entity": "Bangladesh",
+      "Area_harvested_kha": 34426.6,
+      "Wheat_tonnes_ha": 3.0,
+      "Maize_tonnes_ha": 4.2,
+      "Yield_index": 137.8
+    },
+    {
+      "Entity": "USA",
+      "Area_harvested_kha": 31404.9,
+      "Wheat_tonnes_ha": 8.7,
+      "Maize_tonnes_ha": 3.1,
+      "Yield_index": 127.6
+    },
+    {
+      "Entity": "Argentina",
+      "Area_harvested_kha": 24722.6,
+      "Wheat_tonnes_ha": 9.0,
+      "Maize_tonnes_ha": 4.2,
+      "Yield_index": 141.7
+    },
+    {
+      "Entity": "Australia",
+      "Area_harvested_kha": 34675.6,
+      "Wheat_tonnes_ha": 4.3,
+      "Maize_tonnes_ha": 11.1,
+      "Yield_index": 128.1
+    },
+    {
+      "Entity": "Germany",
+      "Area_harvested_kha": 25437.6,
+      "Wheat_tonnes_ha": 6.8,
+      "Maize_tonnes_ha": 2.9,
+      "Yield_index": 112.5
+    },
+    {
+      "Entity": "Thailand",
+      "Area_harvested_kha": 12204.2,
+      "Wheat_tonnes_ha": 4.6,
+      "Maize_tonnes_ha": 5.2,
+      "Yield_index": 102.0
+    },
+    {
+      "Entity": "Indonesia",
+      "Area_harvested_kha": 21242.0,
+      "Wheat_tonnes_ha": 2.5,
+      "Maize_tonnes_ha": 7.3,
+      "Yield_index": 87.2
+    },
+    {
+      "Entity": "Egypt",
+      "Area_harvested_kha": 3251.9,
+      "Wheat_tonnes_ha": 4.0,
+      "Maize_tonnes_ha": 5.5,
+      "Yield_index": 120.0
+    },
+    {
+      "Entity": "France",
+      "Area_harvested_kha": 8148.0,
+      "Wheat_tonnes_ha": 3.3,
+      "Maize_tonnes_ha": 7.2,
+      "Yield_index": 63.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha",
+    "Maize_tonnes_ha",
+    "Yield_index"
+  ]
+}

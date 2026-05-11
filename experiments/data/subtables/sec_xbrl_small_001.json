@@ -1,0 +1,45 @@
+{
+  "id": "sec_xbrl_small_001",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "EPS",
+    "Operating_margin_pct"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyS",
+      "EPS": 0.7,
+      "Operating_margin_pct": 23.0
+    },
+    {
+      "Entity": "CompanyB",
+      "EPS": 12.4,
+      "Operating_margin_pct": -3.2
+    },
+    {
+      "Entity": "CompanyG",
+      "EPS": 16.2,
+      "Operating_margin_pct": 14.5
+    },
+    {
+      "Entity": "CompanyR",
+      "EPS": 6.6,
+      "Operating_margin_pct": 32.1
+    },
+    {
+      "Entity": "CompanyF",
+      "EPS": -1.8,
+      "Operating_margin_pct": 39.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "EPS",
+    "Operating_margin_pct"
+  ]
+}

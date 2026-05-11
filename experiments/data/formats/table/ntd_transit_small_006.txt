@@ -1,0 +1,7 @@
+| Entity | Farebox_recovery_pct | Operating_cost_k |
+|---|---|---|
+| Line_Pink | 44.2 | 4517.6 |
+| Line_Red | 71.5 | 259.9 |
+| Line_Blue | 51.8 | 4870.7 |
+| Line_Orange | 30.7 | 4024.2 |
+| Line_Green | 55.6 | 7544.2 |

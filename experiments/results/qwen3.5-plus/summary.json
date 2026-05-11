@@ -1,0 +1,24 @@
+{
+  "model_id": "qwen/qwen3.5-plus-02-15",
+  "model_name": "Qwen3.5-Plus",
+  "vision": true,
+  "reasoning_effort": null,
+  "total_results": 8620,
+  "errors": 0,
+  "accuracy_by_format": {
+    "table": 0.9925,
+    "chart_text": 0.9008,
+    "graph": 0.9925,
+    "timeseries": 0.9936,
+    "chart_image": 0.5887
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.8752,
+    "Q2_comparison": 0.9352,
+    "Q3_aggregation": 0.8776,
+    "Q4_trend": 0.9624,
+    "Q5_extremum": 0.8928,
+    "Q6_multi_hop": 0.8661,
+    "Q7_conditional_aggregation": 0.8432
+  }
+}

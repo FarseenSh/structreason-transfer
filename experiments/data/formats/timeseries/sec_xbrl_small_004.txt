@@ -1,0 +1,5 @@
+The following 5 values represent Net_income_M for each Entity (CompanyO, CompanyP, CompanyT, CompanyR, CompanyA), listed in order:
+[271.9, 1188.7, 748.6, 633.8, 309]
+
+The following 5 values represent Revenue_M for each Entity (CompanyO, CompanyP, CompanyT, CompanyR, CompanyA), listed in order:
+[1555.1, 1973, 3829.4, 2409.8, 811.5]

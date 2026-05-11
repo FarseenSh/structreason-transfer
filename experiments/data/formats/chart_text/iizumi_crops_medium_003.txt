@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Wheat_tonnes_ha: Germany=6.9, Turkey=3.5, Mexico=5.7, Bangladesh=7.9, Nigeria=3.4, Ukraine=7, Argentina=8.7, USA=8, Australia=4.5, Egypt=6.1.
+Production_Mt: Germany=297.6, Turkey=172.7, Mexico=38.9, Bangladesh=18.4, Nigeria=238.1, Ukraine=130, Argentina=77.8, USA=107.6, Australia=228.4, Egypt=142.2.
+Soybean_tonnes_ha: Germany=3.6, Turkey=3.2, Mexico=3.9, Bangladesh=3.7, Nigeria=1.8, Ukraine=3, Argentina=1.1, USA=4, Australia=1.8, Egypt=3.
+Maize_tonnes_ha: Germany=10.5, Turkey=3.6, Mexico=10.5, Bangladesh=2.1, Nigeria=6.4, Ukraine=6.7, Argentina=5.7, USA=7.9, Australia=11.1, Egypt=5.3.

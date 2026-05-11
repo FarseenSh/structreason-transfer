@@ -1,0 +1,3 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Solar_GWh: Czechia=3143.4, Finland=4285.5, Sweden=4363.2, Switzerland=491.5, France=1413.4.
+Nuclear_GWh: Czechia=194.5, Finland=7647.1, Sweden=13137, Switzerland=9143.3, France=7503.1.

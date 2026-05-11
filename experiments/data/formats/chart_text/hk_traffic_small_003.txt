@@ -1,0 +1,3 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Peak_hour_flow: Route_M13=16931, Route_K11=6981.5, Route_G7=19167.1, Route_C3=2395.5, Route_F6=27974.7.
+Avg_speed_kmh: Route_M13=32.2, Route_K11=17.6, Route_G7=22, Route_C3=30.6, Route_F6=32.8.

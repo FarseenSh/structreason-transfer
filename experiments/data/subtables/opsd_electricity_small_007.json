@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_007",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Wind_GWh",
+    "Solar_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Sweden",
+      "Wind_GWh": 1039.8,
+      "Solar_GWh": 2073.3
+    },
+    {
+      "Entity": "Finland",
+      "Wind_GWh": 11715.6,
+      "Solar_GWh": 1001.6
+    },
+    {
+      "Entity": "Hungary",
+      "Wind_GWh": 8277.4,
+      "Solar_GWh": 1388.6
+    },
+    {
+      "Entity": "France",
+      "Wind_GWh": 2344.4,
+      "Solar_GWh": 5249.2
+    },
+    {
+      "Entity": "Denmark",
+      "Wind_GWh": 366.3,
+      "Solar_GWh": 3658.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Wind_GWh",
+    "Solar_GWh"
+  ]
+}

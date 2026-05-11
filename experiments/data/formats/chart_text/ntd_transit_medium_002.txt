@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+On_time_pct: Ferry_A=88, Line_Gold=86.8, Line_Silver=77.1, Ferry_B=66.7, Tram_1=85.3, Bus_404=90.6, Tram_2=84.3.
+Complaints_per_10k: Ferry_A=1.7, Line_Gold=0.8, Line_Silver=8.5, Ferry_B=11.8, Tram_1=6.4, Bus_404=13.8, Tram_2=1.4.
+Avg_trip_minutes: Ferry_A=38.7, Line_Gold=35.9, Line_Silver=50.6, Ferry_B=43.2, Tram_1=30.6, Bus_404=50.1, Tram_2=53.2.
+Vehicles_in_service: Ferry_A=132.2, Line_Gold=26.3, Line_Silver=140.6, Ferry_B=17.7, Tram_1=144.8, Bus_404=35.6, Tram_2=139.5.

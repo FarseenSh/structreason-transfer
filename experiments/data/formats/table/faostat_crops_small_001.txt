@@ -1,0 +1,7 @@
+| Entity | Production_Mt | Fertilizer_kg_ha |
+|---|---|---|
+| Vietnam | 250.5 | 324.5 |
+| China | 254.2 | 355.3 |
+| Ukraine | 191.2 | 398.4 |
+| Bangladesh | 163.8 | 173.3 |
+| Mexico | 274.6 | 292.4 |

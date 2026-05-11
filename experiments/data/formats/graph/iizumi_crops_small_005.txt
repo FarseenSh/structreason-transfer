@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Pakistan: {Fertilizer_kg_ha=209.4, Wheat_tonnes_ha=4.5}
+  USA: {Fertilizer_kg_ha=232.3, Wheat_tonnes_ha=3.7}
+  Mexico: {Fertilizer_kg_ha=90.7, Wheat_tonnes_ha=1.7}
+  Brazil: {Fertilizer_kg_ha=75.9, Wheat_tonnes_ha=7.8}
+  China: {Fertilizer_kg_ha=277.4, Wheat_tonnes_ha=1.7}
+
+Edges (top 3 by metric similarity):
+  Pakistan -- Mexico (sim=1.00, similar Wheat_tonnes_ha)
+  USA -- Mexico (sim=1.00, similar Wheat_tonnes_ha)
+  Pakistan -- USA (sim=1.00, similar Wheat_tonnes_ha)

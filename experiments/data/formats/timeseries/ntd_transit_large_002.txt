@@ -1,0 +1,20 @@
+The following 20 values represent Revenue_k_USD for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[9450.2, 13857.4, 2658.3, 12030.9, 9509.6, 12212.9, 2643.3, 6567.9, 2019.7, 14405.2, 1034.1, 1075.7, 13482.5, 4581.4, 8995.6, 4383.4, 9766.5, 2967.8, 6937.2, 8049]
+
+The following 20 values represent Complaints_per_10k for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[5.3, 4.1, 2.5, 10.7, 2.9, 4.7, 5.4, 7.1, 10.7, 6.7, 13.1, 10.4, 12.7, 10.9, 2.7, 14.7, 11.9, 8.8, 2.9, 3]
+
+The following 20 values represent Avg_trip_minutes for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[36.9, 27.6, 39.8, 25.5, 32.1, 16.8, 15.3, 11.6, 46.5, 34.1, 52.5, 43.2, 44.1, 31.9, 46.3, 52.3, 41.9, 13, 38.6, 13.7]
+
+The following 20 values represent Monthly_riders_k for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[663.9, 5558.6, 6686.5, 1312.8, 639.5, 7097.9, 1101.1, 328.9, 5782.4, 6789.3, 4140.1, 4342.4, 2728, 1945.8, 6054.1, 6801.8, 2603.9, 2226.9, 2178.9, 452.2]
+
+The following 20 values represent Operating_cost_k for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[5765.3, 707.9, 15810.5, 5267.4, 13865.1, 10955.1, 16781.8, 19215.5, 7472.4, 1949.1, 15043, 621.8, 4614.7, 1254.4, 17983.3, 304.9, 9956.3, 8595.2, 13124.3, 5936.9]
+
+The following 20 values represent Farebox_recovery_pct for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[76.2, 66.4, 45.3, 40.1, 72.1, 68, 42.9, 38.9, 17.7, 20.7, 18.8, 16.7, 25.7, 75, 70.9, 74.2, 58.7, 58.7, 23.7, 63.9]
+
+The following 20 values represent On_time_pct for each Entity (Bus_303, Tram_1, Line_Yellow, Line_Purple, Bus_202, Bus_404, Tram_3, Ferry_B, Line_Green, Line_Red, Line_Blue, Bus_505, Line_Gold, Line_Silver, Line_Orange, Ferry_A, Line_Brown, Tram_2, Line_Pink, Bus_101), listed in order:
+[74.2, 82.1, 96.5, 93.7, 72.7, 89.3, 68.4, 65.9, 65.9, 70.6, 87.9, 77, 65.5, 97.6, 82.6, 78, 82.1, 82.2, 80.5, 85.2]

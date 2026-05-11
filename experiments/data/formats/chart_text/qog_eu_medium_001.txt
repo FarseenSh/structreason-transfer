@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Govt_expenditure_pct_GDP: Greece=41.9, Sweden=48.3, Spain=54.3, Italy=42.7, Romania=36.9, Finland=36.6, Belgium=50.9, Hungary=52.9, Germany=32.9, Switzerland=31.9.
+Education_spending_pct: Greece=6.5, Sweden=4.2, Spain=7.6, Italy=5.1, Romania=4.2, Finland=8.1, Belgium=4.3, Hungary=4.9, Germany=4.3, Switzerland=4.1.
+Gini_index: Greece=23.4, Sweden=23.9, Spain=26, Italy=23.9, Romania=33, Finland=34.6, Belgium=29.7, Hungary=28.4, Germany=31.6, Switzerland=37.9.
+Life_expectancy: Greece=82.2, Sweden=72.5, Spain=74.2, Italy=74.8, Romania=75, Finland=78.9, Belgium=77, Hungary=72.6, Germany=76.5, Switzerland=78.3.

@@ -1,0 +1,5 @@
+The following 5 values represent Yield_index for each Entity (Indonesia, Pakistan, Vietnam, Nigeria, Turkey), listed in order:
+[142.7, 127.4, 100.9, 128.5, 167]
+
+The following 5 values represent Rice_tonnes_ha for each Entity (Indonesia, Pakistan, Vietnam, Nigeria, Turkey), listed in order:
+[5.6, 5.3, 4.5, 3.9, 5.8]

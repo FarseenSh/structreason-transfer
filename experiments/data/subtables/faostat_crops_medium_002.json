@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_002",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Fertilizer_kg_ha",
+    "Production_Mt",
+    "Rice_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "France",
+      "Yield_index": 120.3,
+      "Fertilizer_kg_ha": 32.0,
+      "Production_Mt": 201.4,
+      "Rice_tonnes_ha": 5.6
+    },
+    {
+      "Entity": "Australia",
+      "Yield_index": 64.5,
+      "Fertilizer_kg_ha": 339.0,
+      "Production_Mt": 47.6,
+      "Rice_tonnes_ha": 2.4
+    },
+    {
+      "Entity": "Indonesia",
+      "Yield_index": 70.4,
+      "Fertilizer_kg_ha": 75.6,
+      "Production_Mt": 84.4,
+      "Rice_tonnes_ha": 2.6
+    },
+    {
+      "Entity": "Ukraine",
+      "Yield_index": 62.6,
+      "Fertilizer_kg_ha": 135.0,
+      "Production_Mt": 295.5,
+      "Rice_tonnes_ha": 3.5
+    },
+    {
+      "Entity": "Egypt",
+      "Yield_index": 95.3,
+      "Fertilizer_kg_ha": 216.4,
+      "Production_Mt": 294.0,
+      "Rice_tonnes_ha": 6.3
+    },
+    {
+      "Entity": "Thailand",
+      "Yield_index": 66.4,
+      "Fertilizer_kg_ha": 373.4,
+      "Production_Mt": 100.3,
+      "Rice_tonnes_ha": 3.8
+    },
+    {
+      "Entity": "Brazil",
+      "Yield_index": 110.8,
+      "Fertilizer_kg_ha": 399.3,
+      "Production_Mt": 76.1,
+      "Rice_tonnes_ha": 4.6
+    },
+    {
+      "Entity": "China",
+      "Yield_index": 157.5,
+      "Fertilizer_kg_ha": 317.4,
+      "Production_Mt": 72.7,
+      "Rice_tonnes_ha": 5.6
+    },
+    {
+      "Entity": "Turkey",
+      "Yield_index": 133.7,
+      "Fertilizer_kg_ha": 297.1,
+      "Production_Mt": 148.0,
+      "Rice_tonnes_ha": 6.3
+    },
+    {
+      "Entity": "Vietnam",
+      "Yield_index": 140.9,
+      "Fertilizer_kg_ha": 220.5,
+      "Production_Mt": 71.0,
+      "Rice_tonnes_ha": 3.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Fertilizer_kg_ha",
+    "Production_Mt",
+    "Rice_tonnes_ha"
+  ]
+}

@@ -1,0 +1,3 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Monthly_riders_k: Bus_101=837.8, Tram_2=5475.6, Line_Silver=5049.5, Line_Gold=6482.1, Bus_202=5228.5.
+Farebox_recovery_pct: Bus_101=68.9, Tram_2=44.5, Line_Silver=49.2, Line_Gold=64.1, Bus_202=54.8.

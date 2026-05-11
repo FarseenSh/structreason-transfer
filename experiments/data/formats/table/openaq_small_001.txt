@@ -1,0 +1,7 @@
+| Entity | AQI | PM10_ug_m3 |
+|---|---|---|
+| Station_E17 | 43.3 | 46.9 |
+| Station_S7 | 80.4 | 83.1 |
+| Station_W9 | 178.3 | 33.2 |
+| Station_E8 | 103.5 | 116 |
+| Station_NE11 | 25.5 | 55.6 |

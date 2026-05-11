@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_002",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Total_GWh",
+    "Nuclear_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Switzerland",
+      "Total_GWh": 14858.0,
+      "Nuclear_GWh": 14265.7
+    },
+    {
+      "Entity": "Greece",
+      "Total_GWh": 30296.3,
+      "Nuclear_GWh": 11973.2
+    },
+    {
+      "Entity": "Austria",
+      "Total_GWh": 43528.8,
+      "Nuclear_GWh": 13305.6
+    },
+    {
+      "Entity": "Poland",
+      "Total_GWh": 17263.3,
+      "Nuclear_GWh": 5778.7
+    },
+    {
+      "Entity": "France",
+      "Total_GWh": 25210.4,
+      "Nuclear_GWh": 14947.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Total_GWh",
+    "Nuclear_GWh"
+  ]
+}

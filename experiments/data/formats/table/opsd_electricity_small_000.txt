@@ -1,0 +1,7 @@
+| Entity | Gas_GWh | Total_GWh |
+|---|---|---|
+| Switzerland | 582 | 23633.3 |
+| Norway | 4244 | 19734.6 |
+| Belgium | 6597.3 | 15161.7 |
+| Spain | 5867.6 | 37005 |
+| UK | 1815.5 | 16863.3 |

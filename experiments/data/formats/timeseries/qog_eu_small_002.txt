@@ -1,0 +1,5 @@
+The following 5 values represent Life_expectancy for each Entity (Sweden, Finland, Portugal, Italy, Greece), listed in order:
+[81.4, 80, 80.5, 81.4, 77.5]
+
+The following 5 values represent Education_spending_pct for each Entity (Sweden, Finland, Portugal, Italy, Greece), listed in order:
+[6.3, 4.2, 4.1, 6.8, 5.9]

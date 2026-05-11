@@ -1,0 +1,35 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Belgium: {Life_expectancy=82.5, Trust_in_govt_pct=21.9, Gini_index=24.7, GDP_per_capita=26401, Education_spending_pct=4.8, Govt_expenditure_pct_GDP=46.4, HDI=0.9}
+  Italy: {Life_expectancy=75, Trust_in_govt_pct=75.5, Gini_index=26.5, GDP_per_capita=62919.3, Education_spending_pct=5, Govt_expenditure_pct_GDP=50.6, HDI=0.8}
+  Netherlands: {Life_expectancy=79.3, Trust_in_govt_pct=23.8, Gini_index=35.6, GDP_per_capita=38763.4, Education_spending_pct=7.3, Govt_expenditure_pct_GDP=38.3, HDI=0.9}
+  Austria: {Life_expectancy=78.6, Trust_in_govt_pct=25.2, Gini_index=23.4, GDP_per_capita=81842.9, Education_spending_pct=7.9, Govt_expenditure_pct_GDP=40.4, HDI=0.8}
+  Norway: {Life_expectancy=76.8, Trust_in_govt_pct=68.7, Gini_index=39.6, GDP_per_capita=32051.8, Education_spending_pct=8, Govt_expenditure_pct_GDP=41.3, HDI=0.8}
+  Denmark: {Life_expectancy=80.1, Trust_in_govt_pct=72.2, Gini_index=29.4, GDP_per_capita=21924.7, Education_spending_pct=8.4, Govt_expenditure_pct_GDP=51.3, HDI=0.8}
+  Switzerland: {Life_expectancy=80.7, Trust_in_govt_pct=26, Gini_index=35.2, GDP_per_capita=67745.3, Education_spending_pct=8.4, Govt_expenditure_pct_GDP=51.6, HDI=0.9}
+  Poland: {Life_expectancy=78.8, Trust_in_govt_pct=43, Gini_index=38.1, GDP_per_capita=76672.5, Education_spending_pct=8.3, Govt_expenditure_pct_GDP=35.8, HDI=0.9}
+  Finland: {Life_expectancy=81.1, Trust_in_govt_pct=60.4, Gini_index=29.7, GDP_per_capita=34467.9, Education_spending_pct=3.9, Govt_expenditure_pct_GDP=56.4, HDI=0.9}
+  Romania: {Life_expectancy=83.8, Trust_in_govt_pct=70, Gini_index=28.4, GDP_per_capita=29146.2, Education_spending_pct=4.2, Govt_expenditure_pct_GDP=33.4, HDI=0.9}
+  Bulgaria: {Life_expectancy=77, Trust_in_govt_pct=37, Gini_index=33.3, GDP_per_capita=28003.6, Education_spending_pct=5, Govt_expenditure_pct_GDP=55.1, HDI=0.9}
+  Ireland: {Life_expectancy=78.2, Trust_in_govt_pct=46.1, Gini_index=32.9, GDP_per_capita=51540.9, Education_spending_pct=6.3, Govt_expenditure_pct_GDP=32.8, HDI=0.9}
+  Sweden: {Life_expectancy=72.1, Trust_in_govt_pct=61, Gini_index=30, GDP_per_capita=47789.2, Education_spending_pct=4, Govt_expenditure_pct_GDP=37.4, HDI=0.9}
+  Germany: {Life_expectancy=81.6, Trust_in_govt_pct=60.3, Gini_index=33.2, GDP_per_capita=33160.8, Education_spending_pct=7.7, Govt_expenditure_pct_GDP=53.7, HDI=0.8}
+  Hungary: {Life_expectancy=78.2, Trust_in_govt_pct=63.7, Gini_index=38.9, GDP_per_capita=18162.1, Education_spending_pct=6.6, Govt_expenditure_pct_GDP=35, HDI=0.8}
+  Portugal: {Life_expectancy=76.9, Trust_in_govt_pct=49.6, Gini_index=30.9, GDP_per_capita=48704.4, Education_spending_pct=6.2, Govt_expenditure_pct_GDP=41.6, HDI=0.8}
+  France: {Life_expectancy=73.1, Trust_in_govt_pct=18.9, Gini_index=26.3, GDP_per_capita=82153.3, Education_spending_pct=4.3, Govt_expenditure_pct_GDP=42.6, HDI=0.9}
+  Spain: {Life_expectancy=82.7, Trust_in_govt_pct=71.7, Gini_index=29.4, GDP_per_capita=60676.3, Education_spending_pct=4.8, Govt_expenditure_pct_GDP=36.9, HDI=0.9}
+  Czechia: {Life_expectancy=76.7, Trust_in_govt_pct=69.1, Gini_index=29.7, GDP_per_capita=49685.5, Education_spending_pct=4.3, Govt_expenditure_pct_GDP=49.9, HDI=1}
+  Greece: {Life_expectancy=80.2, Trust_in_govt_pct=64.7, Gini_index=25.2, GDP_per_capita=22748.4, Education_spending_pct=7.8, Govt_expenditure_pct_GDP=53.8, HDI=0.8}
+
+Edges (top 10 by metric similarity):
+  Austria -- France (sim=1.00, similar HDI)
+  Finland -- Germany (sim=1.00, similar HDI)
+  Sweden -- Czechia (sim=1.00, similar HDI)
+  Ireland -- Portugal (sim=1.00, similar Education_spending_pct)
+  Italy -- Spain (sim=1.00, similar HDI)
+  Sweden -- Portugal (sim=1.00, similar HDI)
+  Sweden -- Spain (sim=1.00, similar HDI)
+  Austria -- Poland (sim=1.00, similar HDI)
+  Ireland -- Spain (sim=1.00, similar HDI)
+  Switzerland -- Poland (sim=1.00, similar HDI)

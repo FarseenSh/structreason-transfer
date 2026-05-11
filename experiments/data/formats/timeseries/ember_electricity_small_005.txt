@@ -1,0 +1,5 @@
+The following 5 values represent Gas_GWh for each Entity (Sweden, Denmark, Portugal, Germany, Czechia), listed in order:
+[3816.2, 4151.4, 2052, 6001.9, 1695.3]
+
+The following 5 values represent Hydro_GWh for each Entity (Sweden, Denmark, Portugal, Germany, Czechia), listed in order:
+[1867.1, 4532.6, 2225, 5153.4, 5555.1]

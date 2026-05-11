@@ -1,0 +1,5 @@
+The following 5 values represent Farebox_recovery_pct for each Entity (Tram_3, Line_Blue, Line_Brown, Bus_101, Bus_202), listed in order:
+[27.4, 40.2, 43.1, 36, 15.2]
+
+The following 5 values represent Complaints_per_10k for each Entity (Tram_3, Line_Blue, Line_Brown, Bus_101, Bus_202), listed in order:
+[3.9, 5.4, 5, 11.9, 1.2]

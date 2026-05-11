@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_004",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Trust_in_govt_pct",
+    "Education_spending_pct"
+  ],
+  "data": [
+    {
+      "Entity": "France",
+      "Trust_in_govt_pct": 37.1,
+      "Education_spending_pct": 4.1
+    },
+    {
+      "Entity": "Italy",
+      "Trust_in_govt_pct": 31.9,
+      "Education_spending_pct": 8.3
+    },
+    {
+      "Entity": "Norway",
+      "Trust_in_govt_pct": 53.6,
+      "Education_spending_pct": 8.0
+    },
+    {
+      "Entity": "Bulgaria",
+      "Trust_in_govt_pct": 35.9,
+      "Education_spending_pct": 7.0
+    },
+    {
+      "Entity": "Netherlands",
+      "Trust_in_govt_pct": 17.8,
+      "Education_spending_pct": 4.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Trust_in_govt_pct",
+    "Education_spending_pct"
+  ]
+}

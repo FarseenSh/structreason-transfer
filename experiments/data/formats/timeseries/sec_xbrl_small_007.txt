@@ -1,0 +1,5 @@
+The following 5 values represent Net_income_M for each Entity (CompanyS, CompanyJ, CompanyD, CompanyO, CompanyT), listed in order:
+[48.2, -99.1, 334.2, 1092.5, 980.1]
+
+The following 5 values represent Operating_margin_pct for each Entity (CompanyS, CompanyJ, CompanyD, CompanyO, CompanyT), listed in order:
+[39.4, 11.2, 7.4, 12, 30.2]

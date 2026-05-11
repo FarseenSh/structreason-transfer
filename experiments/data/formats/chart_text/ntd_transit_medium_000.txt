@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Vehicles_in_service: Bus_404=26.7, Tram_2=52.7, Line_Pink=156.3, Line_Yellow=115.3, Ferry_A=106.7, Line_Purple=7.9, Bus_505=124.8.
+Complaints_per_10k: Bus_404=0.8, Tram_2=12.3, Line_Pink=5, Line_Yellow=9.7, Ferry_A=2.6, Line_Purple=3.3, Bus_505=14.
+Avg_trip_minutes: Bus_404=35.1, Tram_2=34.7, Line_Pink=28.7, Line_Yellow=10.5, Ferry_A=50.3, Line_Purple=45.8, Bus_505=15.2.
+Operating_cost_k: Bus_404=10218, Tram_2=11777.6, Line_Pink=4179.2, Line_Yellow=15684.3, Ferry_A=13014.3, Line_Purple=5486.4, Bus_505=656.8.

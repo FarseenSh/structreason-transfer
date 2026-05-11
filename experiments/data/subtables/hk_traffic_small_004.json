@@ -1,0 +1,45 @@
+{
+  "id": "hk_traffic_small_004",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Accidents_monthly",
+    "Bus_passengers"
+  ],
+  "data": [
+    {
+      "Entity": "Route_F6",
+      "Accidents_monthly": 34.5,
+      "Bus_passengers": 16414.5
+    },
+    {
+      "Entity": "Route_G7",
+      "Accidents_monthly": 44.6,
+      "Bus_passengers": 38923.0
+    },
+    {
+      "Entity": "Route_A1",
+      "Accidents_monthly": 41.9,
+      "Bus_passengers": 38473.1
+    },
+    {
+      "Entity": "Route_I9",
+      "Accidents_monthly": 23.7,
+      "Bus_passengers": 42369.3
+    },
+    {
+      "Entity": "Route_O15",
+      "Accidents_monthly": 24.9,
+      "Bus_passengers": 44879.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Accidents_monthly",
+    "Bus_passengers"
+  ]
+}

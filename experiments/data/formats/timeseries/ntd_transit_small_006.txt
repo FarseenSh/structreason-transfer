@@ -1,0 +1,5 @@
+The following 5 values represent Farebox_recovery_pct for each Entity (Line_Pink, Line_Red, Line_Blue, Line_Orange, Line_Green), listed in order:
+[44.2, 71.5, 51.8, 30.7, 55.6]
+
+The following 5 values represent Operating_cost_k for each Entity (Line_Pink, Line_Red, Line_Blue, Line_Orange, Line_Green), listed in order:
+[4517.6, 259.9, 4870.7, 4024.2, 7544.2]

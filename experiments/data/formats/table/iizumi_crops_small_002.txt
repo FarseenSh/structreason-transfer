@@ -1,0 +1,7 @@
+| Entity | Fertilizer_kg_ha | Maize_tonnes_ha |
+|---|---|---|
+| India | 189.1 | 8.1 |
+| Indonesia | 91.9 | 8.5 |
+| Nigeria | 79.5 | 9.7 |
+| USA | 56.4 | 5.3 |
+| China | 263.3 | 11.2 |

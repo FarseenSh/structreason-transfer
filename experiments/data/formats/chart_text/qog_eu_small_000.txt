@@ -1,0 +1,3 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+GDP_per_capita: Italy=79873.5, Austria=60070.6, Portugal=72593.3, Sweden=46039, Bulgaria=30906.7.
+Govt_expenditure_pct_GDP: Italy=45.5, Austria=31.8, Portugal=53.2, Sweden=47.7, Bulgaria=51.2.

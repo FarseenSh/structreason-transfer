@@ -1,0 +1,20 @@
+The following 20 values represent PM25_ug_m3 for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[42.5, 29.6, 62.7, 46.7, 3.1, 4.4, 45.8, 28.6, 55, 13.7, 3.9, 27.1, 48.6, 63.2, 57.8, 33, 53.4, 7.4, 38.5, 60.3]
+
+The following 20 values represent O3_ppb for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[42.7, 82.2, 30.4, 22.4, 51.7, 78.5, 36.8, 71, 26.8, 67.2, 54, 27.3, 65.3, 65, 51.1, 30.8, 24.3, 82, 60.9, 71.6]
+
+The following 20 values represent PM10_ug_m3 for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[86.1, 100.9, 26.2, 63.7, 82.7, 19.6, 24.8, 79, 105.3, 82, 12.1, 116.7, 23.6, 34, 117.2, 94.4, 112.9, 98.3, 81, 39.9]
+
+The following 20 values represent CO_ppm for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[1.6, 4.3, 3.9, 1.7, 1.8, 1.5, 1.6, 3.9, 0.2, 2.1, 4.3, 2.5, 2.1, 1.5, 0.5, 1.2, 0.6, 0.7, 0.9, 1.5]
+
+The following 20 values represent NO2_ppb for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[5.6, 57.3, 11.8, 26.1, 53.4, 10.9, 31.6, 51.5, 35.6, 16.6, 45.5, 42.5, 24.9, 7.5, 5.4, 50.4, 22.7, 12.6, 33.5, 55.6]
+
+The following 20 values represent Temperature_C for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[-4.6, -2.6, 12.9, 24.1, 15.5, 33.6, -3.1, 9.6, 10.1, 9.6, 16, 29, 8.7, 27, 1.3, 19.1, 11.1, 18.2, -0.4, 36]
+
+The following 20 values represent SO2_ppb for each Entity (Station_E8, Station_S16, Station_C5, Station_E17, Station_W9, Station_S7, Station_SW13, Station_NE2, Station_U20, Station_NW10, Station_NW1, Station_W18, Station_R19, Station_SW4, Station_N15, Station_SE3, Station_SE12, Station_C14, Station_NE11, Station_N6), listed in order:
+[22.7, 20.8, 22.4, 4.5, 13.1, 8.6, 22.3, 5.5, 6.3, 17.5, 3.1, 18.6, 7.4, 16.9, 22, 15.6, 6.1, 2.2, 2.1, 3.1]

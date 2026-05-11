@@ -1,0 +1,7 @@
+| Entity | Gas_GWh | Hydro_GWh |
+|---|---|---|
+| Sweden | 3816.2 | 1867.1 |
+| Denmark | 4151.4 | 4532.6 |
+| Portugal | 2052 | 2225 |
+| Germany | 6001.9 | 5153.4 |
+| Czechia | 1695.3 | 5555.1 |

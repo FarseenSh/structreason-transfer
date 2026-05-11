@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Soybean_tonnes_ha: Russia=3.9, India=1, Brazil=2, USA=2, Pakistan=1.9, Canada=3.5, Germany=1.1, Egypt=2.1, Vietnam=3.1, Mexico=2.2.
+Rice_tonnes_ha: Russia=2.8, India=5.4, Brazil=4.9, USA=7.4, Pakistan=6.1, Canada=7.4, Germany=3, Egypt=6.2, Vietnam=5, Mexico=5.9.
+Fertilizer_kg_ha: Russia=197.7, India=100.7, Brazil=37.4, USA=338.5, Pakistan=329.6, Canada=81.8, Germany=265.2, Egypt=300.3, Vietnam=231.9, Mexico=140.5.
+Production_Mt: Russia=264.9, India=194.5, Brazil=217.5, USA=197.4, Pakistan=217.8, Canada=47.8, Germany=277.2, Egypt=89.3, Vietnam=251.8, Mexico=268.5.

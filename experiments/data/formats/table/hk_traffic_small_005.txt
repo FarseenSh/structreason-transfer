@@ -1,0 +1,7 @@
+| Entity | Bus_passengers | Road_condition_score |
+|---|---|---|
+| Route_H8 | 38739.2 | 56 |
+| Route_R18 | 40161.9 | 64 |
+| Route_C3 | 30518.1 | 42.5 |
+| Route_O15 | 42986.2 | 66 |
+| Route_T20 | 5796.3 | 55.4 |

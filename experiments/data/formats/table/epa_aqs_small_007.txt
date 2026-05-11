@@ -1,0 +1,7 @@
+| Entity | PM25_ug_m3 | Temperature_C |
+|---|---|---|
+| Station_W9 | 36.9 | -3.4 |
+| Station_SE12 | 60 | 18.4 |
+| Station_N15 | 57 | -2.3 |
+| Station_C14 | 22 | 35.4 |
+| Station_SE3 | 29.6 | 32.3 |

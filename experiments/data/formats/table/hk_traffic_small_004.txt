@@ -1,0 +1,7 @@
+| Entity | Accidents_monthly | Bus_passengers |
+|---|---|---|
+| Route_F6 | 34.5 | 16414.5 |
+| Route_G7 | 44.6 | 38923 |
+| Route_A1 | 41.9 | 38473.1 |
+| Route_I9 | 23.7 | 42369.3 |
+| Route_O15 | 24.9 | 44879.7 |

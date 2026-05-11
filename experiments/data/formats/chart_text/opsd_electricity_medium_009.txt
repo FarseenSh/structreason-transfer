@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Gas_GWh: France=5224.8, Denmark=9423.9, Germany=4451.9, Austria=454.4, Ireland=2592.8, Romania=5155.9, Italy=5543.5, Poland=5658.1, Netherlands=7231.2, Finland=2964.1.
+Nuclear_GWh: France=9973.6, Denmark=10560.5, Germany=6169.2, Austria=6032.5, Ireland=2683.9, Romania=6209.8, Italy=11802.2, Poland=13634.6, Netherlands=8904.2, Finland=4490.6.
+CO2_Mt: France=54.9, Denmark=59.5, Germany=27.2, Austria=66.3, Ireland=6.8, Romania=1.8, Italy=10.7, Poland=13.3, Netherlands=70.4, Finland=34.6.
+Wind_GWh: France=3444.2, Denmark=5263.1, Germany=4859.1, Austria=3757.2, Ireland=1827.2, Romania=7939.8, Italy=1811.9, Poland=9350, Netherlands=2579.9, Finland=8830.2.

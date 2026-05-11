@@ -1,0 +1,5 @@
+The following 5 values represent Gas_GWh for each Entity (Switzerland, Norway, Belgium, Spain, UK), listed in order:
+[582, 4244, 6597.3, 5867.6, 1815.5]
+
+The following 5 values represent Total_GWh for each Entity (Switzerland, Norway, Belgium, Spain, UK), listed in order:
+[23633.3, 19734.6, 15161.7, 37005, 16863.3]

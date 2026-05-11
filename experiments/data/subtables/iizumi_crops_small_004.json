@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_004",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Soybean_tonnes_ha",
+    "Production_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "France",
+      "Soybean_tonnes_ha": 1.1,
+      "Production_Mt": 219.8
+    },
+    {
+      "Entity": "Mexico",
+      "Soybean_tonnes_ha": 2.6,
+      "Production_Mt": 217.2
+    },
+    {
+      "Entity": "Canada",
+      "Soybean_tonnes_ha": 3.4,
+      "Production_Mt": 82.4
+    },
+    {
+      "Entity": "Thailand",
+      "Soybean_tonnes_ha": 3.0,
+      "Production_Mt": 188.7
+    },
+    {
+      "Entity": "Pakistan",
+      "Soybean_tonnes_ha": 1.6,
+      "Production_Mt": 185.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Soybean_tonnes_ha",
+    "Production_Mt"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "opsd_electricity_medium_003",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "CO2_Mt",
+    "Nuclear_GWh",
+    "Solar_GWh",
+    "Total_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Switzerland",
+      "CO2_Mt": 19.7,
+      "Nuclear_GWh": 7340.4,
+      "Solar_GWh": 3546.0,
+      "Total_GWh": 33609.3
+    },
+    {
+      "Entity": "Czechia",
+      "CO2_Mt": 24.4,
+      "Nuclear_GWh": 8320.8,
+      "Solar_GWh": 365.2,
+      "Total_GWh": 49611.0
+    },
+    {
+      "Entity": "Netherlands",
+      "CO2_Mt": 24.8,
+      "Nuclear_GWh": 303.9,
+      "Solar_GWh": 4964.6,
+      "Total_GWh": 13302.8
+    },
+    {
+      "Entity": "Germany",
+      "CO2_Mt": 4.2,
+      "Nuclear_GWh": 12633.6,
+      "Solar_GWh": 2583.4,
+      "Total_GWh": 45469.6
+    },
+    {
+      "Entity": "Poland",
+      "CO2_Mt": 25.9,
+      "Nuclear_GWh": 14605.0,
+      "Solar_GWh": 2547.0,
+      "Total_GWh": 15373.6
+    },
+    {
+      "Entity": "Finland",
+      "CO2_Mt": 70.4,
+      "Nuclear_GWh": 9801.1,
+      "Solar_GWh": 2030.3,
+      "Total_GWh": 33099.2
+    },
+    {
+      "Entity": "Sweden",
+      "CO2_Mt": 73.0,
+      "Nuclear_GWh": 9906.8,
+      "Solar_GWh": 5819.2,
+      "Total_GWh": 3943.9
+    },
+    {
+      "Entity": "Ireland",
+      "CO2_Mt": 9.7,
+      "Nuclear_GWh": 7919.7,
+      "Solar_GWh": 1132.0,
+      "Total_GWh": 25791.4
+    },
+    {
+      "Entity": "Denmark",
+      "CO2_Mt": 37.2,
+      "Nuclear_GWh": 5014.1,
+      "Solar_GWh": 992.7,
+      "Total_GWh": 33419.4
+    },
+    {
+      "Entity": "Greece",
+      "CO2_Mt": 31.1,
+      "Nuclear_GWh": 2234.7,
+      "Solar_GWh": 1076.6,
+      "Total_GWh": 27743.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO2_Mt",
+    "Nuclear_GWh",
+    "Solar_GWh",
+    "Total_GWh"
+  ]
+}

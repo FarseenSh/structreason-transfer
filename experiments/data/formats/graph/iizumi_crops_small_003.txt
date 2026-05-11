@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Indonesia: {Yield_index=142.7, Rice_tonnes_ha=5.6}
+  Pakistan: {Yield_index=127.4, Rice_tonnes_ha=5.3}
+  Vietnam: {Yield_index=100.9, Rice_tonnes_ha=4.5}
+  Nigeria: {Yield_index=128.5, Rice_tonnes_ha=3.9}
+  Turkey: {Yield_index=167, Rice_tonnes_ha=5.8}
+
+Edges (top 3 by metric similarity):
+  Indonesia -- Pakistan (sim=1.00, similar Rice_tonnes_ha)
+  Pakistan -- Vietnam (sim=1.00, similar Rice_tonnes_ha)
+  Nigeria -- Turkey (sim=1.00, similar Rice_tonnes_ha)

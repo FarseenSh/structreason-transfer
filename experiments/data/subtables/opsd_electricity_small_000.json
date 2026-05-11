@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_000",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Gas_GWh",
+    "Total_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Switzerland",
+      "Gas_GWh": 582.0,
+      "Total_GWh": 23633.3
+    },
+    {
+      "Entity": "Norway",
+      "Gas_GWh": 4244.0,
+      "Total_GWh": 19734.6
+    },
+    {
+      "Entity": "Belgium",
+      "Gas_GWh": 6597.3,
+      "Total_GWh": 15161.7
+    },
+    {
+      "Entity": "Spain",
+      "Gas_GWh": 5867.6,
+      "Total_GWh": 37005.0
+    },
+    {
+      "Entity": "UK",
+      "Gas_GWh": 1815.5,
+      "Total_GWh": 16863.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Gas_GWh",
+    "Total_GWh"
+  ]
+}

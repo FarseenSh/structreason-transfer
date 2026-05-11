@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Pink: {Farebox_recovery_pct=44.2, Operating_cost_k=4517.6}
+  Line_Red: {Farebox_recovery_pct=71.5, Operating_cost_k=259.9}
+  Line_Blue: {Farebox_recovery_pct=51.8, Operating_cost_k=4870.7}
+  Line_Orange: {Farebox_recovery_pct=30.7, Operating_cost_k=4024.2}
+  Line_Green: {Farebox_recovery_pct=55.6, Operating_cost_k=7544.2}
+
+Edges (top 3 by metric similarity):
+  Line_Orange -- Line_Green (sim=1.00, similar Farebox_recovery_pct)
+  Line_Pink -- Line_Blue (sim=1.00, similar Farebox_recovery_pct)
+  Line_Pink -- Line_Orange (sim=1.00, similar Farebox_recovery_pct)

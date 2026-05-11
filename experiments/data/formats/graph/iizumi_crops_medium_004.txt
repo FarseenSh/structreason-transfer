@@ -1,0 +1,20 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Pakistan: {Production_Mt=106, Rice_tonnes_ha=4.5, Yield_index=91.1, Wheat_tonnes_ha=2.7}
+  Brazil: {Production_Mt=299.8, Rice_tonnes_ha=2.9, Yield_index=161.5, Wheat_tonnes_ha=4.4}
+  Turkey: {Production_Mt=94.3, Rice_tonnes_ha=2.7, Yield_index=64.3, Wheat_tonnes_ha=7.9}
+  China: {Production_Mt=12.8, Rice_tonnes_ha=5.2, Yield_index=127.1, Wheat_tonnes_ha=2.6}
+  Ukraine: {Production_Mt=156.3, Rice_tonnes_ha=4.8, Yield_index=146.6, Wheat_tonnes_ha=8.1}
+  Nigeria: {Production_Mt=29.7, Rice_tonnes_ha=6.1, Yield_index=93.6, Wheat_tonnes_ha=3.2}
+  Mexico: {Production_Mt=85.8, Rice_tonnes_ha=6.9, Yield_index=163.6, Wheat_tonnes_ha=4.9}
+  Canada: {Production_Mt=297.8, Rice_tonnes_ha=3.4, Yield_index=88.8, Wheat_tonnes_ha=4.1}
+  France: {Production_Mt=212.9, Rice_tonnes_ha=7.1, Yield_index=160.8, Wheat_tonnes_ha=2.4}
+  Bangladesh: {Production_Mt=19.9, Rice_tonnes_ha=4.8, Yield_index=69.4, Wheat_tonnes_ha=8.6}
+
+Edges (top 5 by metric similarity):
+  Pakistan -- Ukraine (sim=1.00, similar Rice_tonnes_ha)
+  Pakistan -- France (sim=1.00, similar Wheat_tonnes_ha)
+  Turkey -- France (sim=1.00, similar Rice_tonnes_ha)
+  Nigeria -- Bangladesh (sim=1.00, similar Rice_tonnes_ha)
+  Ukraine -- France (sim=0.99, similar Rice_tonnes_ha)

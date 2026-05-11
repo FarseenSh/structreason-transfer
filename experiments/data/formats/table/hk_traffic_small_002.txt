@@ -1,0 +1,7 @@
+| Entity | Congestion_index | Bus_passengers |
+|---|---|---|
+| Route_E5 | 2.3 | 17789.9 |
+| Route_I9 | 4 | 2910 |
+| Route_G7 | 3 | 25235.4 |
+| Route_H8 | 1.8 | 7073 |
+| Route_K11 | 4.2 | 12684.9 |

@@ -1,0 +1,13 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_M13: {Peak_hour_flow=16931, Avg_speed_kmh=32.2}
+  Route_K11: {Peak_hour_flow=6981.5, Avg_speed_kmh=17.6}
+  Route_G7: {Peak_hour_flow=19167.1, Avg_speed_kmh=22}
+  Route_C3: {Peak_hour_flow=2395.5, Avg_speed_kmh=30.6}
+  Route_F6: {Peak_hour_flow=27974.7, Avg_speed_kmh=32.8}
+
+Edges (top 3 by metric similarity):
+  Route_G7 -- Route_F6 (sim=1.00, similar Avg_speed_kmh)
+  Route_M13 -- Route_K11 (sim=1.00, similar Avg_speed_kmh)
+  Route_M13 -- Route_F6 (sim=1.00, similar Avg_speed_kmh)

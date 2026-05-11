@@ -1,0 +1,8 @@
+Bar chart: "SEC XBRL Financials — Finance".
+ROE_pct: CompanyG=29.3, CompanyB=-2.2, CompanyP=-1.6, CompanyE=12.8, CompanyN=15.8, CompanyS=24.9, CompanyK=13.9, CompanyQ=8.6, CompanyT=0.9, CompanyL=4.1, CompanyA=36, CompanyO=20.2, CompanyC=15.5, CompanyI=40.7, CompanyM=10.6.
+Net_income_M: CompanyG=1318.1, CompanyB=828.3, CompanyP=563.6, CompanyE=216.6, CompanyN=1162.4, CompanyS=275.1, CompanyK=-166.9, CompanyQ=1463.3, CompanyT=751.7, CompanyL=1360.4, CompanyA=397.9, CompanyO=1151.5, CompanyC=611.1, CompanyI=1116.9, CompanyM=141.
+Total_assets_M: CompanyG=1072, CompanyB=41108.4, CompanyP=20298.6, CompanyE=11278.6, CompanyN=42121.1, CompanyS=36116.1, CompanyK=23867.5, CompanyQ=48832.9, CompanyT=25640.6, CompanyL=33771.5, CompanyA=24590.6, CompanyO=28226.5, CompanyC=18245.7, CompanyI=35159.3, CompanyM=35080.6.
+Operating_margin_pct: CompanyG=8.7, CompanyB=7.2, CompanyP=26.2, CompanyE=38.3, CompanyN=39.6, CompanyS=15.6, CompanyK=-1.4, CompanyQ=30, CompanyT=2.3, CompanyL=39.6, CompanyA=0.5, CompanyO=25.7, CompanyC=19.4, CompanyI=3.1, CompanyM=2.5.
+Revenue_M: CompanyG=4432.2, CompanyB=2297.2, CompanyP=3192.6, CompanyE=3702.8, CompanyN=2727.2, CompanyS=2043.3, CompanyK=1741.3, CompanyQ=4733.6, CompanyT=1301.6, CompanyL=3902.2, CompanyA=1853.5, CompanyO=4438.7, CompanyC=205.2, CompanyI=3162.3, CompanyM=4668.6.
+EPS: CompanyG=9.4, CompanyB=1.7, CompanyP=6.9, CompanyE=13.7, CompanyN=5.4, CompanyS=12.9, CompanyK=9.4, CompanyQ=15.6, CompanyT=4.2, CompanyL=5.3, CompanyA=13.7, CompanyO=6.1, CompanyC=6.6, CompanyI=3.7, CompanyM=5.2.
+Debt_ratio: CompanyG=0.9, CompanyB=0.5, CompanyP=0.3, CompanyE=0.2, CompanyN=0.8, CompanyS=0.2, CompanyK=0.1, CompanyQ=0.3, CompanyT=0.2, CompanyL=0.5, CompanyA=0.9, CompanyO=0.4, CompanyC=0.7, CompanyI=0.6, CompanyM=0.4.

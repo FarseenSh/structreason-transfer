@@ -1,0 +1,45 @@
+{
+  "id": "openaq_small_004",
+  "dataset": "OpenAQ",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "PM25_ug_m3",
+    "PM10_ug_m3"
+  ],
+  "data": [
+    {
+      "Entity": "Station_SW4",
+      "PM25_ug_m3": 9.1,
+      "PM10_ug_m3": 79.1
+    },
+    {
+      "Entity": "Station_N6",
+      "PM25_ug_m3": 61.1,
+      "PM10_ug_m3": 73.0
+    },
+    {
+      "Entity": "Station_U20",
+      "PM25_ug_m3": 61.1,
+      "PM10_ug_m3": 68.9
+    },
+    {
+      "Entity": "Station_NW10",
+      "PM25_ug_m3": 35.2,
+      "PM10_ug_m3": 74.0
+    },
+    {
+      "Entity": "Station_E17",
+      "PM25_ug_m3": 34.6,
+      "PM10_ug_m3": 104.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "PM25_ug_m3",
+    "PM10_ug_m3"
+  ]
+}

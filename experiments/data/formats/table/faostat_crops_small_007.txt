@@ -1,0 +1,7 @@
+| Entity | Fertilizer_kg_ha | Area_harvested_kha |
+|---|---|---|
+| USA | 39.7 | 25945.4 |
+| Egypt | 278.6 | 8070.8 |
+| Turkey | 180.2 | 23172.2 |
+| Australia | 189.2 | 5062.8 |
+| India | 359.5 | 7195.2 |

@@ -1,0 +1,5 @@
+The following 5 values represent Vehicles_in_service for each Entity (Line_Purple, Line_Brown, Line_Silver, Bus_505, Bus_202), listed in order:
+[14, 196.8, 135.9, 169.6, 90.4]
+
+The following 5 values represent Avg_trip_minutes for each Entity (Line_Purple, Line_Brown, Line_Silver, Bus_505, Bus_202), listed in order:
+[52.9, 17.4, 16.7, 49.8, 49.9]

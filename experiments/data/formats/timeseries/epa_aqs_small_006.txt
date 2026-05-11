@@ -1,0 +1,5 @@
+The following 5 values represent CO_ppm for each Entity (Station_SW4, Station_NW10, Station_SE3, Station_NE2, Station_SE12), listed in order:
+[2, 3.1, 1.4, 0.2, 1.7]
+
+The following 5 values represent O3_ppb for each Entity (Station_SW4, Station_NW10, Station_SE3, Station_NE2, Station_SE12), listed in order:
+[64.3, 42.5, 30.3, 47.5, 67.7]

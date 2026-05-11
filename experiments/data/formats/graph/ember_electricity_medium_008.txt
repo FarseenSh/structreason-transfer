@@ -1,0 +1,20 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Austria: {Nuclear_GWh=8770.6, Total_GWh=35691.2, Gas_GWh=8431.3, Coal_GWh=531.5}
+  Greece: {Nuclear_GWh=11855.4, Total_GWh=17026.6, Gas_GWh=3050.8, Coal_GWh=662.1}
+  Spain: {Nuclear_GWh=5250.2, Total_GWh=3065.3, Gas_GWh=6449, Coal_GWh=4797.3}
+  Finland: {Nuclear_GWh=3634.8, Total_GWh=26362.4, Gas_GWh=5698.9, Coal_GWh=4433.4}
+  Switzerland: {Nuclear_GWh=10875, Total_GWh=15716.9, Gas_GWh=9264.4, Coal_GWh=4605.6}
+  Denmark: {Nuclear_GWh=11788.1, Total_GWh=15911.4, Gas_GWh=2039.2, Coal_GWh=3815.5}
+  Italy: {Nuclear_GWh=14314.3, Total_GWh=46502.7, Gas_GWh=2284.3, Coal_GWh=5951.8}
+  Czechia: {Nuclear_GWh=2213.8, Total_GWh=9342.5, Gas_GWh=9505, Coal_GWh=7937.9}
+  Poland: {Nuclear_GWh=13339, Total_GWh=46843.2, Gas_GWh=1250.3, Coal_GWh=2242.5}
+  Hungary: {Nuclear_GWh=11476.5, Total_GWh=26182.7, Gas_GWh=6456.4, Coal_GWh=2621.3}
+
+Edges (top 5 by metric similarity):
+  Italy -- Poland (sim=1.00, similar Total_GWh)
+  Greece -- Denmark (sim=0.99, similar Nuclear_GWh)
+  Austria -- Finland (sim=0.98, similar Gas_GWh)
+  Austria -- Hungary (sim=0.98, similar Gas_GWh)
+  Austria -- Poland (sim=0.98, similar Coal_GWh)

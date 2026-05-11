@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Romania: {Unemployment_pct=21.2, Life_expectancy=79.1, GDP_per_capita=69867.7, Govt_expenditure_pct_GDP=32.9}
+  Germany: {Unemployment_pct=17.2, Life_expectancy=79.8, GDP_per_capita=45687, Govt_expenditure_pct_GDP=48.3}
+  Bulgaria: {Unemployment_pct=13, Life_expectancy=75.6, GDP_per_capita=48338, Govt_expenditure_pct_GDP=56.7}
+  Spain: {Unemployment_pct=8, Life_expectancy=74.9, GDP_per_capita=84629.1, Govt_expenditure_pct_GDP=44.4}
+  France: {Unemployment_pct=20, Life_expectancy=75.9, GDP_per_capita=62221.8, Govt_expenditure_pct_GDP=42.1}
+  Switzerland: {Unemployment_pct=7.1, Life_expectancy=73.9, GDP_per_capita=72024.7, Govt_expenditure_pct_GDP=31}
+  Belgium: {Unemployment_pct=8.8, Life_expectancy=82.5, GDP_per_capita=78178.8, Govt_expenditure_pct_GDP=56.9}
+  Netherlands: {Unemployment_pct=20.2, Life_expectancy=75.4, GDP_per_capita=70131.3, Govt_expenditure_pct_GDP=32.9}
+  Ireland: {Unemployment_pct=12.8, Life_expectancy=78.7, GDP_per_capita=27962.6, Govt_expenditure_pct_GDP=31.2}
+  Hungary: {Unemployment_pct=17, Life_expectancy=81.5, GDP_per_capita=54352, Govt_expenditure_pct_GDP=36.9}
+
+Edges (top 5 by metric similarity):
+  Romania -- Netherlands (sim=1.00, similar Govt_expenditure_pct_GDP)
+  Spain -- Switzerland (sim=1.00, similar Unemployment_pct)
+  Switzerland -- Netherlands (sim=1.00, similar Life_expectancy)
+  Romania -- France (sim=1.00, similar Unemployment_pct)
+  Romania -- Switzerland (sim=1.00, similar Govt_expenditure_pct_GDP)

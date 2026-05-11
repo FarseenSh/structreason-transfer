@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_002",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Life_expectancy",
+    "Education_spending_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Sweden",
+      "Life_expectancy": 81.4,
+      "Education_spending_pct": 6.3
+    },
+    {
+      "Entity": "Finland",
+      "Life_expectancy": 80.0,
+      "Education_spending_pct": 4.2
+    },
+    {
+      "Entity": "Portugal",
+      "Life_expectancy": 80.5,
+      "Education_spending_pct": 4.1
+    },
+    {
+      "Entity": "Italy",
+      "Life_expectancy": 81.4,
+      "Education_spending_pct": 6.8
+    },
+    {
+      "Entity": "Greece",
+      "Life_expectancy": 77.5,
+      "Education_spending_pct": 5.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Life_expectancy",
+    "Education_spending_pct"
+  ]
+}

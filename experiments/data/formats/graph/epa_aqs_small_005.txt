@@ -1,0 +1,13 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_S16: {SO2_ppb=7.4, CO_ppm=1.6}
+  Station_C14: {SO2_ppb=9.9, CO_ppm=2.2}
+  Station_SE12: {SO2_ppb=11.1, CO_ppm=2.8}
+  Station_U20: {SO2_ppb=18.9, CO_ppm=1.9}
+  Station_R19: {SO2_ppb=23.2, CO_ppm=2.4}
+
+Edges (top 3 by metric similarity):
+  Station_U20 -- Station_R19 (sim=1.00, similar CO_ppm)
+  Station_S16 -- Station_C14 (sim=1.00, similar CO_ppm)
+  Station_C14 -- Station_SE12 (sim=1.00, similar CO_ppm)

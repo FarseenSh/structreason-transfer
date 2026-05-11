@@ -1,0 +1,5 @@
+The following 5 values represent Accidents_monthly for each Entity (Route_F6, Route_G7, Route_A1, Route_I9, Route_O15), listed in order:
+[34.5, 44.6, 41.9, 23.7, 24.9]
+
+The following 5 values represent Bus_passengers for each Entity (Route_F6, Route_G7, Route_A1, Route_I9, Route_O15), listed in order:
+[16414.5, 38923, 38473.1, 42369.3, 44879.7]

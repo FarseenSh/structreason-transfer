@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Area_harvested_kha: Nigeria=23746.9, Russia=9956.7, France=26246.8, Vietnam=17922.2, Australia=12526.6, China=27647.8, USA=21779, Thailand=18000.8, Germany=27172.2, Ukraine=19296.6.
+Production_Mt: Nigeria=281.9, Russia=246.3, France=110.7, Vietnam=142.2, Australia=287.4, China=269.1, USA=61.4, Thailand=85.9, Germany=112.5, Ukraine=264.6.
+Fertilizer_kg_ha: Nigeria=372.4, Russia=324.9, France=124.8, Vietnam=357.1, Australia=32.5, China=180.7, USA=163.5, Thailand=223.4, Germany=233, Ukraine=105.7.
+Rice_tonnes_ha: Nigeria=3.1, Russia=6.4, France=2.4, Vietnam=4.7, Australia=3.1, China=3.8, USA=3.5, Thailand=5.9, Germany=4.5, Ukraine=3.6.

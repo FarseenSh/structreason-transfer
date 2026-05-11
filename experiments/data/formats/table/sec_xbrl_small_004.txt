@@ -1,0 +1,7 @@
+| Entity | Net_income_M | Revenue_M |
+|---|---|---|
+| CompanyO | 271.9 | 1555.1 |
+| CompanyP | 1188.7 | 1973 |
+| CompanyT | 748.6 | 3829.4 |
+| CompanyR | 633.8 | 2409.8 |
+| CompanyA | 309 | 811.5 |

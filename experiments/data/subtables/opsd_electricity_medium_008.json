@@ -1,0 +1,94 @@
+{
+  "id": "opsd_electricity_medium_008",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Coal_GWh",
+    "Solar_GWh",
+    "Wind_GWh",
+    "Nuclear_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "UK",
+      "Coal_GWh": 1613.5,
+      "Solar_GWh": 3059.8,
+      "Wind_GWh": 7800.2,
+      "Nuclear_GWh": 4629.2
+    },
+    {
+      "Entity": "Belgium",
+      "Coal_GWh": 4261.9,
+      "Solar_GWh": 3072.2,
+      "Wind_GWh": 4888.5,
+      "Nuclear_GWh": 14964.7
+    },
+    {
+      "Entity": "Germany",
+      "Coal_GWh": 2944.7,
+      "Solar_GWh": 5539.6,
+      "Wind_GWh": 251.9,
+      "Nuclear_GWh": 13744.5
+    },
+    {
+      "Entity": "Romania",
+      "Coal_GWh": 3886.2,
+      "Solar_GWh": 3093.2,
+      "Wind_GWh": 5469.7,
+      "Nuclear_GWh": 8779.6
+    },
+    {
+      "Entity": "Finland",
+      "Coal_GWh": 7396.8,
+      "Solar_GWh": 2686.6,
+      "Wind_GWh": 271.5,
+      "Nuclear_GWh": 14504.2
+    },
+    {
+      "Entity": "Poland",
+      "Coal_GWh": 4381.9,
+      "Solar_GWh": 1707.7,
+      "Wind_GWh": 1085.0,
+      "Nuclear_GWh": 13020.3
+    },
+    {
+      "Entity": "Ireland",
+      "Coal_GWh": 3350.2,
+      "Solar_GWh": 3987.0,
+      "Wind_GWh": 5281.2,
+      "Nuclear_GWh": 4783.5
+    },
+    {
+      "Entity": "Netherlands",
+      "Coal_GWh": 7916.0,
+      "Solar_GWh": 3460.9,
+      "Wind_GWh": 1166.7,
+      "Nuclear_GWh": 11243.9
+    },
+    {
+      "Entity": "Sweden",
+      "Coal_GWh": 568.5,
+      "Solar_GWh": 1364.6,
+      "Wind_GWh": 3452.9,
+      "Nuclear_GWh": 2052.5
+    },
+    {
+      "Entity": "Spain",
+      "Coal_GWh": 7460.3,
+      "Solar_GWh": 4285.5,
+      "Wind_GWh": 7934.8,
+      "Nuclear_GWh": 10268.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Coal_GWh",
+    "Solar_GWh",
+    "Wind_GWh",
+    "Nuclear_GWh"
+  ]
+}

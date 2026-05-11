@@ -1,0 +1,12 @@
+| Entity | Production_Mt | Rice_tonnes_ha | Yield_index | Wheat_tonnes_ha |
+|---|---|---|---|---|
+| Pakistan | 106 | 4.5 | 91.1 | 2.7 |
+| Brazil | 299.8 | 2.9 | 161.5 | 4.4 |
+| Turkey | 94.3 | 2.7 | 64.3 | 7.9 |
+| China | 12.8 | 5.2 | 127.1 | 2.6 |
+| Ukraine | 156.3 | 4.8 | 146.6 | 8.1 |
+| Nigeria | 29.7 | 6.1 | 93.6 | 3.2 |
+| Mexico | 85.8 | 6.9 | 163.6 | 4.9 |
+| Canada | 297.8 | 3.4 | 88.8 | 4.1 |
+| France | 212.9 | 7.1 | 160.8 | 2.4 |
+| Bangladesh | 19.9 | 4.8 | 69.4 | 8.6 |

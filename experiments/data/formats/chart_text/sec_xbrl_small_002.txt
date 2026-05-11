@@ -1,0 +1,3 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Operating_margin_pct: CompanyG=4, CompanyA=9.1, CompanyC=34.9, CompanyS=15.8, CompanyB=9.3.
+EPS: CompanyG=-1, CompanyA=9.3, CompanyC=11.5, CompanyS=9, CompanyB=5.5.

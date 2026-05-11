@@ -1,0 +1,5 @@
+The following 5 values represent Nuclear_GWh for each Entity (Switzerland, Poland, Ireland, UK, France), listed in order:
+[12001.9, 6296.1, 2293, 2338, 13827.1]
+
+The following 5 values represent Hydro_GWh for each Entity (Switzerland, Poland, Ireland, UK, France), listed in order:
+[1946.3, 7005.5, 4076, 3747.7, 4994.1]

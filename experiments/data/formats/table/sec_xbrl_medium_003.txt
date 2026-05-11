@@ -1,0 +1,12 @@
+| Entity | Current_ratio | EPS | Net_income_M | Debt_ratio |
+|---|---|---|---|---|
+| CompanyJ | 1.7 | 13.7 | -28.6 | 0.5 |
+| CompanyC | 2.7 | 2 | 912.6 | 0.5 |
+| CompanyR | 1.9 | 21.4 | 430.3 | 0.2 |
+| CompanyE | 3.3 | 9.5 | 524.4 | 0.2 |
+| CompanyM | 3.8 | 2.8 | 373 | 0.5 |
+| CompanyO | 1.4 | 3.3 | 591.4 | 0.3 |
+| CompanyK | 2.3 | 19.2 | 894 | 0.6 |
+| CompanyI | 3 | 23.3 | 719.9 | 0.4 |
+| CompanyB | 1.1 | 8.2 | 79.2 | 0.3 |
+| CompanyQ | 3.3 | 0.1 | 635.2 | 0.6 |

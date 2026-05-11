@@ -1,0 +1,5 @@
+The following 5 values represent CO2_Mt for each Entity (Ireland, Germany, Sweden, Hungary, Austria), listed in order:
+[49.3, 78.9, 52.7, 72, 58.3]
+
+The following 5 values represent Total_GWh for each Entity (Ireland, Germany, Sweden, Hungary, Austria), listed in order:
+[8114.5, 35572.3, 25247.1, 46102.3, 40728.1]

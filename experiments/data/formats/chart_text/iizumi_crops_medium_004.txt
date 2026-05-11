@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Production_Mt: Pakistan=106, Brazil=299.8, Turkey=94.3, China=12.8, Ukraine=156.3, Nigeria=29.7, Mexico=85.8, Canada=297.8, France=212.9, Bangladesh=19.9.
+Rice_tonnes_ha: Pakistan=4.5, Brazil=2.9, Turkey=2.7, China=5.2, Ukraine=4.8, Nigeria=6.1, Mexico=6.9, Canada=3.4, France=7.1, Bangladesh=4.8.
+Yield_index: Pakistan=91.1, Brazil=161.5, Turkey=64.3, China=127.1, Ukraine=146.6, Nigeria=93.6, Mexico=163.6, Canada=88.8, France=160.8, Bangladesh=69.4.
+Wheat_tonnes_ha: Pakistan=2.7, Brazil=4.4, Turkey=7.9, China=2.6, Ukraine=8.1, Nigeria=3.2, Mexico=4.9, Canada=4.1, France=2.4, Bangladesh=8.6.

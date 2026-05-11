@@ -1,0 +1,12 @@
+| Entity | Govt_expenditure_pct_GDP | GDP_per_capita | Life_expectancy | Trust_in_govt_pct |
+|---|---|---|---|---|
+| Denmark | 44.1 | 57808.1 | 77.5 | 74.1 |
+| Hungary | 50.9 | 18815 | 81.4 | 21.8 |
+| Italy | 47.6 | 58141.6 | 79.6 | 45.6 |
+| Greece | 53.8 | 17964.5 | 78.9 | 38.7 |
+| Bulgaria | 34.3 | 76890.2 | 73.7 | 43.3 |
+| Finland | 50.6 | 64670.5 | 83.4 | 19.9 |
+| Netherlands | 35.4 | 27118.9 | 75.6 | 20.9 |
+| Norway | 37.6 | 21420.5 | 78.9 | 30.4 |
+| Poland | 49.9 | 27847.3 | 80.4 | 32.1 |
+| Switzerland | 57.4 | 83601.9 | 79.8 | 40.2 |

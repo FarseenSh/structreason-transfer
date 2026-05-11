@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_001",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Wheat_tonnes_ha",
+    "Area_harvested_kha",
+    "Production_Mt",
+    "Rice_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Bangladesh",
+      "Wheat_tonnes_ha": 5.3,
+      "Area_harvested_kha": 10109.1,
+      "Production_Mt": 188.3,
+      "Rice_tonnes_ha": 5.0
+    },
+    {
+      "Entity": "Canada",
+      "Wheat_tonnes_ha": 6.6,
+      "Area_harvested_kha": 22627.0,
+      "Production_Mt": 203.1,
+      "Rice_tonnes_ha": 5.3
+    },
+    {
+      "Entity": "Vietnam",
+      "Wheat_tonnes_ha": 2.8,
+      "Area_harvested_kha": 34969.7,
+      "Production_Mt": 233.0,
+      "Rice_tonnes_ha": 5.4
+    },
+    {
+      "Entity": "Nigeria",
+      "Wheat_tonnes_ha": 7.6,
+      "Area_harvested_kha": 8911.3,
+      "Production_Mt": 24.8,
+      "Rice_tonnes_ha": 2.2
+    },
+    {
+      "Entity": "China",
+      "Wheat_tonnes_ha": 3.8,
+      "Area_harvested_kha": 16814.2,
+      "Production_Mt": 190.2,
+      "Rice_tonnes_ha": 2.5
+    },
+    {
+      "Entity": "Australia",
+      "Wheat_tonnes_ha": 2.2,
+      "Area_harvested_kha": 31900.7,
+      "Production_Mt": 277.6,
+      "Rice_tonnes_ha": 5.4
+    },
+    {
+      "Entity": "Pakistan",
+      "Wheat_tonnes_ha": 7.2,
+      "Area_harvested_kha": 4056.2,
+      "Production_Mt": 287.1,
+      "Rice_tonnes_ha": 3.7
+    },
+    {
+      "Entity": "Russia",
+      "Wheat_tonnes_ha": 6.8,
+      "Area_harvested_kha": 32524.6,
+      "Production_Mt": 290.7,
+      "Rice_tonnes_ha": 3.7
+    },
+    {
+      "Entity": "France",
+      "Wheat_tonnes_ha": 8.1,
+      "Area_harvested_kha": 17341.4,
+      "Production_Mt": 195.5,
+      "Rice_tonnes_ha": 3.1
+    },
+    {
+      "Entity": "Argentina",
+      "Wheat_tonnes_ha": 8.2,
+      "Area_harvested_kha": 31309.9,
+      "Production_Mt": 191.8,
+      "Rice_tonnes_ha": 6.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Wheat_tonnes_ha",
+    "Area_harvested_kha",
+    "Production_Mt",
+    "Rice_tonnes_ha"
+  ]
+}

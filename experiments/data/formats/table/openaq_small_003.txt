@@ -1,0 +1,7 @@
+| Entity | CO_ppm | AQI |
+|---|---|---|
+| Station_U20 | 3.3 | 148.6 |
+| Station_SW13 | 1.8 | 119.9 |
+| Station_N6 | 2.2 | 177.5 |
+| Station_S16 | 0.6 | 22.6 |
+| Station_W18 | 2.9 | 22.5 |

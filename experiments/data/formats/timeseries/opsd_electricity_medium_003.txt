@@ -1,0 +1,11 @@
+The following 10 values represent CO2_Mt for each Entity (Switzerland, Czechia, Netherlands, Germany, Poland, Finland, Sweden, Ireland, Denmark, Greece), listed in order:
+[19.7, 24.4, 24.8, 4.2, 25.9, 70.4, 73, 9.7, 37.2, 31.1]
+
+The following 10 values represent Nuclear_GWh for each Entity (Switzerland, Czechia, Netherlands, Germany, Poland, Finland, Sweden, Ireland, Denmark, Greece), listed in order:
+[7340.4, 8320.8, 303.9, 12633.6, 14605, 9801.1, 9906.8, 7919.7, 5014.1, 2234.7]
+
+The following 10 values represent Solar_GWh for each Entity (Switzerland, Czechia, Netherlands, Germany, Poland, Finland, Sweden, Ireland, Denmark, Greece), listed in order:
+[3546, 365.2, 4964.6, 2583.4, 2547, 2030.3, 5819.2, 1132, 992.7, 1076.6]
+
+The following 10 values represent Total_GWh for each Entity (Switzerland, Czechia, Netherlands, Germany, Poland, Finland, Sweden, Ireland, Denmark, Greece), listed in order:
+[33609.3, 49611, 13302.8, 45469.6, 15373.6, 33099.2, 3943.9, 25791.4, 33419.4, 27743.3]

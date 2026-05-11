@@ -1,0 +1,13 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_N14: {Peak_hour_flow=26066.9, Daily_vehicles=52765.1}
+  Route_D4: {Peak_hour_flow=14551.1, Daily_vehicles=92887.4}
+  Route_T20: {Peak_hour_flow=9825.6, Daily_vehicles=21783.5}
+  Route_R18: {Peak_hour_flow=25953.3, Daily_vehicles=32126.1}
+  Route_A1: {Peak_hour_flow=12916.9, Daily_vehicles=7796.3}
+
+Edges (top 3 by metric similarity):
+  Route_N14 -- Route_T20 (sim=1.00, similar Peak_hour_flow)
+  Route_N14 -- Route_R18 (sim=0.98, similar Peak_hour_flow)
+  Route_T20 -- Route_R18 (sim=0.97, similar Daily_vehicles)

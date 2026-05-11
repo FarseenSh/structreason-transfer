@@ -1,0 +1,35 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Ferry_A: {Farebox_recovery_pct=64.4, Monthly_riders_k=4027.2, Complaints_per_10k=7.1, Avg_trip_minutes=32.3, Vehicles_in_service=12.1, On_time_pct=82.1, Revenue_k_USD=9845.3}
+  Line_Orange: {Farebox_recovery_pct=26, Monthly_riders_k=1942.4, Complaints_per_10k=6.7, Avg_trip_minutes=16.3, Vehicles_in_service=180, On_time_pct=92.8, Revenue_k_USD=2131.6}
+  Line_Red: {Farebox_recovery_pct=40.6, Monthly_riders_k=2377.5, Complaints_per_10k=11.1, Avg_trip_minutes=23.4, Vehicles_in_service=164.9, On_time_pct=74.5, Revenue_k_USD=1375.9}
+  Line_Pink: {Farebox_recovery_pct=18, Monthly_riders_k=3167.1, Complaints_per_10k=2.9, Avg_trip_minutes=45.6, Vehicles_in_service=107.3, On_time_pct=83.3, Revenue_k_USD=5800.5}
+  Line_Yellow: {Farebox_recovery_pct=54, Monthly_riders_k=3989.4, Complaints_per_10k=9.7, Avg_trip_minutes=48.9, Vehicles_in_service=142.6, On_time_pct=96.4, Revenue_k_USD=3810.4}
+  Ferry_B: {Farebox_recovery_pct=84.6, Monthly_riders_k=3152.6, Complaints_per_10k=4.9, Avg_trip_minutes=32.4, Vehicles_in_service=25.3, On_time_pct=76, Revenue_k_USD=2273.3}
+  Bus_303: {Farebox_recovery_pct=45.1, Monthly_riders_k=3129, Complaints_per_10k=6, Avg_trip_minutes=30.6, Vehicles_in_service=169.8, On_time_pct=79.5, Revenue_k_USD=2277.3}
+  Tram_1: {Farebox_recovery_pct=84.3, Monthly_riders_k=970.1, Complaints_per_10k=10.9, Avg_trip_minutes=43.3, Vehicles_in_service=144.5, On_time_pct=94.3, Revenue_k_USD=3917.5}
+  Bus_505: {Farebox_recovery_pct=23.8, Monthly_riders_k=6931.4, Complaints_per_10k=1.5, Avg_trip_minutes=46.8, Vehicles_in_service=28.4, On_time_pct=76, Revenue_k_USD=8099.1}
+  Bus_404: {Farebox_recovery_pct=42.5, Monthly_riders_k=4892.8, Complaints_per_10k=5.5, Avg_trip_minutes=43.9, Vehicles_in_service=196.2, On_time_pct=77.6, Revenue_k_USD=11395.6}
+  Line_Purple: {Farebox_recovery_pct=78.1, Monthly_riders_k=1211.5, Complaints_per_10k=6.2, Avg_trip_minutes=26.1, Vehicles_in_service=9.4, On_time_pct=75, Revenue_k_USD=12806.4}
+  Line_Brown: {Farebox_recovery_pct=76.4, Monthly_riders_k=3419.8, Complaints_per_10k=10.9, Avg_trip_minutes=38.2, Vehicles_in_service=127.6, On_time_pct=91.7, Revenue_k_USD=11296.1}
+  Line_Gold: {Farebox_recovery_pct=37.7, Monthly_riders_k=3362.9, Complaints_per_10k=3.4, Avg_trip_minutes=48.3, Vehicles_in_service=38.5, On_time_pct=95.7, Revenue_k_USD=9460.4}
+  Tram_3: {Farebox_recovery_pct=62.5, Monthly_riders_k=4824.9, Complaints_per_10k=14.2, Avg_trip_minutes=15.1, Vehicles_in_service=145.3, On_time_pct=85.8, Revenue_k_USD=13623.6}
+  Bus_101: {Farebox_recovery_pct=77, Monthly_riders_k=4890.5, Complaints_per_10k=15, Avg_trip_minutes=26.2, Vehicles_in_service=18.7, On_time_pct=85.6, Revenue_k_USD=7844.1}
+  Tram_2: {Farebox_recovery_pct=68.7, Monthly_riders_k=5179.5, Complaints_per_10k=12.4, Avg_trip_minutes=10.7, Vehicles_in_service=20.8, On_time_pct=77.9, Revenue_k_USD=9537}
+  Line_Green: {Farebox_recovery_pct=59, Monthly_riders_k=5598.3, Complaints_per_10k=4.8, Avg_trip_minutes=27.2, Vehicles_in_service=95.9, On_time_pct=65.4, Revenue_k_USD=6233.1}
+  Bus_202: {Farebox_recovery_pct=25.7, Monthly_riders_k=871.7, Complaints_per_10k=10.1, Avg_trip_minutes=44.3, Vehicles_in_service=198.8, On_time_pct=70.7, Revenue_k_USD=4978}
+  Line_Blue: {Farebox_recovery_pct=20.1, Monthly_riders_k=2474.1, Complaints_per_10k=1.7, Avg_trip_minutes=17.3, Vehicles_in_service=58.9, On_time_pct=69.9, Revenue_k_USD=5042.5}
+  Line_Silver: {Farebox_recovery_pct=58, Monthly_riders_k=187.9, Complaints_per_10k=13.1, Avg_trip_minutes=33.5, Vehicles_in_service=124.4, On_time_pct=68.8, Revenue_k_USD=2309.9}
+
+Edges (top 10 by metric similarity):
+  Line_Gold -- Tram_3 (sim=1.00, similar On_time_pct)
+  Line_Pink -- Tram_2 (sim=1.00, similar On_time_pct)
+  Ferry_A -- Bus_404 (sim=1.00, similar Complaints_per_10k)
+  Bus_505 -- Line_Green (sim=1.00, similar Complaints_per_10k)
+  Ferry_B -- Bus_303 (sim=1.00, similar Complaints_per_10k)
+  Tram_2 -- Line_Blue (sim=1.00, similar Avg_trip_minutes)
+  Line_Pink -- Line_Blue (sim=1.00, similar Complaints_per_10k)
+  Line_Brown -- Tram_3 (sim=1.00, similar Complaints_per_10k)
+  Ferry_A -- Line_Gold (sim=1.00, similar Complaints_per_10k)
+  Line_Brown -- Line_Gold (sim=1.00, similar On_time_pct)

@@ -1,0 +1,35 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyC: {Net_income_M=1361.7, Current_ratio=2.4, Debt_ratio=0.2, Total_assets_M=22076.4, ROE_pct=-1.2, Operating_margin_pct=7.5, Revenue_M=1551.3}
+  CompanyG: {Net_income_M=479.3, Current_ratio=2.7, Debt_ratio=0.5, Total_assets_M=24415, ROE_pct=17.3, Operating_margin_pct=1.2, Revenue_M=4951.3}
+  CompanyF: {Net_income_M=906.1, Current_ratio=3.5, Debt_ratio=0.8, Total_assets_M=11271.4, ROE_pct=31.9, Operating_margin_pct=11.6, Revenue_M=2431.5}
+  CompanyE: {Net_income_M=721.4, Current_ratio=2.4, Debt_ratio=0.8, Total_assets_M=49419.6, ROE_pct=10.1, Operating_margin_pct=26.6, Revenue_M=1626.1}
+  CompanyK: {Net_income_M=1312.6, Current_ratio=0.8, Debt_ratio=0.7, Total_assets_M=44639.2, ROE_pct=8, Operating_margin_pct=26.1, Revenue_M=3190.1}
+  CompanyH: {Net_income_M=1215.1, Current_ratio=3.7, Debt_ratio=0.1, Total_assets_M=30092.7, ROE_pct=24, Operating_margin_pct=9.3, Revenue_M=2506.7}
+  CompanyL: {Net_income_M=138.9, Current_ratio=2.5, Debt_ratio=0.8, Total_assets_M=48035.9, ROE_pct=-5.6, Operating_margin_pct=17.9, Revenue_M=4789.4}
+  CompanyM: {Net_income_M=951.8, Current_ratio=1.5, Debt_ratio=0.4, Total_assets_M=34412.5, ROE_pct=7.8, Operating_margin_pct=4.8, Revenue_M=461.8}
+  CompanyB: {Net_income_M=1240.8, Current_ratio=3.6, Debt_ratio=0.7, Total_assets_M=47963.5, ROE_pct=-2.5, Operating_margin_pct=17.6, Revenue_M=3963.2}
+  CompanyR: {Net_income_M=1381.4, Current_ratio=0.9, Debt_ratio=0.7, Total_assets_M=8244.5, ROE_pct=24.1, Operating_margin_pct=18, Revenue_M=1431.5}
+  CompanyT: {Net_income_M=802.9, Current_ratio=0.8, Debt_ratio=0.2, Total_assets_M=11427.8, ROE_pct=-8.3, Operating_margin_pct=8.6, Revenue_M=4043}
+  CompanyS: {Net_income_M=99, Current_ratio=2.4, Debt_ratio=0.5, Total_assets_M=44282.1, ROE_pct=11.9, Operating_margin_pct=6.7, Revenue_M=4246.2}
+  CompanyI: {Net_income_M=749, Current_ratio=2.7, Debt_ratio=0.8, Total_assets_M=21109.7, ROE_pct=20.8, Operating_margin_pct=39.1, Revenue_M=4253.7}
+  CompanyJ: {Net_income_M=931.9, Current_ratio=2.3, Debt_ratio=0.3, Total_assets_M=18683.7, ROE_pct=35, Operating_margin_pct=19.2, Revenue_M=4340.1}
+  CompanyD: {Net_income_M=263.2, Current_ratio=3.8, Debt_ratio=0.7, Total_assets_M=37765.9, ROE_pct=28.5, Operating_margin_pct=20.3, Revenue_M=3604.7}
+  CompanyN: {Net_income_M=1454.1, Current_ratio=1.4, Debt_ratio=0.9, Total_assets_M=31590.2, ROE_pct=41.6, Operating_margin_pct=-4.6, Revenue_M=754.9}
+  CompanyA: {Net_income_M=189.9, Current_ratio=4, Debt_ratio=0.4, Total_assets_M=17334.8, ROE_pct=25.8, Operating_margin_pct=3.2, Revenue_M=306.9}
+  CompanyP: {Net_income_M=1349.3, Current_ratio=0.6, Debt_ratio=0.4, Total_assets_M=20013.5, ROE_pct=6, Operating_margin_pct=11, Revenue_M=1736.8}
+  CompanyQ: {Net_income_M=522.8, Current_ratio=0.9, Debt_ratio=0.5, Total_assets_M=20537.5, ROE_pct=-1.1, Operating_margin_pct=38.5, Revenue_M=2500.6}
+  CompanyO: {Net_income_M=-199.1, Current_ratio=1.1, Debt_ratio=0.7, Total_assets_M=6491.3, ROE_pct=-11.6, Operating_margin_pct=2.9, Revenue_M=1548}
+
+Edges (top 10 by metric similarity):
+  CompanyL -- CompanyS (sim=1.00, similar Current_ratio)
+  CompanyS -- CompanyD (sim=1.00, similar Debt_ratio)
+  CompanyL -- CompanyD (sim=1.00, similar Debt_ratio)
+  CompanyK -- CompanyB (sim=1.00, similar Debt_ratio)
+  CompanyH -- CompanyB (sim=1.00, similar Current_ratio)
+  CompanyE -- CompanyA (sim=1.00, similar Debt_ratio)
+  CompanyG -- CompanyI (sim=1.00, similar Current_ratio)
+  CompanyK -- CompanyH (sim=1.00, similar Debt_ratio)
+  CompanyM -- CompanyA (sim=1.00, similar Debt_ratio)
+  CompanyC -- CompanyP (sim=1.00, similar Debt_ratio)

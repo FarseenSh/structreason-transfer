@@ -1,0 +1,20 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Brazil: {Area_harvested_kha=22447.9, Wheat_tonnes_ha=4.6, Maize_tonnes_ha=5.3, Yield_index=65.2}
+  Bangladesh: {Area_harvested_kha=34426.6, Wheat_tonnes_ha=3, Maize_tonnes_ha=4.2, Yield_index=137.8}
+  USA: {Area_harvested_kha=31404.9, Wheat_tonnes_ha=8.7, Maize_tonnes_ha=3.1, Yield_index=127.6}
+  Argentina: {Area_harvested_kha=24722.6, Wheat_tonnes_ha=9, Maize_tonnes_ha=4.2, Yield_index=141.7}
+  Australia: {Area_harvested_kha=34675.6, Wheat_tonnes_ha=4.3, Maize_tonnes_ha=11.1, Yield_index=128.1}
+  Germany: {Area_harvested_kha=25437.6, Wheat_tonnes_ha=6.8, Maize_tonnes_ha=2.9, Yield_index=112.5}
+  Thailand: {Area_harvested_kha=12204.2, Wheat_tonnes_ha=4.6, Maize_tonnes_ha=5.2, Yield_index=102}
+  Indonesia: {Area_harvested_kha=21242, Wheat_tonnes_ha=2.5, Maize_tonnes_ha=7.3, Yield_index=87.2}
+  Egypt: {Area_harvested_kha=3251.9, Wheat_tonnes_ha=4, Maize_tonnes_ha=5.5, Yield_index=120}
+  France: {Area_harvested_kha=8148, Wheat_tonnes_ha=3.3, Maize_tonnes_ha=7.2, Yield_index=63.1}
+
+Edges (top 5 by metric similarity):
+  Bangladesh -- USA (sim=1.00, similar Maize_tonnes_ha)
+  Bangladesh -- Indonesia (sim=1.00, similar Wheat_tonnes_ha)
+  USA -- Indonesia (sim=1.00, similar Maize_tonnes_ha)
+  USA -- Germany (sim=1.00, similar Maize_tonnes_ha)
+  Bangladesh -- Australia (sim=1.00, similar Wheat_tonnes_ha)

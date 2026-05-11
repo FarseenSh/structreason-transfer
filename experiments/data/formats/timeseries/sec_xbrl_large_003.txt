@@ -1,0 +1,20 @@
+The following 20 values represent ROE_pct for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[29.3, -2.2, -1.6, 5.4, 12.8, 15.8, 24.9, 20.3, 13.9, 8.6, 0.9, 27.6, 4.1, 36, 20.2, 23, 15.5, 40.7, 10.3, 10.6]
+
+The following 20 values represent Net_income_M for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[1318.1, 828.3, 563.6, 245.7, 216.6, 1162.4, 275.1, -190.2, -166.9, 1463.3, 751.7, 631.3, 1360.4, 397.9, 1151.5, 1027.1, 611.1, 1116.9, 1441.8, 141]
+
+The following 20 values represent Total_assets_M for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[1072, 41108.4, 20298.6, 27311.2, 11278.6, 42121.1, 36116.1, 47677.7, 23867.5, 48832.9, 25640.6, 31146.8, 33771.5, 24590.6, 28226.5, 11320.7, 18245.7, 35159.3, 2141.7, 35080.6]
+
+The following 20 values represent Operating_margin_pct for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[8.7, 7.2, 26.2, 4.7, 38.3, 39.6, 15.6, 13.1, -1.4, 30, 2.3, 37, 39.6, 0.5, 25.7, 16, 19.4, 3.1, 27.6, 2.5]
+
+The following 20 values represent Revenue_M for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[4432.2, 2297.2, 3192.6, 4612.9, 3702.8, 2727.2, 2043.3, 2337.6, 1741.3, 4733.6, 1301.6, 2076.3, 3902.2, 1853.5, 4438.7, 1253.2, 205.2, 3162.3, 2565.9, 4668.6]
+
+The following 20 values represent EPS for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[9.4, 1.7, 6.9, 8.6, 13.7, 5.4, 12.9, 22.5, 9.4, 15.6, 4.2, 19.6, 5.3, 13.7, 6.1, -0.2, 6.6, 3.7, 22.1, 5.2]
+
+The following 20 values represent Debt_ratio for each Entity (CompanyG, CompanyB, CompanyP, CompanyH, CompanyE, CompanyN, CompanyS, CompanyJ, CompanyK, CompanyQ, CompanyT, CompanyR, CompanyL, CompanyA, CompanyO, CompanyF, CompanyC, CompanyI, CompanyD, CompanyM), listed in order:
+[0.9, 0.5, 0.3, 0.4, 0.2, 0.8, 0.2, 0.8, 0.1, 0.3, 0.2, 0.6, 0.5, 0.9, 0.4, 0.1, 0.7, 0.6, 0.8, 0.4]

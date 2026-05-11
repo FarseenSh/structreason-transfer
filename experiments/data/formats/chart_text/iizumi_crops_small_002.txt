@@ -1,0 +1,3 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Fertilizer_kg_ha: India=189.1, Indonesia=91.9, Nigeria=79.5, USA=56.4, China=263.3.
+Maize_tonnes_ha: India=8.1, Indonesia=8.5, Nigeria=9.7, USA=5.3, China=11.2.

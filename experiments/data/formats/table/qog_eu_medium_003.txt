@@ -1,0 +1,12 @@
+| Entity | GDP_per_capita | Trust_in_govt_pct | Govt_expenditure_pct_GDP | Education_spending_pct |
+|---|---|---|---|---|
+| Greece | 26032.8 | 36.8 | 30.3 | 8.5 |
+| Austria | 25344.8 | 77.1 | 42.7 | 7.9 |
+| Germany | 80528.9 | 59.4 | 53.1 | 4.9 |
+| Poland | 45653.3 | 74.8 | 38.3 | 7.7 |
+| Sweden | 41832.4 | 19.8 | 42.8 | 4 |
+| Belgium | 66078 | 68.1 | 42.4 | 8.5 |
+| Denmark | 53709.5 | 54 | 38.5 | 6.8 |
+| Czechia | 80529.8 | 20 | 55.7 | 6.8 |
+| Switzerland | 69621.1 | 50.8 | 51.9 | 4 |
+| Spain | 48555.9 | 57.3 | 33.1 | 8 |

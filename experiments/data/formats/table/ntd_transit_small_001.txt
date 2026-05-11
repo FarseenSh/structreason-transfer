@@ -1,0 +1,7 @@
+| Entity | Operating_cost_k | Monthly_riders_k |
+|---|---|---|
+| Line_Orange | 200.3 | 5320.9 |
+| Line_Gold | 1377 | 5673.7 |
+| Tram_3 | 14029.6 | 5929.7 |
+| Line_Red | 16097.4 | 5808.8 |
+| Line_Brown | 14410.5 | 5917.2 |

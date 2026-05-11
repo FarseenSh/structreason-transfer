@@ -1,0 +1,7 @@
+| Entity | SO2_ppb | CO_ppm |
+|---|---|---|
+| Station_S16 | 7.4 | 1.6 |
+| Station_C14 | 9.9 | 2.2 |
+| Station_SE12 | 11.1 | 2.8 |
+| Station_U20 | 18.9 | 1.9 |
+| Station_R19 | 23.2 | 2.4 |

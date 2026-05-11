@@ -1,0 +1,5 @@
+The following 5 values represent Production_Mt for each Entity (Vietnam, China, Ukraine, Bangladesh, Mexico), listed in order:
+[250.5, 254.2, 191.2, 163.8, 274.6]
+
+The following 5 values represent Fertilizer_kg_ha for each Entity (Vietnam, China, Ukraine, Bangladesh, Mexico), listed in order:
+[324.5, 355.3, 398.4, 173.3, 292.4]

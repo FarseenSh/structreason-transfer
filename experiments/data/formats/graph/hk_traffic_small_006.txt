@@ -1,0 +1,13 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_Q17: {Road_condition_score=69.2, Transit_ridership=165662.9}
+  Route_H8: {Road_condition_score=48.8, Transit_ridership=55060.7}
+  Route_I9: {Road_condition_score=60.4, Transit_ridership=194105.5}
+  Route_S19: {Road_condition_score=72.8, Transit_ridership=158020.8}
+  Route_A1: {Road_condition_score=64, Transit_ridership=193680.6}
+
+Edges (top 3 by metric similarity):
+  Route_I9 -- Route_A1 (sim=1.00, similar Road_condition_score)
+  Route_Q17 -- Route_S19 (sim=1.00, similar Road_condition_score)
+  Route_Q17 -- Route_A1 (sim=1.00, similar Road_condition_score)

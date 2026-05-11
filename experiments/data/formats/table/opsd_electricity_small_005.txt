@@ -1,0 +1,7 @@
+| Entity | CO2_Mt | Total_GWh |
+|---|---|---|
+| Ireland | 49.3 | 8114.5 |
+| Germany | 78.9 | 35572.3 |
+| Sweden | 52.7 | 25247.1 |
+| Hungary | 72 | 46102.3 |
+| Austria | 58.3 | 40728.1 |

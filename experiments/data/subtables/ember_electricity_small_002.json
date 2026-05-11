@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_002",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Total_GWh",
+    "CO2_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "UK",
+      "Total_GWh": 24022.4,
+      "CO2_Mt": 14.4
+    },
+    {
+      "Entity": "Greece",
+      "Total_GWh": 11702.5,
+      "CO2_Mt": 4.7
+    },
+    {
+      "Entity": "Portugal",
+      "Total_GWh": 36626.8,
+      "CO2_Mt": 12.3
+    },
+    {
+      "Entity": "Ireland",
+      "Total_GWh": 6944.3,
+      "CO2_Mt": 69.7
+    },
+    {
+      "Entity": "Czechia",
+      "Total_GWh": 26348.1,
+      "CO2_Mt": 14.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Total_GWh",
+    "CO2_Mt"
+  ]
+}

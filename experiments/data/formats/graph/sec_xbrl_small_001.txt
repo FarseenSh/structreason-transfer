@@ -1,0 +1,13 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyS: {EPS=0.7, Operating_margin_pct=23}
+  CompanyB: {EPS=12.4, Operating_margin_pct=-3.2}
+  CompanyG: {EPS=16.2, Operating_margin_pct=14.5}
+  CompanyR: {EPS=6.6, Operating_margin_pct=32.1}
+  CompanyF: {EPS=-1.8, Operating_margin_pct=39.9}
+
+Edges (top 3 by metric similarity):
+  CompanyS -- CompanyF (sim=1.00, similar EPS)
+  CompanyS -- CompanyR (sim=0.99, similar EPS)
+  CompanyR -- CompanyF (sim=0.97, similar Operating_margin_pct)

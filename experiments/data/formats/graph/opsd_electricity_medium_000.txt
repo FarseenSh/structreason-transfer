@@ -1,0 +1,20 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  UK: {Solar_GWh=2107.5, Nuclear_GWh=14387.6, Gas_GWh=9983.1, Total_GWh=2352.7}
+  Hungary: {Solar_GWh=984, Nuclear_GWh=13315.2, Gas_GWh=4941.6, Total_GWh=19057.5}
+  Czechia: {Solar_GWh=1201.9, Nuclear_GWh=4247, Gas_GWh=8127.2, Total_GWh=31544.8}
+  Austria: {Solar_GWh=3231.5, Nuclear_GWh=12254.2, Gas_GWh=8666, Total_GWh=8228.3}
+  Norway: {Solar_GWh=5092.5, Nuclear_GWh=10288, Gas_GWh=2352.5, Total_GWh=45037.1}
+  Germany: {Solar_GWh=516.8, Nuclear_GWh=7677.3, Gas_GWh=708, Total_GWh=9501.2}
+  Italy: {Solar_GWh=279.8, Nuclear_GWh=6343.7, Gas_GWh=4226.1, Total_GWh=45670.1}
+  Belgium: {Solar_GWh=2844.5, Nuclear_GWh=12232.5, Gas_GWh=8610.3, Total_GWh=12386.7}
+  Romania: {Solar_GWh=5741.5, Nuclear_GWh=11896.2, Gas_GWh=3104.3, Total_GWh=49725.4}
+  Netherlands: {Solar_GWh=1746.2, Nuclear_GWh=11354, Gas_GWh=7090.1, Total_GWh=31027.9}
+
+Edges (top 5 by metric similarity):
+  Norway -- Romania (sim=1.00, similar Solar_GWh)
+  Norway -- Italy (sim=0.99, similar Total_GWh)
+  Italy -- Romania (sim=0.99, similar Gas_GWh)
+  Czechia -- Italy (sim=0.99, similar Solar_GWh)
+  Hungary -- Germany (sim=0.99, similar Solar_GWh)

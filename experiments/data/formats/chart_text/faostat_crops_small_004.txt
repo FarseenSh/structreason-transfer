@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Yield_index: Bangladesh=81.5, Indonesia=175.9, Russia=83.4, Vietnam=87.9, Egypt=134.2.
+Production_Mt: Bangladesh=27.8, Indonesia=15, Russia=23.9, Vietnam=41.4, Egypt=131.6.

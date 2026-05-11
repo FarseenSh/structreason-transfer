@@ -1,0 +1,5 @@
+The following 5 values represent Monthly_riders_k for each Entity (Bus_101, Tram_2, Line_Silver, Line_Gold, Bus_202), listed in order:
+[837.8, 5475.6, 5049.5, 6482.1, 5228.5]
+
+The following 5 values represent Farebox_recovery_pct for each Entity (Bus_101, Tram_2, Line_Silver, Line_Gold, Bus_202), listed in order:
+[68.9, 44.5, 49.2, 64.1, 54.8]

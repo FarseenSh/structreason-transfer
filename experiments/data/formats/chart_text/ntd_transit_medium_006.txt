@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Revenue_k_USD: Line_Blue=12549.4, Line_Yellow=6429.3, Bus_303=4762.2, Bus_202=4051.5, Line_Red=2765.2, Line_Green=9707.1, Bus_505=12610.9.
+Operating_cost_k: Line_Blue=9803, Line_Yellow=18610.1, Bus_303=3868.7, Bus_202=13786.1, Line_Red=16501.4, Line_Green=12787.3, Bus_505=5132.6.
+Farebox_recovery_pct: Line_Blue=45.1, Line_Yellow=71.1, Bus_303=17.3, Bus_202=36.2, Line_Red=56, Line_Green=25.5, Bus_505=77.
+On_time_pct: Line_Blue=80.7, Line_Yellow=89.6, Bus_303=80.3, Bus_202=85.5, Line_Red=73.2, Line_Green=97.6, Bus_505=89.3.

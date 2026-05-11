@@ -1,0 +1,3 @@
+Bar chart: "Ember Monthly Elec — Energy".
+CO2_Mt: Netherlands=79.2, Sweden=71.9, Portugal=74.1, Austria=17.9, Spain=43.8.
+Total_GWh: Netherlands=13271.9, Sweden=45172.4, Portugal=11175.4, Austria=9390, Spain=2583.8.

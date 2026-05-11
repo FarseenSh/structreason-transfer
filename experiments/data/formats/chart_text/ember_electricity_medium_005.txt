@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Solar_GWh: UK=1597.6, Ireland=4012.8, France=1463, Poland=3973.3, Czechia=3128, Denmark=999.5, Germany=1624.5, Hungary=3178.2, Spain=4425.3, Finland=2449.7.
+Gas_GWh: UK=2558.5, Ireland=3162.3, France=1222.6, Poland=544, Czechia=9739.4, Denmark=1235.2, Germany=1511.4, Hungary=8748.4, Spain=6736, Finland=4529.9.
+Wind_GWh: UK=7858.5, Ireland=11232.8, France=1372.7, Poland=3075.8, Czechia=10351.5, Denmark=9411.5, Germany=11932.2, Hungary=3904.1, Spain=11349.7, Finland=4255.5.
+Total_GWh: UK=36324.5, Ireland=44371.7, France=10197.5, Poland=11870.7, Czechia=29886, Denmark=42503.6, Germany=5789.6, Hungary=42842.3, Spain=18469.8, Finland=21498.9.

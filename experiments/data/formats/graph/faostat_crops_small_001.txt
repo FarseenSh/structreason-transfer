@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Vietnam: {Production_Mt=250.5, Fertilizer_kg_ha=324.5}
+  China: {Production_Mt=254.2, Fertilizer_kg_ha=355.3}
+  Ukraine: {Production_Mt=191.2, Fertilizer_kg_ha=398.4}
+  Bangladesh: {Production_Mt=163.8, Fertilizer_kg_ha=173.3}
+  Mexico: {Production_Mt=274.6, Fertilizer_kg_ha=292.4}
+
+Edges (top 3 by metric similarity):
+  Bangladesh -- Mexico (sim=1.00, similar Production_Mt)
+  Vietnam -- China (sim=1.00, similar Production_Mt)
+  Vietnam -- Mexico (sim=1.00, similar Production_Mt)

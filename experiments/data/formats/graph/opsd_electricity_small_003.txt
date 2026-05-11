@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Austria: {Nuclear_GWh=305.5, CO2_Mt=31.8}
+  UK: {Nuclear_GWh=7545.7, CO2_Mt=42.8}
+  Germany: {Nuclear_GWh=12839.6, CO2_Mt=3.6}
+  Denmark: {Nuclear_GWh=10639.1, CO2_Mt=31.3}
+  Switzerland: {Nuclear_GWh=11935.6, CO2_Mt=38.5}
+
+Edges (top 3 by metric similarity):
+  Denmark -- Switzerland (sim=1.00, similar CO2_Mt)
+  UK -- Switzerland (sim=1.00, similar CO2_Mt)
+  Germany -- Denmark (sim=1.00, similar CO2_Mt)

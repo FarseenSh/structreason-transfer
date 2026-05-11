@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  India: {Fertilizer_kg_ha=189.1, Maize_tonnes_ha=8.1}
+  Indonesia: {Fertilizer_kg_ha=91.9, Maize_tonnes_ha=8.5}
+  Nigeria: {Fertilizer_kg_ha=79.5, Maize_tonnes_ha=9.7}
+  USA: {Fertilizer_kg_ha=56.4, Maize_tonnes_ha=5.3}
+  China: {Fertilizer_kg_ha=263.3, Maize_tonnes_ha=11.2}
+
+Edges (top 3 by metric similarity):
+  India -- China (sim=1.00, similar Maize_tonnes_ha)
+  Indonesia -- USA (sim=1.00, similar Maize_tonnes_ha)
+  Nigeria -- USA (sim=1.00, similar Maize_tonnes_ha)

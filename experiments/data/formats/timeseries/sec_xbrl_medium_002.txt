@@ -1,0 +1,11 @@
+The following 10 values represent Net_income_M for each Entity (CompanyO, CompanyF, CompanyH, CompanyQ, CompanyL, CompanyE, CompanyK, CompanyP, CompanyC, CompanyR), listed in order:
+[984.1, 586.4, 970.7, 928.1, -188.6, 987.7, 245.7, 721.1, -10.7, -160.9]
+
+The following 10 values represent Debt_ratio for each Entity (CompanyO, CompanyF, CompanyH, CompanyQ, CompanyL, CompanyE, CompanyK, CompanyP, CompanyC, CompanyR), listed in order:
+[0.1, 0.2, 0.1, 0.2, 0.5, 0.4, 0.9, 0.7, 0.2, 0.4]
+
+The following 10 values represent Total_assets_M for each Entity (CompanyO, CompanyF, CompanyH, CompanyQ, CompanyL, CompanyE, CompanyK, CompanyP, CompanyC, CompanyR), listed in order:
+[21662.3, 18233.4, 24880.4, 33559.8, 32116.3, 17983.5, 35311.3, 14616.4, 41806.3, 48225.7]
+
+The following 10 values represent ROE_pct for each Entity (CompanyO, CompanyF, CompanyH, CompanyQ, CompanyL, CompanyE, CompanyK, CompanyP, CompanyC, CompanyR), listed in order:
+[2.7, 32.1, 33.8, 14.4, -9.7, 32.2, 9.4, -2.5, 22.6, 11.2]

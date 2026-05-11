@@ -1,0 +1,11 @@
+The following 10 values represent Rice_tonnes_ha for each Entity (Ukraine, Canada, France, Australia, Nigeria, India, China, Bangladesh, Germany, Turkey), listed in order:
+[4.8, 4.1, 4.2, 5, 4, 6, 4.1, 4.1, 5.4, 2.3]
+
+The following 10 values represent Soybean_tonnes_ha for each Entity (Ukraine, Canada, France, Australia, Nigeria, India, China, Bangladesh, Germany, Turkey), listed in order:
+[3, 2.5, 2.4, 3.2, 3.3, 3.5, 2.1, 2, 3.1, 2.7]
+
+The following 10 values represent Area_harvested_kha for each Entity (Ukraine, Canada, France, Australia, Nigeria, India, China, Bangladesh, Germany, Turkey), listed in order:
+[22297.2, 19665.5, 27157.9, 7056.4, 19672.1, 5954.5, 14550.2, 23407.8, 17511, 13595.9]
+
+The following 10 values represent Fertilizer_kg_ha for each Entity (Ukraine, Canada, France, Australia, Nigeria, India, China, Bangladesh, Germany, Turkey), listed in order:
+[356.3, 313.7, 220, 381, 181.3, 319.5, 83.8, 128.6, 148.5, 60.2]

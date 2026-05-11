@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Wind_GWh: Portugal=2202.4, Finland=8738.4, Belgium=2503.9, Romania=10776.2, Hungary=509.3, Italy=6359.6, Germany=3977.2, Switzerland=2855.9, Austria=5764.9, Greece=10135.8.
+Hydro_GWh: Portugal=7330.7, Finland=2495.7, Belgium=1318.5, Romania=5789.1, Hungary=4697.8, Italy=1688, Germany=6106.3, Switzerland=4199.6, Austria=5261.8, Greece=2938.8.
+Gas_GWh: Portugal=4559.2, Finland=2049.3, Belgium=7638.2, Romania=1823, Hungary=7849.5, Italy=8040.7, Germany=7542, Switzerland=488.4, Austria=2949.4, Greece=4842.9.
+CO2_Mt: Portugal=48, Finland=73.6, Belgium=30.7, Romania=70.1, Hungary=13.9, Italy=30.3, Germany=5.1, Switzerland=59.7, Austria=12.9, Greece=21.3.

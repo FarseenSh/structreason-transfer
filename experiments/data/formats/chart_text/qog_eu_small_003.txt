@@ -1,0 +1,3 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+GDP_per_capita: Denmark=74738.2, Sweden=31375.8, Greece=19081.2, Poland=34696.9, Ireland=35551.6.
+Govt_expenditure_pct_GDP: Denmark=48.5, Sweden=45.6, Greece=51.9, Poland=48.6, Ireland=41.4.

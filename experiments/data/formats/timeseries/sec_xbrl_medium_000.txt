@@ -1,0 +1,11 @@
+The following 10 values represent Debt_ratio for each Entity (CompanyH, CompanyT, CompanyN, CompanyQ, CompanyC, CompanyM, CompanyI, CompanyG, CompanyO, CompanyR), listed in order:
+[0.3, 0.7, 0.7, 0.9, 0.3, 0.8, 0.2, 0.2, 0.7, 0.5]
+
+The following 10 values represent Net_income_M for each Entity (CompanyH, CompanyT, CompanyN, CompanyQ, CompanyC, CompanyM, CompanyI, CompanyG, CompanyO, CompanyR), listed in order:
+[1149.7, 280.4, 162.4, 733, -4, 273.9, 82.6, 344.1, 1101.3, 5.3]
+
+The following 10 values represent Operating_margin_pct for each Entity (CompanyH, CompanyT, CompanyN, CompanyQ, CompanyC, CompanyM, CompanyI, CompanyG, CompanyO, CompanyR), listed in order:
+[22.5, 21.3, 19.2, 16.8, 24.9, 33.3, 2.3, 31.6, -2.2, 16.7]
+
+The following 10 values represent ROE_pct for each Entity (CompanyH, CompanyT, CompanyN, CompanyQ, CompanyC, CompanyM, CompanyI, CompanyG, CompanyO, CompanyR), listed in order:
+[15.7, -3.1, -9.6, -10.5, -12.8, 19.4, -5.7, 33.5, 38.9, 2.5]

@@ -1,0 +1,3 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Yield_index: Indonesia=142.7, Pakistan=127.4, Vietnam=100.9, Nigeria=128.5, Turkey=167.
+Rice_tonnes_ha: Indonesia=5.6, Pakistan=5.3, Vietnam=4.5, Nigeria=3.9, Turkey=5.8.

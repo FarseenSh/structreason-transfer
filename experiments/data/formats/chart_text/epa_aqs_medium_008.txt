@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+SO2_ppb: Station_E8=20.1, Station_SW4=24.4, Station_NW1=4.6, Station_R19=4.2, Station_C14=14.1, Station_S16=5.4, Station_S7=24.
+O3_ppb: Station_E8=32.7, Station_SW4=29.5, Station_NW1=42.1, Station_R19=74.7, Station_C14=19.7, Station_S16=48.1, Station_S7=43.4.
+PM10_ug_m3: Station_E8=53.2, Station_SW4=80.6, Station_NW1=106, Station_R19=9.8, Station_C14=10.5, Station_S16=42.1, Station_S7=85.3.
+PM25_ug_m3: Station_E8=13.7, Station_SW4=33.4, Station_NW1=61.1, Station_R19=42.3, Station_C14=34, Station_S16=12.5, Station_S7=40.1.

@@ -1,0 +1,11 @@
+The following 10 values represent Production_Mt for each Entity (France, Bangladesh, Thailand, Vietnam, Argentina, Indonesia, Brazil, Pakistan, Turkey, China), listed in order:
+[96.9, 199.9, 296.8, 202.5, 159.9, 158.7, 116.2, 181.9, 287.8, 237.5]
+
+The following 10 values represent Maize_tonnes_ha for each Entity (France, Bangladesh, Thailand, Vietnam, Argentina, Indonesia, Brazil, Pakistan, Turkey, China), listed in order:
+[6.2, 5.3, 10.8, 3.4, 10.5, 4.6, 9.2, 10.1, 6.8, 3.9]
+
+The following 10 values represent Yield_index for each Entity (France, Bangladesh, Thailand, Vietnam, Argentina, Indonesia, Brazil, Pakistan, Turkey, China), listed in order:
+[161.4, 104.1, 98.5, 121.2, 112.2, 142, 76.5, 112.3, 167, 64.3]
+
+The following 10 values represent Wheat_tonnes_ha for each Entity (France, Bangladesh, Thailand, Vietnam, Argentina, Indonesia, Brazil, Pakistan, Turkey, China), listed in order:
+[4.9, 6.5, 8.2, 6, 7.7, 3.2, 4.1, 8.6, 8.1, 5.7]

@@ -1,0 +1,5 @@
+The following 5 values represent Area_harvested_kha for each Entity (Mexico, Argentina, Bangladesh, Germany, China), listed in order:
+[22523, 5316.3, 19573.7, 7323, 29643.2]
+
+The following 5 values represent Wheat_tonnes_ha for each Entity (Mexico, Argentina, Bangladesh, Germany, China), listed in order:
+[7.8, 4.7, 8.8, 8.8, 2.5]

@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Romania: {Coal_GWh=7082.6, Nuclear_GWh=1587.2}
+  Spain: {Coal_GWh=1441.3, Nuclear_GWh=9216.4}
+  France: {Coal_GWh=863.8, Nuclear_GWh=11192.7}
+  UK: {Coal_GWh=1680.2, Nuclear_GWh=11266.2}
+  Denmark: {Coal_GWh=6459.5, Nuclear_GWh=2850.9}
+
+Edges (top 3 by metric similarity):
+  Spain -- UK (sim=1.00, similar Coal_GWh)
+  France -- UK (sim=1.00, similar Nuclear_GWh)
+  Spain -- France (sim=1.00, similar Coal_GWh)

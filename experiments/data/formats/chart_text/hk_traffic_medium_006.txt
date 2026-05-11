@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Bus_passengers: Route_O15=21149, Route_G7=33702.4, Route_F6=37919.6, Route_N14=2547.5, Route_B2=31095.7, Route_L12=12395.1, Route_E5=18209.9.
+Road_condition_score: Route_O15=91.4, Route_G7=87.5, Route_F6=84.8, Route_N14=55.7, Route_B2=51.5, Route_L12=89.9, Route_E5=92.3.
+Daily_vehicles: Route_O15=83972.9, Route_G7=91363.7, Route_F6=88864.2, Route_N14=56409.2, Route_B2=55433.7, Route_L12=35834.2, Route_E5=26718.3.
+Avg_speed_kmh: Route_O15=20.4, Route_G7=47.3, Route_F6=56, Route_N14=48.9, Route_B2=45.2, Route_L12=28.6, Route_E5=27.9.

@@ -1,0 +1,5 @@
+The following 5 values represent Total_GWh for each Entity (Switzerland, Greece, Austria, Poland, France), listed in order:
+[14858, 30296.3, 43528.8, 17263.3, 25210.4]
+
+The following 5 values represent Nuclear_GWh for each Entity (Switzerland, Greece, Austria, Poland, France), listed in order:
+[14265.7, 11973.2, 13305.6, 5778.7, 14947.6]

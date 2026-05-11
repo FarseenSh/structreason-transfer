@@ -1,0 +1,20 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Spain: {Solar_GWh=4202.9, Wind_GWh=7093.5, Nuclear_GWh=7431.3, CO2_Mt=9.1}
+  Switzerland: {Solar_GWh=266.7, Wind_GWh=6154.3, Nuclear_GWh=39.4, CO2_Mt=12.6}
+  Norway: {Solar_GWh=2867.2, Wind_GWh=7273.9, Nuclear_GWh=2903.8, CO2_Mt=51.2}
+  Austria: {Solar_GWh=408.4, Wind_GWh=4163.6, Nuclear_GWh=9476, CO2_Mt=18}
+  Italy: {Solar_GWh=2050, Wind_GWh=8582, Nuclear_GWh=13115.4, CO2_Mt=74.3}
+  Denmark: {Solar_GWh=191.9, Wind_GWh=9400.1, Nuclear_GWh=735.4, CO2_Mt=73.7}
+  Greece: {Solar_GWh=2867.7, Wind_GWh=9383, Nuclear_GWh=8378.3, CO2_Mt=75.9}
+  France: {Solar_GWh=4625.4, Wind_GWh=3379.6, Nuclear_GWh=9551.6, CO2_Mt=24.1}
+  Ireland: {Solar_GWh=691.3, Wind_GWh=7916.1, Nuclear_GWh=13985.9, CO2_Mt=57.6}
+  UK: {Solar_GWh=4437.8, Wind_GWh=1947.5, Nuclear_GWh=9827.2, CO2_Mt=53.4}
+
+Edges (top 5 by metric similarity):
+  Switzerland -- Denmark (sim=1.00, similar CO2_Mt)
+  Austria -- Ireland (sim=0.99, similar CO2_Mt)
+  Italy -- Ireland (sim=0.99, similar CO2_Mt)
+  France -- UK (sim=0.99, similar CO2_Mt)
+  Spain -- Greece (sim=0.98, similar CO2_Mt)

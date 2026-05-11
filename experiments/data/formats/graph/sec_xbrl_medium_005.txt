@@ -1,0 +1,20 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyQ: {Current_ratio=0.7, ROE_pct=-5.4, EPS=-1.6, Operating_margin_pct=13.1}
+  CompanyM: {Current_ratio=2.8, ROE_pct=39.3, EPS=18.6, Operating_margin_pct=10.5}
+  CompanyE: {Current_ratio=1.8, ROE_pct=24.7, EPS=15.6, Operating_margin_pct=34.3}
+  CompanyF: {Current_ratio=3.8, ROE_pct=3.2, EPS=5.4, Operating_margin_pct=8.7}
+  CompanyA: {Current_ratio=3.8, ROE_pct=44.9, EPS=16.6, Operating_margin_pct=13.1}
+  CompanyS: {Current_ratio=3.5, ROE_pct=26.2, EPS=1.5, Operating_margin_pct=8.5}
+  CompanyO: {Current_ratio=2.5, ROE_pct=39.5, EPS=20.2, Operating_margin_pct=24.6}
+  CompanyP: {Current_ratio=3.7, ROE_pct=-14.7, EPS=21.4, Operating_margin_pct=31.6}
+  CompanyG: {Current_ratio=2.8, ROE_pct=18.1, EPS=11.1, Operating_margin_pct=2.4}
+  CompanyH: {Current_ratio=3.6, ROE_pct=27.8, EPS=11.7, Operating_margin_pct=6.5}
+
+Edges (top 5 by metric similarity):
+  CompanyM -- CompanyH (sim=1.00, similar Current_ratio)
+  CompanyA -- CompanyH (sim=1.00, similar Current_ratio)
+  CompanyM -- CompanyA (sim=1.00, similar Current_ratio)
+  CompanyM -- CompanyG (sim=0.98, similar Current_ratio)
+  CompanyG -- CompanyH (sim=0.98, similar EPS)

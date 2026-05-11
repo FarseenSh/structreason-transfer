@@ -1,0 +1,20 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Brown: {Revenue_k_USD=5110.2, On_time_pct=83.8, Monthly_riders_k=6224.4, Complaints_per_10k=1.4}
+  Line_Green: {Revenue_k_USD=7827, On_time_pct=82, Monthly_riders_k=3351.4, Complaints_per_10k=12.2}
+  Line_Red: {Revenue_k_USD=12161.1, On_time_pct=79, Monthly_riders_k=4098.3, Complaints_per_10k=9.4}
+  Line_Gold: {Revenue_k_USD=2961.4, On_time_pct=78.2, Monthly_riders_k=3781.3, Complaints_per_10k=6.7}
+  Tram_3: {Revenue_k_USD=9471.7, On_time_pct=92, Monthly_riders_k=3477.5, Complaints_per_10k=12.1}
+  Line_Silver: {Revenue_k_USD=6516.4, On_time_pct=87.4, Monthly_riders_k=5487, Complaints_per_10k=7.1}
+  Ferry_A: {Revenue_k_USD=2698.8, On_time_pct=90.5, Monthly_riders_k=4889.4, Complaints_per_10k=3.8}
+  Ferry_B: {Revenue_k_USD=12488.5, On_time_pct=78.9, Monthly_riders_k=7777.8, Complaints_per_10k=7.4}
+  Line_Pink: {Revenue_k_USD=4937.7, On_time_pct=73.6, Monthly_riders_k=1154.3, Complaints_per_10k=1.5}
+  Line_Purple: {Revenue_k_USD=14022.9, On_time_pct=67.9, Monthly_riders_k=4609.5, Complaints_per_10k=13.5}
+
+Edges (top 5 by metric similarity):
+  Line_Red -- Line_Purple (sim=1.00, similar Complaints_per_10k)
+  Line_Brown -- Line_Gold (sim=1.00, similar Complaints_per_10k)
+  Line_Red -- Tram_3 (sim=1.00, similar Complaints_per_10k)
+  Tram_3 -- Line_Purple (sim=1.00, similar Complaints_per_10k)
+  Line_Green -- Tram_3 (sim=1.00, similar Complaints_per_10k)

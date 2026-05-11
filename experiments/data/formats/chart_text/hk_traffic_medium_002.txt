@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Accidents_monthly: Route_F6=4.4, Route_C3=38.7, Route_J10=25.6, Route_I9=20.3, Route_N14=23, Route_B2=23.5, Route_S19=8.5.
+Transit_ridership: Route_F6=166987.3, Route_C3=15091.2, Route_J10=177835.3, Route_I9=134716.7, Route_N14=56346.9, Route_B2=86622.1, Route_S19=106681.4.
+Peak_hour_flow: Route_F6=14942.4, Route_C3=11153.2, Route_J10=9023.9, Route_I9=12221.3, Route_N14=26418.9, Route_B2=18859.3, Route_S19=21428.1.
+Bus_passengers: Route_F6=42535.7, Route_C3=12639.2, Route_J10=1422.2, Route_I9=3315.3, Route_N14=49372.1, Route_B2=3199.1, Route_S19=4521.2.

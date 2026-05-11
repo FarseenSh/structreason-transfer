@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_001",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "HDI",
+    "Education_spending_pct"
+  ],
+  "data": [
+    {
+      "Entity": "France",
+      "HDI": 1.0,
+      "Education_spending_pct": 4.1
+    },
+    {
+      "Entity": "Portugal",
+      "HDI": 0.8,
+      "Education_spending_pct": 5.9
+    },
+    {
+      "Entity": "Bulgaria",
+      "HDI": 0.8,
+      "Education_spending_pct": 4.6
+    },
+    {
+      "Entity": "Sweden",
+      "HDI": 0.8,
+      "Education_spending_pct": 6.8
+    },
+    {
+      "Entity": "Netherlands",
+      "HDI": 0.8,
+      "Education_spending_pct": 5.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "HDI",
+    "Education_spending_pct"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "sec_xbrl_medium_006",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Current_ratio",
+    "ROE_pct",
+    "EPS",
+    "Net_income_M"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyK",
+      "Current_ratio": 3.8,
+      "ROE_pct": -2.1,
+      "EPS": 2.2,
+      "Net_income_M": 26.8
+    },
+    {
+      "Entity": "CompanyN",
+      "Current_ratio": 2.9,
+      "ROE_pct": -12.7,
+      "EPS": 6.9,
+      "Net_income_M": -181.8
+    },
+    {
+      "Entity": "CompanyT",
+      "Current_ratio": 2.1,
+      "ROE_pct": 22.1,
+      "EPS": 7.6,
+      "Net_income_M": 703.6
+    },
+    {
+      "Entity": "CompanyG",
+      "Current_ratio": 3.9,
+      "ROE_pct": 2.2,
+      "EPS": 3.6,
+      "Net_income_M": 1263.0
+    },
+    {
+      "Entity": "CompanyC",
+      "Current_ratio": 2.9,
+      "ROE_pct": 17.0,
+      "EPS": 0.0,
+      "Net_income_M": 255.4
+    },
+    {
+      "Entity": "CompanyA",
+      "Current_ratio": 0.7,
+      "ROE_pct": 0.7,
+      "EPS": 18.7,
+      "Net_income_M": 138.2
+    },
+    {
+      "Entity": "CompanyF",
+      "Current_ratio": 2.8,
+      "ROE_pct": 26.2,
+      "EPS": 19.4,
+      "Net_income_M": 546.2
+    },
+    {
+      "Entity": "CompanyL",
+      "Current_ratio": 0.7,
+      "ROE_pct": 38.7,
+      "EPS": 24.9,
+      "Net_income_M": 1319.0
+    },
+    {
+      "Entity": "CompanyE",
+      "Current_ratio": 1.6,
+      "ROE_pct": -9.8,
+      "EPS": 23.2,
+      "Net_income_M": 567.8
+    },
+    {
+      "Entity": "CompanyB",
+      "Current_ratio": 2.7,
+      "ROE_pct": 32.2,
+      "EPS": 9.7,
+      "Net_income_M": 1028.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Current_ratio",
+    "ROE_pct",
+    "EPS",
+    "Net_income_M"
+  ]
+}

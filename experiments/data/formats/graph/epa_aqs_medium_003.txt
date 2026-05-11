@@ -1,0 +1,20 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_U20: {Temperature_C=4.9, AQI=100.7, NO2_ppb=13, CO_ppm=1.8}
+  Station_W9: {Temperature_C=-0.2, AQI=139.3, NO2_ppb=42.3, CO_ppm=4.1}
+  Station_NW1: {Temperature_C=35.8, AQI=108.2, NO2_ppb=45.5, CO_ppm=2.2}
+  Station_SE12: {Temperature_C=-0.2, AQI=139, NO2_ppb=21.5, CO_ppm=3.2}
+  Station_SW13: {Temperature_C=6.1, AQI=125.9, NO2_ppb=53.1, CO_ppm=3.6}
+  Station_NW10: {Temperature_C=2.9, AQI=117.4, NO2_ppb=21.8, CO_ppm=2.9}
+  Station_C5: {Temperature_C=-4.7, AQI=123.9, NO2_ppb=18.4, CO_ppm=4.3}
+  Station_N6: {Temperature_C=8.5, AQI=147.9, NO2_ppb=52.7, CO_ppm=3.7}
+  Station_W18: {Temperature_C=36.9, AQI=133.6, NO2_ppb=18.6, CO_ppm=1.9}
+  Station_SW4: {Temperature_C=9.7, AQI=146.7, NO2_ppb=27.9, CO_ppm=4.3}
+
+Edges (top 5 by metric similarity):
+  Station_SE12 -- Station_C5 (sim=1.00, similar CO_ppm)
+  Station_SE12 -- Station_NW10 (sim=1.00, similar CO_ppm)
+  Station_NW10 -- Station_SW4 (sim=1.00, similar CO_ppm)
+  Station_U20 -- Station_SE12 (sim=1.00, similar CO_ppm)
+  Station_SW13 -- Station_N6 (sim=1.00, similar CO_ppm)

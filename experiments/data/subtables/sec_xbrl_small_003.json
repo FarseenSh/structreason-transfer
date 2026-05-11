@@ -1,0 +1,45 @@
+{
+  "id": "sec_xbrl_small_003",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "EPS",
+    "Total_assets_M"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyO",
+      "EPS": 25.0,
+      "Total_assets_M": 17702.9
+    },
+    {
+      "Entity": "CompanyG",
+      "EPS": 6.9,
+      "Total_assets_M": 10238.8
+    },
+    {
+      "Entity": "CompanyR",
+      "EPS": 21.2,
+      "Total_assets_M": 18750.8
+    },
+    {
+      "Entity": "CompanyF",
+      "EPS": 0.3,
+      "Total_assets_M": 32633.6
+    },
+    {
+      "Entity": "CompanyM",
+      "EPS": 10.4,
+      "Total_assets_M": 24617.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "EPS",
+    "Total_assets_M"
+  ]
+}

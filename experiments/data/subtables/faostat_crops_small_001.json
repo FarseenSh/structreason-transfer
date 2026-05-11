@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_001",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Production_Mt",
+    "Fertilizer_kg_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Vietnam",
+      "Production_Mt": 250.5,
+      "Fertilizer_kg_ha": 324.5
+    },
+    {
+      "Entity": "China",
+      "Production_Mt": 254.2,
+      "Fertilizer_kg_ha": 355.3
+    },
+    {
+      "Entity": "Ukraine",
+      "Production_Mt": 191.2,
+      "Fertilizer_kg_ha": 398.4
+    },
+    {
+      "Entity": "Bangladesh",
+      "Production_Mt": 163.8,
+      "Fertilizer_kg_ha": 173.3
+    },
+    {
+      "Entity": "Mexico",
+      "Production_Mt": 274.6,
+      "Fertilizer_kg_ha": 292.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Production_Mt",
+    "Fertilizer_kg_ha"
+  ]
+}

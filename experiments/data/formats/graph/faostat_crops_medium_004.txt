@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Thailand: {Fertilizer_kg_ha=94.2, Rice_tonnes_ha=6.3, Maize_tonnes_ha=2.8, Production_Mt=198.7}
+  Germany: {Fertilizer_kg_ha=224.9, Rice_tonnes_ha=7.1, Maize_tonnes_ha=9.3, Production_Mt=178.6}
+  Vietnam: {Fertilizer_kg_ha=195.1, Rice_tonnes_ha=6, Maize_tonnes_ha=4, Production_Mt=9.9}
+  Russia: {Fertilizer_kg_ha=382, Rice_tonnes_ha=4.2, Maize_tonnes_ha=9.8, Production_Mt=63.8}
+  Mexico: {Fertilizer_kg_ha=53.6, Rice_tonnes_ha=7.1, Maize_tonnes_ha=9, Production_Mt=12.8}
+  Ukraine: {Fertilizer_kg_ha=239.2, Rice_tonnes_ha=3.2, Maize_tonnes_ha=3.8, Production_Mt=103.3}
+  Egypt: {Fertilizer_kg_ha=293.8, Rice_tonnes_ha=5.2, Maize_tonnes_ha=10.3, Production_Mt=106.6}
+  Canada: {Fertilizer_kg_ha=68.5, Rice_tonnes_ha=6.2, Maize_tonnes_ha=6.6, Production_Mt=161.4}
+  Pakistan: {Fertilizer_kg_ha=261.9, Rice_tonnes_ha=6.8, Maize_tonnes_ha=7.4, Production_Mt=208.5}
+  India: {Fertilizer_kg_ha=348.4, Rice_tonnes_ha=7, Maize_tonnes_ha=11.7, Production_Mt=57.9}
+
+Edges (top 5 by metric similarity):
+  Germany -- Pakistan (sim=1.00, similar Rice_tonnes_ha)
+  Russia -- India (sim=1.00, similar Maize_tonnes_ha)
+  Thailand -- Canada (sim=1.00, similar Rice_tonnes_ha)
+  Ukraine -- Egypt (sim=1.00, similar Rice_tonnes_ha)
+  Vietnam -- India (sim=0.99, similar Rice_tonnes_ha)

@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_003",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Wind_GWh",
+    "CO2_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "UK",
+      "Wind_GWh": 11485.9,
+      "CO2_Mt": 61.9
+    },
+    {
+      "Entity": "Belgium",
+      "Wind_GWh": 3458.5,
+      "CO2_Mt": 75.2
+    },
+    {
+      "Entity": "Switzerland",
+      "Wind_GWh": 7613.9,
+      "CO2_Mt": 27.8
+    },
+    {
+      "Entity": "Poland",
+      "Wind_GWh": 2582.6,
+      "CO2_Mt": 55.8
+    },
+    {
+      "Entity": "Greece",
+      "Wind_GWh": 6660.2,
+      "CO2_Mt": 57.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Wind_GWh",
+    "CO2_Mt"
+  ]
+}

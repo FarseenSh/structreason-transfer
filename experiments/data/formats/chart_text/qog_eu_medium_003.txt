@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+GDP_per_capita: Greece=26032.8, Austria=25344.8, Germany=80528.9, Poland=45653.3, Sweden=41832.4, Belgium=66078, Denmark=53709.5, Czechia=80529.8, Switzerland=69621.1, Spain=48555.9.
+Trust_in_govt_pct: Greece=36.8, Austria=77.1, Germany=59.4, Poland=74.8, Sweden=19.8, Belgium=68.1, Denmark=54, Czechia=20, Switzerland=50.8, Spain=57.3.
+Govt_expenditure_pct_GDP: Greece=30.3, Austria=42.7, Germany=53.1, Poland=38.3, Sweden=42.8, Belgium=42.4, Denmark=38.5, Czechia=55.7, Switzerland=51.9, Spain=33.1.
+Education_spending_pct: Greece=8.5, Austria=7.9, Germany=4.9, Poland=7.7, Sweden=4, Belgium=8.5, Denmark=6.8, Czechia=6.8, Switzerland=4, Spain=8.

@@ -1,0 +1,20 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_NW10: {O3_ppb=16.8, NO2_ppb=35.3, PM25_ug_m3=58, AQI=115.8}
+  Station_NE2: {O3_ppb=34.8, NO2_ppb=47.6, PM25_ug_m3=40.5, AQI=129}
+  Station_SW4: {O3_ppb=31.2, NO2_ppb=51.1, PM25_ug_m3=35.7, AQI=64.7}
+  Station_W18: {O3_ppb=70.6, NO2_ppb=56.8, PM25_ug_m3=12.9, AQI=111.1}
+  Station_N15: {O3_ppb=46.5, NO2_ppb=8.5, PM25_ug_m3=59.7, AQI=58.4}
+  Station_SE12: {O3_ppb=34.6, NO2_ppb=49, PM25_ug_m3=37.5, AQI=171.4}
+  Station_C5: {O3_ppb=71.7, NO2_ppb=44, PM25_ug_m3=3.4, AQI=157.6}
+  Station_E8: {O3_ppb=16.3, NO2_ppb=16.4, PM25_ug_m3=4.1, AQI=66.1}
+  Station_NE11: {O3_ppb=27.2, NO2_ppb=56.2, PM25_ug_m3=51.2, AQI=104.6}
+  Station_SE3: {O3_ppb=72.9, NO2_ppb=27.2, PM25_ug_m3=13, AQI=100.1}
+
+Edges (top 5 by metric similarity):
+  Station_NE2 -- Station_SE12 (sim=0.99, similar O3_ppb)
+  Station_SE12 -- Station_E8 (sim=0.99, similar O3_ppb)
+  Station_NE2 -- Station_NE11 (sim=0.98, similar O3_ppb)
+  Station_C5 -- Station_E8 (sim=0.98, similar PM25_ug_m3)
+  Station_NW10 -- Station_NE11 (sim=0.98, similar PM25_ug_m3)

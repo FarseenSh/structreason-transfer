@@ -1,0 +1,94 @@
+{
+  "id": "hk_traffic_medium_004",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Daily_vehicles",
+    "Accidents_monthly",
+    "Peak_hour_flow",
+    "Avg_speed_kmh"
+  ],
+  "data": [
+    {
+      "Entity": "Route_S19",
+      "Daily_vehicles": 9534.2,
+      "Accidents_monthly": 18.5,
+      "Peak_hour_flow": 16620.0,
+      "Avg_speed_kmh": 18.5
+    },
+    {
+      "Entity": "Route_A1",
+      "Daily_vehicles": 17870.7,
+      "Accidents_monthly": 35.2,
+      "Peak_hour_flow": 17463.1,
+      "Avg_speed_kmh": 76.1
+    },
+    {
+      "Entity": "Route_T20",
+      "Daily_vehicles": 22372.3,
+      "Accidents_monthly": 36.5,
+      "Peak_hour_flow": 7928.8,
+      "Avg_speed_kmh": 75.9
+    },
+    {
+      "Entity": "Route_Q17",
+      "Daily_vehicles": 38604.5,
+      "Accidents_monthly": 6.8,
+      "Peak_hour_flow": 24944.6,
+      "Avg_speed_kmh": 49.6
+    },
+    {
+      "Entity": "Route_J10",
+      "Daily_vehicles": 89972.9,
+      "Accidents_monthly": 28.2,
+      "Peak_hour_flow": 15960.8,
+      "Avg_speed_kmh": 56.8
+    },
+    {
+      "Entity": "Route_L12",
+      "Daily_vehicles": 50463.8,
+      "Accidents_monthly": 43.2,
+      "Peak_hour_flow": 2948.6,
+      "Avg_speed_kmh": 45.1
+    },
+    {
+      "Entity": "Route_P16",
+      "Daily_vehicles": 26135.6,
+      "Accidents_monthly": 19.3,
+      "Peak_hour_flow": 21124.4,
+      "Avg_speed_kmh": 42.3
+    },
+    {
+      "Entity": "Route_K11",
+      "Daily_vehicles": 14517.5,
+      "Accidents_monthly": 4.2,
+      "Peak_hour_flow": 28613.9,
+      "Avg_speed_kmh": 22.8
+    },
+    {
+      "Entity": "Route_E5",
+      "Daily_vehicles": 35447.5,
+      "Accidents_monthly": 41.7,
+      "Peak_hour_flow": 25216.2,
+      "Avg_speed_kmh": 21.3
+    },
+    {
+      "Entity": "Route_D4",
+      "Daily_vehicles": 78415.8,
+      "Accidents_monthly": 40.0,
+      "Peak_hour_flow": 9761.5,
+      "Avg_speed_kmh": 30.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Daily_vehicles",
+    "Accidents_monthly",
+    "Peak_hour_flow",
+    "Avg_speed_kmh"
+  ]
+}

@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Production_Mt: France=96.9, Bangladesh=199.9, Thailand=296.8, Vietnam=202.5, Argentina=159.9, Indonesia=158.7, Brazil=116.2, Pakistan=181.9, Turkey=287.8, China=237.5.
+Maize_tonnes_ha: France=6.2, Bangladesh=5.3, Thailand=10.8, Vietnam=3.4, Argentina=10.5, Indonesia=4.6, Brazil=9.2, Pakistan=10.1, Turkey=6.8, China=3.9.
+Yield_index: France=161.4, Bangladesh=104.1, Thailand=98.5, Vietnam=121.2, Argentina=112.2, Indonesia=142, Brazil=76.5, Pakistan=112.3, Turkey=167, China=64.3.
+Wheat_tonnes_ha: France=4.9, Bangladesh=6.5, Thailand=8.2, Vietnam=6, Argentina=7.7, Indonesia=3.2, Brazil=4.1, Pakistan=8.6, Turkey=8.1, China=5.7.

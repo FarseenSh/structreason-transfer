@@ -1,0 +1,13 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyO: {Net_income_M=271.9, Revenue_M=1555.1}
+  CompanyP: {Net_income_M=1188.7, Revenue_M=1973}
+  CompanyT: {Net_income_M=748.6, Revenue_M=3829.4}
+  CompanyR: {Net_income_M=633.8, Revenue_M=2409.8}
+  CompanyA: {Net_income_M=309, Revenue_M=811.5}
+
+Edges (top 3 by metric similarity):
+  CompanyO -- CompanyT (sim=1.00, similar Net_income_M)
+  CompanyT -- CompanyR (sim=1.00, similar Net_income_M)
+  CompanyO -- CompanyR (sim=1.00, similar Net_income_M)

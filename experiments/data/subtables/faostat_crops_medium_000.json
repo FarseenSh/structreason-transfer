@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_000",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Rice_tonnes_ha",
+    "Production_Mt",
+    "Maize_tonnes_ha",
+    "Soybean_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Brazil",
+      "Rice_tonnes_ha": 5.1,
+      "Production_Mt": 208.4,
+      "Maize_tonnes_ha": 8.4,
+      "Soybean_tonnes_ha": 3.7
+    },
+    {
+      "Entity": "India",
+      "Rice_tonnes_ha": 4.2,
+      "Production_Mt": 242.5,
+      "Maize_tonnes_ha": 3.3,
+      "Soybean_tonnes_ha": 1.2
+    },
+    {
+      "Entity": "Pakistan",
+      "Rice_tonnes_ha": 7.2,
+      "Production_Mt": 263.9,
+      "Maize_tonnes_ha": 3.7,
+      "Soybean_tonnes_ha": 2.7
+    },
+    {
+      "Entity": "Ukraine",
+      "Rice_tonnes_ha": 3.2,
+      "Production_Mt": 18.2,
+      "Maize_tonnes_ha": 8.1,
+      "Soybean_tonnes_ha": 3.2
+    },
+    {
+      "Entity": "Nigeria",
+      "Rice_tonnes_ha": 4.4,
+      "Production_Mt": 233.3,
+      "Maize_tonnes_ha": 5.4,
+      "Soybean_tonnes_ha": 1.7
+    },
+    {
+      "Entity": "Germany",
+      "Rice_tonnes_ha": 2.6,
+      "Production_Mt": 48.4,
+      "Maize_tonnes_ha": 9.0,
+      "Soybean_tonnes_ha": 1.8
+    },
+    {
+      "Entity": "Russia",
+      "Rice_tonnes_ha": 2.7,
+      "Production_Mt": 211.0,
+      "Maize_tonnes_ha": 8.9,
+      "Soybean_tonnes_ha": 1.8
+    },
+    {
+      "Entity": "Argentina",
+      "Rice_tonnes_ha": 4.2,
+      "Production_Mt": 114.6,
+      "Maize_tonnes_ha": 8.2,
+      "Soybean_tonnes_ha": 2.7
+    },
+    {
+      "Entity": "Australia",
+      "Rice_tonnes_ha": 5.8,
+      "Production_Mt": 213.8,
+      "Maize_tonnes_ha": 9.3,
+      "Soybean_tonnes_ha": 2.1
+    },
+    {
+      "Entity": "Mexico",
+      "Rice_tonnes_ha": 3.9,
+      "Production_Mt": 68.1,
+      "Maize_tonnes_ha": 9.9,
+      "Soybean_tonnes_ha": 3.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Rice_tonnes_ha",
+    "Production_Mt",
+    "Maize_tonnes_ha",
+    "Soybean_tonnes_ha"
+  ]
+}

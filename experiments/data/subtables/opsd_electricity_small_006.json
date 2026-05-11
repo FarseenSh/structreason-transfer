@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_006",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Coal_GWh",
+    "Nuclear_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Romania",
+      "Coal_GWh": 7082.6,
+      "Nuclear_GWh": 1587.2
+    },
+    {
+      "Entity": "Spain",
+      "Coal_GWh": 1441.3,
+      "Nuclear_GWh": 9216.4
+    },
+    {
+      "Entity": "France",
+      "Coal_GWh": 863.8,
+      "Nuclear_GWh": 11192.7
+    },
+    {
+      "Entity": "UK",
+      "Coal_GWh": 1680.2,
+      "Nuclear_GWh": 11266.2
+    },
+    {
+      "Entity": "Denmark",
+      "Coal_GWh": 6459.5,
+      "Nuclear_GWh": 2850.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Coal_GWh",
+    "Nuclear_GWh"
+  ]
+}

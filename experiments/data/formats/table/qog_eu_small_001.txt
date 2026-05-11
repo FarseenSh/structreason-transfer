@@ -1,0 +1,7 @@
+| Entity | HDI | Education_spending_pct |
+|---|---|---|
+| France | 1 | 4.1 |
+| Portugal | 0.8 | 5.9 |
+| Bulgaria | 0.8 | 4.6 |
+| Sweden | 0.8 | 6.8 |
+| Netherlands | 0.8 | 5.7 |

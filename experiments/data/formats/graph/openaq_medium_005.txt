@@ -1,0 +1,20 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_S7: {NO2_ppb=49.3, CO_ppm=2, PM25_ug_m3=42.8, SO2_ppb=23.2}
+  Station_SW13: {NO2_ppb=33.9, CO_ppm=0.7, PM25_ug_m3=46.6, SO2_ppb=21.5}
+  Station_E17: {NO2_ppb=15.8, CO_ppm=1.5, PM25_ug_m3=51.7, SO2_ppb=19.7}
+  Station_NE11: {NO2_ppb=44.8, CO_ppm=2.1, PM25_ug_m3=33.7, SO2_ppb=4}
+  Station_C14: {NO2_ppb=8.8, CO_ppm=3.9, PM25_ug_m3=37.5, SO2_ppb=4.4}
+  Station_NW1: {NO2_ppb=33.5, CO_ppm=4.1, PM25_ug_m3=62.6, SO2_ppb=17.4}
+  Station_NE2: {NO2_ppb=7.9, CO_ppm=4.3, PM25_ug_m3=17.9, SO2_ppb=3.6}
+  Station_N15: {NO2_ppb=34.1, CO_ppm=0.6, PM25_ug_m3=52.8, SO2_ppb=3.7}
+  Station_S16: {NO2_ppb=42.7, CO_ppm=1.5, PM25_ug_m3=47.1, SO2_ppb=10.6}
+  Station_C5: {NO2_ppb=28.1, CO_ppm=2.2, PM25_ug_m3=11.7, SO2_ppb=1.1}
+
+Edges (top 5 by metric similarity):
+  Station_SW13 -- Station_NW1 (sim=0.98, similar NO2_ppb)
+  Station_NW1 -- Station_NE2 (sim=0.98, similar CO_ppm)
+  Station_N15 -- Station_S16 (sim=0.98, similar CO_ppm)
+  Station_NW1 -- Station_N15 (sim=0.98, similar NO2_ppb)
+  Station_NE11 -- Station_S16 (sim=0.98, similar CO_ppm)

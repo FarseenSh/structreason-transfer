@@ -1,0 +1,5 @@
+Bar chart: "OpenAQ — Air Quality".
+AQI: Station_NW1=57, Station_S7=179.3, Station_W18=67.5, Station_N6=29.9, Station_NE11=35.2, Station_S16=20.8, Station_NW10=69.7.
+NO2_ppb: Station_NW1=28.7, Station_S7=17.8, Station_W18=8.9, Station_N6=15, Station_NE11=13.1, Station_S16=25.1, Station_NW10=19.4.
+SO2_ppb: Station_NW1=5, Station_S7=17, Station_W18=2.1, Station_N6=19.9, Station_NE11=24.5, Station_S16=23.5, Station_NW10=17.5.
+Temperature_C: Station_NW1=12.6, Station_S7=33.2, Station_W18=9, Station_N6=-4.6, Station_NE11=17.6, Station_S16=29.9, Station_NW10=30.1.

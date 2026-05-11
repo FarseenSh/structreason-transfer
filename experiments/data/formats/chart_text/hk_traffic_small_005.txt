@@ -1,0 +1,3 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Bus_passengers: Route_H8=38739.2, Route_R18=40161.9, Route_C3=30518.1, Route_O15=42986.2, Route_T20=5796.3.
+Road_condition_score: Route_H8=56, Route_R18=64, Route_C3=42.5, Route_O15=66, Route_T20=55.4.

@@ -1,0 +1,5 @@
+The following 5 values represent Peak_hour_flow for each Entity (Route_N14, Route_D4, Route_T20, Route_R18, Route_A1), listed in order:
+[26066.9, 14551.1, 9825.6, 25953.3, 12916.9]
+
+The following 5 values represent Daily_vehicles for each Entity (Route_N14, Route_D4, Route_T20, Route_R18, Route_A1), listed in order:
+[52765.1, 92887.4, 21783.5, 32126.1, 7796.3]

@@ -1,0 +1,5 @@
+The following 5 values represent Yield_index for each Entity (Brazil, Argentina, USA, Turkey, France), listed in order:
+[178.5, 110.8, 104.6, 64.2, 81.4]
+
+The following 5 values represent Fertilizer_kg_ha for each Entity (Brazil, Argentina, USA, Turkey, France), listed in order:
+[327.5, 203.4, 382.9, 51.9, 254.1]

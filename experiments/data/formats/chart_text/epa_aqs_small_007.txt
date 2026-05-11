@@ -1,0 +1,3 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+PM25_ug_m3: Station_W9=36.9, Station_SE12=60, Station_N15=57, Station_C14=22, Station_SE3=29.6.
+Temperature_C: Station_W9=-3.4, Station_SE12=18.4, Station_N15=-2.3, Station_C14=35.4, Station_SE3=32.3.

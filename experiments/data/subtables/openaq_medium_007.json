@@ -1,0 +1,94 @@
+{
+  "id": "openaq_medium_007",
+  "dataset": "OpenAQ",
+  "domain": "air_quality",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "O3_ppb",
+    "PM10_ug_m3",
+    "AQI",
+    "Temperature_C"
+  ],
+  "data": [
+    {
+      "Entity": "Station_C14",
+      "O3_ppb": 15.8,
+      "PM10_ug_m3": 69.3,
+      "AQI": 158.7,
+      "Temperature_C": 9.8
+    },
+    {
+      "Entity": "Station_S7",
+      "O3_ppb": 63.1,
+      "PM10_ug_m3": 67.2,
+      "AQI": 39.5,
+      "Temperature_C": 16.8
+    },
+    {
+      "Entity": "Station_N6",
+      "O3_ppb": 39.0,
+      "PM10_ug_m3": 26.7,
+      "AQI": 132.9,
+      "Temperature_C": 0.8
+    },
+    {
+      "Entity": "Station_NW10",
+      "O3_ppb": 25.6,
+      "PM10_ug_m3": 58.0,
+      "AQI": 86.7,
+      "Temperature_C": 18.5
+    },
+    {
+      "Entity": "Station_NW1",
+      "O3_ppb": 26.0,
+      "PM10_ug_m3": 24.2,
+      "AQI": 112.7,
+      "Temperature_C": 17.7
+    },
+    {
+      "Entity": "Station_N15",
+      "O3_ppb": 68.8,
+      "PM10_ug_m3": 17.4,
+      "AQI": 23.7,
+      "Temperature_C": 20.9
+    },
+    {
+      "Entity": "Station_S16",
+      "O3_ppb": 28.1,
+      "PM10_ug_m3": 20.2,
+      "AQI": 20.0,
+      "Temperature_C": 29.8
+    },
+    {
+      "Entity": "Station_SW4",
+      "O3_ppb": 48.9,
+      "PM10_ug_m3": 75.9,
+      "AQI": 150.8,
+      "Temperature_C": 12.7
+    },
+    {
+      "Entity": "Station_SE3",
+      "O3_ppb": 82.9,
+      "PM10_ug_m3": 29.7,
+      "AQI": 96.1,
+      "Temperature_C": 33.2
+    },
+    {
+      "Entity": "Station_NE2",
+      "O3_ppb": 68.1,
+      "PM10_ug_m3": 24.7,
+      "AQI": 31.4,
+      "Temperature_C": 15.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "O3_ppb",
+    "PM10_ug_m3",
+    "AQI",
+    "Temperature_C"
+  ]
+}

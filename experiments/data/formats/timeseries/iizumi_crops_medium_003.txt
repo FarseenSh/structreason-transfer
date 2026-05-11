@@ -1,0 +1,11 @@
+The following 10 values represent Wheat_tonnes_ha for each Entity (Germany, Turkey, Mexico, Bangladesh, Nigeria, Ukraine, Argentina, USA, Australia, Egypt), listed in order:
+[6.9, 3.5, 5.7, 7.9, 3.4, 7, 8.7, 8, 4.5, 6.1]
+
+The following 10 values represent Production_Mt for each Entity (Germany, Turkey, Mexico, Bangladesh, Nigeria, Ukraine, Argentina, USA, Australia, Egypt), listed in order:
+[297.6, 172.7, 38.9, 18.4, 238.1, 130, 77.8, 107.6, 228.4, 142.2]
+
+The following 10 values represent Soybean_tonnes_ha for each Entity (Germany, Turkey, Mexico, Bangladesh, Nigeria, Ukraine, Argentina, USA, Australia, Egypt), listed in order:
+[3.6, 3.2, 3.9, 3.7, 1.8, 3, 1.1, 4, 1.8, 3]
+
+The following 10 values represent Maize_tonnes_ha for each Entity (Germany, Turkey, Mexico, Bangladesh, Nigeria, Ukraine, Argentina, USA, Australia, Egypt), listed in order:
+[10.5, 3.6, 10.5, 2.1, 6.4, 6.7, 5.7, 7.9, 11.1, 5.3]

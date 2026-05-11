@@ -1,0 +1,11 @@
+The following 10 values represent Operating_cost_k for each Entity (Line_Green, Ferry_B, Bus_505, Line_Orange, Tram_1, Bus_101, Bus_202, Line_Yellow, Line_Silver, Tram_2), listed in order:
+[10705, 16592, 17491, 9713.6, 19716.1, 17521.4, 10307.3, 1571.9, 4644.9, 15572.7]
+
+The following 10 values represent Revenue_k_USD for each Entity (Line_Green, Ferry_B, Bus_505, Line_Orange, Tram_1, Bus_101, Bus_202, Line_Yellow, Line_Silver, Tram_2), listed in order:
+[1756.2, 7100, 9112.3, 13187.4, 12722, 11487.7, 6174.6, 2219.5, 10077.8, 2801.2]
+
+The following 10 values represent Avg_trip_minutes for each Entity (Line_Green, Ferry_B, Bus_505, Line_Orange, Tram_1, Bus_101, Bus_202, Line_Yellow, Line_Silver, Tram_2), listed in order:
+[34.4, 54.1, 33.9, 38.3, 39.8, 47, 28.4, 31.4, 16.3, 36.9]
+
+The following 10 values represent Monthly_riders_k for each Entity (Line_Green, Ferry_B, Bus_505, Line_Orange, Tram_1, Bus_101, Bus_202, Line_Yellow, Line_Silver, Tram_2), listed in order:
+[2401.3, 4085.6, 6144.1, 189.7, 4533.1, 1428.9, 2271.1, 326, 1397.2, 7893.7]

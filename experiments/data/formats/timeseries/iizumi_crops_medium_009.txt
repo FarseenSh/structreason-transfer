@@ -1,0 +1,11 @@
+The following 10 values represent Area_harvested_kha for each Entity (Brazil, Bangladesh, USA, Argentina, Australia, Germany, Thailand, Indonesia, Egypt, France), listed in order:
+[22447.9, 34426.6, 31404.9, 24722.6, 34675.6, 25437.6, 12204.2, 21242, 3251.9, 8148]
+
+The following 10 values represent Wheat_tonnes_ha for each Entity (Brazil, Bangladesh, USA, Argentina, Australia, Germany, Thailand, Indonesia, Egypt, France), listed in order:
+[4.6, 3, 8.7, 9, 4.3, 6.8, 4.6, 2.5, 4, 3.3]
+
+The following 10 values represent Maize_tonnes_ha for each Entity (Brazil, Bangladesh, USA, Argentina, Australia, Germany, Thailand, Indonesia, Egypt, France), listed in order:
+[5.3, 4.2, 3.1, 4.2, 11.1, 2.9, 5.2, 7.3, 5.5, 7.2]
+
+The following 10 values represent Yield_index for each Entity (Brazil, Bangladesh, USA, Argentina, Australia, Germany, Thailand, Indonesia, Egypt, France), listed in order:
+[65.2, 137.8, 127.6, 141.7, 128.1, 112.5, 102, 87.2, 120, 63.1]

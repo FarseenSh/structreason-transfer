@@ -1,0 +1,45 @@
+{
+  "id": "epa_aqs_small_002",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "CO_ppm",
+    "O3_ppb"
+  ],
+  "data": [
+    {
+      "Entity": "Station_C14",
+      "CO_ppm": 2.8,
+      "O3_ppb": 44.0
+    },
+    {
+      "Entity": "Station_SW13",
+      "CO_ppm": 1.2,
+      "O3_ppb": 71.8
+    },
+    {
+      "Entity": "Station_R19",
+      "CO_ppm": 0.5,
+      "O3_ppb": 36.7
+    },
+    {
+      "Entity": "Station_SE12",
+      "CO_ppm": 3.9,
+      "O3_ppb": 69.9
+    },
+    {
+      "Entity": "Station_C5",
+      "CO_ppm": 2.7,
+      "O3_ppb": 38.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO_ppm",
+    "O3_ppb"
+  ]
+}

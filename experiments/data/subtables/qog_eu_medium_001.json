@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_001",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Govt_expenditure_pct_GDP",
+    "Education_spending_pct",
+    "Gini_index",
+    "Life_expectancy"
+  ],
+  "data": [
+    {
+      "Entity": "Greece",
+      "Govt_expenditure_pct_GDP": 41.9,
+      "Education_spending_pct": 6.5,
+      "Gini_index": 23.4,
+      "Life_expectancy": 82.2
+    },
+    {
+      "Entity": "Sweden",
+      "Govt_expenditure_pct_GDP": 48.3,
+      "Education_spending_pct": 4.2,
+      "Gini_index": 23.9,
+      "Life_expectancy": 72.5
+    },
+    {
+      "Entity": "Spain",
+      "Govt_expenditure_pct_GDP": 54.3,
+      "Education_spending_pct": 7.6,
+      "Gini_index": 26.0,
+      "Life_expectancy": 74.2
+    },
+    {
+      "Entity": "Italy",
+      "Govt_expenditure_pct_GDP": 42.7,
+      "Education_spending_pct": 5.1,
+      "Gini_index": 23.9,
+      "Life_expectancy": 74.8
+    },
+    {
+      "Entity": "Romania",
+      "Govt_expenditure_pct_GDP": 36.9,
+      "Education_spending_pct": 4.2,
+      "Gini_index": 33.0,
+      "Life_expectancy": 75.0
+    },
+    {
+      "Entity": "Finland",
+      "Govt_expenditure_pct_GDP": 36.6,
+      "Education_spending_pct": 8.1,
+      "Gini_index": 34.6,
+      "Life_expectancy": 78.9
+    },
+    {
+      "Entity": "Belgium",
+      "Govt_expenditure_pct_GDP": 50.9,
+      "Education_spending_pct": 4.3,
+      "Gini_index": 29.7,
+      "Life_expectancy": 77.0
+    },
+    {
+      "Entity": "Hungary",
+      "Govt_expenditure_pct_GDP": 52.9,
+      "Education_spending_pct": 4.9,
+      "Gini_index": 28.4,
+      "Life_expectancy": 72.6
+    },
+    {
+      "Entity": "Germany",
+      "Govt_expenditure_pct_GDP": 32.9,
+      "Education_spending_pct": 4.3,
+      "Gini_index": 31.6,
+      "Life_expectancy": 76.5
+    },
+    {
+      "Entity": "Switzerland",
+      "Govt_expenditure_pct_GDP": 31.9,
+      "Education_spending_pct": 4.1,
+      "Gini_index": 37.9,
+      "Life_expectancy": 78.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Govt_expenditure_pct_GDP",
+    "Education_spending_pct",
+    "Gini_index",
+    "Life_expectancy"
+  ]
+}

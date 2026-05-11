@@ -1,0 +1,7 @@
+| Entity | Wheat_tonnes_ha | Yield_index |
+|---|---|---|
+| China | 6.1 | 148.7 |
+| Egypt | 5.9 | 88.2 |
+| France | 4.6 | 145 |
+| Canada | 1.5 | 61.8 |
+| Germany | 4.9 | 169 |

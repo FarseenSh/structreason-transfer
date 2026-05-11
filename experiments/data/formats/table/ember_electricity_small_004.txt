@@ -1,0 +1,7 @@
+| Entity | CO2_Mt | Total_GWh |
+|---|---|---|
+| Switzerland | 36.4 | 33466.3 |
+| Sweden | 53.8 | 18843 |
+| Romania | 30.7 | 45879.7 |
+| Spain | 26.3 | 25928.6 |
+| Finland | 66.9 | 11037.2 |

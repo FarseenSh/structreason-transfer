@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Mexico: {Area_harvested_kha=22523, Wheat_tonnes_ha=7.8}
+  Argentina: {Area_harvested_kha=5316.3, Wheat_tonnes_ha=4.7}
+  Bangladesh: {Area_harvested_kha=19573.7, Wheat_tonnes_ha=8.8}
+  Germany: {Area_harvested_kha=7323, Wheat_tonnes_ha=8.8}
+  China: {Area_harvested_kha=29643.2, Wheat_tonnes_ha=2.5}
+
+Edges (top 3 by metric similarity):
+  Mexico -- Bangladesh (sim=1.00, similar Wheat_tonnes_ha)
+  Mexico -- China (sim=1.00, similar Wheat_tonnes_ha)
+  Argentina -- Germany (sim=1.00, similar Wheat_tonnes_ha)

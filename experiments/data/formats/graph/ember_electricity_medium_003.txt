@@ -1,0 +1,20 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Poland: {Total_GWh=32550.1, Hydro_GWh=5094.5, CO2_Mt=17.1, Nuclear_GWh=2376.9}
+  UK: {Total_GWh=17805.6, Hydro_GWh=6003.6, CO2_Mt=60.6, Nuclear_GWh=11914.9}
+  Netherlands: {Total_GWh=4861.7, Hydro_GWh=7659.4, CO2_Mt=50.8, Nuclear_GWh=8356.4}
+  Denmark: {Total_GWh=24572.7, Hydro_GWh=3436.6, CO2_Mt=72.5, Nuclear_GWh=7153}
+  Germany: {Total_GWh=26204.9, Hydro_GWh=5221.4, CO2_Mt=25.8, Nuclear_GWh=4132.9}
+  Greece: {Total_GWh=38991.3, Hydro_GWh=3202, CO2_Mt=68, Nuclear_GWh=14757.7}
+  Spain: {Total_GWh=32733.9, Hydro_GWh=5928.8, CO2_Mt=55, Nuclear_GWh=10832.5}
+  Norway: {Total_GWh=43820.4, Hydro_GWh=7304.7, CO2_Mt=16.4, Nuclear_GWh=11671}
+  Hungary: {Total_GWh=39583.2, Hydro_GWh=7361.9, CO2_Mt=11, Nuclear_GWh=11530.7}
+  Portugal: {Total_GWh=19562.1, Hydro_GWh=1341, CO2_Mt=56.5, Nuclear_GWh=8760.2}
+
+Edges (top 5 by metric similarity):
+  Norway -- Hungary (sim=1.00, similar CO2_Mt)
+  Denmark -- Norway (sim=1.00, similar CO2_Mt)
+  Spain -- Hungary (sim=1.00, similar CO2_Mt)
+  Denmark -- Hungary (sim=1.00, similar CO2_Mt)
+  Denmark -- Spain (sim=1.00, similar CO2_Mt)

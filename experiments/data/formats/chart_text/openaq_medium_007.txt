@@ -1,0 +1,5 @@
+Bar chart: "OpenAQ — Air Quality".
+O3_ppb: Station_C14=15.8, Station_S7=63.1, Station_NW10=25.6, Station_NW1=26, Station_S16=28.1, Station_SW4=48.9, Station_NE2=68.1.
+PM10_ug_m3: Station_C14=69.3, Station_S7=67.2, Station_NW10=58, Station_NW1=24.2, Station_S16=20.2, Station_SW4=75.9, Station_NE2=24.7.
+AQI: Station_C14=158.7, Station_S7=39.5, Station_NW10=86.7, Station_NW1=112.7, Station_S16=20, Station_SW4=150.8, Station_NE2=31.4.
+Temperature_C: Station_C14=9.8, Station_S7=16.8, Station_NW10=18.5, Station_NW1=17.7, Station_S16=29.8, Station_SW4=12.7, Station_NE2=15.4.

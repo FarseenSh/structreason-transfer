@@ -1,0 +1,11 @@
+The following 10 values represent SO2_ppb for each Entity (Station_SW13, Station_NE2, Station_SE12, Station_S16, Station_E8, Station_R19, Station_W18, Station_N6, Station_W9, Station_U20), listed in order:
+[6.5, 15.8, 16.8, 8.9, 20.7, 22.2, 21.5, 8.9, 18.9, 14.4]
+
+The following 10 values represent AQI for each Entity (Station_SW13, Station_NE2, Station_SE12, Station_S16, Station_E8, Station_R19, Station_W18, Station_N6, Station_W9, Station_U20), listed in order:
+[114.8, 96.4, 116, 41.7, 85.4, 48.4, 64.8, 40.5, 54, 145.1]
+
+The following 10 values represent NO2_ppb for each Entity (Station_SW13, Station_NE2, Station_SE12, Station_S16, Station_E8, Station_R19, Station_W18, Station_N6, Station_W9, Station_U20), listed in order:
+[35.2, 6.3, 48.4, 55, 53.4, 50.3, 59.6, 37.3, 57.9, 57.2]
+
+The following 10 values represent O3_ppb for each Entity (Station_SW13, Station_NE2, Station_SE12, Station_S16, Station_E8, Station_R19, Station_W18, Station_N6, Station_W9, Station_U20), listed in order:
+[36.9, 75.4, 70.5, 69.3, 77.7, 41.9, 43, 59.8, 66.6, 76.6]

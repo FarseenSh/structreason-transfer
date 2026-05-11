@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Argentina: {Area_harvested_kha=34218.5, Maize_tonnes_ha=2.9}
+  Egypt: {Area_harvested_kha=30256.1, Maize_tonnes_ha=11.3}
+  Mexico: {Area_harvested_kha=698.1, Maize_tonnes_ha=9.8}
+  Canada: {Area_harvested_kha=26405.6, Maize_tonnes_ha=3.5}
+  Pakistan: {Area_harvested_kha=20272, Maize_tonnes_ha=11.6}
+
+Edges (top 3 by metric similarity):
+  Argentina -- Canada (sim=1.00, similar Maize_tonnes_ha)
+  Egypt -- Pakistan (sim=1.00, similar Maize_tonnes_ha)
+  Egypt -- Canada (sim=1.00, similar Maize_tonnes_ha)

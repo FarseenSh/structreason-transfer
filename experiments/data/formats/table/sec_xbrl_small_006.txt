@@ -1,0 +1,7 @@
+| Entity | Revenue_M | ROE_pct |
+|---|---|---|
+| CompanyP | 1169.6 | -8.7 |
+| CompanyH | 4147.2 | -7.4 |
+| CompanyN | 1011.2 | 1.9 |
+| CompanyD | 3234.8 | 31 |
+| CompanyO | 2282.8 | 28.7 |

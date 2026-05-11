@@ -1,0 +1,20 @@
+The following 20 values represent Nuclear_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[5525.6, 9780.7, 5205.5, 6836.1, 6869.4, 683.7, 6453.4, 9616, 8190.8, 1129.3, 10020.8, 4632.9, 216.5, 2333.9, 7463.4, 4656, 10415.7, 3609.8, 11591.9, 4297.2]
+
+The following 20 values represent Solar_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[3763.1, 4815.4, 2374.8, 376.1, 3259.1, 5972.9, 5817.1, 1404, 4558.6, 2135.2, 1045.6, 4028.9, 3055.1, 3281.5, 4981.6, 2085.6, 4035.9, 2260.5, 352.1, 2330.3]
+
+The following 20 values represent Hydro_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[7605.3, 3917.8, 955, 5533.8, 7710.7, 7272.8, 4618.5, 3072.6, 4687.4, 6545.9, 6903.8, 6568.9, 3698.3, 1039, 4596.5, 1335.8, 581.6, 4039.5, 5277.5, 6847.8]
+
+The following 20 values represent Total_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[39576.1, 43147.5, 38483.3, 35755.5, 2486.6, 32052.9, 7783.1, 4816, 9507.8, 41518, 37704.8, 47541.1, 48990.9, 44877.6, 8380.5, 44162.4, 42254.6, 43812.1, 9280.9, 7606]
+
+The following 20 values represent Gas_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[9260.9, 1986.1, 3875.6, 4723.1, 1507.1, 500.2, 9942.7, 8803.6, 9149.7, 3060.3, 2435, 4430.9, 4697.2, 354.3, 7858.8, 9967.7, 5428.3, 4066.1, 4109.7, 1231.9]
+
+The following 20 values represent Coal_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[2166, 4042, 3483.2, 4383, 6800.1, 1840.7, 269.9, 353.9, 1116.6, 4585.3, 6475.1, 7100.1, 5099.1, 3255, 1278.4, 3241.3, 2692.7, 6966.7, 3919.4, 1848.3]
+
+The following 20 values represent Wind_GWh for each Entity (Switzerland, Romania, Hungary, Belgium, Spain, Sweden, Denmark, Greece, Portugal, France, Poland, Netherlands, Ireland, Italy, Austria, Finland, UK, Germany, Czechia, Norway), listed in order:
+[3607.9, 1810.3, 11039.3, 794.1, 351.6, 2359.3, 9768.3, 6376.9, 7585, 4421.2, 1010.4, 10302.7, 2464.4, 590.1, 6957.9, 1182.8, 1330, 9644.4, 6001, 3049.8]

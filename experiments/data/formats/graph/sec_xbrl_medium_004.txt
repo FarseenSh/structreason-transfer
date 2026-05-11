@@ -1,0 +1,20 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyD: {ROE_pct=20, Total_assets_M=25065.5, Revenue_M=4960.5, Net_income_M=1322.8}
+  CompanyS: {ROE_pct=-8.8, Total_assets_M=12786.5, Revenue_M=678.8, Net_income_M=947.8}
+  CompanyI: {ROE_pct=42, Total_assets_M=26382, Revenue_M=3443.8, Net_income_M=538.8}
+  CompanyM: {ROE_pct=23.8, Total_assets_M=23192.5, Revenue_M=2154.5, Net_income_M=678.4}
+  CompanyK: {ROE_pct=18.3, Total_assets_M=42593, Revenue_M=785.2, Net_income_M=-134.4}
+  CompanyH: {ROE_pct=-3.1, Total_assets_M=44738, Revenue_M=4990.6, Net_income_M=839.6}
+  CompanyJ: {ROE_pct=15.9, Total_assets_M=38010.6, Revenue_M=4669.5, Net_income_M=1261.5}
+  CompanyC: {ROE_pct=5.6, Total_assets_M=16118.1, Revenue_M=4913.9, Net_income_M=-195.3}
+  CompanyE: {ROE_pct=25.5, Total_assets_M=2096.9, Revenue_M=762.3, Net_income_M=71.9}
+  CompanyT: {ROE_pct=21.3, Total_assets_M=46281.7, Revenue_M=2485, Net_income_M=680.6}
+
+Edges (top 5 by metric similarity):
+  CompanyI -- CompanyJ (sim=1.00, similar ROE_pct)
+  CompanyH -- CompanyJ (sim=1.00, similar ROE_pct)
+  CompanyI -- CompanyH (sim=1.00, similar ROE_pct)
+  CompanyM -- CompanyH (sim=1.00, similar ROE_pct)
+  CompanyM -- CompanyJ (sim=1.00, similar ROE_pct)

@@ -1,0 +1,230 @@
+{
+  "id": "sec_xbrl_large_001",
+  "dataset": "SEC XBRL Financials",
+  "domain": "finance",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "ROE_pct",
+    "Operating_margin_pct",
+    "Current_ratio",
+    "EPS",
+    "Revenue_M",
+    "Debt_ratio",
+    "Net_income_M"
+  ],
+  "data": [
+    {
+      "Entity": "CompanyE",
+      "ROE_pct": 27.4,
+      "Operating_margin_pct": 11.9,
+      "Current_ratio": 1.4,
+      "EPS": 10.7,
+      "Revenue_M": 2749.7,
+      "Debt_ratio": 0.7,
+      "Net_income_M": 110.2
+    },
+    {
+      "Entity": "CompanyK",
+      "ROE_pct": -3.1,
+      "Operating_margin_pct": 9.5,
+      "Current_ratio": 2.4,
+      "EPS": 9.9,
+      "Revenue_M": 1772.1,
+      "Debt_ratio": 0.9,
+      "Net_income_M": 87.2
+    },
+    {
+      "Entity": "CompanyT",
+      "ROE_pct": -3.3,
+      "Operating_margin_pct": 4.9,
+      "Current_ratio": 2.4,
+      "EPS": 18.2,
+      "Revenue_M": 2846.6,
+      "Debt_ratio": 0.1,
+      "Net_income_M": 104.7
+    },
+    {
+      "Entity": "CompanyQ",
+      "ROE_pct": 39.5,
+      "Operating_margin_pct": 32.8,
+      "Current_ratio": 1.0,
+      "EPS": 11.4,
+      "Revenue_M": 190.6,
+      "Debt_ratio": 0.3,
+      "Net_income_M": 362.4
+    },
+    {
+      "Entity": "CompanyG",
+      "ROE_pct": 15.4,
+      "Operating_margin_pct": -3.8,
+      "Current_ratio": 2.6,
+      "EPS": 9.4,
+      "Revenue_M": 2917.4,
+      "Debt_ratio": 0.6,
+      "Net_income_M": 277.1
+    },
+    {
+      "Entity": "CompanyF",
+      "ROE_pct": 38.4,
+      "Operating_margin_pct": 32.3,
+      "Current_ratio": 4.0,
+      "EPS": 17.7,
+      "Revenue_M": 4517.0,
+      "Debt_ratio": 0.5,
+      "Net_income_M": 1221.9
+    },
+    {
+      "Entity": "CompanyI",
+      "ROE_pct": 28.2,
+      "Operating_margin_pct": 36.5,
+      "Current_ratio": 2.5,
+      "EPS": 23.0,
+      "Revenue_M": 71.4,
+      "Debt_ratio": 0.2,
+      "Net_income_M": 642.0
+    },
+    {
+      "Entity": "CompanyB",
+      "ROE_pct": -2.2,
+      "Operating_margin_pct": 23.4,
+      "Current_ratio": 2.3,
+      "EPS": 19.4,
+      "Revenue_M": 4234.3,
+      "Debt_ratio": 0.7,
+      "Net_income_M": 527.0
+    },
+    {
+      "Entity": "CompanyD",
+      "ROE_pct": 8.1,
+      "Operating_margin_pct": 23.1,
+      "Current_ratio": 2.7,
+      "EPS": 17.9,
+      "Revenue_M": 4019.5,
+      "Debt_ratio": 0.1,
+      "Net_income_M": 47.9
+    },
+    {
+      "Entity": "CompanyO",
+      "ROE_pct": 43.1,
+      "Operating_margin_pct": 1.7,
+      "Current_ratio": 3.6,
+      "EPS": 11.2,
+      "Revenue_M": 575.2,
+      "Debt_ratio": 0.5,
+      "Net_income_M": 1289.0
+    },
+    {
+      "Entity": "CompanyL",
+      "ROE_pct": -13.8,
+      "Operating_margin_pct": 20.6,
+      "Current_ratio": 3.8,
+      "EPS": 22.3,
+      "Revenue_M": 4241.8,
+      "Debt_ratio": 0.5,
+      "Net_income_M": -106.8
+    },
+    {
+      "Entity": "CompanyM",
+      "ROE_pct": 27.9,
+      "Operating_margin_pct": 11.9,
+      "Current_ratio": 0.6,
+      "EPS": 11.1,
+      "Revenue_M": 3829.5,
+      "Debt_ratio": 0.6,
+      "Net_income_M": 207.2
+    },
+    {
+      "Entity": "CompanyH",
+      "ROE_pct": 43.7,
+      "Operating_margin_pct": 5.3,
+      "Current_ratio": 1.2,
+      "EPS": 23.1,
+      "Revenue_M": 2480.7,
+      "Debt_ratio": 0.4,
+      "Net_income_M": 856.5
+    },
+    {
+      "Entity": "CompanyN",
+      "ROE_pct": -8.8,
+      "Operating_margin_pct": 21.2,
+      "Current_ratio": 0.9,
+      "EPS": 19.7,
+      "Revenue_M": 1263.8,
+      "Debt_ratio": 0.1,
+      "Net_income_M": 993.9
+    },
+    {
+      "Entity": "CompanyC",
+      "ROE_pct": 1.3,
+      "Operating_margin_pct": -4.9,
+      "Current_ratio": 3.2,
+      "EPS": 2.1,
+      "Revenue_M": 1476.1,
+      "Debt_ratio": 0.8,
+      "Net_income_M": 1162.0
+    },
+    {
+      "Entity": "CompanyJ",
+      "ROE_pct": 17.8,
+      "Operating_margin_pct": 7.4,
+      "Current_ratio": 0.7,
+      "EPS": -0.7,
+      "Revenue_M": 3080.8,
+      "Debt_ratio": 0.8,
+      "Net_income_M": 497.5
+    },
+    {
+      "Entity": "CompanyP",
+      "ROE_pct": 35.6,
+      "Operating_margin_pct": 24.5,
+      "Current_ratio": 3.7,
+      "EPS": 18.0,
+      "Revenue_M": 1269.2,
+      "Debt_ratio": 0.5,
+      "Net_income_M": 389.5
+    },
+    {
+      "Entity": "CompanyS",
+      "ROE_pct": 15.4,
+      "Operating_margin_pct": 15.5,
+      "Current_ratio": 0.6,
+      "EPS": 16.5,
+      "Revenue_M": 1660.5,
+      "Debt_ratio": 0.1,
+      "Net_income_M": 290.5
+    },
+    {
+      "Entity": "CompanyA",
+      "ROE_pct": -11.4,
+      "Operating_margin_pct": 1.6,
+      "Current_ratio": 2.6,
+      "EPS": 14.3,
+      "Revenue_M": 4657.7,
+      "Debt_ratio": 0.6,
+      "Net_income_M": 765.8
+    },
+    {
+      "Entity": "CompanyR",
+      "ROE_pct": -7.4,
+      "Operating_margin_pct": -4.9,
+      "Current_ratio": 1.5,
+      "EPS": 24.4,
+      "Revenue_M": 3660.2,
+      "Debt_ratio": 0.4,
+      "Net_income_M": 392.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "ROE_pct",
+    "Operating_margin_pct",
+    "Current_ratio",
+    "EPS",
+    "Revenue_M",
+    "Debt_ratio",
+    "Net_income_M"
+  ]
+}

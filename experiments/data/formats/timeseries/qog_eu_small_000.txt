@@ -1,0 +1,5 @@
+The following 5 values represent GDP_per_capita for each Entity (Italy, Austria, Portugal, Sweden, Bulgaria), listed in order:
+[79873.5, 60070.6, 72593.3, 46039, 30906.7]
+
+The following 5 values represent Govt_expenditure_pct_GDP for each Entity (Italy, Austria, Portugal, Sweden, Bulgaria), listed in order:
+[45.5, 31.8, 53.2, 47.7, 51.2]

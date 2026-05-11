@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+CO2_Mt: Switzerland=19.7, Czechia=24.4, Netherlands=24.8, Germany=4.2, Poland=25.9, Finland=70.4, Sweden=73, Ireland=9.7, Denmark=37.2, Greece=31.1.
+Nuclear_GWh: Switzerland=7340.4, Czechia=8320.8, Netherlands=303.9, Germany=12633.6, Poland=14605, Finland=9801.1, Sweden=9906.8, Ireland=7919.7, Denmark=5014.1, Greece=2234.7.
+Solar_GWh: Switzerland=3546, Czechia=365.2, Netherlands=4964.6, Germany=2583.4, Poland=2547, Finland=2030.3, Sweden=5819.2, Ireland=1132, Denmark=992.7, Greece=1076.6.
+Total_GWh: Switzerland=33609.3, Czechia=49611, Netherlands=13302.8, Germany=45469.6, Poland=15373.6, Finland=33099.2, Sweden=3943.9, Ireland=25791.4, Denmark=33419.4, Greece=27743.3.

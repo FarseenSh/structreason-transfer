@@ -1,0 +1,13 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyO: {EPS=25, Total_assets_M=17702.9}
+  CompanyG: {EPS=6.9, Total_assets_M=10238.8}
+  CompanyR: {EPS=21.2, Total_assets_M=18750.8}
+  CompanyF: {EPS=0.3, Total_assets_M=32633.6}
+  CompanyM: {EPS=10.4, Total_assets_M=24617.3}
+
+Edges (top 3 by metric similarity):
+  CompanyG -- CompanyM (sim=1.00, similar EPS)
+  CompanyO -- CompanyR (sim=1.00, similar EPS)
+  CompanyF -- CompanyM (sim=1.00, similar EPS)

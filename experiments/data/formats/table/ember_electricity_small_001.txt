@@ -1,0 +1,7 @@
+| Entity | CO2_Mt | Hydro_GWh |
+|---|---|---|
+| Hungary | 18.6 | 4230.1 |
+| Romania | 41.5 | 5611.7 |
+| Spain | 66 | 4273.2 |
+| Finland | 69 | 3399.7 |
+| Ireland | 45.4 | 774.8 |

@@ -1,0 +1,5 @@
+The following 5 values represent Nuclear_GWh for each Entity (Austria, UK, Germany, Denmark, Switzerland), listed in order:
+[305.5, 7545.7, 12839.6, 10639.1, 11935.6]
+
+The following 5 values represent CO2_Mt for each Entity (Austria, UK, Germany, Denmark, Switzerland), listed in order:
+[31.8, 42.8, 3.6, 31.3, 38.5]

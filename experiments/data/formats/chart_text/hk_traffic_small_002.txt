@@ -1,0 +1,3 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Congestion_index: Route_E5=2.3, Route_I9=4, Route_G7=3, Route_H8=1.8, Route_K11=4.2.
+Bus_passengers: Route_E5=17789.9, Route_I9=2910, Route_G7=25235.4, Route_H8=7073, Route_K11=12684.9.

@@ -1,0 +1,94 @@
+{
+  "id": "ember_electricity_medium_006",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Solar_GWh",
+    "Wind_GWh",
+    "Nuclear_GWh",
+    "CO2_Mt"
+  ],
+  "data": [
+    {
+      "Entity": "Spain",
+      "Solar_GWh": 4202.9,
+      "Wind_GWh": 7093.5,
+      "Nuclear_GWh": 7431.3,
+      "CO2_Mt": 9.1
+    },
+    {
+      "Entity": "Switzerland",
+      "Solar_GWh": 266.7,
+      "Wind_GWh": 6154.3,
+      "Nuclear_GWh": 39.4,
+      "CO2_Mt": 12.6
+    },
+    {
+      "Entity": "Norway",
+      "Solar_GWh": 2867.2,
+      "Wind_GWh": 7273.9,
+      "Nuclear_GWh": 2903.8,
+      "CO2_Mt": 51.2
+    },
+    {
+      "Entity": "Austria",
+      "Solar_GWh": 408.4,
+      "Wind_GWh": 4163.6,
+      "Nuclear_GWh": 9476.0,
+      "CO2_Mt": 18.0
+    },
+    {
+      "Entity": "Italy",
+      "Solar_GWh": 2050.0,
+      "Wind_GWh": 8582.0,
+      "Nuclear_GWh": 13115.4,
+      "CO2_Mt": 74.3
+    },
+    {
+      "Entity": "Denmark",
+      "Solar_GWh": 191.9,
+      "Wind_GWh": 9400.1,
+      "Nuclear_GWh": 735.4,
+      "CO2_Mt": 73.7
+    },
+    {
+      "Entity": "Greece",
+      "Solar_GWh": 2867.7,
+      "Wind_GWh": 9383.0,
+      "Nuclear_GWh": 8378.3,
+      "CO2_Mt": 75.9
+    },
+    {
+      "Entity": "France",
+      "Solar_GWh": 4625.4,
+      "Wind_GWh": 3379.6,
+      "Nuclear_GWh": 9551.6,
+      "CO2_Mt": 24.1
+    },
+    {
+      "Entity": "Ireland",
+      "Solar_GWh": 691.3,
+      "Wind_GWh": 7916.1,
+      "Nuclear_GWh": 13985.9,
+      "CO2_Mt": 57.6
+    },
+    {
+      "Entity": "UK",
+      "Solar_GWh": 4437.8,
+      "Wind_GWh": 1947.5,
+      "Nuclear_GWh": 9827.2,
+      "CO2_Mt": 53.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Solar_GWh",
+    "Wind_GWh",
+    "Nuclear_GWh",
+    "CO2_Mt"
+  ]
+}

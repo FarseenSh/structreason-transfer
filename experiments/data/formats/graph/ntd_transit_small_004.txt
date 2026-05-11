@@ -1,0 +1,13 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Purple: {Vehicles_in_service=14, Avg_trip_minutes=52.9}
+  Line_Brown: {Vehicles_in_service=196.8, Avg_trip_minutes=17.4}
+  Line_Silver: {Vehicles_in_service=135.9, Avg_trip_minutes=16.7}
+  Bus_505: {Vehicles_in_service=169.6, Avg_trip_minutes=49.8}
+  Bus_202: {Vehicles_in_service=90.4, Avg_trip_minutes=49.9}
+
+Edges (top 3 by metric similarity):
+  Line_Brown -- Line_Silver (sim=1.00, similar Avg_trip_minutes)
+  Line_Silver -- Bus_505 (sim=0.99, similar Avg_trip_minutes)
+  Line_Brown -- Bus_505 (sim=0.98, similar Vehicles_in_service)

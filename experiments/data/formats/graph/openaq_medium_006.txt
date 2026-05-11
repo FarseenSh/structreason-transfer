@@ -1,0 +1,20 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_N15: {PM25_ug_m3=58.9, PM10_ug_m3=52.6, NO2_ppb=46.8, Temperature_C=3.1}
+  Station_C5: {PM25_ug_m3=28.7, PM10_ug_m3=100.1, NO2_ppb=12.4, Temperature_C=3.4}
+  Station_NE2: {PM25_ug_m3=48.7, PM10_ug_m3=13.7, NO2_ppb=25.1, Temperature_C=35}
+  Station_R19: {PM25_ug_m3=58.7, PM10_ug_m3=32.4, NO2_ppb=42.4, Temperature_C=21}
+  Station_NE11: {PM25_ug_m3=64.4, PM10_ug_m3=27.1, NO2_ppb=6.2, Temperature_C=27.3}
+  Station_NW10: {PM25_ug_m3=39.2, PM10_ug_m3=67, NO2_ppb=28.9, Temperature_C=10.8}
+  Station_N6: {PM25_ug_m3=46.7, PM10_ug_m3=17, NO2_ppb=56.1, Temperature_C=32.5}
+  Station_SE3: {PM25_ug_m3=18.6, PM10_ug_m3=46.5, NO2_ppb=9.5, Temperature_C=20}
+  Station_SE12: {PM25_ug_m3=21, PM10_ug_m3=118.5, NO2_ppb=54.8, Temperature_C=20.8}
+  Station_W9: {PM25_ug_m3=55.7, PM10_ug_m3=97, NO2_ppb=15.7, Temperature_C=27.3}
+
+Edges (top 5 by metric similarity):
+  Station_SE3 -- Station_W9 (sim=0.98, similar NO2_ppb)
+  Station_NW10 -- Station_W9 (sim=0.97, similar NO2_ppb)
+  Station_N15 -- Station_R19 (sim=0.96, similar PM25_ug_m3)
+  Station_C5 -- Station_W9 (sim=0.95, similar PM10_ug_m3)
+  Station_NW10 -- Station_SE3 (sim=0.95, similar Temperature_C)

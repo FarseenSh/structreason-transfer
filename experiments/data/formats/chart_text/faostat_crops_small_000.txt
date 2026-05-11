@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Wheat_tonnes_ha: China=6.1, Egypt=5.9, France=4.6, Canada=1.5, Germany=4.9.
+Yield_index: China=148.7, Egypt=88.2, France=145, Canada=61.8, Germany=169.

@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Education_spending_pct: Switzerland=4.7, Portugal=5.3, Spain=5.3, Denmark=5.1, Greece=5.4, Sweden=6.9, Bulgaria=5, Netherlands=8.2, Czechia=8.1, Italy=5.9.
+Unemployment_pct: Switzerland=8.9, Portugal=12.9, Spain=19, Denmark=15.2, Greece=18.2, Sweden=12.9, Bulgaria=14.8, Netherlands=8.1, Czechia=16.8, Italy=6.4.
+Govt_expenditure_pct_GDP: Switzerland=49.5, Portugal=54.1, Spain=33.7, Denmark=47.2, Greece=32.7, Sweden=50.3, Bulgaria=32.4, Netherlands=56.2, Czechia=33.8, Italy=56.8.
+Trust_in_govt_pct: Switzerland=64.9, Portugal=51.2, Spain=63.7, Denmark=64.5, Greece=74.4, Sweden=28.7, Bulgaria=50.9, Netherlands=18.3, Czechia=52.7, Italy=23.3.

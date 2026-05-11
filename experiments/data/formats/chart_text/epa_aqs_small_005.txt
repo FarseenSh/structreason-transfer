@@ -1,0 +1,3 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+SO2_ppb: Station_S16=7.4, Station_C14=9.9, Station_SE12=11.1, Station_U20=18.9, Station_R19=23.2.
+CO_ppm: Station_S16=1.6, Station_C14=2.2, Station_SE12=2.8, Station_U20=1.9, Station_R19=2.4.

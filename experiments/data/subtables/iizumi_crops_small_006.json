@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_006",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Rice_tonnes_ha",
+    "Fertilizer_kg_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Ukraine",
+      "Rice_tonnes_ha": 3.2,
+      "Fertilizer_kg_ha": 204.5
+    },
+    {
+      "Entity": "Canada",
+      "Rice_tonnes_ha": 5.1,
+      "Fertilizer_kg_ha": 138.4
+    },
+    {
+      "Entity": "France",
+      "Rice_tonnes_ha": 2.8,
+      "Fertilizer_kg_ha": 191.9
+    },
+    {
+      "Entity": "Nigeria",
+      "Rice_tonnes_ha": 4.8,
+      "Fertilizer_kg_ha": 184.8
+    },
+    {
+      "Entity": "Argentina",
+      "Rice_tonnes_ha": 2.6,
+      "Fertilizer_kg_ha": 365.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Rice_tonnes_ha",
+    "Fertilizer_kg_ha"
+  ]
+}

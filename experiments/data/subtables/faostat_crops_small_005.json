@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_005",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Area_harvested_kha",
+    "Maize_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Argentina",
+      "Area_harvested_kha": 34218.5,
+      "Maize_tonnes_ha": 2.9
+    },
+    {
+      "Entity": "Egypt",
+      "Area_harvested_kha": 30256.1,
+      "Maize_tonnes_ha": 11.3
+    },
+    {
+      "Entity": "Mexico",
+      "Area_harvested_kha": 698.1,
+      "Maize_tonnes_ha": 9.8
+    },
+    {
+      "Entity": "Canada",
+      "Area_harvested_kha": 26405.6,
+      "Maize_tonnes_ha": 3.5
+    },
+    {
+      "Entity": "Pakistan",
+      "Area_harvested_kha": 20272.0,
+      "Maize_tonnes_ha": 11.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Area_harvested_kha",
+    "Maize_tonnes_ha"
+  ]
+}

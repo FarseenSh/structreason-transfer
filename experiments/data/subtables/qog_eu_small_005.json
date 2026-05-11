@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_005",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Gini_index",
+    "Education_spending_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Poland",
+      "Gini_index": 32.8,
+      "Education_spending_pct": 5.7
+    },
+    {
+      "Entity": "Belgium",
+      "Gini_index": 26.0,
+      "Education_spending_pct": 6.6
+    },
+    {
+      "Entity": "France",
+      "Gini_index": 37.6,
+      "Education_spending_pct": 6.4
+    },
+    {
+      "Entity": "Hungary",
+      "Gini_index": 35.9,
+      "Education_spending_pct": 6.7
+    },
+    {
+      "Entity": "Spain",
+      "Gini_index": 35.2,
+      "Education_spending_pct": 3.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Gini_index",
+    "Education_spending_pct"
+  ]
+}

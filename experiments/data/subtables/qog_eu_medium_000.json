@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_000",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "HDI",
+    "Life_expectancy",
+    "Trust_in_govt_pct",
+    "Govt_expenditure_pct_GDP"
+  ],
+  "data": [
+    {
+      "Entity": "Germany",
+      "HDI": 0.8,
+      "Life_expectancy": 82.5,
+      "Trust_in_govt_pct": 56.7,
+      "Govt_expenditure_pct_GDP": 33.5
+    },
+    {
+      "Entity": "Netherlands",
+      "HDI": 0.9,
+      "Life_expectancy": 74.4,
+      "Trust_in_govt_pct": 20.0,
+      "Govt_expenditure_pct_GDP": 56.0
+    },
+    {
+      "Entity": "Sweden",
+      "HDI": 0.8,
+      "Life_expectancy": 75.7,
+      "Trust_in_govt_pct": 45.4,
+      "Govt_expenditure_pct_GDP": 41.1
+    },
+    {
+      "Entity": "Greece",
+      "HDI": 0.9,
+      "Life_expectancy": 81.3,
+      "Trust_in_govt_pct": 57.8,
+      "Govt_expenditure_pct_GDP": 38.4
+    },
+    {
+      "Entity": "Czechia",
+      "HDI": 0.8,
+      "Life_expectancy": 83.7,
+      "Trust_in_govt_pct": 50.4,
+      "Govt_expenditure_pct_GDP": 43.7
+    },
+    {
+      "Entity": "France",
+      "HDI": 0.8,
+      "Life_expectancy": 78.0,
+      "Trust_in_govt_pct": 25.2,
+      "Govt_expenditure_pct_GDP": 48.6
+    },
+    {
+      "Entity": "Bulgaria",
+      "HDI": 0.9,
+      "Life_expectancy": 73.7,
+      "Trust_in_govt_pct": 65.1,
+      "Govt_expenditure_pct_GDP": 56.8
+    },
+    {
+      "Entity": "Italy",
+      "HDI": 0.8,
+      "Life_expectancy": 72.2,
+      "Trust_in_govt_pct": 59.2,
+      "Govt_expenditure_pct_GDP": 38.0
+    },
+    {
+      "Entity": "Romania",
+      "HDI": 0.8,
+      "Life_expectancy": 74.8,
+      "Trust_in_govt_pct": 60.8,
+      "Govt_expenditure_pct_GDP": 55.9
+    },
+    {
+      "Entity": "Belgium",
+      "HDI": 0.9,
+      "Life_expectancy": 73.6,
+      "Trust_in_govt_pct": 20.6,
+      "Govt_expenditure_pct_GDP": 30.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "HDI",
+    "Life_expectancy",
+    "Trust_in_govt_pct",
+    "Govt_expenditure_pct_GDP"
+  ]
+}

@@ -1,0 +1,7 @@
+| Entity | Operating_margin_pct | EPS |
+|---|---|---|
+| CompanyO | 10.1 | 1.8 |
+| CompanyT | 31.2 | 11.4 |
+| CompanyD | 24.4 | 13.8 |
+| CompanyQ | 4 | 15.2 |
+| CompanyS | 22.4 | 1.9 |

@@ -1,0 +1,35 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Italy: {Unemployment_pct=18.6, HDI=0.8, Govt_expenditure_pct_GDP=54.9, Gini_index=27.5, Trust_in_govt_pct=65.2, GDP_per_capita=80294.6, Life_expectancy=83.1}
+  Finland: {Unemployment_pct=10.3, HDI=0.9, Govt_expenditure_pct_GDP=43.2, Gini_index=33.4, Trust_in_govt_pct=23.2, GDP_per_capita=42404.4, Life_expectancy=79.2}
+  Austria: {Unemployment_pct=21.8, HDI=0.9, Govt_expenditure_pct_GDP=43.3, Gini_index=26.5, Trust_in_govt_pct=76.6, GDP_per_capita=38048.4, Life_expectancy=80}
+  Spain: {Unemployment_pct=5.2, HDI=0.8, Govt_expenditure_pct_GDP=56.2, Gini_index=38.1, Trust_in_govt_pct=44.9, GDP_per_capita=46573.3, Life_expectancy=72.6}
+  Ireland: {Unemployment_pct=15.2, HDI=0.8, Govt_expenditure_pct_GDP=31.7, Gini_index=38.8, Trust_in_govt_pct=44.6, GDP_per_capita=54755.4, Life_expectancy=83.3}
+  Germany: {Unemployment_pct=11.3, HDI=0.9, Govt_expenditure_pct_GDP=36, Gini_index=24.7, Trust_in_govt_pct=76.1, GDP_per_capita=47327.3, Life_expectancy=76.7}
+  Belgium: {Unemployment_pct=10.2, HDI=0.9, Govt_expenditure_pct_GDP=46.4, Gini_index=24.8, Trust_in_govt_pct=37.1, GDP_per_capita=61112.7, Life_expectancy=83.1}
+  France: {Unemployment_pct=19.6, HDI=0.9, Govt_expenditure_pct_GDP=35.5, Gini_index=25, Trust_in_govt_pct=38.2, GDP_per_capita=53807.9, Life_expectancy=78.9}
+  Czechia: {Unemployment_pct=21.5, HDI=0.8, Govt_expenditure_pct_GDP=49, Gini_index=33.5, Trust_in_govt_pct=50.6, GDP_per_capita=37450.1, Life_expectancy=72.1}
+  Poland: {Unemployment_pct=19.5, HDI=0.8, Govt_expenditure_pct_GDP=36, Gini_index=25.1, Trust_in_govt_pct=20.5, GDP_per_capita=39201.2, Life_expectancy=72.5}
+  Greece: {Unemployment_pct=6.2, HDI=0.9, Govt_expenditure_pct_GDP=32.8, Gini_index=37.5, Trust_in_govt_pct=33.2, GDP_per_capita=41501.5, Life_expectancy=80.2}
+  Romania: {Unemployment_pct=6.8, HDI=0.8, Govt_expenditure_pct_GDP=35.8, Gini_index=35.8, Trust_in_govt_pct=24.8, GDP_per_capita=21624.8, Life_expectancy=78.8}
+  Portugal: {Unemployment_pct=15.3, HDI=0.9, Govt_expenditure_pct_GDP=41.8, Gini_index=36.9, Trust_in_govt_pct=18.8, GDP_per_capita=26624.4, Life_expectancy=72.3}
+  Netherlands: {Unemployment_pct=8.1, HDI=0.9, Govt_expenditure_pct_GDP=34.9, Gini_index=31.9, Trust_in_govt_pct=69.2, GDP_per_capita=65618, Life_expectancy=80.9}
+  Bulgaria: {Unemployment_pct=16.8, HDI=0.8, Govt_expenditure_pct_GDP=33.8, Gini_index=39.9, Trust_in_govt_pct=50.9, GDP_per_capita=42236.8, Life_expectancy=82.2}
+  Hungary: {Unemployment_pct=13.5, HDI=0.8, Govt_expenditure_pct_GDP=54.1, Gini_index=23.8, Trust_in_govt_pct=35.7, GDP_per_capita=30017.7, Life_expectancy=78}
+  Norway: {Unemployment_pct=13.2, HDI=0.8, Govt_expenditure_pct_GDP=39, Gini_index=29.8, Trust_in_govt_pct=39, GDP_per_capita=54387.1, Life_expectancy=77.6}
+  Denmark: {Unemployment_pct=18.7, HDI=0.9, Govt_expenditure_pct_GDP=40.1, Gini_index=28.5, Trust_in_govt_pct=40.5, GDP_per_capita=67887.8, Life_expectancy=72.1}
+  Switzerland: {Unemployment_pct=16.4, HDI=0.9, Govt_expenditure_pct_GDP=31.5, Gini_index=39.1, Trust_in_govt_pct=53.8, GDP_per_capita=33019.6, Life_expectancy=81.4}
+  Sweden: {Unemployment_pct=3, HDI=0.8, Govt_expenditure_pct_GDP=40, Gini_index=32.8, Trust_in_govt_pct=73.2, GDP_per_capita=72875.3, Life_expectancy=76}
+
+Edges (top 10 by metric similarity):
+  France -- Norway (sim=1.00, similar HDI)
+  Belgium -- Norway (sim=1.00, similar HDI)
+  Netherlands -- Sweden (sim=1.00, similar HDI)
+  Italy -- Denmark (sim=1.00, similar Unemployment_pct)
+  Ireland -- Norway (sim=1.00, similar HDI)
+  Belgium -- France (sim=1.00, similar HDI)
+  Ireland -- France (sim=1.00, similar HDI)
+  Finland -- Poland (sim=1.00, similar HDI)
+  Italy -- Sweden (sim=1.00, similar HDI)
+  Belgium -- Denmark (sim=1.00, similar HDI)

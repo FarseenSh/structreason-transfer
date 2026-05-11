@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Nuclear_GWh: Germany=3878.8, Romania=12296.1, Czechia=45.9, Greece=9295.2, Sweden=14021.4, France=11817.9, UK=12804.5, Denmark=5954.3, Spain=12363.6, Finland=8262.5.
+Solar_GWh: Germany=3749.4, Romania=447.6, Czechia=1289.2, Greece=3350.7, Sweden=446.9, France=4474.5, UK=5056.3, Denmark=5530.1, Spain=700.4, Finland=5644.3.
+Hydro_GWh: Germany=634.2, Romania=3845, Czechia=6738, Greece=655.5, Sweden=244, France=297.1, UK=4139, Denmark=6511.6, Spain=1106.7, Finland=1084.4.
+Gas_GWh: Germany=5814.9, Romania=2572.7, Czechia=7383.1, Greece=9511.5, Sweden=7730.5, France=8808.6, UK=5340, Denmark=8373.5, Spain=2074.2, Finland=963.

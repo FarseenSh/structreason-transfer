@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_004",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "CO2_Mt",
+    "Total_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Switzerland",
+      "CO2_Mt": 36.4,
+      "Total_GWh": 33466.3
+    },
+    {
+      "Entity": "Sweden",
+      "CO2_Mt": 53.8,
+      "Total_GWh": 18843.0
+    },
+    {
+      "Entity": "Romania",
+      "CO2_Mt": 30.7,
+      "Total_GWh": 45879.7
+    },
+    {
+      "Entity": "Spain",
+      "CO2_Mt": 26.3,
+      "Total_GWh": 25928.6
+    },
+    {
+      "Entity": "Finland",
+      "CO2_Mt": 66.9,
+      "Total_GWh": 11037.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO2_Mt",
+    "Total_GWh"
+  ]
+}

@@ -1,0 +1,20 @@
+The following 20 values represent Trust_in_govt_pct for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[72.8, 33.1, 59.9, 42.4, 55.6, 51.6, 43.2, 74.7, 34.6, 23.7, 56.8, 67.8, 14.7, 41.7, 70.9, 61.5, 77.5, 47.1, 55.6, 32]
+
+The following 20 values represent Unemployment_pct for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[21, 9.6, 16.9, 10.4, 13.5, 16.5, 12.4, 20.2, 10.7, 15.1, 9.2, 10.5, 11.1, 5, 4.3, 15.5, 15.3, 15.4, 2.9, 8.9]
+
+The following 20 values represent HDI for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[0.8, 0.9, 0.9, 0.8, 0.9, 0.8, 0.8, 0.8, 0.8, 0.9, 0.9, 0.8, 0.9, 0.9, 1, 0.9, 0.8, 0.9, 0.8, 1]
+
+The following 20 values represent Life_expectancy for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[76.8, 80.2, 72.3, 76.8, 82.5, 79.3, 77.3, 83.2, 82.2, 75.9, 78.5, 77.9, 79.6, 76, 74.9, 83, 83.1, 82.1, 83.7, 80.9]
+
+The following 20 values represent GDP_per_capita for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[68526.7, 68381.3, 48642.5, 46951.7, 31815.8, 60137.3, 35252.4, 33046.6, 56017.3, 43698.8, 30320, 72123.9, 75239.9, 26739, 15525.5, 38529.1, 70825.8, 73742.2, 24683, 69203.5]
+
+The following 20 values represent Govt_expenditure_pct_GDP for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[33.2, 40.9, 58, 35.4, 34.3, 41.8, 47.4, 56.1, 57.5, 31.9, 33.9, 52.1, 37.6, 54.8, 48.6, 33.1, 53.3, 34.9, 41.9, 45.5]
+
+The following 20 values represent Gini_index for each Entity (Germany, Italy, Romania, Poland, Denmark, France, Norway, Greece, Netherlands, Austria, Czechia, Sweden, Spain, Portugal, Finland, Ireland, Hungary, Switzerland, Belgium, Bulgaria), listed in order:
+[31.5, 34.7, 34.1, 39.9, 40, 31.8, 24.6, 35.4, 39.6, 28.4, 30.8, 30.2, 23.9, 34.4, 29, 36.4, 37.1, 37, 30.1, 28.5]

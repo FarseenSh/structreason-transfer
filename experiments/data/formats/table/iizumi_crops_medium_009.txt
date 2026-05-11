@@ -1,0 +1,12 @@
+| Entity | Area_harvested_kha | Wheat_tonnes_ha | Maize_tonnes_ha | Yield_index |
+|---|---|---|---|---|
+| Brazil | 22447.9 | 4.6 | 5.3 | 65.2 |
+| Bangladesh | 34426.6 | 3 | 4.2 | 137.8 |
+| USA | 31404.9 | 8.7 | 3.1 | 127.6 |
+| Argentina | 24722.6 | 9 | 4.2 | 141.7 |
+| Australia | 34675.6 | 4.3 | 11.1 | 128.1 |
+| Germany | 25437.6 | 6.8 | 2.9 | 112.5 |
+| Thailand | 12204.2 | 4.6 | 5.2 | 102 |
+| Indonesia | 21242 | 2.5 | 7.3 | 87.2 |
+| Egypt | 3251.9 | 4 | 5.5 | 120 |
+| France | 8148 | 3.3 | 7.2 | 63.1 |

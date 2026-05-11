@@ -1,0 +1,20 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Portugal: {Trust_in_govt_pct=67.7, Unemployment_pct=11.9, Life_expectancy=73.3, GDP_per_capita=36527.5}
+  Bulgaria: {Trust_in_govt_pct=54.1, Unemployment_pct=17.5, Life_expectancy=76.8, GDP_per_capita=56893.4}
+  Germany: {Trust_in_govt_pct=54.8, Unemployment_pct=19.1, Life_expectancy=83, GDP_per_capita=15512}
+  Poland: {Trust_in_govt_pct=56.2, Unemployment_pct=12.3, Life_expectancy=79.6, GDP_per_capita=34461.5}
+  Romania: {Trust_in_govt_pct=62.4, Unemployment_pct=20.2, Life_expectancy=74.1, GDP_per_capita=64212.3}
+  Austria: {Trust_in_govt_pct=15.8, Unemployment_pct=13.9, Life_expectancy=76.1, GDP_per_capita=59363.9}
+  Italy: {Trust_in_govt_pct=36.2, Unemployment_pct=19.1, Life_expectancy=74.3, GDP_per_capita=83726.4}
+  Greece: {Trust_in_govt_pct=47.6, Unemployment_pct=9.1, Life_expectancy=72.3, GDP_per_capita=58425}
+  Ireland: {Trust_in_govt_pct=34.3, Unemployment_pct=12.2, Life_expectancy=83.1, GDP_per_capita=48425.4}
+  Norway: {Trust_in_govt_pct=67.7, Unemployment_pct=12.9, Life_expectancy=77.4, GDP_per_capita=68300.3}
+
+Edges (top 5 by metric similarity):
+  Romania -- Norway (sim=1.00, similar Life_expectancy)
+  Bulgaria -- Romania (sim=1.00, similar Unemployment_pct)
+  Greece -- Norway (sim=1.00, similar Unemployment_pct)
+  Bulgaria -- Greece (sim=1.00, similar Life_expectancy)
+  Romania -- Greece (sim=1.00, similar Life_expectancy)

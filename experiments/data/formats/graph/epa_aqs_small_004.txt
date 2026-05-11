@@ -1,0 +1,13 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_NW1: {NO2_ppb=42.8, PM25_ug_m3=38.2}
+  Station_W18: {NO2_ppb=16, PM25_ug_m3=25.7}
+  Station_E8: {NO2_ppb=47.2, PM25_ug_m3=8.2}
+  Station_S7: {NO2_ppb=18.7, PM25_ug_m3=54.3}
+  Station_C5: {NO2_ppb=46.8, PM25_ug_m3=61.3}
+
+Edges (top 3 by metric similarity):
+  Station_W18 -- Station_C5 (sim=1.00, similar NO2_ppb)
+  Station_NW1 -- Station_C5 (sim=0.98, similar NO2_ppb)
+  Station_W18 -- Station_S7 (sim=0.97, similar NO2_ppb)

@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Turkey: {Soybean_tonnes_ha=3.6, Fertilizer_kg_ha=312.7, Area_harvested_kha=17525, Maize_tonnes_ha=6.4}
+  Russia: {Soybean_tonnes_ha=3.5, Fertilizer_kg_ha=352.5, Area_harvested_kha=6419.3, Maize_tonnes_ha=10.9}
+  Egypt: {Soybean_tonnes_ha=3.6, Fertilizer_kg_ha=240.5, Area_harvested_kha=11285.8, Maize_tonnes_ha=5.8}
+  Australia: {Soybean_tonnes_ha=2, Fertilizer_kg_ha=63, Area_harvested_kha=33398.6, Maize_tonnes_ha=10.6}
+  China: {Soybean_tonnes_ha=2.4, Fertilizer_kg_ha=135.4, Area_harvested_kha=15402.5, Maize_tonnes_ha=2.3}
+  Canada: {Soybean_tonnes_ha=3.5, Fertilizer_kg_ha=345.7, Area_harvested_kha=15735.2, Maize_tonnes_ha=5.5}
+  Thailand: {Soybean_tonnes_ha=3.7, Fertilizer_kg_ha=152.1, Area_harvested_kha=5780.9, Maize_tonnes_ha=10.6}
+  India: {Soybean_tonnes_ha=1.4, Fertilizer_kg_ha=59.1, Area_harvested_kha=11007.1, Maize_tonnes_ha=11}
+  Indonesia: {Soybean_tonnes_ha=1.5, Fertilizer_kg_ha=134.8, Area_harvested_kha=28606.7, Maize_tonnes_ha=9.6}
+  Mexico: {Soybean_tonnes_ha=2, Fertilizer_kg_ha=326.5, Area_harvested_kha=27623.9, Maize_tonnes_ha=8.7}
+
+Edges (top 5 by metric similarity):
+  Egypt -- Canada (sim=1.00, similar Soybean_tonnes_ha)
+  India -- Indonesia (sim=1.00, similar Soybean_tonnes_ha)
+  Australia -- Indonesia (sim=1.00, similar Soybean_tonnes_ha)
+  China -- Mexico (sim=1.00, similar Soybean_tonnes_ha)
+  Turkey -- Egypt (sim=1.00, similar Soybean_tonnes_ha)

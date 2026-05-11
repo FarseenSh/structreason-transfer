@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_007",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Production_Mt",
+    "Fertilizer_kg_ha",
+    "Soybean_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Bangladesh",
+      "Yield_index": 97.4,
+      "Production_Mt": 128.4,
+      "Fertilizer_kg_ha": 344.6,
+      "Soybean_tonnes_ha": 1.2
+    },
+    {
+      "Entity": "France",
+      "Yield_index": 135.6,
+      "Production_Mt": 43.1,
+      "Fertilizer_kg_ha": 322.5,
+      "Soybean_tonnes_ha": 1.0
+    },
+    {
+      "Entity": "Ukraine",
+      "Yield_index": 135.2,
+      "Production_Mt": 130.1,
+      "Fertilizer_kg_ha": 57.3,
+      "Soybean_tonnes_ha": 1.3
+    },
+    {
+      "Entity": "China",
+      "Yield_index": 160.7,
+      "Production_Mt": 119.9,
+      "Fertilizer_kg_ha": 391.3,
+      "Soybean_tonnes_ha": 1.3
+    },
+    {
+      "Entity": "Brazil",
+      "Yield_index": 148.8,
+      "Production_Mt": 15.2,
+      "Fertilizer_kg_ha": 25.6,
+      "Soybean_tonnes_ha": 2.8
+    },
+    {
+      "Entity": "Egypt",
+      "Yield_index": 160.9,
+      "Production_Mt": 86.2,
+      "Fertilizer_kg_ha": 246.8,
+      "Soybean_tonnes_ha": 2.6
+    },
+    {
+      "Entity": "Thailand",
+      "Yield_index": 135.0,
+      "Production_Mt": 226.8,
+      "Fertilizer_kg_ha": 321.2,
+      "Soybean_tonnes_ha": 2.4
+    },
+    {
+      "Entity": "Indonesia",
+      "Yield_index": 113.9,
+      "Production_Mt": 175.5,
+      "Fertilizer_kg_ha": 146.1,
+      "Soybean_tonnes_ha": 3.1
+    },
+    {
+      "Entity": "Mexico",
+      "Yield_index": 107.2,
+      "Production_Mt": 242.8,
+      "Fertilizer_kg_ha": 247.5,
+      "Soybean_tonnes_ha": 1.1
+    },
+    {
+      "Entity": "Argentina",
+      "Yield_index": 105.5,
+      "Production_Mt": 165.1,
+      "Fertilizer_kg_ha": 157.6,
+      "Soybean_tonnes_ha": 1.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Production_Mt",
+    "Fertilizer_kg_ha",
+    "Soybean_tonnes_ha"
+  ]
+}

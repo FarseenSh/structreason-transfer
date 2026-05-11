@@ -1,0 +1,3 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Total_GWh: UK=24022.4, Greece=11702.5, Portugal=36626.8, Ireland=6944.3, Czechia=26348.1.
+CO2_Mt: UK=14.4, Greece=4.7, Portugal=12.3, Ireland=69.7, Czechia=14.9.

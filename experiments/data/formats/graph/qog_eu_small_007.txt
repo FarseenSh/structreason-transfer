@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  France: {Unemployment_pct=4.6, Education_spending_pct=7.3}
+  Austria: {Unemployment_pct=15.6, Education_spending_pct=4}
+  Poland: {Unemployment_pct=8, Education_spending_pct=8.1}
+  Switzerland: {Unemployment_pct=15.4, Education_spending_pct=4.7}
+  Bulgaria: {Unemployment_pct=16.7, Education_spending_pct=3.7}
+
+Edges (top 3 by metric similarity):
+  Austria -- Bulgaria (sim=1.00, similar Education_spending_pct)
+  Austria -- Switzerland (sim=1.00, similar Unemployment_pct)
+  Switzerland -- Bulgaria (sim=1.00, similar Education_spending_pct)

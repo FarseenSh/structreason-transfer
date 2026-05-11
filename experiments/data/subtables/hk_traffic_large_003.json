@@ -1,0 +1,230 @@
+{
+  "id": "hk_traffic_large_003",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "Bus_passengers",
+    "Peak_hour_flow",
+    "Accidents_monthly",
+    "Road_condition_score",
+    "Daily_vehicles",
+    "Avg_speed_kmh",
+    "Transit_ridership"
+  ],
+  "data": [
+    {
+      "Entity": "Route_E5",
+      "Bus_passengers": 37281.8,
+      "Peak_hour_flow": 10386.3,
+      "Accidents_monthly": 5.3,
+      "Road_condition_score": 97.5,
+      "Daily_vehicles": 54740.4,
+      "Avg_speed_kmh": 23.4,
+      "Transit_ridership": 184187.4
+    },
+    {
+      "Entity": "Route_R18",
+      "Bus_passengers": 46419.6,
+      "Peak_hour_flow": 8498.3,
+      "Accidents_monthly": 26.2,
+      "Road_condition_score": 85.4,
+      "Daily_vehicles": 43910.2,
+      "Avg_speed_kmh": 68.1,
+      "Transit_ridership": 152297.5
+    },
+    {
+      "Entity": "Route_D4",
+      "Bus_passengers": 4664.3,
+      "Peak_hour_flow": 19360.9,
+      "Accidents_monthly": 16.1,
+      "Road_condition_score": 94.4,
+      "Daily_vehicles": 79404.3,
+      "Avg_speed_kmh": 61.6,
+      "Transit_ridership": 123838.7
+    },
+    {
+      "Entity": "Route_P16",
+      "Bus_passengers": 6398.3,
+      "Peak_hour_flow": 24030.0,
+      "Accidents_monthly": 15.9,
+      "Road_condition_score": 92.3,
+      "Daily_vehicles": 86814.6,
+      "Avg_speed_kmh": 64.3,
+      "Transit_ridership": 38573.3
+    },
+    {
+      "Entity": "Route_B2",
+      "Bus_passengers": 34905.9,
+      "Peak_hour_flow": 3604.5,
+      "Accidents_monthly": 2.3,
+      "Road_condition_score": 41.2,
+      "Daily_vehicles": 88889.9,
+      "Avg_speed_kmh": 40.5,
+      "Transit_ridership": 110953.5
+    },
+    {
+      "Entity": "Route_I9",
+      "Bus_passengers": 32750.2,
+      "Peak_hour_flow": 25807.9,
+      "Accidents_monthly": 27.6,
+      "Road_condition_score": 85.9,
+      "Daily_vehicles": 55786.7,
+      "Avg_speed_kmh": 70.5,
+      "Transit_ridership": 154248.4
+    },
+    {
+      "Entity": "Route_J10",
+      "Bus_passengers": 4372.5,
+      "Peak_hour_flow": 26101.5,
+      "Accidents_monthly": 13.4,
+      "Road_condition_score": 66.2,
+      "Daily_vehicles": 44793.4,
+      "Avg_speed_kmh": 41.9,
+      "Transit_ridership": 106567.1
+    },
+    {
+      "Entity": "Route_T20",
+      "Bus_passengers": 41886.7,
+      "Peak_hour_flow": 11583.5,
+      "Accidents_monthly": 10.1,
+      "Road_condition_score": 85.8,
+      "Daily_vehicles": 68471.6,
+      "Avg_speed_kmh": 52.1,
+      "Transit_ridership": 174306.6
+    },
+    {
+      "Entity": "Route_H8",
+      "Bus_passengers": 26647.8,
+      "Peak_hour_flow": 20452.1,
+      "Accidents_monthly": 3.7,
+      "Road_condition_score": 40.4,
+      "Daily_vehicles": 80449.1,
+      "Avg_speed_kmh": 15.0,
+      "Transit_ridership": 26382.9
+    },
+    {
+      "Entity": "Route_M13",
+      "Bus_passengers": 45452.7,
+      "Peak_hour_flow": 13273.2,
+      "Accidents_monthly": 17.7,
+      "Road_condition_score": 56.7,
+      "Daily_vehicles": 55668.4,
+      "Avg_speed_kmh": 56.9,
+      "Transit_ridership": 79283.4
+    },
+    {
+      "Entity": "Route_O15",
+      "Bus_passengers": 44021.6,
+      "Peak_hour_flow": 6317.3,
+      "Accidents_monthly": 39.8,
+      "Road_condition_score": 83.6,
+      "Daily_vehicles": 67998.3,
+      "Avg_speed_kmh": 61.7,
+      "Transit_ridership": 103663.1
+    },
+    {
+      "Entity": "Route_K11",
+      "Bus_passengers": 40812.9,
+      "Peak_hour_flow": 16802.5,
+      "Accidents_monthly": 16.5,
+      "Road_condition_score": 86.0,
+      "Daily_vehicles": 72475.6,
+      "Avg_speed_kmh": 51.9,
+      "Transit_ridership": 89303.4
+    },
+    {
+      "Entity": "Route_A1",
+      "Bus_passengers": 26279.0,
+      "Peak_hour_flow": 4418.1,
+      "Accidents_monthly": 31.2,
+      "Road_condition_score": 75.9,
+      "Daily_vehicles": 65875.4,
+      "Avg_speed_kmh": 47.3,
+      "Transit_ridership": 26174.4
+    },
+    {
+      "Entity": "Route_Q17",
+      "Bus_passengers": 13333.8,
+      "Peak_hour_flow": 26597.2,
+      "Accidents_monthly": 34.5,
+      "Road_condition_score": 57.5,
+      "Daily_vehicles": 72152.0,
+      "Avg_speed_kmh": 67.6,
+      "Transit_ridership": 34938.0
+    },
+    {
+      "Entity": "Route_F6",
+      "Bus_passengers": 25792.8,
+      "Peak_hour_flow": 27880.1,
+      "Accidents_monthly": 16.1,
+      "Road_condition_score": 58.0,
+      "Daily_vehicles": 23778.1,
+      "Avg_speed_kmh": 59.3,
+      "Transit_ridership": 168335.4
+    },
+    {
+      "Entity": "Route_C3",
+      "Bus_passengers": 5939.8,
+      "Peak_hour_flow": 25005.2,
+      "Accidents_monthly": 37.3,
+      "Road_condition_score": 96.1,
+      "Daily_vehicles": 49853.7,
+      "Avg_speed_kmh": 33.1,
+      "Transit_ridership": 99454.9
+    },
+    {
+      "Entity": "Route_S19",
+      "Bus_passengers": 33283.5,
+      "Peak_hour_flow": 17750.8,
+      "Accidents_monthly": 31.8,
+      "Road_condition_score": 65.5,
+      "Daily_vehicles": 57944.2,
+      "Avg_speed_kmh": 77.3,
+      "Transit_ridership": 14500.9
+    },
+    {
+      "Entity": "Route_L12",
+      "Bus_passengers": 7564.9,
+      "Peak_hour_flow": 17612.8,
+      "Accidents_monthly": 26.0,
+      "Road_condition_score": 65.9,
+      "Daily_vehicles": 5223.0,
+      "Avg_speed_kmh": 61.0,
+      "Transit_ridership": 8215.8
+    },
+    {
+      "Entity": "Route_G7",
+      "Bus_passengers": 26047.5,
+      "Peak_hour_flow": 29569.0,
+      "Accidents_monthly": 2.0,
+      "Road_condition_score": 72.0,
+      "Daily_vehicles": 82036.6,
+      "Avg_speed_kmh": 79.2,
+      "Transit_ridership": 97327.7
+    },
+    {
+      "Entity": "Route_N14",
+      "Bus_passengers": 3664.7,
+      "Peak_hour_flow": 8941.2,
+      "Accidents_monthly": 3.5,
+      "Road_condition_score": 63.8,
+      "Daily_vehicles": 59902.2,
+      "Avg_speed_kmh": 78.1,
+      "Transit_ridership": 37053.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Bus_passengers",
+    "Peak_hour_flow",
+    "Accidents_monthly",
+    "Road_condition_score",
+    "Daily_vehicles",
+    "Avg_speed_kmh",
+    "Transit_ridership"
+  ]
+}

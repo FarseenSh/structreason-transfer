@@ -1,0 +1,12 @@
+| Entity | Rice_tonnes_ha | Maize_tonnes_ha | Yield_index | Fertilizer_kg_ha |
+|---|---|---|---|---|
+| Thailand | 6.5 | 4.1 | 142.9 | 71.9 |
+| Canada | 2.9 | 2.2 | 100.9 | 176.2 |
+| Australia | 3.1 | 9.6 | 123.3 | 187.8 |
+| Russia | 2 | 6.3 | 140.3 | 61.5 |
+| France | 4.9 | 11.5 | 153.9 | 368.3 |
+| Mexico | 3.1 | 7.3 | 69.6 | 247.7 |
+| USA | 6 | 3.6 | 62.7 | 167.6 |
+| Nigeria | 7.3 | 6.5 | 73.7 | 212.6 |
+| Brazil | 3.1 | 4 | 107.4 | 139.4 |
+| Egypt | 5.6 | 10.8 | 116 | 344.6 |

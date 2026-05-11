@@ -1,0 +1,11 @@
+The following 10 values represent Unemployment_pct for each Entity (Hungary, Portugal, Czechia, Belgium, Germany, Ireland, Italy, Switzerland, Finland, Greece), listed in order:
+[21.6, 10.5, 18, 4.2, 13.3, 18.1, 20.5, 18.5, 3.2, 9.8]
+
+The following 10 values represent Trust_in_govt_pct for each Entity (Hungary, Portugal, Czechia, Belgium, Germany, Ireland, Italy, Switzerland, Finland, Greece), listed in order:
+[15.2, 19.2, 56.6, 59.1, 63.1, 69.1, 60.8, 64.9, 15.2, 27.5]
+
+The following 10 values represent Gini_index for each Entity (Hungary, Portugal, Czechia, Belgium, Germany, Ireland, Italy, Switzerland, Finland, Greece), listed in order:
+[33.6, 37.6, 23.1, 31.7, 34.5, 23.5, 29.8, 38.2, 34.4, 27]
+
+The following 10 values represent Govt_expenditure_pct_GDP for each Entity (Hungary, Portugal, Czechia, Belgium, Germany, Ireland, Italy, Switzerland, Finland, Greece), listed in order:
+[53.9, 39.7, 53.9, 38.4, 46.5, 41.1, 37.7, 54.8, 35.3, 32.4]

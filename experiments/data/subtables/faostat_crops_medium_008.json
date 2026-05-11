@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_008",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Maize_tonnes_ha",
+    "Production_Mt",
+    "Wheat_tonnes_ha",
+    "Yield_index"
+  ],
+  "data": [
+    {
+      "Entity": "Brazil",
+      "Maize_tonnes_ha": 9.7,
+      "Production_Mt": 63.8,
+      "Wheat_tonnes_ha": 8.4,
+      "Yield_index": 144.7
+    },
+    {
+      "Entity": "Vietnam",
+      "Maize_tonnes_ha": 5.8,
+      "Production_Mt": 250.0,
+      "Wheat_tonnes_ha": 6.4,
+      "Yield_index": 114.8
+    },
+    {
+      "Entity": "USA",
+      "Maize_tonnes_ha": 4.4,
+      "Production_Mt": 33.1,
+      "Wheat_tonnes_ha": 2.8,
+      "Yield_index": 98.8
+    },
+    {
+      "Entity": "Russia",
+      "Maize_tonnes_ha": 3.1,
+      "Production_Mt": 271.1,
+      "Wheat_tonnes_ha": 7.5,
+      "Yield_index": 147.2
+    },
+    {
+      "Entity": "Argentina",
+      "Maize_tonnes_ha": 8.7,
+      "Production_Mt": 12.9,
+      "Wheat_tonnes_ha": 4.8,
+      "Yield_index": 104.3
+    },
+    {
+      "Entity": "Pakistan",
+      "Maize_tonnes_ha": 6.7,
+      "Production_Mt": 159.1,
+      "Wheat_tonnes_ha": 1.6,
+      "Yield_index": 80.4
+    },
+    {
+      "Entity": "Turkey",
+      "Maize_tonnes_ha": 10.1,
+      "Production_Mt": 22.2,
+      "Wheat_tonnes_ha": 5.2,
+      "Yield_index": 98.5
+    },
+    {
+      "Entity": "France",
+      "Maize_tonnes_ha": 6.6,
+      "Production_Mt": 235.0,
+      "Wheat_tonnes_ha": 7.6,
+      "Yield_index": 165.2
+    },
+    {
+      "Entity": "India",
+      "Maize_tonnes_ha": 6.1,
+      "Production_Mt": 67.4,
+      "Wheat_tonnes_ha": 4.7,
+      "Yield_index": 94.0
+    },
+    {
+      "Entity": "Canada",
+      "Maize_tonnes_ha": 5.0,
+      "Production_Mt": 171.9,
+      "Wheat_tonnes_ha": 7.2,
+      "Yield_index": 88.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Maize_tonnes_ha",
+    "Production_Mt",
+    "Wheat_tonnes_ha",
+    "Yield_index"
+  ]
+}

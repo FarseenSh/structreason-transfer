@@ -1,0 +1,7 @@
+| Entity | Area_harvested_kha | Wheat_tonnes_ha |
+|---|---|---|
+| Pakistan | 1783.6 | 8.7 |
+| Turkey | 27813.2 | 6.1 |
+| Egypt | 6262.8 | 4.3 |
+| Ukraine | 3645.3 | 7.7 |
+| Canada | 32845.9 | 3 |

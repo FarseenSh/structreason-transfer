@@ -1,0 +1,5 @@
+The following 5 values represent CO2_Mt for each Entity (Netherlands, Sweden, Portugal, Austria, Spain), listed in order:
+[79.2, 71.9, 74.1, 17.9, 43.8]
+
+The following 5 values represent Total_GWh for each Entity (Netherlands, Sweden, Portugal, Austria, Spain), listed in order:
+[13271.9, 45172.4, 11175.4, 9390, 2583.8]

@@ -1,0 +1,12 @@
+| Entity | Rice_tonnes_ha | Soybean_tonnes_ha | Area_harvested_kha | Fertilizer_kg_ha |
+|---|---|---|---|---|
+| Ukraine | 4.8 | 3 | 22297.2 | 356.3 |
+| Canada | 4.1 | 2.5 | 19665.5 | 313.7 |
+| France | 4.2 | 2.4 | 27157.9 | 220 |
+| Australia | 5 | 3.2 | 7056.4 | 381 |
+| Nigeria | 4 | 3.3 | 19672.1 | 181.3 |
+| India | 6 | 3.5 | 5954.5 | 319.5 |
+| China | 4.1 | 2.1 | 14550.2 | 83.8 |
+| Bangladesh | 4.1 | 2 | 23407.8 | 128.6 |
+| Germany | 5.4 | 3.1 | 17511 | 148.5 |
+| Turkey | 2.3 | 2.7 | 13595.9 | 60.2 |

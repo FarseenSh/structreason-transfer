@@ -1,0 +1,35 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Mexico: {Yield_index=78.5, Wheat_tonnes_ha=8.7, Rice_tonnes_ha=7.5, Soybean_tonnes_ha=2.9, Maize_tonnes_ha=11.5, Area_harvested_kha=18974.6, Production_Mt=80.1}
+  China: {Yield_index=146.8, Wheat_tonnes_ha=7.4, Rice_tonnes_ha=6.4, Soybean_tonnes_ha=2.4, Maize_tonnes_ha=3.6, Area_harvested_kha=11285.1, Production_Mt=49.8}
+  France: {Yield_index=129.5, Wheat_tonnes_ha=3.3, Rice_tonnes_ha=7.5, Soybean_tonnes_ha=2, Maize_tonnes_ha=10.3, Area_harvested_kha=700.5, Production_Mt=210.4}
+  Russia: {Yield_index=67.7, Wheat_tonnes_ha=5.5, Rice_tonnes_ha=5.4, Soybean_tonnes_ha=3.7, Maize_tonnes_ha=4.8, Area_harvested_kha=22826.2, Production_Mt=261.5}
+  Argentina: {Yield_index=115.2, Wheat_tonnes_ha=6.9, Rice_tonnes_ha=4.7, Soybean_tonnes_ha=3.3, Maize_tonnes_ha=2.3, Area_harvested_kha=10495.1, Production_Mt=271}
+  Nigeria: {Yield_index=85, Wheat_tonnes_ha=4.1, Rice_tonnes_ha=7, Soybean_tonnes_ha=3.2, Maize_tonnes_ha=2.4, Area_harvested_kha=9128.5, Production_Mt=253.2}
+  Germany: {Yield_index=176.1, Wheat_tonnes_ha=4.8, Rice_tonnes_ha=6.6, Soybean_tonnes_ha=2.3, Maize_tonnes_ha=6.3, Area_harvested_kha=34131.5, Production_Mt=161.5}
+  Ukraine: {Yield_index=73, Wheat_tonnes_ha=6.9, Rice_tonnes_ha=2.6, Soybean_tonnes_ha=3.9, Maize_tonnes_ha=6.5, Area_harvested_kha=6511.3, Production_Mt=237.7}
+  Vietnam: {Yield_index=131.8, Wheat_tonnes_ha=3.2, Rice_tonnes_ha=3.7, Soybean_tonnes_ha=3.1, Maize_tonnes_ha=5.2, Area_harvested_kha=1619, Production_Mt=278.3}
+  Canada: {Yield_index=117.8, Wheat_tonnes_ha=5.4, Rice_tonnes_ha=3.4, Soybean_tonnes_ha=2.3, Maize_tonnes_ha=8.7, Area_harvested_kha=33254, Production_Mt=11.9}
+  Egypt: {Yield_index=129.4, Wheat_tonnes_ha=3.1, Rice_tonnes_ha=6.7, Soybean_tonnes_ha=3.9, Maize_tonnes_ha=6.9, Area_harvested_kha=11057.2, Production_Mt=126.6}
+  Indonesia: {Yield_index=174.8, Wheat_tonnes_ha=1.5, Rice_tonnes_ha=3.3, Soybean_tonnes_ha=3.7, Maize_tonnes_ha=2.7, Area_harvested_kha=14073, Production_Mt=65.2}
+  USA: {Yield_index=101, Wheat_tonnes_ha=6.7, Rice_tonnes_ha=3.7, Soybean_tonnes_ha=3.2, Maize_tonnes_ha=5.5, Area_harvested_kha=3292.3, Production_Mt=299}
+  Pakistan: {Yield_index=149.9, Wheat_tonnes_ha=6.8, Rice_tonnes_ha=4.9, Soybean_tonnes_ha=3.3, Maize_tonnes_ha=3, Area_harvested_kha=14440.2, Production_Mt=279.2}
+  Turkey: {Yield_index=113.7, Wheat_tonnes_ha=9, Rice_tonnes_ha=2.4, Soybean_tonnes_ha=2.3, Maize_tonnes_ha=2.6, Area_harvested_kha=34041.6, Production_Mt=241.6}
+  Australia: {Yield_index=139.3, Wheat_tonnes_ha=2.9, Rice_tonnes_ha=7.3, Soybean_tonnes_ha=2.5, Maize_tonnes_ha=4.1, Area_harvested_kha=24443.7, Production_Mt=92.3}
+  Bangladesh: {Yield_index=103.9, Wheat_tonnes_ha=7, Rice_tonnes_ha=4.7, Soybean_tonnes_ha=1.6, Maize_tonnes_ha=9, Area_harvested_kha=16847, Production_Mt=285.9}
+  Brazil: {Yield_index=87.3, Wheat_tonnes_ha=8.6, Rice_tonnes_ha=3, Soybean_tonnes_ha=2.8, Maize_tonnes_ha=9, Area_harvested_kha=11107.8, Production_Mt=13.6}
+  India: {Yield_index=70, Wheat_tonnes_ha=6.3, Rice_tonnes_ha=3.5, Soybean_tonnes_ha=2.1, Maize_tonnes_ha=10.6, Area_harvested_kha=13128.5, Production_Mt=60.5}
+  Thailand: {Yield_index=72.2, Wheat_tonnes_ha=8.7, Rice_tonnes_ha=6.4, Soybean_tonnes_ha=2, Maize_tonnes_ha=9.6, Area_harvested_kha=21587.4, Production_Mt=187}
+
+Edges (top 10 by metric similarity):
+  Germany -- India (sim=1.00, similar Soybean_tonnes_ha)
+  China -- Indonesia (sim=1.00, similar Maize_tonnes_ha)
+  Germany -- Australia (sim=1.00, similar Soybean_tonnes_ha)
+  Australia -- India (sim=1.00, similar Soybean_tonnes_ha)
+  Mexico -- Germany (sim=1.00, similar Soybean_tonnes_ha)
+  Mexico -- India (sim=1.00, similar Soybean_tonnes_ha)
+  Turkey -- Thailand (sim=1.00, similar Soybean_tonnes_ha)
+  Mexico -- Australia (sim=1.00, similar Rice_tonnes_ha)
+  Argentina -- Nigeria (sim=1.00, similar Soybean_tonnes_ha)
+  Russia -- Thailand (sim=1.00, similar Rice_tonnes_ha)

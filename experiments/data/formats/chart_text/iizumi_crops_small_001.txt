@@ -1,0 +1,3 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Rice_tonnes_ha: Thailand=2, Vietnam=2.3, Argentina=4, Ukraine=5.8, China=3.9.
+Fertilizer_kg_ha: Thailand=45.2, Vietnam=140.8, Argentina=113.1, Ukraine=22.1, China=223.2.

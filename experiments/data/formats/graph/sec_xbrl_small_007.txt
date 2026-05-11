@@ -1,0 +1,13 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyS: {Net_income_M=48.2, Operating_margin_pct=39.4}
+  CompanyJ: {Net_income_M=-99.1, Operating_margin_pct=11.2}
+  CompanyD: {Net_income_M=334.2, Operating_margin_pct=7.4}
+  CompanyO: {Net_income_M=1092.5, Operating_margin_pct=12}
+  CompanyT: {Net_income_M=980.1, Operating_margin_pct=30.2}
+
+Edges (top 3 by metric similarity):
+  CompanyD -- CompanyT (sim=1.00, similar Operating_margin_pct)
+  CompanyD -- CompanyO (sim=1.00, similar Operating_margin_pct)
+  CompanyO -- CompanyT (sim=1.00, similar Operating_margin_pct)

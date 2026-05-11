@@ -1,0 +1,20 @@
+The following 20 values represent Soybean_tonnes_ha for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[1.8, 3.8, 3.4, 1.2, 2.2, 1.2, 3.7, 3.2, 3.1, 3, 1.9, 3.8, 3.8, 3.2, 2.4, 1.1, 1.1, 1.4, 2.8, 3.4]
+
+The following 20 values represent Production_Mt for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[284.8, 56.7, 86.3, 21, 296.8, 235.4, 146.8, 174.8, 170.8, 80, 59.7, 92.6, 77.9, 169.5, 95.9, 220, 172.5, 162, 285.6, 100.1]
+
+The following 20 values represent Yield_index for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[136.2, 60, 148.4, 120.3, 85, 60.2, 144.8, 139.5, 139.8, 112.5, 136.7, 128.6, 88.7, 122.3, 121.8, 158.8, 112, 112.3, 178.1, 167.3]
+
+The following 20 values represent Wheat_tonnes_ha for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[3.3, 8.3, 2.5, 7.9, 2.9, 4.7, 8.9, 2.2, 7.8, 5.2, 2.3, 8.6, 5.6, 8.1, 8, 1.6, 3.5, 4, 5.5, 2]
+
+The following 20 values represent Area_harvested_kha for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[13919.4, 28605, 6475.1, 24694, 16381.4, 2939.3, 6619.4, 5365.6, 21880.3, 3512.7, 28895.1, 28329.7, 3262.1, 31142.8, 33591, 1999.6, 33286.4, 10141.4, 23434.3, 6531.1]
+
+The following 20 values represent Maize_tonnes_ha for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[10.2, 10.4, 11.8, 11.9, 2.8, 8.6, 4.7, 3.3, 3.5, 11.4, 8.8, 2.5, 11.8, 10.1, 5.1, 6.7, 9.3, 8.8, 6.6, 7.1]
+
+The following 20 values represent Rice_tonnes_ha for each Entity (Indonesia, Russia, China, Argentina, Mexico, Pakistan, Australia, Egypt, Canada, Thailand, Turkey, Brazil, USA, Germany, Nigeria, India, Bangladesh, Ukraine, France, Vietnam), listed in order:
+[2.2, 4.8, 3.9, 3.6, 3.5, 5.6, 4.4, 4.3, 2.9, 7.3, 3.2, 4.2, 3, 5.9, 4.4, 4.3, 6.8, 6.2, 4.9, 4.6]

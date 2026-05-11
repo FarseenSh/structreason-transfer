@@ -1,0 +1,5 @@
+Bar chart: "OPSD Electricity — Energy".
+Coal_GWh: Austria=2230.2, Switzerland=6517.5, Sweden=1325.2, Romania=5301.6, Finland=6052.5, Netherlands=345.4, Norway=4452.4, Germany=4628.2, Portugal=2462.4, UK=7016.9.
+Wind_GWh: Austria=2120.4, Switzerland=4497.5, Sweden=10214.3, Romania=2449.6, Finland=9892.2, Netherlands=1133, Norway=5972.9, Germany=1088.9, Portugal=8199.3, UK=9529.1.
+Total_GWh: Austria=42793.2, Switzerland=49100.6, Sweden=34256.8, Romania=38915, Finland=26276.4, Netherlands=45811.4, Norway=32900.4, Germany=44410.5, Portugal=13301.7, UK=25843.4.
+Solar_GWh: Austria=4405.9, Switzerland=1296.1, Sweden=1346.9, Romania=5870.5, Finland=2664.2, Netherlands=1172.7, Norway=2055.6, Germany=2444.5, Portugal=3776.2, UK=5545.8.

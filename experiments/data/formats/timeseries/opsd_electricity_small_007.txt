@@ -1,0 +1,5 @@
+The following 5 values represent Wind_GWh for each Entity (Sweden, Finland, Hungary, France, Denmark), listed in order:
+[1039.8, 11715.6, 8277.4, 2344.4, 366.3]
+
+The following 5 values represent Solar_GWh for each Entity (Sweden, Finland, Hungary, France, Denmark), listed in order:
+[2073.3, 1001.6, 1388.6, 5249.2, 3658.9]

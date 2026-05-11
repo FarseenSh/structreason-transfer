@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Romania: {Solar_GWh=1393.7, Coal_GWh=7246.3}
+  Ireland: {Solar_GWh=2006.9, Coal_GWh=2395.6}
+  UK: {Solar_GWh=3587.4, Coal_GWh=5287.1}
+  Norway: {Solar_GWh=3768.6, Coal_GWh=4499.8}
+  Belgium: {Solar_GWh=4151.8, Coal_GWh=2481.4}
+
+Edges (top 3 by metric similarity):
+  Ireland -- Norway (sim=1.00, similar Solar_GWh)
+  UK -- Norway (sim=0.99, similar Solar_GWh)
+  Ireland -- UK (sim=0.99, similar Solar_GWh)

@@ -1,0 +1,11 @@
+The following 10 values represent Solar_GWh for each Entity (Netherlands, Poland, Czechia, Austria, Ireland, Hungary, UK, France, Italy, Finland), listed in order:
+[5086.8, 983, 3721.1, 4772, 4631.3, 2984.2, 4417.8, 3543.2, 1288.5, 430.7]
+
+The following 10 values represent Hydro_GWh for each Entity (Netherlands, Poland, Czechia, Austria, Ireland, Hungary, UK, France, Italy, Finland), listed in order:
+[3019, 589.3, 3220.6, 6648.1, 6769.9, 369.2, 649.3, 5391.9, 4050, 1279.9]
+
+The following 10 values represent Gas_GWh for each Entity (Netherlands, Poland, Czechia, Austria, Ireland, Hungary, UK, France, Italy, Finland), listed in order:
+[8113.6, 2400, 1058, 7570.2, 6198.8, 4126.1, 7019.4, 9140.4, 631.6, 6388.5]
+
+The following 10 values represent Wind_GWh for each Entity (Netherlands, Poland, Czechia, Austria, Ireland, Hungary, UK, France, Italy, Finland), listed in order:
+[2774.4, 5794.8, 5203, 4801.8, 2446.2, 9671.3, 4678.3, 10668.9, 4385.1, 10108.6]

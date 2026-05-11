@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Trust_in_govt_pct: Portugal=67.7, Bulgaria=54.1, Germany=54.8, Poland=56.2, Romania=62.4, Austria=15.8, Italy=36.2, Greece=47.6, Ireland=34.3, Norway=67.7.
+Unemployment_pct: Portugal=11.9, Bulgaria=17.5, Germany=19.1, Poland=12.3, Romania=20.2, Austria=13.9, Italy=19.1, Greece=9.1, Ireland=12.2, Norway=12.9.
+Life_expectancy: Portugal=73.3, Bulgaria=76.8, Germany=83, Poland=79.6, Romania=74.1, Austria=76.1, Italy=74.3, Greece=72.3, Ireland=83.1, Norway=77.4.
+GDP_per_capita: Portugal=36527.5, Bulgaria=56893.4, Germany=15512, Poland=34461.5, Romania=64212.3, Austria=59363.9, Italy=83726.4, Greece=58425, Ireland=48425.4, Norway=68300.3.

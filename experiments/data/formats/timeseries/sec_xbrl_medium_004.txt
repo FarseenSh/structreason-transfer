@@ -1,0 +1,11 @@
+The following 10 values represent ROE_pct for each Entity (CompanyD, CompanyS, CompanyI, CompanyM, CompanyK, CompanyH, CompanyJ, CompanyC, CompanyE, CompanyT), listed in order:
+[20, -8.8, 42, 23.8, 18.3, -3.1, 15.9, 5.6, 25.5, 21.3]
+
+The following 10 values represent Total_assets_M for each Entity (CompanyD, CompanyS, CompanyI, CompanyM, CompanyK, CompanyH, CompanyJ, CompanyC, CompanyE, CompanyT), listed in order:
+[25065.5, 12786.5, 26382, 23192.5, 42593, 44738, 38010.6, 16118.1, 2096.9, 46281.7]
+
+The following 10 values represent Revenue_M for each Entity (CompanyD, CompanyS, CompanyI, CompanyM, CompanyK, CompanyH, CompanyJ, CompanyC, CompanyE, CompanyT), listed in order:
+[4960.5, 678.8, 3443.8, 2154.5, 785.2, 4990.6, 4669.5, 4913.9, 762.3, 2485]
+
+The following 10 values represent Net_income_M for each Entity (CompanyD, CompanyS, CompanyI, CompanyM, CompanyK, CompanyH, CompanyJ, CompanyC, CompanyE, CompanyT), listed in order:
+[1322.8, 947.8, 538.8, 678.4, -134.4, 839.6, 1261.5, -195.3, 71.9, 680.6]

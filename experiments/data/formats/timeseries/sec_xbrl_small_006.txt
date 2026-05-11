@@ -1,0 +1,5 @@
+The following 5 values represent Revenue_M for each Entity (CompanyP, CompanyH, CompanyN, CompanyD, CompanyO), listed in order:
+[1169.6, 4147.2, 1011.2, 3234.8, 2282.8]
+
+The following 5 values represent ROE_pct for each Entity (CompanyP, CompanyH, CompanyN, CompanyD, CompanyO), listed in order:
+[-8.7, -7.4, 1.9, 31, 28.7]

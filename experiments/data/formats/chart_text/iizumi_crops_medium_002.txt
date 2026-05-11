@@ -1,0 +1,5 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Rice_tonnes_ha: Thailand=6.5, Canada=2.9, Australia=3.1, Russia=2, France=4.9, Mexico=3.1, USA=6, Nigeria=7.3, Brazil=3.1, Egypt=5.6.
+Maize_tonnes_ha: Thailand=4.1, Canada=2.2, Australia=9.6, Russia=6.3, France=11.5, Mexico=7.3, USA=3.6, Nigeria=6.5, Brazil=4, Egypt=10.8.
+Yield_index: Thailand=142.9, Canada=100.9, Australia=123.3, Russia=140.3, France=153.9, Mexico=69.6, USA=62.7, Nigeria=73.7, Brazil=107.4, Egypt=116.
+Fertilizer_kg_ha: Thailand=71.9, Canada=176.2, Australia=187.8, Russia=61.5, France=368.3, Mexico=247.7, USA=167.6, Nigeria=212.6, Brazil=139.4, Egypt=344.6.

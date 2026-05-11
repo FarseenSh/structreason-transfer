@@ -1,0 +1,11 @@
+The following 10 values represent O3_ppb for each Entity (Station_U20, Station_NW10, Station_SE3, Station_S16, Station_N15, Station_C5, Station_R19, Station_S7, Station_NW1, Station_E8), listed in order:
+[34.1, 34.5, 84.4, 79.7, 20.3, 61, 47, 63.2, 56.8, 77.2]
+
+The following 10 values represent NO2_ppb for each Entity (Station_U20, Station_NW10, Station_SE3, Station_S16, Station_N15, Station_C5, Station_R19, Station_S7, Station_NW1, Station_E8), listed in order:
+[8.7, 24.2, 59.2, 15, 12, 45.1, 47.8, 42, 47.7, 43.2]
+
+The following 10 values represent PM10_ug_m3 for each Entity (Station_U20, Station_NW10, Station_SE3, Station_S16, Station_N15, Station_C5, Station_R19, Station_S7, Station_NW1, Station_E8), listed in order:
+[23.2, 76.1, 95, 104.9, 35.6, 22.3, 95.5, 36.7, 11.6, 100.4]
+
+The following 10 values represent PM25_ug_m3 for each Entity (Station_U20, Station_NW10, Station_SE3, Station_S16, Station_N15, Station_C5, Station_R19, Station_S7, Station_NW1, Station_E8), listed in order:
+[34.4, 23.3, 3.7, 5.2, 52.1, 33.4, 12.3, 25.2, 13.2, 10]

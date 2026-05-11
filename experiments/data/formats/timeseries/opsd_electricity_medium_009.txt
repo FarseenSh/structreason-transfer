@@ -1,0 +1,11 @@
+The following 10 values represent Gas_GWh for each Entity (France, Denmark, Germany, Austria, Ireland, Romania, Italy, Poland, Netherlands, Finland), listed in order:
+[5224.8, 9423.9, 4451.9, 454.4, 2592.8, 5155.9, 5543.5, 5658.1, 7231.2, 2964.1]
+
+The following 10 values represent Nuclear_GWh for each Entity (France, Denmark, Germany, Austria, Ireland, Romania, Italy, Poland, Netherlands, Finland), listed in order:
+[9973.6, 10560.5, 6169.2, 6032.5, 2683.9, 6209.8, 11802.2, 13634.6, 8904.2, 4490.6]
+
+The following 10 values represent CO2_Mt for each Entity (France, Denmark, Germany, Austria, Ireland, Romania, Italy, Poland, Netherlands, Finland), listed in order:
+[54.9, 59.5, 27.2, 66.3, 6.8, 1.8, 10.7, 13.3, 70.4, 34.6]
+
+The following 10 values represent Wind_GWh for each Entity (France, Denmark, Germany, Austria, Ireland, Romania, Italy, Poland, Netherlands, Finland), listed in order:
+[3444.2, 5263.1, 4859.1, 3757.2, 1827.2, 7939.8, 1811.9, 9350, 2579.9, 8830.2]

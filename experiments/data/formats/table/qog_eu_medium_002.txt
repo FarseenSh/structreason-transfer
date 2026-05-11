@@ -1,0 +1,12 @@
+| Entity | Education_spending_pct | Unemployment_pct | Govt_expenditure_pct_GDP | Trust_in_govt_pct |
+|---|---|---|---|---|
+| Switzerland | 4.7 | 8.9 | 49.5 | 64.9 |
+| Portugal | 5.3 | 12.9 | 54.1 | 51.2 |
+| Spain | 5.3 | 19 | 33.7 | 63.7 |
+| Denmark | 5.1 | 15.2 | 47.2 | 64.5 |
+| Greece | 5.4 | 18.2 | 32.7 | 74.4 |
+| Sweden | 6.9 | 12.9 | 50.3 | 28.7 |
+| Bulgaria | 5 | 14.8 | 32.4 | 50.9 |
+| Netherlands | 8.2 | 8.1 | 56.2 | 18.3 |
+| Czechia | 8.1 | 16.8 | 33.8 | 52.7 |
+| Italy | 5.9 | 6.4 | 56.8 | 23.3 |

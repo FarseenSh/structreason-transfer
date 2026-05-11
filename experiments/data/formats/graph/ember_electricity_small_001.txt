@@ -1,0 +1,13 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Hungary: {CO2_Mt=18.6, Hydro_GWh=4230.1}
+  Romania: {CO2_Mt=41.5, Hydro_GWh=5611.7}
+  Spain: {CO2_Mt=66, Hydro_GWh=4273.2}
+  Finland: {CO2_Mt=69, Hydro_GWh=3399.7}
+  Ireland: {CO2_Mt=45.4, Hydro_GWh=774.8}
+
+Edges (top 3 by metric similarity):
+  Hungary -- Romania (sim=1.00, similar CO2_Mt)
+  Spain -- Finland (sim=1.00, similar CO2_Mt)
+  Romania -- Spain (sim=1.00, similar CO2_Mt)

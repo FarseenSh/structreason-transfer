@@ -1,0 +1,45 @@
+{
+  "id": "hk_traffic_small_006",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Road_condition_score",
+    "Transit_ridership"
+  ],
+  "data": [
+    {
+      "Entity": "Route_Q17",
+      "Road_condition_score": 69.2,
+      "Transit_ridership": 165662.9
+    },
+    {
+      "Entity": "Route_H8",
+      "Road_condition_score": 48.8,
+      "Transit_ridership": 55060.7
+    },
+    {
+      "Entity": "Route_I9",
+      "Road_condition_score": 60.4,
+      "Transit_ridership": 194105.5
+    },
+    {
+      "Entity": "Route_S19",
+      "Road_condition_score": 72.8,
+      "Transit_ridership": 158020.8
+    },
+    {
+      "Entity": "Route_A1",
+      "Road_condition_score": 64.0,
+      "Transit_ridership": 193680.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Road_condition_score",
+    "Transit_ridership"
+  ]
+}

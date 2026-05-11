@@ -1,0 +1,94 @@
+{
+  "id": "epa_aqs_medium_003",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Temperature_C",
+    "AQI",
+    "NO2_ppb",
+    "CO_ppm"
+  ],
+  "data": [
+    {
+      "Entity": "Station_U20",
+      "Temperature_C": 4.9,
+      "AQI": 100.7,
+      "NO2_ppb": 13.0,
+      "CO_ppm": 1.8
+    },
+    {
+      "Entity": "Station_W9",
+      "Temperature_C": -0.2,
+      "AQI": 139.3,
+      "NO2_ppb": 42.3,
+      "CO_ppm": 4.1
+    },
+    {
+      "Entity": "Station_NW1",
+      "Temperature_C": 35.8,
+      "AQI": 108.2,
+      "NO2_ppb": 45.5,
+      "CO_ppm": 2.2
+    },
+    {
+      "Entity": "Station_SE12",
+      "Temperature_C": -0.2,
+      "AQI": 139.0,
+      "NO2_ppb": 21.5,
+      "CO_ppm": 3.2
+    },
+    {
+      "Entity": "Station_SW13",
+      "Temperature_C": 6.1,
+      "AQI": 125.9,
+      "NO2_ppb": 53.1,
+      "CO_ppm": 3.6
+    },
+    {
+      "Entity": "Station_NW10",
+      "Temperature_C": 2.9,
+      "AQI": 117.4,
+      "NO2_ppb": 21.8,
+      "CO_ppm": 2.9
+    },
+    {
+      "Entity": "Station_C5",
+      "Temperature_C": -4.7,
+      "AQI": 123.9,
+      "NO2_ppb": 18.4,
+      "CO_ppm": 4.3
+    },
+    {
+      "Entity": "Station_N6",
+      "Temperature_C": 8.5,
+      "AQI": 147.9,
+      "NO2_ppb": 52.7,
+      "CO_ppm": 3.7
+    },
+    {
+      "Entity": "Station_W18",
+      "Temperature_C": 36.9,
+      "AQI": 133.6,
+      "NO2_ppb": 18.6,
+      "CO_ppm": 1.9
+    },
+    {
+      "Entity": "Station_SW4",
+      "Temperature_C": 9.7,
+      "AQI": 146.7,
+      "NO2_ppb": 27.9,
+      "CO_ppm": 4.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Temperature_C",
+    "AQI",
+    "NO2_ppb",
+    "CO_ppm"
+  ]
+}

@@ -1,0 +1,11 @@
+The following 10 values represent Solar_GWh for each Entity (Spain, Switzerland, Norway, Austria, Italy, Denmark, Greece, France, Ireland, UK), listed in order:
+[4202.9, 266.7, 2867.2, 408.4, 2050, 191.9, 2867.7, 4625.4, 691.3, 4437.8]
+
+The following 10 values represent Wind_GWh for each Entity (Spain, Switzerland, Norway, Austria, Italy, Denmark, Greece, France, Ireland, UK), listed in order:
+[7093.5, 6154.3, 7273.9, 4163.6, 8582, 9400.1, 9383, 3379.6, 7916.1, 1947.5]
+
+The following 10 values represent Nuclear_GWh for each Entity (Spain, Switzerland, Norway, Austria, Italy, Denmark, Greece, France, Ireland, UK), listed in order:
+[7431.3, 39.4, 2903.8, 9476, 13115.4, 735.4, 8378.3, 9551.6, 13985.9, 9827.2]
+
+The following 10 values represent CO2_Mt for each Entity (Spain, Switzerland, Norway, Austria, Italy, Denmark, Greece, France, Ireland, UK), listed in order:
+[9.1, 12.6, 51.2, 18, 74.3, 73.7, 75.9, 24.1, 57.6, 53.4]

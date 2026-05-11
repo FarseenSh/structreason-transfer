@@ -1,0 +1,11 @@
+The following 10 values represent Nuclear_GWh for each Entity (Belgium, Finland, Norway, Austria, Netherlands, Sweden, UK, Greece, Hungary, Romania), listed in order:
+[282.8, 6825.3, 9271.1, 6905.9, 1959.7, 5962.1, 6174.8, 2815.7, 11344.6, 4821]
+
+The following 10 values represent Total_GWh for each Entity (Belgium, Finland, Norway, Austria, Netherlands, Sweden, UK, Greece, Hungary, Romania), listed in order:
+[30271.4, 26755, 44116.5, 7856.7, 7484.6, 16415.3, 22698.3, 16330, 38633, 13772.8]
+
+The following 10 values represent Coal_GWh for each Entity (Belgium, Finland, Norway, Austria, Netherlands, Sweden, UK, Greece, Hungary, Romania), listed in order:
+[724, 3339.7, 6198.4, 6812, 5880.1, 4485.2, 5807.3, 5467, 1913.2, 4428.5]
+
+The following 10 values represent Solar_GWh for each Entity (Belgium, Finland, Norway, Austria, Netherlands, Sweden, UK, Greece, Hungary, Romania), listed in order:
+[4646.6, 1971, 3958.4, 2940.7, 3068.6, 631.3, 4030.7, 5207.6, 934.4, 2260]

@@ -1,0 +1,3 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Gini_index: Poland=32.8, Belgium=26, France=37.6, Hungary=35.9, Spain=35.2.
+Education_spending_pct: Poland=5.7, Belgium=6.6, France=6.4, Hungary=6.7, Spain=3.9.

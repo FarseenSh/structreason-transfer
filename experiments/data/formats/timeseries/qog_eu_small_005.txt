@@ -1,0 +1,5 @@
+The following 5 values represent Gini_index for each Entity (Poland, Belgium, France, Hungary, Spain), listed in order:
+[32.8, 26, 37.6, 35.9, 35.2]
+
+The following 5 values represent Education_spending_pct for each Entity (Poland, Belgium, France, Hungary, Spain), listed in order:
+[5.7, 6.6, 6.4, 6.7, 3.9]

@@ -1,0 +1,94 @@
+{
+  "id": "openaq_medium_006",
+  "dataset": "OpenAQ",
+  "domain": "air_quality",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "PM25_ug_m3",
+    "PM10_ug_m3",
+    "NO2_ppb",
+    "Temperature_C"
+  ],
+  "data": [
+    {
+      "Entity": "Station_N15",
+      "PM25_ug_m3": 58.9,
+      "PM10_ug_m3": 52.6,
+      "NO2_ppb": 46.8,
+      "Temperature_C": 3.1
+    },
+    {
+      "Entity": "Station_C5",
+      "PM25_ug_m3": 28.7,
+      "PM10_ug_m3": 100.1,
+      "NO2_ppb": 12.4,
+      "Temperature_C": 3.4
+    },
+    {
+      "Entity": "Station_NE2",
+      "PM25_ug_m3": 48.7,
+      "PM10_ug_m3": 13.7,
+      "NO2_ppb": 25.1,
+      "Temperature_C": 35.0
+    },
+    {
+      "Entity": "Station_R19",
+      "PM25_ug_m3": 58.7,
+      "PM10_ug_m3": 32.4,
+      "NO2_ppb": 42.4,
+      "Temperature_C": 21.0
+    },
+    {
+      "Entity": "Station_NE11",
+      "PM25_ug_m3": 64.4,
+      "PM10_ug_m3": 27.1,
+      "NO2_ppb": 6.2,
+      "Temperature_C": 27.3
+    },
+    {
+      "Entity": "Station_NW10",
+      "PM25_ug_m3": 39.2,
+      "PM10_ug_m3": 67.0,
+      "NO2_ppb": 28.9,
+      "Temperature_C": 10.8
+    },
+    {
+      "Entity": "Station_N6",
+      "PM25_ug_m3": 46.7,
+      "PM10_ug_m3": 17.0,
+      "NO2_ppb": 56.1,
+      "Temperature_C": 32.5
+    },
+    {
+      "Entity": "Station_SE3",
+      "PM25_ug_m3": 18.6,
+      "PM10_ug_m3": 46.5,
+      "NO2_ppb": 9.5,
+      "Temperature_C": 20.0
+    },
+    {
+      "Entity": "Station_SE12",
+      "PM25_ug_m3": 21.0,
+      "PM10_ug_m3": 118.5,
+      "NO2_ppb": 54.8,
+      "Temperature_C": 20.8
+    },
+    {
+      "Entity": "Station_W9",
+      "PM25_ug_m3": 55.7,
+      "PM10_ug_m3": 97.0,
+      "NO2_ppb": 15.7,
+      "Temperature_C": 27.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "PM25_ug_m3",
+    "PM10_ug_m3",
+    "NO2_ppb",
+    "Temperature_C"
+  ]
+}

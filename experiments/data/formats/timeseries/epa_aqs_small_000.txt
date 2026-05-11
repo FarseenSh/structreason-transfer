@@ -1,0 +1,5 @@
+The following 5 values represent SO2_ppb for each Entity (Station_SW4, Station_NW10, Station_S7, Station_C5, Station_E17), listed in order:
+[15.2, 14, 2.8, 22.4, 16]
+
+The following 5 values represent AQI for each Entity (Station_SW4, Station_NW10, Station_S7, Station_C5, Station_E17), listed in order:
+[111.5, 106.3, 82.7, 60.7, 140.9]

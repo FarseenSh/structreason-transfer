@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Pakistan: {Area_harvested_kha=1783.6, Wheat_tonnes_ha=8.7}
+  Turkey: {Area_harvested_kha=27813.2, Wheat_tonnes_ha=6.1}
+  Egypt: {Area_harvested_kha=6262.8, Wheat_tonnes_ha=4.3}
+  Ukraine: {Area_harvested_kha=3645.3, Wheat_tonnes_ha=7.7}
+  Canada: {Area_harvested_kha=32845.9, Wheat_tonnes_ha=3}
+
+Edges (top 3 by metric similarity):
+  Turkey -- Canada (sim=1.00, similar Wheat_tonnes_ha)
+  Turkey -- Egypt (sim=1.00, similar Wheat_tonnes_ha)
+  Egypt -- Canada (sim=1.00, similar Wheat_tonnes_ha)

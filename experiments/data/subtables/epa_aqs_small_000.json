@@ -1,0 +1,45 @@
+{
+  "id": "epa_aqs_small_000",
+  "dataset": "EPA AQS Daily",
+  "domain": "air_quality",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "SO2_ppb",
+    "AQI"
+  ],
+  "data": [
+    {
+      "Entity": "Station_SW4",
+      "SO2_ppb": 15.2,
+      "AQI": 111.5
+    },
+    {
+      "Entity": "Station_NW10",
+      "SO2_ppb": 14.0,
+      "AQI": 106.3
+    },
+    {
+      "Entity": "Station_S7",
+      "SO2_ppb": 2.8,
+      "AQI": 82.7
+    },
+    {
+      "Entity": "Station_C5",
+      "SO2_ppb": 22.4,
+      "AQI": 60.7
+    },
+    {
+      "Entity": "Station_E17",
+      "SO2_ppb": 16.0,
+      "AQI": 140.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "SO2_ppb",
+    "AQI"
+  ]
+}

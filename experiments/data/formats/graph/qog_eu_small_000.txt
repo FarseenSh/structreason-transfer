@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Italy: {GDP_per_capita=79873.5, Govt_expenditure_pct_GDP=45.5}
+  Austria: {GDP_per_capita=60070.6, Govt_expenditure_pct_GDP=31.8}
+  Portugal: {GDP_per_capita=72593.3, Govt_expenditure_pct_GDP=53.2}
+  Sweden: {GDP_per_capita=46039, Govt_expenditure_pct_GDP=47.7}
+  Bulgaria: {GDP_per_capita=30906.7, Govt_expenditure_pct_GDP=51.2}
+
+Edges (top 3 by metric similarity):
+  Italy -- Austria (sim=1.00, similar Govt_expenditure_pct_GDP)
+  Italy -- Portugal (sim=1.00, similar Govt_expenditure_pct_GDP)
+  Austria -- Portugal (sim=1.00, similar Govt_expenditure_pct_GDP)

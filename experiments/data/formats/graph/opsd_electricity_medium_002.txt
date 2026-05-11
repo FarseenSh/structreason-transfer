@@ -1,0 +1,20 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Portugal: {Wind_GWh=2202.4, Hydro_GWh=7330.7, Gas_GWh=4559.2, CO2_Mt=48}
+  Finland: {Wind_GWh=8738.4, Hydro_GWh=2495.7, Gas_GWh=2049.3, CO2_Mt=73.6}
+  Belgium: {Wind_GWh=2503.9, Hydro_GWh=1318.5, Gas_GWh=7638.2, CO2_Mt=30.7}
+  Romania: {Wind_GWh=10776.2, Hydro_GWh=5789.1, Gas_GWh=1823, CO2_Mt=70.1}
+  Hungary: {Wind_GWh=509.3, Hydro_GWh=4697.8, Gas_GWh=7849.5, CO2_Mt=13.9}
+  Italy: {Wind_GWh=6359.6, Hydro_GWh=1688, Gas_GWh=8040.7, CO2_Mt=30.3}
+  Germany: {Wind_GWh=3977.2, Hydro_GWh=6106.3, Gas_GWh=7542, CO2_Mt=5.1}
+  Switzerland: {Wind_GWh=2855.9, Hydro_GWh=4199.6, Gas_GWh=488.4, CO2_Mt=59.7}
+  Austria: {Wind_GWh=5764.9, Hydro_GWh=5261.8, Gas_GWh=2949.4, CO2_Mt=12.9}
+  Greece: {Wind_GWh=10135.8, Hydro_GWh=2938.8, Gas_GWh=4842.9, CO2_Mt=21.3}
+
+Edges (top 5 by metric similarity):
+  Finland -- Greece (sim=0.98, similar CO2_Mt)
+  Finland -- Romania (sim=0.98, similar CO2_Mt)
+  Romania -- Austria (sim=0.95, similar CO2_Mt)
+  Portugal -- Germany (sim=0.94, similar CO2_Mt)
+  Romania -- Greece (sim=0.94, similar CO2_Mt)

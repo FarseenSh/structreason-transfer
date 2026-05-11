@@ -1,0 +1,7 @@
+| Entity | GDP_per_capita | Govt_expenditure_pct_GDP |
+|---|---|---|
+| Denmark | 74738.2 | 48.5 |
+| Sweden | 31375.8 | 45.6 |
+| Greece | 19081.2 | 51.9 |
+| Poland | 34696.9 | 48.6 |
+| Ireland | 35551.6 | 41.4 |

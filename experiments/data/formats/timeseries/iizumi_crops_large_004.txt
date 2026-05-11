@@ -1,0 +1,20 @@
+The following 20 values represent Fertilizer_kg_ha for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[101.4, 309.5, 321.5, 315, 74.1, 229.4, 180.6, 396.8, 268.5, 375.4, 75.2, 191.3, 313.2, 159.8, 260.4, 214.4, 396.9, 86.1, 375.4, 172.6]
+
+The following 20 values represent Yield_index for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[116.2, 123.4, 91.8, 175.6, 169.4, 176.7, 179.6, 140.4, 114.2, 162.1, 62.9, 160.1, 119.7, 140.8, 104.9, 104.2, 63.8, 110.9, 109, 87]
+
+The following 20 values represent Soybean_tonnes_ha for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[1.7, 2.8, 2, 3.5, 1.3, 2.7, 1.5, 2.6, 2.7, 2.9, 2.3, 2.5, 1.5, 2.4, 2.1, 3, 2.3, 3.3, 2.3, 1.7]
+
+The following 20 values represent Rice_tonnes_ha for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[3.5, 2.2, 5, 6.6, 6.2, 4.4, 3.1, 6.7, 2.3, 4.2, 6.7, 4.2, 2.6, 3.5, 5.3, 2.8, 5.6, 4.4, 3.8, 3.3]
+
+The following 20 values represent Maize_tonnes_ha for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[10.2, 6, 9.4, 6.4, 2.9, 6.4, 7.1, 6.6, 10.2, 11.1, 9.9, 7.8, 7.4, 8.4, 4.9, 10.1, 10.6, 4.7, 11, 10.5]
+
+The following 20 values represent Area_harvested_kha for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[15144.8, 31860.5, 4655.1, 1465.5, 12501.4, 20007.5, 12624.8, 33001.3, 9287.5, 10201.9, 22401.6, 633.3, 25600.7, 13522.7, 34232.3, 24353.9, 2301.4, 3695.7, 3541.8, 33365.5]
+
+The following 20 values represent Production_Mt for each Entity (Turkey, USA, Canada, Pakistan, Bangladesh, Nigeria, Egypt, Ukraine, China, Brazil, Russia, Thailand, Mexico, Australia, India, France, Vietnam, Indonesia, Argentina, Germany), listed in order:
+[206.8, 131.1, 64.1, 262.7, 64.5, 213.5, 230.2, 91.9, 153.9, 70.8, 116.8, 289.7, 209.5, 254.8, 164.5, 75.5, 215.3, 152.7, 57.2, 126.7]

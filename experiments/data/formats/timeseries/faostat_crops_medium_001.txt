@@ -1,0 +1,11 @@
+The following 10 values represent Wheat_tonnes_ha for each Entity (Bangladesh, Canada, Vietnam, Nigeria, China, Australia, Pakistan, Russia, France, Argentina), listed in order:
+[5.3, 6.6, 2.8, 7.6, 3.8, 2.2, 7.2, 6.8, 8.1, 8.2]
+
+The following 10 values represent Area_harvested_kha for each Entity (Bangladesh, Canada, Vietnam, Nigeria, China, Australia, Pakistan, Russia, France, Argentina), listed in order:
+[10109.1, 22627, 34969.7, 8911.3, 16814.2, 31900.7, 4056.2, 32524.6, 17341.4, 31309.9]
+
+The following 10 values represent Production_Mt for each Entity (Bangladesh, Canada, Vietnam, Nigeria, China, Australia, Pakistan, Russia, France, Argentina), listed in order:
+[188.3, 203.1, 233, 24.8, 190.2, 277.6, 287.1, 290.7, 195.5, 191.8]
+
+The following 10 values represent Rice_tonnes_ha for each Entity (Bangladesh, Canada, Vietnam, Nigeria, China, Australia, Pakistan, Russia, France, Argentina), listed in order:
+[5, 5.3, 5.4, 2.2, 2.5, 5.4, 3.7, 3.7, 3.1, 6.4]

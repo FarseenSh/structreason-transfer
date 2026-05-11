@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Sweden: {Wind_GWh=1039.8, Solar_GWh=2073.3}
+  Finland: {Wind_GWh=11715.6, Solar_GWh=1001.6}
+  Hungary: {Wind_GWh=8277.4, Solar_GWh=1388.6}
+  France: {Wind_GWh=2344.4, Solar_GWh=5249.2}
+  Denmark: {Wind_GWh=366.3, Solar_GWh=3658.9}
+
+Edges (top 3 by metric similarity):
+  Sweden -- France (sim=1.00, similar Wind_GWh)
+  Finland -- Hungary (sim=1.00, similar Solar_GWh)
+  France -- Denmark (sim=0.95, similar Solar_GWh)

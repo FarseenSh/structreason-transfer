@@ -1,0 +1,12 @@
+| Entity | Current_ratio | ROE_pct | EPS | Operating_margin_pct |
+|---|---|---|---|---|
+| CompanyQ | 0.7 | -5.4 | -1.6 | 13.1 |
+| CompanyM | 2.8 | 39.3 | 18.6 | 10.5 |
+| CompanyE | 1.8 | 24.7 | 15.6 | 34.3 |
+| CompanyF | 3.8 | 3.2 | 5.4 | 8.7 |
+| CompanyA | 3.8 | 44.9 | 16.6 | 13.1 |
+| CompanyS | 3.5 | 26.2 | 1.5 | 8.5 |
+| CompanyO | 2.5 | 39.5 | 20.2 | 24.6 |
+| CompanyP | 3.7 | -14.7 | 21.4 | 31.6 |
+| CompanyG | 2.8 | 18.1 | 11.1 | 2.4 |
+| CompanyH | 3.6 | 27.8 | 11.7 | 6.5 |

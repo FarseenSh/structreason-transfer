@@ -1,0 +1,45 @@
+{
+  "id": "qog_eu_small_000",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "GDP_per_capita",
+    "Govt_expenditure_pct_GDP"
+  ],
+  "data": [
+    {
+      "Entity": "Italy",
+      "GDP_per_capita": 79873.5,
+      "Govt_expenditure_pct_GDP": 45.5
+    },
+    {
+      "Entity": "Austria",
+      "GDP_per_capita": 60070.6,
+      "Govt_expenditure_pct_GDP": 31.8
+    },
+    {
+      "Entity": "Portugal",
+      "GDP_per_capita": 72593.3,
+      "Govt_expenditure_pct_GDP": 53.2
+    },
+    {
+      "Entity": "Sweden",
+      "GDP_per_capita": 46039.0,
+      "Govt_expenditure_pct_GDP": 47.7
+    },
+    {
+      "Entity": "Bulgaria",
+      "GDP_per_capita": 30906.7,
+      "Govt_expenditure_pct_GDP": 51.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "GDP_per_capita",
+    "Govt_expenditure_pct_GDP"
+  ]
+}

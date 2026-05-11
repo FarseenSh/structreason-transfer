@@ -1,0 +1,7 @@
+| Entity | Avg_speed_kmh | Transit_ridership |
+|---|---|---|
+| Route_B2 | 36.9 | 68160.7 |
+| Route_N14 | 79.2 | 98560.7 |
+| Route_E5 | 16.1 | 195718.9 |
+| Route_F6 | 44.4 | 97601 |
+| Route_R18 | 69.8 | 30529.7 |

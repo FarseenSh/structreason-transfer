@@ -1,0 +1,94 @@
+{
+  "id": "iizumi_crops_medium_000",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Maize_tonnes_ha",
+    "Fertilizer_kg_ha",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Turkey",
+      "Maize_tonnes_ha": 2.4,
+      "Fertilizer_kg_ha": 338.7,
+      "Area_harvested_kha": 5042.8,
+      "Wheat_tonnes_ha": 6.9
+    },
+    {
+      "Entity": "Indonesia",
+      "Maize_tonnes_ha": 9.3,
+      "Fertilizer_kg_ha": 233.1,
+      "Area_harvested_kha": 27962.6,
+      "Wheat_tonnes_ha": 2.2
+    },
+    {
+      "Entity": "Mexico",
+      "Maize_tonnes_ha": 4.1,
+      "Fertilizer_kg_ha": 211.8,
+      "Area_harvested_kha": 28255.1,
+      "Wheat_tonnes_ha": 6.7
+    },
+    {
+      "Entity": "Pakistan",
+      "Maize_tonnes_ha": 8.6,
+      "Fertilizer_kg_ha": 388.1,
+      "Area_harvested_kha": 22730.9,
+      "Wheat_tonnes_ha": 7.9
+    },
+    {
+      "Entity": "Russia",
+      "Maize_tonnes_ha": 9.5,
+      "Fertilizer_kg_ha": 147.1,
+      "Area_harvested_kha": 10120.7,
+      "Wheat_tonnes_ha": 4.1
+    },
+    {
+      "Entity": "Vietnam",
+      "Maize_tonnes_ha": 2.6,
+      "Fertilizer_kg_ha": 358.5,
+      "Area_harvested_kha": 33797.6,
+      "Wheat_tonnes_ha": 6.8
+    },
+    {
+      "Entity": "Bangladesh",
+      "Maize_tonnes_ha": 9.7,
+      "Fertilizer_kg_ha": 293.5,
+      "Area_harvested_kha": 7552.6,
+      "Wheat_tonnes_ha": 2.7
+    },
+    {
+      "Entity": "India",
+      "Maize_tonnes_ha": 4.7,
+      "Fertilizer_kg_ha": 372.8,
+      "Area_harvested_kha": 17735.4,
+      "Wheat_tonnes_ha": 7.8
+    },
+    {
+      "Entity": "Germany",
+      "Maize_tonnes_ha": 5.9,
+      "Fertilizer_kg_ha": 365.0,
+      "Area_harvested_kha": 18491.3,
+      "Wheat_tonnes_ha": 8.6
+    },
+    {
+      "Entity": "Ukraine",
+      "Maize_tonnes_ha": 2.9,
+      "Fertilizer_kg_ha": 396.6,
+      "Area_harvested_kha": 6083.1,
+      "Wheat_tonnes_ha": 2.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Maize_tonnes_ha",
+    "Fertilizer_kg_ha",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ]
+}

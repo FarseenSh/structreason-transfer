@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Unemployment_pct: Hungary=21.6, Portugal=10.5, Czechia=18, Belgium=4.2, Germany=13.3, Ireland=18.1, Italy=20.5, Switzerland=18.5, Finland=3.2, Greece=9.8.
+Trust_in_govt_pct: Hungary=15.2, Portugal=19.2, Czechia=56.6, Belgium=59.1, Germany=63.1, Ireland=69.1, Italy=60.8, Switzerland=64.9, Finland=15.2, Greece=27.5.
+Gini_index: Hungary=33.6, Portugal=37.6, Czechia=23.1, Belgium=31.7, Germany=34.5, Ireland=23.5, Italy=29.8, Switzerland=38.2, Finland=34.4, Greece=27.
+Govt_expenditure_pct_GDP: Hungary=53.9, Portugal=39.7, Czechia=53.9, Belgium=38.4, Germany=46.5, Ireland=41.1, Italy=37.7, Switzerland=54.8, Finland=35.3, Greece=32.4.

@@ -1,0 +1,7 @@
+| Entity | Net_income_M | Operating_margin_pct |
+|---|---|---|
+| CompanyS | 48.2 | 39.4 |
+| CompanyJ | -99.1 | 11.2 |
+| CompanyD | 334.2 | 7.4 |
+| CompanyO | 1092.5 | 12 |
+| CompanyT | 980.1 | 30.2 |

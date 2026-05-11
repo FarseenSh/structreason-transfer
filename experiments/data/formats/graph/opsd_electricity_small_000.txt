@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Switzerland: {Gas_GWh=582, Total_GWh=23633.3}
+  Norway: {Gas_GWh=4244, Total_GWh=19734.6}
+  Belgium: {Gas_GWh=6597.3, Total_GWh=15161.7}
+  Spain: {Gas_GWh=5867.6, Total_GWh=37005}
+  UK: {Gas_GWh=1815.5, Total_GWh=16863.3}
+
+Edges (top 3 by metric similarity):
+  Spain -- UK (sim=1.00, similar Gas_GWh)
+  Norway -- Spain (sim=1.00, similar Gas_GWh)
+  Switzerland -- UK (sim=1.00, similar Gas_GWh)

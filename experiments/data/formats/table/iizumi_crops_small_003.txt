@@ -1,0 +1,7 @@
+| Entity | Yield_index | Rice_tonnes_ha |
+|---|---|---|
+| Indonesia | 142.7 | 5.6 |
+| Pakistan | 127.4 | 5.3 |
+| Vietnam | 100.9 | 4.5 |
+| Nigeria | 128.5 | 3.9 |
+| Turkey | 167 | 5.8 |

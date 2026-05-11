@@ -1,0 +1,94 @@
+{
+  "id": "ntd_transit_medium_007",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Monthly_riders_k",
+    "Revenue_k_USD",
+    "On_time_pct",
+    "Farebox_recovery_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Yellow",
+      "Monthly_riders_k": 3141.5,
+      "Revenue_k_USD": 14363.2,
+      "On_time_pct": 90.1,
+      "Farebox_recovery_pct": 69.3
+    },
+    {
+      "Entity": "Bus_303",
+      "Monthly_riders_k": 4702.9,
+      "Revenue_k_USD": 1654.5,
+      "On_time_pct": 66.4,
+      "Farebox_recovery_pct": 59.5
+    },
+    {
+      "Entity": "Bus_404",
+      "Monthly_riders_k": 2447.5,
+      "Revenue_k_USD": 2828.9,
+      "On_time_pct": 75.3,
+      "Farebox_recovery_pct": 32.1
+    },
+    {
+      "Entity": "Line_Blue",
+      "Monthly_riders_k": 5636.2,
+      "Revenue_k_USD": 6507.6,
+      "On_time_pct": 87.6,
+      "Farebox_recovery_pct": 71.4
+    },
+    {
+      "Entity": "Line_Green",
+      "Monthly_riders_k": 856.5,
+      "Revenue_k_USD": 4303.3,
+      "On_time_pct": 75.9,
+      "Farebox_recovery_pct": 30.0
+    },
+    {
+      "Entity": "Line_Red",
+      "Monthly_riders_k": 619.6,
+      "Revenue_k_USD": 9770.2,
+      "On_time_pct": 67.6,
+      "Farebox_recovery_pct": 78.4
+    },
+    {
+      "Entity": "Ferry_B",
+      "Monthly_riders_k": 5967.1,
+      "Revenue_k_USD": 10390.0,
+      "On_time_pct": 76.4,
+      "Farebox_recovery_pct": 64.5
+    },
+    {
+      "Entity": "Tram_1",
+      "Monthly_riders_k": 5827.0,
+      "Revenue_k_USD": 7943.2,
+      "On_time_pct": 88.5,
+      "Farebox_recovery_pct": 18.8
+    },
+    {
+      "Entity": "Bus_505",
+      "Monthly_riders_k": 2156.8,
+      "Revenue_k_USD": 9206.8,
+      "On_time_pct": 69.0,
+      "Farebox_recovery_pct": 71.0
+    },
+    {
+      "Entity": "Tram_3",
+      "Monthly_riders_k": 2872.6,
+      "Revenue_k_USD": 6558.0,
+      "On_time_pct": 88.9,
+      "Farebox_recovery_pct": 50.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Monthly_riders_k",
+    "Revenue_k_USD",
+    "On_time_pct",
+    "Farebox_recovery_pct"
+  ]
+}

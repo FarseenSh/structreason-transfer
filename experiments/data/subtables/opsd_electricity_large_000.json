@@ -1,0 +1,230 @@
+{
+  "id": "opsd_electricity_large_000",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "Hydro_GWh",
+    "Gas_GWh",
+    "Solar_GWh",
+    "CO2_Mt",
+    "Wind_GWh",
+    "Coal_GWh",
+    "Nuclear_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Sweden",
+      "Hydro_GWh": 7997.7,
+      "Gas_GWh": 2402.1,
+      "Solar_GWh": 1791.5,
+      "CO2_Mt": 55.6,
+      "Wind_GWh": 7530.6,
+      "Coal_GWh": 869.6,
+      "Nuclear_GWh": 6042.6
+    },
+    {
+      "Entity": "Germany",
+      "Hydro_GWh": 1877.7,
+      "Gas_GWh": 1469.6,
+      "Solar_GWh": 4570.5,
+      "CO2_Mt": 19.0,
+      "Wind_GWh": 7594.5,
+      "Coal_GWh": 104.7,
+      "Nuclear_GWh": 3524.2
+    },
+    {
+      "Entity": "Denmark",
+      "Hydro_GWh": 2316.1,
+      "Gas_GWh": 4816.4,
+      "Solar_GWh": 3815.7,
+      "CO2_Mt": 59.6,
+      "Wind_GWh": 1035.4,
+      "Coal_GWh": 6846.8,
+      "Nuclear_GWh": 7976.7
+    },
+    {
+      "Entity": "Ireland",
+      "Hydro_GWh": 3592.6,
+      "Gas_GWh": 4057.7,
+      "Solar_GWh": 4746.6,
+      "CO2_Mt": 19.8,
+      "Wind_GWh": 3941.1,
+      "Coal_GWh": 5645.0,
+      "Nuclear_GWh": 3065.5
+    },
+    {
+      "Entity": "Switzerland",
+      "Hydro_GWh": 2222.8,
+      "Gas_GWh": 9429.4,
+      "Solar_GWh": 1580.4,
+      "CO2_Mt": 78.5,
+      "Wind_GWh": 10499.1,
+      "Coal_GWh": 2875.1,
+      "Nuclear_GWh": 10893.4
+    },
+    {
+      "Entity": "Czechia",
+      "Hydro_GWh": 5566.7,
+      "Gas_GWh": 3442.6,
+      "Solar_GWh": 3823.1,
+      "CO2_Mt": 19.0,
+      "Wind_GWh": 7069.6,
+      "Coal_GWh": 4784.2,
+      "Nuclear_GWh": 2954.5
+    },
+    {
+      "Entity": "Belgium",
+      "Hydro_GWh": 3899.2,
+      "Gas_GWh": 8204.6,
+      "Solar_GWh": 1007.0,
+      "CO2_Mt": 19.7,
+      "Wind_GWh": 5061.3,
+      "Coal_GWh": 1827.2,
+      "Nuclear_GWh": 4368.9
+    },
+    {
+      "Entity": "Portugal",
+      "Hydro_GWh": 1844.9,
+      "Gas_GWh": 7563.6,
+      "Solar_GWh": 2246.4,
+      "CO2_Mt": 68.8,
+      "Wind_GWh": 5688.2,
+      "Coal_GWh": 1388.7,
+      "Nuclear_GWh": 7598.2
+    },
+    {
+      "Entity": "Spain",
+      "Hydro_GWh": 4100.4,
+      "Gas_GWh": 6778.9,
+      "Solar_GWh": 4373.7,
+      "CO2_Mt": 20.2,
+      "Wind_GWh": 2657.7,
+      "Coal_GWh": 3795.6,
+      "Nuclear_GWh": 7300.6
+    },
+    {
+      "Entity": "UK",
+      "Hydro_GWh": 7121.4,
+      "Gas_GWh": 9227.9,
+      "Solar_GWh": 3826.8,
+      "CO2_Mt": 29.5,
+      "Wind_GWh": 9780.2,
+      "Coal_GWh": 2857.8,
+      "Nuclear_GWh": 9012.7
+    },
+    {
+      "Entity": "Netherlands",
+      "Hydro_GWh": 6359.9,
+      "Gas_GWh": 4256.9,
+      "Solar_GWh": 1208.4,
+      "CO2_Mt": 57.5,
+      "Wind_GWh": 10985.3,
+      "Coal_GWh": 4941.1,
+      "Nuclear_GWh": 6561.7
+    },
+    {
+      "Entity": "France",
+      "Hydro_GWh": 4040.7,
+      "Gas_GWh": 4079.8,
+      "Solar_GWh": 5164.2,
+      "CO2_Mt": 13.5,
+      "Wind_GWh": 10945.8,
+      "Coal_GWh": 1784.3,
+      "Nuclear_GWh": 13792.1
+    },
+    {
+      "Entity": "Finland",
+      "Hydro_GWh": 2379.1,
+      "Gas_GWh": 1861.2,
+      "Solar_GWh": 414.8,
+      "CO2_Mt": 13.6,
+      "Wind_GWh": 2842.4,
+      "Coal_GWh": 5320.3,
+      "Nuclear_GWh": 12599.0
+    },
+    {
+      "Entity": "Norway",
+      "Hydro_GWh": 1521.1,
+      "Gas_GWh": 2974.9,
+      "Solar_GWh": 3611.8,
+      "CO2_Mt": 39.4,
+      "Wind_GWh": 3866.7,
+      "Coal_GWh": 6146.5,
+      "Nuclear_GWh": 13186.7
+    },
+    {
+      "Entity": "Romania",
+      "Hydro_GWh": 7039.2,
+      "Gas_GWh": 8833.8,
+      "Solar_GWh": 5904.5,
+      "CO2_Mt": 20.3,
+      "Wind_GWh": 2095.3,
+      "Coal_GWh": 1374.8,
+      "Nuclear_GWh": 9442.7
+    },
+    {
+      "Entity": "Austria",
+      "Hydro_GWh": 5710.3,
+      "Gas_GWh": 4901.5,
+      "Solar_GWh": 3235.9,
+      "CO2_Mt": 19.6,
+      "Wind_GWh": 3825.0,
+      "Coal_GWh": 398.7,
+      "Nuclear_GWh": 9525.1
+    },
+    {
+      "Entity": "Greece",
+      "Hydro_GWh": 4620.1,
+      "Gas_GWh": 3611.1,
+      "Solar_GWh": 4824.0,
+      "CO2_Mt": 1.7,
+      "Wind_GWh": 4127.1,
+      "Coal_GWh": 3544.7,
+      "Nuclear_GWh": 9138.0
+    },
+    {
+      "Entity": "Italy",
+      "Hydro_GWh": 7047.5,
+      "Gas_GWh": 2396.3,
+      "Solar_GWh": 3611.6,
+      "CO2_Mt": 30.3,
+      "Wind_GWh": 7670.6,
+      "Coal_GWh": 6203.5,
+      "Nuclear_GWh": 6523.3
+    },
+    {
+      "Entity": "Poland",
+      "Hydro_GWh": 1061.4,
+      "Gas_GWh": 5004.1,
+      "Solar_GWh": 4720.2,
+      "CO2_Mt": 26.1,
+      "Wind_GWh": 2437.8,
+      "Coal_GWh": 5223.7,
+      "Nuclear_GWh": 4831.6
+    },
+    {
+      "Entity": "Hungary",
+      "Hydro_GWh": 5491.7,
+      "Gas_GWh": 7251.7,
+      "Solar_GWh": 3968.0,
+      "CO2_Mt": 3.5,
+      "Wind_GWh": 11048.9,
+      "Coal_GWh": 5630.0,
+      "Nuclear_GWh": 8880.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Hydro_GWh",
+    "Gas_GWh",
+    "Solar_GWh",
+    "CO2_Mt",
+    "Wind_GWh",
+    "Coal_GWh",
+    "Nuclear_GWh"
+  ]
+}

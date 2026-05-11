@@ -1,0 +1,3 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Complaints_per_10k: Line_Green=14.8, Line_Orange=4.1, Line_Pink=8.8, Line_Purple=9.4, Line_Brown=8.5.
+Avg_trip_minutes: Line_Green=48.8, Line_Orange=36.4, Line_Pink=31.9, Line_Purple=13.8, Line_Brown=41.1.

@@ -1,0 +1,12 @@
+| Entity | Debt_ratio | Net_income_M | Operating_margin_pct | ROE_pct |
+|---|---|---|---|---|
+| CompanyH | 0.3 | 1149.7 | 22.5 | 15.7 |
+| CompanyT | 0.7 | 280.4 | 21.3 | -3.1 |
+| CompanyN | 0.7 | 162.4 | 19.2 | -9.6 |
+| CompanyQ | 0.9 | 733 | 16.8 | -10.5 |
+| CompanyC | 0.3 | -4 | 24.9 | -12.8 |
+| CompanyM | 0.8 | 273.9 | 33.3 | 19.4 |
+| CompanyI | 0.2 | 82.6 | 2.3 | -5.7 |
+| CompanyG | 0.2 | 344.1 | 31.6 | 33.5 |
+| CompanyO | 0.7 | 1101.3 | -2.2 | 38.9 |
+| CompanyR | 0.5 | 5.3 | 16.7 | 2.5 |

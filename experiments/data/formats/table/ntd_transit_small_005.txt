@@ -1,0 +1,7 @@
+| Entity | Complaints_per_10k | Avg_trip_minutes |
+|---|---|---|
+| Line_Green | 14.8 | 48.8 |
+| Line_Orange | 4.1 | 36.4 |
+| Line_Pink | 8.8 | 31.9 |
+| Line_Purple | 9.4 | 13.8 |
+| Line_Brown | 8.5 | 41.1 |

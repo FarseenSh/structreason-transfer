@@ -1,0 +1,35 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_U20: {CO_ppm=0.8, Temperature_C=9.2, PM25_ug_m3=4.5, NO2_ppb=20.2, PM10_ug_m3=95.3, AQI=138.9, O3_ppb=23.7}
+  Station_NW1: {CO_ppm=2.1, Temperature_C=31, PM25_ug_m3=48.6, NO2_ppb=46.5, PM10_ug_m3=9.3, AQI=96.7, O3_ppb=48.6}
+  Station_N6: {CO_ppm=2.9, Temperature_C=10.2, PM25_ug_m3=41.2, NO2_ppb=6.7, PM10_ug_m3=27.3, AQI=41.6, O3_ppb=42.1}
+  Station_SE12: {CO_ppm=4.2, Temperature_C=-4.7, PM25_ug_m3=16.6, NO2_ppb=45.6, PM10_ug_m3=16, AQI=125, O3_ppb=82.7}
+  Station_NE11: {CO_ppm=3.2, Temperature_C=21.2, PM25_ug_m3=22.5, NO2_ppb=16.6, PM10_ug_m3=65.4, AQI=169.8, O3_ppb=59.2}
+  Station_NE2: {CO_ppm=2.4, Temperature_C=5.4, PM25_ug_m3=62.3, NO2_ppb=54.7, PM10_ug_m3=78.3, AQI=32.5, O3_ppb=21.2}
+  Station_NW10: {CO_ppm=3.5, Temperature_C=0.3, PM25_ug_m3=42.1, NO2_ppb=27.8, PM10_ug_m3=9.2, AQI=155.8, O3_ppb=64.1}
+  Station_E17: {CO_ppm=1.4, Temperature_C=6.1, PM25_ug_m3=39.9, NO2_ppb=40.3, PM10_ug_m3=26.1, AQI=48.8, O3_ppb=28.6}
+  Station_C5: {CO_ppm=3.1, Temperature_C=30.6, PM25_ug_m3=42.7, NO2_ppb=11.7, PM10_ug_m3=41.9, AQI=132.2, O3_ppb=35}
+  Station_SW4: {CO_ppm=0.2, Temperature_C=34.3, PM25_ug_m3=62.2, NO2_ppb=19, PM10_ug_m3=41, AQI=49.4, O3_ppb=41.5}
+  Station_SW13: {CO_ppm=0.5, Temperature_C=36.4, PM25_ug_m3=24.1, NO2_ppb=43.5, PM10_ug_m3=18.9, AQI=116, O3_ppb=69.3}
+  Station_SE3: {CO_ppm=2.9, Temperature_C=8, PM25_ug_m3=20.4, NO2_ppb=35.3, PM10_ug_m3=27.4, AQI=58, O3_ppb=81.1}
+  Station_N15: {CO_ppm=1, Temperature_C=14.6, PM25_ug_m3=26.4, NO2_ppb=47.4, PM10_ug_m3=102.9, AQI=106.7, O3_ppb=79.7}
+  Station_S7: {CO_ppm=3.2, Temperature_C=29.5, PM25_ug_m3=52.7, NO2_ppb=36, PM10_ug_m3=86.5, AQI=116, O3_ppb=26.9}
+  Station_R19: {CO_ppm=2.9, Temperature_C=8.7, PM25_ug_m3=10.5, NO2_ppb=36.3, PM10_ug_m3=41.2, AQI=119, O3_ppb=19.2}
+  Station_E8: {CO_ppm=0.5, Temperature_C=11.6, PM25_ug_m3=15.8, NO2_ppb=52.2, PM10_ug_m3=37.5, AQI=129.2, O3_ppb=73}
+  Station_W18: {CO_ppm=1.9, Temperature_C=5.2, PM25_ug_m3=17.2, NO2_ppb=28.4, PM10_ug_m3=17, AQI=31, O3_ppb=35.2}
+  Station_S16: {CO_ppm=2.8, Temperature_C=19.6, PM25_ug_m3=42.5, NO2_ppb=54.2, PM10_ug_m3=47.1, AQI=132.5, O3_ppb=55.8}
+  Station_C14: {CO_ppm=3.3, Temperature_C=23.3, PM25_ug_m3=42.8, NO2_ppb=25.5, PM10_ug_m3=52.6, AQI=44.7, O3_ppb=83.5}
+  Station_W9: {CO_ppm=3.7, Temperature_C=8.7, PM25_ug_m3=26.1, NO2_ppb=23.1, PM10_ug_m3=109.3, AQI=128.3, O3_ppb=28}
+
+Edges (top 10 by metric similarity):
+  Station_U20 -- Station_W9 (sim=0.99, similar Temperature_C)
+  Station_SE12 -- Station_E8 (sim=0.98, similar PM25_ug_m3)
+  Station_E8 -- Station_S16 (sim=0.98, similar NO2_ppb)
+  Station_NE11 -- Station_C5 (sim=0.98, similar CO_ppm)
+  Station_SW13 -- Station_E8 (sim=0.98, similar CO_ppm)
+  Station_SE3 -- Station_W18 (sim=0.97, similar CO_ppm)
+  Station_NW1 -- Station_SW13 (sim=0.97, similar CO_ppm)
+  Station_S7 -- Station_W9 (sim=0.97, similar CO_ppm)
+  Station_NE11 -- Station_R19 (sim=0.97, similar CO_ppm)
+  Station_SW13 -- Station_S16 (sim=0.97, similar CO_ppm)

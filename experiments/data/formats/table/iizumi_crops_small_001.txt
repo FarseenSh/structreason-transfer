@@ -1,0 +1,7 @@
+| Entity | Rice_tonnes_ha | Fertilizer_kg_ha |
+|---|---|---|
+| Thailand | 2 | 45.2 |
+| Vietnam | 2.3 | 140.8 |
+| Argentina | 4 | 113.1 |
+| Ukraine | 5.8 | 22.1 |
+| China | 3.9 | 223.2 |

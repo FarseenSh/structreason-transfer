@@ -1,0 +1,5 @@
+The following 5 values represent Congestion_index for each Entity (Route_E5, Route_I9, Route_G7, Route_H8, Route_K11), listed in order:
+[2.3, 4, 3, 1.8, 4.2]
+
+The following 5 values represent Bus_passengers for each Entity (Route_E5, Route_I9, Route_G7, Route_H8, Route_K11), listed in order:
+[17789.9, 2910, 25235.4, 7073, 12684.9]

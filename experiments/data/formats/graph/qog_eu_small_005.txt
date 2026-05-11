@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Poland: {Gini_index=32.8, Education_spending_pct=5.7}
+  Belgium: {Gini_index=26, Education_spending_pct=6.6}
+  France: {Gini_index=37.6, Education_spending_pct=6.4}
+  Hungary: {Gini_index=35.9, Education_spending_pct=6.7}
+  Spain: {Gini_index=35.2, Education_spending_pct=3.9}
+
+Edges (top 3 by metric similarity):
+  Poland -- France (sim=1.00, similar Education_spending_pct)
+  Poland -- Hungary (sim=1.00, similar Education_spending_pct)
+  France -- Hungary (sim=1.00, similar Education_spending_pct)

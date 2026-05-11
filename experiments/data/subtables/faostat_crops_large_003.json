@@ -1,0 +1,230 @@
+{
+  "id": "faostat_crops_large_003",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Area_harvested_kha",
+    "Maize_tonnes_ha",
+    "Fertilizer_kg_ha",
+    "Rice_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Wheat_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Russia",
+      "Yield_index": 85.0,
+      "Area_harvested_kha": 15353.2,
+      "Maize_tonnes_ha": 8.8,
+      "Fertilizer_kg_ha": 303.8,
+      "Rice_tonnes_ha": 5.4,
+      "Soybean_tonnes_ha": 2.5,
+      "Wheat_tonnes_ha": 2.4
+    },
+    {
+      "Entity": "Australia",
+      "Yield_index": 96.6,
+      "Area_harvested_kha": 13847.0,
+      "Maize_tonnes_ha": 9.7,
+      "Fertilizer_kg_ha": 298.4,
+      "Rice_tonnes_ha": 2.6,
+      "Soybean_tonnes_ha": 3.0,
+      "Wheat_tonnes_ha": 5.2
+    },
+    {
+      "Entity": "Bangladesh",
+      "Yield_index": 166.9,
+      "Area_harvested_kha": 1735.9,
+      "Maize_tonnes_ha": 11.7,
+      "Fertilizer_kg_ha": 266.9,
+      "Rice_tonnes_ha": 7.0,
+      "Soybean_tonnes_ha": 3.6,
+      "Wheat_tonnes_ha": 5.7
+    },
+    {
+      "Entity": "Vietnam",
+      "Yield_index": 108.8,
+      "Area_harvested_kha": 14663.9,
+      "Maize_tonnes_ha": 7.8,
+      "Fertilizer_kg_ha": 175.6,
+      "Rice_tonnes_ha": 7.1,
+      "Soybean_tonnes_ha": 1.1,
+      "Wheat_tonnes_ha": 5.5
+    },
+    {
+      "Entity": "Turkey",
+      "Yield_index": 96.2,
+      "Area_harvested_kha": 12422.1,
+      "Maize_tonnes_ha": 11.0,
+      "Fertilizer_kg_ha": 30.8,
+      "Rice_tonnes_ha": 3.7,
+      "Soybean_tonnes_ha": 3.6,
+      "Wheat_tonnes_ha": 7.2
+    },
+    {
+      "Entity": "Thailand",
+      "Yield_index": 148.9,
+      "Area_harvested_kha": 635.4,
+      "Maize_tonnes_ha": 8.4,
+      "Fertilizer_kg_ha": 324.7,
+      "Rice_tonnes_ha": 6.6,
+      "Soybean_tonnes_ha": 3.3,
+      "Wheat_tonnes_ha": 6.1
+    },
+    {
+      "Entity": "Ukraine",
+      "Yield_index": 64.6,
+      "Area_harvested_kha": 29725.8,
+      "Maize_tonnes_ha": 3.8,
+      "Fertilizer_kg_ha": 67.8,
+      "Rice_tonnes_ha": 5.5,
+      "Soybean_tonnes_ha": 3.8,
+      "Wheat_tonnes_ha": 2.1
+    },
+    {
+      "Entity": "Pakistan",
+      "Yield_index": 125.9,
+      "Area_harvested_kha": 5463.7,
+      "Maize_tonnes_ha": 10.0,
+      "Fertilizer_kg_ha": 126.7,
+      "Rice_tonnes_ha": 2.6,
+      "Soybean_tonnes_ha": 1.7,
+      "Wheat_tonnes_ha": 2.8
+    },
+    {
+      "Entity": "Argentina",
+      "Yield_index": 114.0,
+      "Area_harvested_kha": 17782.8,
+      "Maize_tonnes_ha": 8.9,
+      "Fertilizer_kg_ha": 379.8,
+      "Rice_tonnes_ha": 5.3,
+      "Soybean_tonnes_ha": 2.0,
+      "Wheat_tonnes_ha": 5.5
+    },
+    {
+      "Entity": "Nigeria",
+      "Yield_index": 135.0,
+      "Area_harvested_kha": 27571.4,
+      "Maize_tonnes_ha": 11.8,
+      "Fertilizer_kg_ha": 134.7,
+      "Rice_tonnes_ha": 7.4,
+      "Soybean_tonnes_ha": 3.0,
+      "Wheat_tonnes_ha": 6.7
+    },
+    {
+      "Entity": "Indonesia",
+      "Yield_index": 147.7,
+      "Area_harvested_kha": 21354.6,
+      "Maize_tonnes_ha": 4.4,
+      "Fertilizer_kg_ha": 117.0,
+      "Rice_tonnes_ha": 3.7,
+      "Soybean_tonnes_ha": 3.8,
+      "Wheat_tonnes_ha": 5.4
+    },
+    {
+      "Entity": "Brazil",
+      "Yield_index": 99.0,
+      "Area_harvested_kha": 6342.6,
+      "Maize_tonnes_ha": 5.3,
+      "Fertilizer_kg_ha": 389.9,
+      "Rice_tonnes_ha": 2.0,
+      "Soybean_tonnes_ha": 4.0,
+      "Wheat_tonnes_ha": 4.2
+    },
+    {
+      "Entity": "France",
+      "Yield_index": 136.4,
+      "Area_harvested_kha": 21828.3,
+      "Maize_tonnes_ha": 10.2,
+      "Fertilizer_kg_ha": 52.7,
+      "Rice_tonnes_ha": 7.4,
+      "Soybean_tonnes_ha": 2.3,
+      "Wheat_tonnes_ha": 1.9
+    },
+    {
+      "Entity": "Egypt",
+      "Yield_index": 122.9,
+      "Area_harvested_kha": 26637.1,
+      "Maize_tonnes_ha": 2.6,
+      "Fertilizer_kg_ha": 81.1,
+      "Rice_tonnes_ha": 4.3,
+      "Soybean_tonnes_ha": 2.6,
+      "Wheat_tonnes_ha": 7.4
+    },
+    {
+      "Entity": "Canada",
+      "Yield_index": 76.1,
+      "Area_harvested_kha": 29989.4,
+      "Maize_tonnes_ha": 8.3,
+      "Fertilizer_kg_ha": 186.6,
+      "Rice_tonnes_ha": 4.4,
+      "Soybean_tonnes_ha": 1.5,
+      "Wheat_tonnes_ha": 5.2
+    },
+    {
+      "Entity": "Germany",
+      "Yield_index": 165.8,
+      "Area_harvested_kha": 11493.6,
+      "Maize_tonnes_ha": 7.4,
+      "Fertilizer_kg_ha": 319.3,
+      "Rice_tonnes_ha": 5.9,
+      "Soybean_tonnes_ha": 3.1,
+      "Wheat_tonnes_ha": 5.5
+    },
+    {
+      "Entity": "China",
+      "Yield_index": 150.6,
+      "Area_harvested_kha": 1670.3,
+      "Maize_tonnes_ha": 3.7,
+      "Fertilizer_kg_ha": 356.1,
+      "Rice_tonnes_ha": 5.3,
+      "Soybean_tonnes_ha": 3.5,
+      "Wheat_tonnes_ha": 5.0
+    },
+    {
+      "Entity": "Mexico",
+      "Yield_index": 170.6,
+      "Area_harvested_kha": 21474.2,
+      "Maize_tonnes_ha": 3.7,
+      "Fertilizer_kg_ha": 307.1,
+      "Rice_tonnes_ha": 3.7,
+      "Soybean_tonnes_ha": 3.4,
+      "Wheat_tonnes_ha": 3.5
+    },
+    {
+      "Entity": "India",
+      "Yield_index": 146.4,
+      "Area_harvested_kha": 8289.0,
+      "Maize_tonnes_ha": 10.1,
+      "Fertilizer_kg_ha": 390.9,
+      "Rice_tonnes_ha": 2.5,
+      "Soybean_tonnes_ha": 2.0,
+      "Wheat_tonnes_ha": 3.6
+    },
+    {
+      "Entity": "USA",
+      "Yield_index": 89.4,
+      "Area_harvested_kha": 27440.9,
+      "Maize_tonnes_ha": 2.2,
+      "Fertilizer_kg_ha": 26.4,
+      "Rice_tonnes_ha": 6.6,
+      "Soybean_tonnes_ha": 3.9,
+      "Wheat_tonnes_ha": 2.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Area_harvested_kha",
+    "Maize_tonnes_ha",
+    "Fertilizer_kg_ha",
+    "Rice_tonnes_ha",
+    "Soybean_tonnes_ha",
+    "Wheat_tonnes_ha"
+  ]
+}

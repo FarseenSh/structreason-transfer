@@ -1,0 +1,13 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_NW1: {AQI=38.2, O3_ppb=29.9}
+  Station_C5: {AQI=167.9, O3_ppb=46.4}
+  Station_SE12: {AQI=164.6, O3_ppb=29.2}
+  Station_S16: {AQI=103.1, O3_ppb=16.5}
+  Station_NW10: {AQI=120, O3_ppb=83.7}
+
+Edges (top 3 by metric similarity):
+  Station_SE12 -- Station_S16 (sim=1.00, similar O3_ppb)
+  Station_NW1 -- Station_NW10 (sim=1.00, similar O3_ppb)
+  Station_C5 -- Station_SE12 (sim=1.00, similar AQI)

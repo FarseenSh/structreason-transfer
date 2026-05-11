@@ -1,0 +1,20 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Turkey: {Maize_tonnes_ha=2.4, Fertilizer_kg_ha=338.7, Area_harvested_kha=5042.8, Wheat_tonnes_ha=6.9}
+  Indonesia: {Maize_tonnes_ha=9.3, Fertilizer_kg_ha=233.1, Area_harvested_kha=27962.6, Wheat_tonnes_ha=2.2}
+  Mexico: {Maize_tonnes_ha=4.1, Fertilizer_kg_ha=211.8, Area_harvested_kha=28255.1, Wheat_tonnes_ha=6.7}
+  Pakistan: {Maize_tonnes_ha=8.6, Fertilizer_kg_ha=388.1, Area_harvested_kha=22730.9, Wheat_tonnes_ha=7.9}
+  Russia: {Maize_tonnes_ha=9.5, Fertilizer_kg_ha=147.1, Area_harvested_kha=10120.7, Wheat_tonnes_ha=4.1}
+  Vietnam: {Maize_tonnes_ha=2.6, Fertilizer_kg_ha=358.5, Area_harvested_kha=33797.6, Wheat_tonnes_ha=6.8}
+  Bangladesh: {Maize_tonnes_ha=9.7, Fertilizer_kg_ha=293.5, Area_harvested_kha=7552.6, Wheat_tonnes_ha=2.7}
+  India: {Maize_tonnes_ha=4.7, Fertilizer_kg_ha=372.8, Area_harvested_kha=17735.4, Wheat_tonnes_ha=7.8}
+  Germany: {Maize_tonnes_ha=5.9, Fertilizer_kg_ha=365, Area_harvested_kha=18491.3, Wheat_tonnes_ha=8.6}
+  Ukraine: {Maize_tonnes_ha=2.9, Fertilizer_kg_ha=396.6, Area_harvested_kha=6083.1, Wheat_tonnes_ha=2.6}
+
+Edges (top 5 by metric similarity):
+  Indonesia -- Mexico (sim=1.00, similar Wheat_tonnes_ha)
+  India -- Germany (sim=1.00, similar Wheat_tonnes_ha)
+  Turkey -- Ukraine (sim=1.00, similar Maize_tonnes_ha)
+  Indonesia -- Vietnam (sim=1.00, similar Wheat_tonnes_ha)
+  Pakistan -- Russia (sim=1.00, similar Maize_tonnes_ha)

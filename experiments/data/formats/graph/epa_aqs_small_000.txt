@@ -1,0 +1,13 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_SW4: {SO2_ppb=15.2, AQI=111.5}
+  Station_NW10: {SO2_ppb=14, AQI=106.3}
+  Station_S7: {SO2_ppb=2.8, AQI=82.7}
+  Station_C5: {SO2_ppb=22.4, AQI=60.7}
+  Station_E17: {SO2_ppb=16, AQI=140.9}
+
+Edges (top 3 by metric similarity):
+  Station_SW4 -- Station_NW10 (sim=1.00, similar SO2_ppb)
+  Station_NW10 -- Station_E17 (sim=1.00, similar SO2_ppb)
+  Station_SW4 -- Station_E17 (sim=1.00, similar SO2_ppb)

@@ -1,0 +1,94 @@
+{
+  "id": "ntd_transit_medium_003",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Revenue_k_USD",
+    "On_time_pct",
+    "Monthly_riders_k",
+    "Complaints_per_10k"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Brown",
+      "Revenue_k_USD": 5110.2,
+      "On_time_pct": 83.8,
+      "Monthly_riders_k": 6224.4,
+      "Complaints_per_10k": 1.4
+    },
+    {
+      "Entity": "Line_Green",
+      "Revenue_k_USD": 7827.0,
+      "On_time_pct": 82.0,
+      "Monthly_riders_k": 3351.4,
+      "Complaints_per_10k": 12.2
+    },
+    {
+      "Entity": "Line_Red",
+      "Revenue_k_USD": 12161.1,
+      "On_time_pct": 79.0,
+      "Monthly_riders_k": 4098.3,
+      "Complaints_per_10k": 9.4
+    },
+    {
+      "Entity": "Line_Gold",
+      "Revenue_k_USD": 2961.4,
+      "On_time_pct": 78.2,
+      "Monthly_riders_k": 3781.3,
+      "Complaints_per_10k": 6.7
+    },
+    {
+      "Entity": "Tram_3",
+      "Revenue_k_USD": 9471.7,
+      "On_time_pct": 92.0,
+      "Monthly_riders_k": 3477.5,
+      "Complaints_per_10k": 12.1
+    },
+    {
+      "Entity": "Line_Silver",
+      "Revenue_k_USD": 6516.4,
+      "On_time_pct": 87.4,
+      "Monthly_riders_k": 5487.0,
+      "Complaints_per_10k": 7.1
+    },
+    {
+      "Entity": "Ferry_A",
+      "Revenue_k_USD": 2698.8,
+      "On_time_pct": 90.5,
+      "Monthly_riders_k": 4889.4,
+      "Complaints_per_10k": 3.8
+    },
+    {
+      "Entity": "Ferry_B",
+      "Revenue_k_USD": 12488.5,
+      "On_time_pct": 78.9,
+      "Monthly_riders_k": 7777.8,
+      "Complaints_per_10k": 7.4
+    },
+    {
+      "Entity": "Line_Pink",
+      "Revenue_k_USD": 4937.7,
+      "On_time_pct": 73.6,
+      "Monthly_riders_k": 1154.3,
+      "Complaints_per_10k": 1.5
+    },
+    {
+      "Entity": "Line_Purple",
+      "Revenue_k_USD": 14022.9,
+      "On_time_pct": 67.9,
+      "Monthly_riders_k": 4609.5,
+      "Complaints_per_10k": 13.5
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Revenue_k_USD",
+    "On_time_pct",
+    "Monthly_riders_k",
+    "Complaints_per_10k"
+  ]
+}

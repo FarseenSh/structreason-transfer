@@ -1,0 +1,13 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Czechia: {Solar_GWh=3143.4, Nuclear_GWh=194.5}
+  Finland: {Solar_GWh=4285.5, Nuclear_GWh=7647.1}
+  Sweden: {Solar_GWh=4363.2, Nuclear_GWh=13137}
+  Switzerland: {Solar_GWh=491.5, Nuclear_GWh=9143.3}
+  France: {Solar_GWh=1413.4, Nuclear_GWh=7503.1}
+
+Edges (top 3 by metric similarity):
+  Switzerland -- France (sim=0.99, similar Solar_GWh)
+  Sweden -- France (sim=0.99, similar Solar_GWh)
+  Finland -- Sweden (sim=0.98, similar Solar_GWh)

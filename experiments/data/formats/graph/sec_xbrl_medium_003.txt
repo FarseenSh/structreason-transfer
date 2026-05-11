@@ -1,0 +1,20 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyJ: {Current_ratio=1.7, EPS=13.7, Net_income_M=-28.6, Debt_ratio=0.5}
+  CompanyC: {Current_ratio=2.7, EPS=2, Net_income_M=912.6, Debt_ratio=0.5}
+  CompanyR: {Current_ratio=1.9, EPS=21.4, Net_income_M=430.3, Debt_ratio=0.2}
+  CompanyE: {Current_ratio=3.3, EPS=9.5, Net_income_M=524.4, Debt_ratio=0.2}
+  CompanyM: {Current_ratio=3.8, EPS=2.8, Net_income_M=373, Debt_ratio=0.5}
+  CompanyO: {Current_ratio=1.4, EPS=3.3, Net_income_M=591.4, Debt_ratio=0.3}
+  CompanyK: {Current_ratio=2.3, EPS=19.2, Net_income_M=894, Debt_ratio=0.6}
+  CompanyI: {Current_ratio=3, EPS=23.3, Net_income_M=719.9, Debt_ratio=0.4}
+  CompanyB: {Current_ratio=1.1, EPS=8.2, Net_income_M=79.2, Debt_ratio=0.3}
+  CompanyQ: {Current_ratio=3.3, EPS=0.1, Net_income_M=635.2, Debt_ratio=0.6}
+
+Edges (top 5 by metric similarity):
+  CompanyC -- CompanyQ (sim=1.00, similar Debt_ratio)
+  CompanyC -- CompanyO (sim=1.00, similar Debt_ratio)
+  CompanyE -- CompanyK (sim=1.00, similar Debt_ratio)
+  CompanyO -- CompanyQ (sim=1.00, similar Debt_ratio)
+  CompanyM -- CompanyO (sim=1.00, similar Debt_ratio)

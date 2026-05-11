@@ -1,0 +1,35 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Ireland: {Total_GWh=32413, Nuclear_GWh=3402.6, Solar_GWh=4045.3, Coal_GWh=1663.2, Wind_GWh=10864.7, Gas_GWh=3123.7, Hydro_GWh=1666.6}
+  Austria: {Total_GWh=45932.5, Nuclear_GWh=6606.8, Solar_GWh=1649.2, Coal_GWh=7299.4, Wind_GWh=2146, Gas_GWh=1501.7, Hydro_GWh=6627.3}
+  Sweden: {Total_GWh=21858.6, Nuclear_GWh=12534.5, Solar_GWh=4297.3, Coal_GWh=6405.8, Wind_GWh=7021.1, Gas_GWh=9036.6, Hydro_GWh=7974.4}
+  Italy: {Total_GWh=29574.4, Nuclear_GWh=9083.9, Solar_GWh=383.8, Coal_GWh=1109.4, Wind_GWh=9102.3, Gas_GWh=8584.7, Hydro_GWh=876.9}
+  Finland: {Total_GWh=24799.9, Nuclear_GWh=1031.1, Solar_GWh=3419.9, Coal_GWh=5986.5, Wind_GWh=4566.6, Gas_GWh=821, Hydro_GWh=892.6}
+  France: {Total_GWh=27519.5, Nuclear_GWh=6643.6, Solar_GWh=2409.5, Coal_GWh=3377.3, Wind_GWh=10437.5, Gas_GWh=8289.6, Hydro_GWh=6130.8}
+  Romania: {Total_GWh=5230.6, Nuclear_GWh=4676.6, Solar_GWh=4802.1, Coal_GWh=172.4, Wind_GWh=4601.6, Gas_GWh=1243, Hydro_GWh=608.4}
+  Netherlands: {Total_GWh=45069.6, Nuclear_GWh=9624.7, Solar_GWh=4725.3, Coal_GWh=4250.5, Wind_GWh=2245, Gas_GWh=913.9, Hydro_GWh=641.6}
+  Hungary: {Total_GWh=45699.8, Nuclear_GWh=9218.5, Solar_GWh=2315.8, Coal_GWh=1083.9, Wind_GWh=7091.8, Gas_GWh=7658.4, Hydro_GWh=7121.7}
+  Poland: {Total_GWh=28306.9, Nuclear_GWh=156, Solar_GWh=3774, Coal_GWh=1719, Wind_GWh=5162.7, Gas_GWh=5502.2, Hydro_GWh=6423.6}
+  Belgium: {Total_GWh=28714.7, Nuclear_GWh=9115.4, Solar_GWh=1442.5, Coal_GWh=5583.5, Wind_GWh=379.2, Gas_GWh=4321.1, Hydro_GWh=7064.3}
+  Greece: {Total_GWh=4762.7, Nuclear_GWh=11022.7, Solar_GWh=3524.4, Coal_GWh=2094.3, Wind_GWh=1024.1, Gas_GWh=9067.5, Hydro_GWh=5239.1}
+  Denmark: {Total_GWh=30701.6, Nuclear_GWh=11531, Solar_GWh=579.5, Coal_GWh=7140.5, Wind_GWh=2504.3, Gas_GWh=8441.2, Hydro_GWh=2648}
+  UK: {Total_GWh=22599.3, Nuclear_GWh=884.6, Solar_GWh=2664.2, Coal_GWh=5274.5, Wind_GWh=9278.1, Gas_GWh=858.9, Hydro_GWh=7259.9}
+  Germany: {Total_GWh=36034.1, Nuclear_GWh=4554.9, Solar_GWh=1178.1, Coal_GWh=6666.7, Wind_GWh=10726.1, Gas_GWh=6276, Hydro_GWh=2459.9}
+  Portugal: {Total_GWh=4262, Nuclear_GWh=6319.1, Solar_GWh=5311.9, Coal_GWh=4940.8, Wind_GWh=6638.6, Gas_GWh=7791, Hydro_GWh=2276.5}
+  Norway: {Total_GWh=36122.6, Nuclear_GWh=2696.6, Solar_GWh=2724.9, Coal_GWh=6957.4, Wind_GWh=1445.7, Gas_GWh=5639.8, Hydro_GWh=7102.6}
+  Switzerland: {Total_GWh=15770.9, Nuclear_GWh=6311, Solar_GWh=3585.6, Coal_GWh=2925.4, Wind_GWh=6506.1, Gas_GWh=9835.2, Hydro_GWh=5478.5}
+  Czechia: {Total_GWh=33281.9, Nuclear_GWh=1066.9, Solar_GWh=2226.3, Coal_GWh=4415.7, Wind_GWh=10296.1, Gas_GWh=6954.7, Hydro_GWh=7175.8}
+  Spain: {Total_GWh=32102, Nuclear_GWh=1698.3, Solar_GWh=1803.6, Coal_GWh=4151.3, Wind_GWh=9043.8, Gas_GWh=1310.2, Hydro_GWh=1331.6}
+
+Edges (top 10 by metric similarity):
+  Ireland -- Spain (sim=0.99, similar Total_GWh)
+  Poland -- Czechia (sim=0.99, similar Hydro_GWh)
+  Austria -- Norway (sim=0.99, similar Coal_GWh)
+  Germany -- Spain (sim=0.99, similar Solar_GWh)
+  Finland -- Spain (sim=0.99, similar Hydro_GWh)
+  Austria -- Netherlands (sim=0.99, similar Wind_GWh)
+  Ireland -- Germany (sim=0.99, similar Wind_GWh)
+  Germany -- Czechia (sim=0.99, similar Wind_GWh)
+  Belgium -- Denmark (sim=0.98, similar Solar_GWh)
+  France -- Czechia (sim=0.98, similar Wind_GWh)

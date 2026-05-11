@@ -1,0 +1,5 @@
+The following 5 values represent CO2_Mt for each Entity (France, Netherlands, Italy, Switzerland, Germany), listed in order:
+[72.7, 6.6, 36.6, 17.4, 42.4]
+
+The following 5 values represent Wind_GWh for each Entity (France, Netherlands, Italy, Switzerland, Germany), listed in order:
+[3506.7, 10348.1, 4877, 7737.3, 3136.8]

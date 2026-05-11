@@ -1,0 +1,94 @@
+{
+  "id": "ntd_transit_medium_006",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Revenue_k_USD",
+    "Operating_cost_k",
+    "Farebox_recovery_pct",
+    "On_time_pct"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Blue",
+      "Revenue_k_USD": 12549.4,
+      "Operating_cost_k": 9803.0,
+      "Farebox_recovery_pct": 45.1,
+      "On_time_pct": 80.7
+    },
+    {
+      "Entity": "Line_Yellow",
+      "Revenue_k_USD": 6429.3,
+      "Operating_cost_k": 18610.1,
+      "Farebox_recovery_pct": 71.1,
+      "On_time_pct": 89.6
+    },
+    {
+      "Entity": "Ferry_B",
+      "Revenue_k_USD": 2476.0,
+      "Operating_cost_k": 18029.3,
+      "Farebox_recovery_pct": 70.7,
+      "On_time_pct": 81.0
+    },
+    {
+      "Entity": "Bus_303",
+      "Revenue_k_USD": 4762.2,
+      "Operating_cost_k": 3868.7,
+      "Farebox_recovery_pct": 17.3,
+      "On_time_pct": 80.3
+    },
+    {
+      "Entity": "Bus_202",
+      "Revenue_k_USD": 4051.5,
+      "Operating_cost_k": 13786.1,
+      "Farebox_recovery_pct": 36.2,
+      "On_time_pct": 85.5
+    },
+    {
+      "Entity": "Line_Gold",
+      "Revenue_k_USD": 10247.8,
+      "Operating_cost_k": 4449.6,
+      "Farebox_recovery_pct": 44.6,
+      "On_time_pct": 73.6
+    },
+    {
+      "Entity": "Line_Red",
+      "Revenue_k_USD": 2765.2,
+      "Operating_cost_k": 16501.4,
+      "Farebox_recovery_pct": 56.0,
+      "On_time_pct": 73.2
+    },
+    {
+      "Entity": "Line_Green",
+      "Revenue_k_USD": 9707.1,
+      "Operating_cost_k": 12787.3,
+      "Farebox_recovery_pct": 25.5,
+      "On_time_pct": 97.6
+    },
+    {
+      "Entity": "Bus_101",
+      "Revenue_k_USD": 7042.9,
+      "Operating_cost_k": 6023.5,
+      "Farebox_recovery_pct": 38.5,
+      "On_time_pct": 93.7
+    },
+    {
+      "Entity": "Bus_505",
+      "Revenue_k_USD": 12610.9,
+      "Operating_cost_k": 5132.6,
+      "Farebox_recovery_pct": 77.0,
+      "On_time_pct": 89.3
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Revenue_k_USD",
+    "Operating_cost_k",
+    "Farebox_recovery_pct",
+    "On_time_pct"
+  ]
+}

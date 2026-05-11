@@ -1,0 +1,25 @@
+{
+  "model_id": "minimax/minimax-m2.5",
+  "model_name": "MiniMax-M2.5",
+  "vision": false,
+  "total_calls": 6896,
+  "errors": 3,
+  "elapsed_seconds": 3053.7,
+  "total_input_tokens": 3984941,
+  "total_output_tokens": 3320225,
+  "accuracy_by_format": {
+    "table": 0.9576,
+    "chart_text": 0.8722,
+    "graph": 0.9629,
+    "timeseries": 0.9478
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.981,
+    "Q2_comparison": 0.955,
+    "Q3_aggregation": 0.937,
+    "Q4_trend": 1.0,
+    "Q5_extremum": 0.913,
+    "Q6_multi_hop": 0.9821,
+    "Q7_conditional_aggregation": 0.7823
+  }
+}

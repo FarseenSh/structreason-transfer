@@ -1,0 +1,3 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Yield_index: Brazil=178.5, Argentina=110.8, USA=104.6, Turkey=64.2, France=81.4.
+Fertilizer_kg_ha: Brazil=327.5, Argentina=203.4, USA=382.9, Turkey=51.9, France=254.1.

@@ -1,0 +1,11 @@
+The following 10 values represent Temperature_C for each Entity (Station_U20, Station_W9, Station_NW1, Station_SE12, Station_SW13, Station_NW10, Station_C5, Station_N6, Station_W18, Station_SW4), listed in order:
+[4.9, -0.2, 35.8, -0.2, 6.1, 2.9, -4.7, 8.5, 36.9, 9.7]
+
+The following 10 values represent AQI for each Entity (Station_U20, Station_W9, Station_NW1, Station_SE12, Station_SW13, Station_NW10, Station_C5, Station_N6, Station_W18, Station_SW4), listed in order:
+[100.7, 139.3, 108.2, 139, 125.9, 117.4, 123.9, 147.9, 133.6, 146.7]
+
+The following 10 values represent NO2_ppb for each Entity (Station_U20, Station_W9, Station_NW1, Station_SE12, Station_SW13, Station_NW10, Station_C5, Station_N6, Station_W18, Station_SW4), listed in order:
+[13, 42.3, 45.5, 21.5, 53.1, 21.8, 18.4, 52.7, 18.6, 27.9]
+
+The following 10 values represent CO_ppm for each Entity (Station_U20, Station_W9, Station_NW1, Station_SE12, Station_SW13, Station_NW10, Station_C5, Station_N6, Station_W18, Station_SW4), listed in order:
+[1.8, 4.1, 2.2, 3.2, 3.6, 2.9, 4.3, 3.7, 1.9, 4.3]

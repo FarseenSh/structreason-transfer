@@ -1,0 +1,45 @@
+{
+  "id": "opsd_electricity_small_004",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "CO2_Mt",
+    "Wind_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "France",
+      "CO2_Mt": 72.7,
+      "Wind_GWh": 3506.7
+    },
+    {
+      "Entity": "Netherlands",
+      "CO2_Mt": 6.6,
+      "Wind_GWh": 10348.1
+    },
+    {
+      "Entity": "Italy",
+      "CO2_Mt": 36.6,
+      "Wind_GWh": 4877.0
+    },
+    {
+      "Entity": "Switzerland",
+      "CO2_Mt": 17.4,
+      "Wind_GWh": 7737.3
+    },
+    {
+      "Entity": "Germany",
+      "CO2_Mt": 42.4,
+      "Wind_GWh": 3136.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO2_Mt",
+    "Wind_GWh"
+  ]
+}

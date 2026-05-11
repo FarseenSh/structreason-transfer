@@ -1,0 +1,7 @@
+| Entity | Education_spending_pct | HDI |
+|---|---|---|
+| Norway | 6.5 | 0.8 |
+| Belgium | 3.6 | 0.9 |
+| Denmark | 8.3 | 0.9 |
+| Spain | 5.9 | 0.9 |
+| Greece | 7.4 | 0.9 |

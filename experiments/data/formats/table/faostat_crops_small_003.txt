@@ -1,0 +1,7 @@
+| Entity | Yield_index | Fertilizer_kg_ha |
+|---|---|---|
+| Brazil | 178.5 | 327.5 |
+| Argentina | 110.8 | 203.4 |
+| USA | 104.6 | 382.9 |
+| Turkey | 64.2 | 51.9 |
+| France | 81.4 | 254.1 |

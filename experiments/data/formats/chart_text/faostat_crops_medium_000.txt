@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Rice_tonnes_ha: Brazil=5.1, India=4.2, Pakistan=7.2, Ukraine=3.2, Nigeria=4.4, Germany=2.6, Russia=2.7, Argentina=4.2, Australia=5.8, Mexico=3.9.
+Production_Mt: Brazil=208.4, India=242.5, Pakistan=263.9, Ukraine=18.2, Nigeria=233.3, Germany=48.4, Russia=211, Argentina=114.6, Australia=213.8, Mexico=68.1.
+Maize_tonnes_ha: Brazil=8.4, India=3.3, Pakistan=3.7, Ukraine=8.1, Nigeria=5.4, Germany=9, Russia=8.9, Argentina=8.2, Australia=9.3, Mexico=9.9.
+Soybean_tonnes_ha: Brazil=3.7, India=1.2, Pakistan=2.7, Ukraine=3.2, Nigeria=1.7, Germany=1.8, Russia=1.8, Argentina=2.7, Australia=2.1, Mexico=3.

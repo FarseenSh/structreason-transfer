@@ -1,0 +1,7 @@
+| Entity | SO2_ppb | AQI |
+|---|---|---|
+| Station_SW4 | 15.2 | 111.5 |
+| Station_NW10 | 14 | 106.3 |
+| Station_S7 | 2.8 | 82.7 |
+| Station_C5 | 22.4 | 60.7 |
+| Station_E17 | 16 | 140.9 |

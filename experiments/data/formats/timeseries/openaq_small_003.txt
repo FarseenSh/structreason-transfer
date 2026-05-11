@@ -1,0 +1,5 @@
+The following 5 values represent CO_ppm for each Entity (Station_U20, Station_SW13, Station_N6, Station_S16, Station_W18), listed in order:
+[3.3, 1.8, 2.2, 0.6, 2.9]
+
+The following 5 values represent AQI for each Entity (Station_U20, Station_SW13, Station_N6, Station_S16, Station_W18), listed in order:
+[148.6, 119.9, 177.5, 22.6, 22.5]

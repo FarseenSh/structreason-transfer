@@ -1,0 +1,13 @@
+Graph: SEC XBRL Financials entity relationship network
+
+Nodes:
+  CompanyO: {EPS=17.4, ROE_pct=4.6}
+  CompanyN: {EPS=14.4, ROE_pct=-7.5}
+  CompanyT: {EPS=11, ROE_pct=-7.4}
+  CompanyR: {EPS=17.2, ROE_pct=-13.7}
+  CompanyC: {EPS=1.4, ROE_pct=30.4}
+
+Edges (top 3 by metric similarity):
+  CompanyT -- CompanyR (sim=1.00, similar EPS)
+  CompanyN -- CompanyT (sim=0.99, similar ROE_pct)
+  CompanyN -- CompanyR (sim=0.98, similar EPS)

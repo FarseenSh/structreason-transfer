@@ -1,0 +1,13 @@
+Graph: Ember Monthly Elec entity relationship network
+
+Nodes:
+  Switzerland: {CO2_Mt=36.4, Total_GWh=33466.3}
+  Sweden: {CO2_Mt=53.8, Total_GWh=18843}
+  Romania: {CO2_Mt=30.7, Total_GWh=45879.7}
+  Spain: {CO2_Mt=26.3, Total_GWh=25928.6}
+  Finland: {CO2_Mt=66.9, Total_GWh=11037.2}
+
+Edges (top 3 by metric similarity):
+  Switzerland -- Spain (sim=1.00, similar CO2_Mt)
+  Romania -- Spain (sim=1.00, similar CO2_Mt)
+  Switzerland -- Romania (sim=1.00, similar CO2_Mt)

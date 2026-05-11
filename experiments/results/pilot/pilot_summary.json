@@ -1,0 +1,26 @@
+{
+  "model": "deepseek/deepseek-v3.2",
+  "total_calls": 6896,
+  "errors": 1,
+  "elapsed_seconds": 967.3,
+  "estimated_cost_usd": 0.55,
+  "total_input_tokens": 3844686,
+  "total_output_tokens": 34469,
+  "vision_supported": false,
+  "accuracy_by_format": {
+    "table": 0.6491,
+    "chart_text": 0.6357,
+    "graph": 0.5945,
+    "timeseries": 0.5893
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.98,
+    "Q2_comparison": 0.768,
+    "Q3_aggregation": 0.434,
+    "Q4_trend": 0.565,
+    "Q5_extremum": 0.756,
+    "Q6_multi_hop": 0.6228,
+    "Q7_conditional_aggregation": 0.195
+  },
+  "ceiling_detected": true
+}

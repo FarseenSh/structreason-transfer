@@ -1,0 +1,5 @@
+Bar chart: "FAOSTAT Crops — Agriculture".
+Yield_index: France=120.3, Australia=64.5, Indonesia=70.4, Ukraine=62.6, Egypt=95.3, Thailand=66.4, Brazil=110.8, China=157.5, Turkey=133.7, Vietnam=140.9.
+Fertilizer_kg_ha: France=32, Australia=339, Indonesia=75.6, Ukraine=135, Egypt=216.4, Thailand=373.4, Brazil=399.3, China=317.4, Turkey=297.1, Vietnam=220.5.
+Production_Mt: France=201.4, Australia=47.6, Indonesia=84.4, Ukraine=295.5, Egypt=294, Thailand=100.3, Brazil=76.1, China=72.7, Turkey=148, Vietnam=71.
+Rice_tonnes_ha: France=5.6, Australia=2.4, Indonesia=2.6, Ukraine=3.5, Egypt=6.3, Thailand=3.8, Brazil=4.6, China=5.6, Turkey=6.3, Vietnam=3.7.

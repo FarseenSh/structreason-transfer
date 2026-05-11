@@ -1,0 +1,230 @@
+{
+  "id": "ntd_transit_large_006",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "large",
+  "rows": 20,
+  "cols": 8,
+  "columns": [
+    "Entity",
+    "Farebox_recovery_pct",
+    "Monthly_riders_k",
+    "Complaints_per_10k",
+    "Avg_trip_minutes",
+    "Vehicles_in_service",
+    "On_time_pct",
+    "Revenue_k_USD"
+  ],
+  "data": [
+    {
+      "Entity": "Ferry_A",
+      "Farebox_recovery_pct": 64.4,
+      "Monthly_riders_k": 4027.2,
+      "Complaints_per_10k": 7.1,
+      "Avg_trip_minutes": 32.3,
+      "Vehicles_in_service": 12.1,
+      "On_time_pct": 82.1,
+      "Revenue_k_USD": 9845.3
+    },
+    {
+      "Entity": "Line_Orange",
+      "Farebox_recovery_pct": 26.0,
+      "Monthly_riders_k": 1942.4,
+      "Complaints_per_10k": 6.7,
+      "Avg_trip_minutes": 16.3,
+      "Vehicles_in_service": 180.0,
+      "On_time_pct": 92.8,
+      "Revenue_k_USD": 2131.6
+    },
+    {
+      "Entity": "Line_Red",
+      "Farebox_recovery_pct": 40.6,
+      "Monthly_riders_k": 2377.5,
+      "Complaints_per_10k": 11.1,
+      "Avg_trip_minutes": 23.4,
+      "Vehicles_in_service": 164.9,
+      "On_time_pct": 74.5,
+      "Revenue_k_USD": 1375.9
+    },
+    {
+      "Entity": "Line_Pink",
+      "Farebox_recovery_pct": 18.0,
+      "Monthly_riders_k": 3167.1,
+      "Complaints_per_10k": 2.9,
+      "Avg_trip_minutes": 45.6,
+      "Vehicles_in_service": 107.3,
+      "On_time_pct": 83.3,
+      "Revenue_k_USD": 5800.5
+    },
+    {
+      "Entity": "Line_Yellow",
+      "Farebox_recovery_pct": 54.0,
+      "Monthly_riders_k": 3989.4,
+      "Complaints_per_10k": 9.7,
+      "Avg_trip_minutes": 48.9,
+      "Vehicles_in_service": 142.6,
+      "On_time_pct": 96.4,
+      "Revenue_k_USD": 3810.4
+    },
+    {
+      "Entity": "Ferry_B",
+      "Farebox_recovery_pct": 84.6,
+      "Monthly_riders_k": 3152.6,
+      "Complaints_per_10k": 4.9,
+      "Avg_trip_minutes": 32.4,
+      "Vehicles_in_service": 25.3,
+      "On_time_pct": 76.0,
+      "Revenue_k_USD": 2273.3
+    },
+    {
+      "Entity": "Bus_303",
+      "Farebox_recovery_pct": 45.1,
+      "Monthly_riders_k": 3129.0,
+      "Complaints_per_10k": 6.0,
+      "Avg_trip_minutes": 30.6,
+      "Vehicles_in_service": 169.8,
+      "On_time_pct": 79.5,
+      "Revenue_k_USD": 2277.3
+    },
+    {
+      "Entity": "Tram_1",
+      "Farebox_recovery_pct": 84.3,
+      "Monthly_riders_k": 970.1,
+      "Complaints_per_10k": 10.9,
+      "Avg_trip_minutes": 43.3,
+      "Vehicles_in_service": 144.5,
+      "On_time_pct": 94.3,
+      "Revenue_k_USD": 3917.5
+    },
+    {
+      "Entity": "Bus_505",
+      "Farebox_recovery_pct": 23.8,
+      "Monthly_riders_k": 6931.4,
+      "Complaints_per_10k": 1.5,
+      "Avg_trip_minutes": 46.8,
+      "Vehicles_in_service": 28.4,
+      "On_time_pct": 76.0,
+      "Revenue_k_USD": 8099.1
+    },
+    {
+      "Entity": "Bus_404",
+      "Farebox_recovery_pct": 42.5,
+      "Monthly_riders_k": 4892.8,
+      "Complaints_per_10k": 5.5,
+      "Avg_trip_minutes": 43.9,
+      "Vehicles_in_service": 196.2,
+      "On_time_pct": 77.6,
+      "Revenue_k_USD": 11395.6
+    },
+    {
+      "Entity": "Line_Purple",
+      "Farebox_recovery_pct": 78.1,
+      "Monthly_riders_k": 1211.5,
+      "Complaints_per_10k": 6.2,
+      "Avg_trip_minutes": 26.1,
+      "Vehicles_in_service": 9.4,
+      "On_time_pct": 75.0,
+      "Revenue_k_USD": 12806.4
+    },
+    {
+      "Entity": "Line_Brown",
+      "Farebox_recovery_pct": 76.4,
+      "Monthly_riders_k": 3419.8,
+      "Complaints_per_10k": 10.9,
+      "Avg_trip_minutes": 38.2,
+      "Vehicles_in_service": 127.6,
+      "On_time_pct": 91.7,
+      "Revenue_k_USD": 11296.1
+    },
+    {
+      "Entity": "Line_Gold",
+      "Farebox_recovery_pct": 37.7,
+      "Monthly_riders_k": 3362.9,
+      "Complaints_per_10k": 3.4,
+      "Avg_trip_minutes": 48.3,
+      "Vehicles_in_service": 38.5,
+      "On_time_pct": 95.7,
+      "Revenue_k_USD": 9460.4
+    },
+    {
+      "Entity": "Tram_3",
+      "Farebox_recovery_pct": 62.5,
+      "Monthly_riders_k": 4824.9,
+      "Complaints_per_10k": 14.2,
+      "Avg_trip_minutes": 15.1,
+      "Vehicles_in_service": 145.3,
+      "On_time_pct": 85.8,
+      "Revenue_k_USD": 13623.6
+    },
+    {
+      "Entity": "Bus_101",
+      "Farebox_recovery_pct": 77.0,
+      "Monthly_riders_k": 4890.5,
+      "Complaints_per_10k": 15.0,
+      "Avg_trip_minutes": 26.2,
+      "Vehicles_in_service": 18.7,
+      "On_time_pct": 85.6,
+      "Revenue_k_USD": 7844.1
+    },
+    {
+      "Entity": "Tram_2",
+      "Farebox_recovery_pct": 68.7,
+      "Monthly_riders_k": 5179.5,
+      "Complaints_per_10k": 12.4,
+      "Avg_trip_minutes": 10.7,
+      "Vehicles_in_service": 20.8,
+      "On_time_pct": 77.9,
+      "Revenue_k_USD": 9537.0
+    },
+    {
+      "Entity": "Line_Green",
+      "Farebox_recovery_pct": 59.0,
+      "Monthly_riders_k": 5598.3,
+      "Complaints_per_10k": 4.8,
+      "Avg_trip_minutes": 27.2,
+      "Vehicles_in_service": 95.9,
+      "On_time_pct": 65.4,
+      "Revenue_k_USD": 6233.1
+    },
+    {
+      "Entity": "Bus_202",
+      "Farebox_recovery_pct": 25.7,
+      "Monthly_riders_k": 871.7,
+      "Complaints_per_10k": 10.1,
+      "Avg_trip_minutes": 44.3,
+      "Vehicles_in_service": 198.8,
+      "On_time_pct": 70.7,
+      "Revenue_k_USD": 4978.0
+    },
+    {
+      "Entity": "Line_Blue",
+      "Farebox_recovery_pct": 20.1,
+      "Monthly_riders_k": 2474.1,
+      "Complaints_per_10k": 1.7,
+      "Avg_trip_minutes": 17.3,
+      "Vehicles_in_service": 58.9,
+      "On_time_pct": 69.9,
+      "Revenue_k_USD": 5042.5
+    },
+    {
+      "Entity": "Line_Silver",
+      "Farebox_recovery_pct": 58.0,
+      "Monthly_riders_k": 187.9,
+      "Complaints_per_10k": 13.1,
+      "Avg_trip_minutes": 33.5,
+      "Vehicles_in_service": 124.4,
+      "On_time_pct": 68.8,
+      "Revenue_k_USD": 2309.9
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Farebox_recovery_pct",
+    "Monthly_riders_k",
+    "Complaints_per_10k",
+    "Avg_trip_minutes",
+    "Vehicles_in_service",
+    "On_time_pct",
+    "Revenue_k_USD"
+  ]
+}

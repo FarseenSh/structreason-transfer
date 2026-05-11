@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Unemployment_pct: Romania=21.2, Germany=17.2, Bulgaria=13, Spain=8, France=20, Switzerland=7.1, Belgium=8.8, Netherlands=20.2, Ireland=12.8, Hungary=17.
+Life_expectancy: Romania=79.1, Germany=79.8, Bulgaria=75.6, Spain=74.9, France=75.9, Switzerland=73.9, Belgium=82.5, Netherlands=75.4, Ireland=78.7, Hungary=81.5.
+GDP_per_capita: Romania=69867.7, Germany=45687, Bulgaria=48338, Spain=84629.1, France=62221.8, Switzerland=72024.7, Belgium=78178.8, Netherlands=70131.3, Ireland=27962.6, Hungary=54352.
+Govt_expenditure_pct_GDP: Romania=32.9, Germany=48.3, Bulgaria=56.7, Spain=44.4, France=42.1, Switzerland=31, Belgium=56.9, Netherlands=32.9, Ireland=31.2, Hungary=36.9.

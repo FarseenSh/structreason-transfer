@@ -1,0 +1,11 @@
+The following 10 values represent Yield_index for each Entity (France, Australia, Indonesia, Ukraine, Egypt, Thailand, Brazil, China, Turkey, Vietnam), listed in order:
+[120.3, 64.5, 70.4, 62.6, 95.3, 66.4, 110.8, 157.5, 133.7, 140.9]
+
+The following 10 values represent Fertilizer_kg_ha for each Entity (France, Australia, Indonesia, Ukraine, Egypt, Thailand, Brazil, China, Turkey, Vietnam), listed in order:
+[32, 339, 75.6, 135, 216.4, 373.4, 399.3, 317.4, 297.1, 220.5]
+
+The following 10 values represent Production_Mt for each Entity (France, Australia, Indonesia, Ukraine, Egypt, Thailand, Brazil, China, Turkey, Vietnam), listed in order:
+[201.4, 47.6, 84.4, 295.5, 294, 100.3, 76.1, 72.7, 148, 71]
+
+The following 10 values represent Rice_tonnes_ha for each Entity (France, Australia, Indonesia, Ukraine, Egypt, Thailand, Brazil, China, Turkey, Vietnam), listed in order:
+[5.6, 2.4, 2.6, 3.5, 6.3, 3.8, 4.6, 5.6, 6.3, 3.7]

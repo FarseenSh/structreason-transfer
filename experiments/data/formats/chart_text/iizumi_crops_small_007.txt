@@ -1,0 +1,3 @@
+Bar chart: "Iizumi Crop Yields — Agriculture".
+Area_harvested_kha: Pakistan=1783.6, Turkey=27813.2, Egypt=6262.8, Ukraine=3645.3, Canada=32845.9.
+Wheat_tonnes_ha: Pakistan=8.7, Turkey=6.1, Egypt=4.3, Ukraine=7.7, Canada=3.

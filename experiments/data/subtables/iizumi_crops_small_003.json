@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_003",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Rice_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Indonesia",
+      "Yield_index": 142.7,
+      "Rice_tonnes_ha": 5.6
+    },
+    {
+      "Entity": "Pakistan",
+      "Yield_index": 127.4,
+      "Rice_tonnes_ha": 5.3
+    },
+    {
+      "Entity": "Vietnam",
+      "Yield_index": 100.9,
+      "Rice_tonnes_ha": 4.5
+    },
+    {
+      "Entity": "Nigeria",
+      "Yield_index": 128.5,
+      "Rice_tonnes_ha": 3.9
+    },
+    {
+      "Entity": "Turkey",
+      "Yield_index": 167.0,
+      "Rice_tonnes_ha": 5.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Rice_tonnes_ha"
+  ]
+}

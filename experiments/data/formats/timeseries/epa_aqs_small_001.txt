@@ -1,0 +1,5 @@
+The following 5 values represent AQI for each Entity (Station_NW1, Station_C5, Station_SE12, Station_S16, Station_NW10), listed in order:
+[38.2, 167.9, 164.6, 103.1, 120]
+
+The following 5 values represent O3_ppb for each Entity (Station_NW1, Station_C5, Station_SE12, Station_S16, Station_NW10), listed in order:
+[29.9, 46.4, 29.2, 16.5, 83.7]

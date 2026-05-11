@@ -1,0 +1,12 @@
+| Entity | Production_Mt | Maize_tonnes_ha | Yield_index | Wheat_tonnes_ha |
+|---|---|---|---|---|
+| France | 96.9 | 6.2 | 161.4 | 4.9 |
+| Bangladesh | 199.9 | 5.3 | 104.1 | 6.5 |
+| Thailand | 296.8 | 10.8 | 98.5 | 8.2 |
+| Vietnam | 202.5 | 3.4 | 121.2 | 6 |
+| Argentina | 159.9 | 10.5 | 112.2 | 7.7 |
+| Indonesia | 158.7 | 4.6 | 142 | 3.2 |
+| Brazil | 116.2 | 9.2 | 76.5 | 4.1 |
+| Pakistan | 181.9 | 10.1 | 112.3 | 8.6 |
+| Turkey | 287.8 | 6.8 | 167 | 8.1 |
+| China | 237.5 | 3.9 | 64.3 | 5.7 |

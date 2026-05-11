@@ -1,0 +1,7 @@
+| Entity | EPS | Total_assets_M |
+|---|---|---|
+| CompanyO | 25 | 17702.9 |
+| CompanyG | 6.9 | 10238.8 |
+| CompanyR | 21.2 | 18750.8 |
+| CompanyF | 0.3 | 32633.6 |
+| CompanyM | 10.4 | 24617.3 |

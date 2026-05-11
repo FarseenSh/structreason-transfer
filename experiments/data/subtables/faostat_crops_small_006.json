@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_006",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Fertilizer_kg_ha",
+    "Rice_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "USA",
+      "Fertilizer_kg_ha": 374.5,
+      "Rice_tonnes_ha": 2.7
+    },
+    {
+      "Entity": "Australia",
+      "Fertilizer_kg_ha": 364.1,
+      "Rice_tonnes_ha": 2.9
+    },
+    {
+      "Entity": "Pakistan",
+      "Fertilizer_kg_ha": 262.8,
+      "Rice_tonnes_ha": 4.4
+    },
+    {
+      "Entity": "Mexico",
+      "Fertilizer_kg_ha": 150.1,
+      "Rice_tonnes_ha": 3.6
+    },
+    {
+      "Entity": "Argentina",
+      "Fertilizer_kg_ha": 371.7,
+      "Rice_tonnes_ha": 5.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Fertilizer_kg_ha",
+    "Rice_tonnes_ha"
+  ]
+}

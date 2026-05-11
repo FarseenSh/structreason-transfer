@@ -1,0 +1,5 @@
+The following 5 values represent Area_harvested_kha for each Entity (Pakistan, Turkey, Egypt, Ukraine, Canada), listed in order:
+[1783.6, 27813.2, 6262.8, 3645.3, 32845.9]
+
+The following 5 values represent Wheat_tonnes_ha for each Entity (Pakistan, Turkey, Egypt, Ukraine, Canada), listed in order:
+[8.7, 6.1, 4.3, 7.7, 3]

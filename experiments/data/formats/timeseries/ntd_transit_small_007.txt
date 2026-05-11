@@ -1,0 +1,5 @@
+The following 5 values represent Operating_cost_k for each Entity (Line_Orange, Line_Gold, Ferry_A, Bus_404, Line_Blue), listed in order:
+[15486.1, 19518.9, 559.9, 19054.3, 7953.5]
+
+The following 5 values represent Monthly_riders_k for each Entity (Line_Orange, Line_Gold, Ferry_A, Bus_404, Line_Blue), listed in order:
+[6712, 4380.5, 4539, 2907.1, 6636.4]

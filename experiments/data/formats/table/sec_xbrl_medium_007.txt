@@ -1,0 +1,12 @@
+| Entity | Revenue_M | Net_income_M | Current_ratio | Operating_margin_pct |
+|---|---|---|---|---|
+| CompanyG | 1733.7 | 179 | 3.9 | 9.1 |
+| CompanyS | 2675.2 | 1462.2 | 3.5 | 34.9 |
+| CompanyP | 3086.6 | 1397.5 | 2.7 | 21.9 |
+| CompanyQ | 2998.9 | 1237.7 | 1 | 28 |
+| CompanyF | 3942.7 | 1349.7 | 1.1 | 12.3 |
+| CompanyC | 2879.9 | 449.6 | 2.2 | 12.7 |
+| CompanyH | 4262.7 | 187.3 | 3.2 | -4.4 |
+| CompanyN | 468.9 | 110.9 | 1.1 | 19.2 |
+| CompanyO | 4301.9 | 1285.4 | 3.7 | 29.2 |
+| CompanyB | 2970.5 | 1205.3 | 2.9 | 38.6 |

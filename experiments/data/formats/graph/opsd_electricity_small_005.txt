@@ -1,0 +1,13 @@
+Graph: OPSD Electricity entity relationship network
+
+Nodes:
+  Ireland: {CO2_Mt=49.3, Total_GWh=8114.5}
+  Germany: {CO2_Mt=78.9, Total_GWh=35572.3}
+  Sweden: {CO2_Mt=52.7, Total_GWh=25247.1}
+  Hungary: {CO2_Mt=72, Total_GWh=46102.3}
+  Austria: {CO2_Mt=58.3, Total_GWh=40728.1}
+
+Edges (top 3 by metric similarity):
+  Hungary -- Austria (sim=1.00, similar CO2_Mt)
+  Germany -- Sweden (sim=1.00, similar CO2_Mt)
+  Sweden -- Hungary (sim=1.00, similar CO2_Mt)

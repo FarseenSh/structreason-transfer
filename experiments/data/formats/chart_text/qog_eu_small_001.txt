@@ -1,0 +1,3 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+HDI: France=1, Portugal=0.8, Bulgaria=0.8, Sweden=0.8, Netherlands=0.8.
+Education_spending_pct: France=4.1, Portugal=5.9, Bulgaria=4.6, Sweden=6.8, Netherlands=5.7.

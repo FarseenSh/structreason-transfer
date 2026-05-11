@@ -1,0 +1,19 @@
+{
+  "model": "deepseek/deepseek-v3.2",
+  "accuracy_by_format": {
+    "table": 0.6526,
+    "chart_text": 0.6398,
+    "graph": 0.6079,
+    "timeseries": 0.5928
+  },
+  "accuracy_by_qtype": {
+    "Q1_lookup": 0.98,
+    "Q2_comparison": 0.768,
+    "Q3_aggregation": 0.47,
+    "Q4_trend": 0.565,
+    "Q5_extremum": 0.756,
+    "Q6_multi_hop": 0.625,
+    "Q7_conditional_aggregation": 0.199
+  },
+  "rescored_changes": 48
+}

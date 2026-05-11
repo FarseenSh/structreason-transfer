@@ -1,0 +1,7 @@
+| Entity | Soybean_tonnes_ha | Production_Mt |
+|---|---|---|
+| France | 1.1 | 219.8 |
+| Mexico | 2.6 | 217.2 |
+| Canada | 3.4 | 82.4 |
+| Thailand | 3 | 188.7 |
+| Pakistan | 1.6 | 185.2 |

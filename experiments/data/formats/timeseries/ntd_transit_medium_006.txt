@@ -1,0 +1,11 @@
+The following 10 values represent Revenue_k_USD for each Entity (Line_Blue, Line_Yellow, Ferry_B, Bus_303, Bus_202, Line_Gold, Line_Red, Line_Green, Bus_101, Bus_505), listed in order:
+[12549.4, 6429.3, 2476, 4762.2, 4051.5, 10247.8, 2765.2, 9707.1, 7042.9, 12610.9]
+
+The following 10 values represent Operating_cost_k for each Entity (Line_Blue, Line_Yellow, Ferry_B, Bus_303, Bus_202, Line_Gold, Line_Red, Line_Green, Bus_101, Bus_505), listed in order:
+[9803, 18610.1, 18029.3, 3868.7, 13786.1, 4449.6, 16501.4, 12787.3, 6023.5, 5132.6]
+
+The following 10 values represent Farebox_recovery_pct for each Entity (Line_Blue, Line_Yellow, Ferry_B, Bus_303, Bus_202, Line_Gold, Line_Red, Line_Green, Bus_101, Bus_505), listed in order:
+[45.1, 71.1, 70.7, 17.3, 36.2, 44.6, 56, 25.5, 38.5, 77]
+
+The following 10 values represent On_time_pct for each Entity (Line_Blue, Line_Yellow, Ferry_B, Bus_303, Bus_202, Line_Gold, Line_Red, Line_Green, Bus_101, Bus_505), listed in order:
+[80.7, 89.6, 81, 80.3, 85.5, 73.6, 73.2, 97.6, 93.7, 89.3]

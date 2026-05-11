@@ -1,0 +1,7 @@
+| Entity | CO2_Mt | Total_GWh |
+|---|---|---|
+| Netherlands | 79.2 | 13271.9 |
+| Sweden | 71.9 | 45172.4 |
+| Portugal | 74.1 | 11175.4 |
+| Austria | 17.9 | 9390 |
+| Spain | 43.8 | 2583.8 |

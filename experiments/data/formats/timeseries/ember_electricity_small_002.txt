@@ -1,0 +1,5 @@
+The following 5 values represent Total_GWh for each Entity (UK, Greece, Portugal, Ireland, Czechia), listed in order:
+[24022.4, 11702.5, 36626.8, 6944.3, 26348.1]
+
+The following 5 values represent CO2_Mt for each Entity (UK, Greece, Portugal, Ireland, Czechia), listed in order:
+[14.4, 4.7, 12.3, 69.7, 14.9]

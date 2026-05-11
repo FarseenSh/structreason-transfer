@@ -1,0 +1,20 @@
+Graph: OpenAQ entity relationship network
+
+Nodes:
+  Station_NW10: {SO2_ppb=18.5, Temperature_C=-2.6, NO2_ppb=39.2, CO_ppm=2.9}
+  Station_SW13: {SO2_ppb=6.5, Temperature_C=25.7, NO2_ppb=41, CO_ppm=2.3}
+  Station_SE3: {SO2_ppb=21.2, Temperature_C=2.8, NO2_ppb=8.6, CO_ppm=0.6}
+  Station_W18: {SO2_ppb=9.4, Temperature_C=15.9, NO2_ppb=11.5, CO_ppm=0.5}
+  Station_U20: {SO2_ppb=15.4, Temperature_C=15.1, NO2_ppb=41.4, CO_ppm=3.1}
+  Station_SW4: {SO2_ppb=14.1, Temperature_C=15.9, NO2_ppb=34.2, CO_ppm=1.5}
+  Station_W9: {SO2_ppb=8.1, Temperature_C=-3.7, NO2_ppb=50.8, CO_ppm=3.1}
+  Station_NW1: {SO2_ppb=11.5, Temperature_C=6.7, NO2_ppb=16.3, CO_ppm=1.5}
+  Station_S7: {SO2_ppb=21.3, Temperature_C=-2.8, NO2_ppb=11.6, CO_ppm=1.6}
+  Station_N6: {SO2_ppb=14.2, Temperature_C=12.8, NO2_ppb=24.9, CO_ppm=1.1}
+
+Edges (top 5 by metric similarity):
+  Station_U20 -- Station_SW4 (sim=1.00, similar Temperature_C)
+  Station_SW4 -- Station_N6 (sim=0.99, similar SO2_ppb)
+  Station_NW1 -- Station_N6 (sim=0.99, similar CO_ppm)
+  Station_U20 -- Station_N6 (sim=0.98, similar SO2_ppb)
+  Station_SW4 -- Station_NW1 (sim=0.97, similar CO_ppm)

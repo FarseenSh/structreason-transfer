@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Road_condition_score: Route_T20=54.3, Route_O15=68.5, Route_H8=91.9, Route_N14=44.1, Route_J10=67.1, Route_K11=75.6, Route_F6=63.1.
+Avg_speed_kmh: Route_T20=45.7, Route_O15=52.8, Route_H8=45.7, Route_N14=68.2, Route_J10=37.2, Route_K11=67, Route_F6=25.
+Peak_hour_flow: Route_T20=18315.1, Route_O15=9988.7, Route_H8=8686, Route_N14=20799.3, Route_J10=16312, Route_K11=28562.1, Route_F6=26520.7.
+Daily_vehicles: Route_T20=93825, Route_O15=83736.6, Route_H8=78769.2, Route_N14=7893.4, Route_J10=83366, Route_K11=66987.7, Route_F6=39907.8.

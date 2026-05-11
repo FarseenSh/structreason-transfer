@@ -1,0 +1,11 @@
+ordinalcorr==0.6.1
+scipy==1.17.1
+py-irt==0.6.6
+tiktoken==0.12.0
+matplotlib==3.10.8
+pandas==2.3.3
+numpy==2.4.3
+requests==2.32.5
+aiohttp==3.13.3
+python-dotenv==1.2.2
+Pillow==12.1.1

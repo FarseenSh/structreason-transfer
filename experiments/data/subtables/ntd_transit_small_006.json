@@ -1,0 +1,45 @@
+{
+  "id": "ntd_transit_small_006",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Farebox_recovery_pct",
+    "Operating_cost_k"
+  ],
+  "data": [
+    {
+      "Entity": "Line_Pink",
+      "Farebox_recovery_pct": 44.2,
+      "Operating_cost_k": 4517.6
+    },
+    {
+      "Entity": "Line_Red",
+      "Farebox_recovery_pct": 71.5,
+      "Operating_cost_k": 259.9
+    },
+    {
+      "Entity": "Line_Blue",
+      "Farebox_recovery_pct": 51.8,
+      "Operating_cost_k": 4870.7
+    },
+    {
+      "Entity": "Line_Orange",
+      "Farebox_recovery_pct": 30.7,
+      "Operating_cost_k": 4024.2
+    },
+    {
+      "Entity": "Line_Green",
+      "Farebox_recovery_pct": 55.6,
+      "Operating_cost_k": 7544.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Farebox_recovery_pct",
+    "Operating_cost_k"
+  ]
+}

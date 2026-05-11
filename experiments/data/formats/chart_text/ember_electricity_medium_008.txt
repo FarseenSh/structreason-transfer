@@ -1,0 +1,5 @@
+Bar chart: "Ember Monthly Elec — Energy".
+Nuclear_GWh: Austria=8770.6, Greece=11855.4, Spain=5250.2, Finland=3634.8, Switzerland=10875, Denmark=11788.1, Italy=14314.3, Czechia=2213.8, Poland=13339, Hungary=11476.5.
+Total_GWh: Austria=35691.2, Greece=17026.6, Spain=3065.3, Finland=26362.4, Switzerland=15716.9, Denmark=15911.4, Italy=46502.7, Czechia=9342.5, Poland=46843.2, Hungary=26182.7.
+Gas_GWh: Austria=8431.3, Greece=3050.8, Spain=6449, Finland=5698.9, Switzerland=9264.4, Denmark=2039.2, Italy=2284.3, Czechia=9505, Poland=1250.3, Hungary=6456.4.
+Coal_GWh: Austria=531.5, Greece=662.1, Spain=4797.3, Finland=4433.4, Switzerland=4605.6, Denmark=3815.5, Italy=5951.8, Czechia=7937.9, Poland=2242.5, Hungary=2621.3.

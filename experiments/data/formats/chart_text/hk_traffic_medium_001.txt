@@ -1,0 +1,5 @@
+Bar chart: "HK Traffic Digest — Transportation".
+Daily_vehicles: Route_A1=22981.5, Route_B2=31308, Route_P16=68736.6, Route_K11=59947, Route_O15=31921.3, Route_N14=8557.1, Route_I9=8885.8.
+Peak_hour_flow: Route_A1=2136, Route_B2=22425.9, Route_P16=23182.1, Route_K11=15205.9, Route_O15=14211.8, Route_N14=11090, Route_I9=14072.2.
+Transit_ridership: Route_A1=121642.7, Route_B2=180133.4, Route_P16=20354.9, Route_K11=80013.3, Route_O15=73663.5, Route_N14=61057.2, Route_I9=153994.8.
+Road_condition_score: Route_A1=68.8, Route_B2=93.3, Route_P16=43.9, Route_K11=63.4, Route_O15=55.2, Route_N14=97.2, Route_I9=51.5.

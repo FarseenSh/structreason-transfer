@@ -1,0 +1,11 @@
+The following 10 values represent Nuclear_GWh for each Entity (Austria, Greece, Spain, Finland, Switzerland, Denmark, Italy, Czechia, Poland, Hungary), listed in order:
+[8770.6, 11855.4, 5250.2, 3634.8, 10875, 11788.1, 14314.3, 2213.8, 13339, 11476.5]
+
+The following 10 values represent Total_GWh for each Entity (Austria, Greece, Spain, Finland, Switzerland, Denmark, Italy, Czechia, Poland, Hungary), listed in order:
+[35691.2, 17026.6, 3065.3, 26362.4, 15716.9, 15911.4, 46502.7, 9342.5, 46843.2, 26182.7]
+
+The following 10 values represent Gas_GWh for each Entity (Austria, Greece, Spain, Finland, Switzerland, Denmark, Italy, Czechia, Poland, Hungary), listed in order:
+[8431.3, 3050.8, 6449, 5698.9, 9264.4, 2039.2, 2284.3, 9505, 1250.3, 6456.4]
+
+The following 10 values represent Coal_GWh for each Entity (Austria, Greece, Spain, Finland, Switzerland, Denmark, Italy, Czechia, Poland, Hungary), listed in order:
+[531.5, 662.1, 4797.3, 4433.4, 4605.6, 3815.5, 5951.8, 7937.9, 2242.5, 2621.3]

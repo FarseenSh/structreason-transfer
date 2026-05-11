@@ -1,0 +1,11 @@
+The following 10 values represent Rice_tonnes_ha for each Entity (Brazil, India, Pakistan, Ukraine, Nigeria, Germany, Russia, Argentina, Australia, Mexico), listed in order:
+[5.1, 4.2, 7.2, 3.2, 4.4, 2.6, 2.7, 4.2, 5.8, 3.9]
+
+The following 10 values represent Production_Mt for each Entity (Brazil, India, Pakistan, Ukraine, Nigeria, Germany, Russia, Argentina, Australia, Mexico), listed in order:
+[208.4, 242.5, 263.9, 18.2, 233.3, 48.4, 211, 114.6, 213.8, 68.1]
+
+The following 10 values represent Maize_tonnes_ha for each Entity (Brazil, India, Pakistan, Ukraine, Nigeria, Germany, Russia, Argentina, Australia, Mexico), listed in order:
+[8.4, 3.3, 3.7, 8.1, 5.4, 9, 8.9, 8.2, 9.3, 9.9]
+
+The following 10 values represent Soybean_tonnes_ha for each Entity (Brazil, India, Pakistan, Ukraine, Nigeria, Germany, Russia, Argentina, Australia, Mexico), listed in order:
+[3.7, 1.2, 2.7, 3.2, 1.7, 1.8, 1.8, 2.7, 2.1, 3]

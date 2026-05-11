@@ -1,0 +1,7 @@
+| Entity | CO_ppm | O3_ppb |
+|---|---|---|
+| Station_SW4 | 2 | 64.3 |
+| Station_NW10 | 3.1 | 42.5 |
+| Station_SE3 | 1.4 | 30.3 |
+| Station_NE2 | 0.2 | 47.5 |
+| Station_SE12 | 1.7 | 67.7 |

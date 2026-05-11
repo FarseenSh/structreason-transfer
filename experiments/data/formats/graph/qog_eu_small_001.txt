@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  France: {HDI=1, Education_spending_pct=4.1}
+  Portugal: {HDI=0.8, Education_spending_pct=5.9}
+  Bulgaria: {HDI=0.8, Education_spending_pct=4.6}
+  Sweden: {HDI=0.8, Education_spending_pct=6.8}
+  Netherlands: {HDI=0.8, Education_spending_pct=5.7}
+
+Edges (top 3 by metric similarity):
+  Portugal -- Netherlands (sim=1.00, similar HDI)
+  Portugal -- Sweden (sim=1.00, similar HDI)
+  Sweden -- Netherlands (sim=1.00, similar HDI)

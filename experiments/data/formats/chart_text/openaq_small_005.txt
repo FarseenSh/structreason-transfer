@@ -1,0 +1,3 @@
+Bar chart: "OpenAQ — Air Quality".
+PM10_ug_m3: Station_N6=62.9, Station_NE11=15.7, Station_SW4=56, Station_S16=46.5, Station_E17=23.4.
+PM25_ug_m3: Station_N6=60.7, Station_NE11=42.4, Station_SW4=55.3, Station_S16=59.2, Station_E17=60.7.

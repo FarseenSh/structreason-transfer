@@ -1,0 +1,7 @@
+| Entity | Nuclear_GWh | Hydro_GWh |
+|---|---|---|
+| Switzerland | 12001.9 | 1946.3 |
+| Poland | 6296.1 | 7005.5 |
+| Ireland | 2293 | 4076 |
+| UK | 2338 | 3747.7 |
+| France | 13827.1 | 4994.1 |

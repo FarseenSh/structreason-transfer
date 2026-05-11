@@ -1,0 +1,45 @@
+{
+  "id": "faostat_crops_small_003",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Yield_index",
+    "Fertilizer_kg_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Brazil",
+      "Yield_index": 178.5,
+      "Fertilizer_kg_ha": 327.5
+    },
+    {
+      "Entity": "Argentina",
+      "Yield_index": 110.8,
+      "Fertilizer_kg_ha": 203.4
+    },
+    {
+      "Entity": "USA",
+      "Yield_index": 104.6,
+      "Fertilizer_kg_ha": 382.9
+    },
+    {
+      "Entity": "Turkey",
+      "Yield_index": 64.2,
+      "Fertilizer_kg_ha": 51.9
+    },
+    {
+      "Entity": "France",
+      "Yield_index": 81.4,
+      "Fertilizer_kg_ha": 254.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Yield_index",
+    "Fertilizer_kg_ha"
+  ]
+}

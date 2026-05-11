@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_001",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "CO2_Mt",
+    "Hydro_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Hungary",
+      "CO2_Mt": 18.6,
+      "Hydro_GWh": 4230.1
+    },
+    {
+      "Entity": "Romania",
+      "CO2_Mt": 41.5,
+      "Hydro_GWh": 5611.7
+    },
+    {
+      "Entity": "Spain",
+      "CO2_Mt": 66.0,
+      "Hydro_GWh": 4273.2
+    },
+    {
+      "Entity": "Finland",
+      "CO2_Mt": 69.0,
+      "Hydro_GWh": 3399.7
+    },
+    {
+      "Entity": "Ireland",
+      "CO2_Mt": 45.4,
+      "Hydro_GWh": 774.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "CO2_Mt",
+    "Hydro_GWh"
+  ]
+}

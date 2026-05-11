@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  France: {Yield_index=120.3, Fertilizer_kg_ha=32, Production_Mt=201.4, Rice_tonnes_ha=5.6}
+  Australia: {Yield_index=64.5, Fertilizer_kg_ha=339, Production_Mt=47.6, Rice_tonnes_ha=2.4}
+  Indonesia: {Yield_index=70.4, Fertilizer_kg_ha=75.6, Production_Mt=84.4, Rice_tonnes_ha=2.6}
+  Ukraine: {Yield_index=62.6, Fertilizer_kg_ha=135, Production_Mt=295.5, Rice_tonnes_ha=3.5}
+  Egypt: {Yield_index=95.3, Fertilizer_kg_ha=216.4, Production_Mt=294, Rice_tonnes_ha=6.3}
+  Thailand: {Yield_index=66.4, Fertilizer_kg_ha=373.4, Production_Mt=100.3, Rice_tonnes_ha=3.8}
+  Brazil: {Yield_index=110.8, Fertilizer_kg_ha=399.3, Production_Mt=76.1, Rice_tonnes_ha=4.6}
+  China: {Yield_index=157.5, Fertilizer_kg_ha=317.4, Production_Mt=72.7, Rice_tonnes_ha=5.6}
+  Turkey: {Yield_index=133.7, Fertilizer_kg_ha=297.1, Production_Mt=148, Rice_tonnes_ha=6.3}
+  Vietnam: {Yield_index=140.9, Fertilizer_kg_ha=220.5, Production_Mt=71, Rice_tonnes_ha=3.7}
+
+Edges (top 5 by metric similarity):
+  Australia -- Brazil (sim=1.00, similar Rice_tonnes_ha)
+  Thailand -- Brazil (sim=0.99, similar Rice_tonnes_ha)
+  Australia -- Thailand (sim=0.99, similar Rice_tonnes_ha)
+  China -- Vietnam (sim=0.99, similar Production_Mt)
+  Brazil -- China (sim=0.98, similar Rice_tonnes_ha)

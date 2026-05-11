@@ -1,0 +1,45 @@
+{
+  "id": "hk_traffic_small_003",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Peak_hour_flow",
+    "Avg_speed_kmh"
+  ],
+  "data": [
+    {
+      "Entity": "Route_M13",
+      "Peak_hour_flow": 16931.0,
+      "Avg_speed_kmh": 32.2
+    },
+    {
+      "Entity": "Route_K11",
+      "Peak_hour_flow": 6981.5,
+      "Avg_speed_kmh": 17.6
+    },
+    {
+      "Entity": "Route_G7",
+      "Peak_hour_flow": 19167.1,
+      "Avg_speed_kmh": 22.0
+    },
+    {
+      "Entity": "Route_C3",
+      "Peak_hour_flow": 2395.5,
+      "Avg_speed_kmh": 30.6
+    },
+    {
+      "Entity": "Route_F6",
+      "Peak_hour_flow": 27974.7,
+      "Avg_speed_kmh": 32.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Peak_hour_flow",
+    "Avg_speed_kmh"
+  ]
+}

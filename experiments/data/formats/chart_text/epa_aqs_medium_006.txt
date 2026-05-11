@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+Temperature_C: Station_NW10=27.3, Station_S16=16.8, Station_SE3=37.6, Station_SE12=10.4, Station_C5=10.6, Station_N15=4.6, Station_SW4=11.3.
+CO_ppm: Station_NW10=2.3, Station_S16=3.5, Station_SE3=2.5, Station_SE12=1.6, Station_C5=3, Station_N15=0.2, Station_SW4=0.9.
+NO2_ppb: Station_NW10=44.8, Station_S16=36.2, Station_SE3=43.2, Station_SE12=52.1, Station_C5=35, Station_N15=44.7, Station_SW4=48.4.
+PM10_ug_m3: Station_NW10=100.9, Station_S16=23.4, Station_SE3=38.2, Station_SE12=26.6, Station_C5=29.6, Station_N15=74.7, Station_SW4=38.2.

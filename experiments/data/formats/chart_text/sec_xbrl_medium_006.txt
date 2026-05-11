@@ -1,0 +1,5 @@
+Bar chart: "SEC XBRL Financials — Finance".
+Current_ratio: CompanyK=3.8, CompanyN=2.9, CompanyT=2.1, CompanyG=3.9, CompanyC=2.9, CompanyA=0.7, CompanyF=2.8, CompanyL=0.7, CompanyE=1.6, CompanyB=2.7.
+ROE_pct: CompanyK=-2.1, CompanyN=-12.7, CompanyT=22.1, CompanyG=2.2, CompanyC=17, CompanyA=0.7, CompanyF=26.2, CompanyL=38.7, CompanyE=-9.8, CompanyB=32.2.
+EPS: CompanyK=2.2, CompanyN=6.9, CompanyT=7.6, CompanyG=3.6, CompanyC=0, CompanyA=18.7, CompanyF=19.4, CompanyL=24.9, CompanyE=23.2, CompanyB=9.7.
+Net_income_M: CompanyK=26.8, CompanyN=-181.8, CompanyT=703.6, CompanyG=1263, CompanyC=255.4, CompanyA=138.2, CompanyF=546.2, CompanyL=1319, CompanyE=567.8, CompanyB=1028.6.

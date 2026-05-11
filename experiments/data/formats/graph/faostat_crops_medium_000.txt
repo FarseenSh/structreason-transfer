@@ -1,0 +1,20 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  Brazil: {Rice_tonnes_ha=5.1, Production_Mt=208.4, Maize_tonnes_ha=8.4, Soybean_tonnes_ha=3.7}
+  India: {Rice_tonnes_ha=4.2, Production_Mt=242.5, Maize_tonnes_ha=3.3, Soybean_tonnes_ha=1.2}
+  Pakistan: {Rice_tonnes_ha=7.2, Production_Mt=263.9, Maize_tonnes_ha=3.7, Soybean_tonnes_ha=2.7}
+  Ukraine: {Rice_tonnes_ha=3.2, Production_Mt=18.2, Maize_tonnes_ha=8.1, Soybean_tonnes_ha=3.2}
+  Nigeria: {Rice_tonnes_ha=4.4, Production_Mt=233.3, Maize_tonnes_ha=5.4, Soybean_tonnes_ha=1.7}
+  Germany: {Rice_tonnes_ha=2.6, Production_Mt=48.4, Maize_tonnes_ha=9, Soybean_tonnes_ha=1.8}
+  Russia: {Rice_tonnes_ha=2.7, Production_Mt=211, Maize_tonnes_ha=8.9, Soybean_tonnes_ha=1.8}
+  Argentina: {Rice_tonnes_ha=4.2, Production_Mt=114.6, Maize_tonnes_ha=8.2, Soybean_tonnes_ha=2.7}
+  Australia: {Rice_tonnes_ha=5.8, Production_Mt=213.8, Maize_tonnes_ha=9.3, Soybean_tonnes_ha=2.1}
+  Mexico: {Rice_tonnes_ha=3.9, Production_Mt=68.1, Maize_tonnes_ha=9.9, Soybean_tonnes_ha=3}
+
+Edges (top 5 by metric similarity):
+  Brazil -- Australia (sim=1.00, similar Rice_tonnes_ha)
+  India -- Nigeria (sim=1.00, similar Rice_tonnes_ha)
+  India -- Pakistan (sim=1.00, similar Maize_tonnes_ha)
+  Pakistan -- Nigeria (sim=1.00, similar Soybean_tonnes_ha)
+  Russia -- Australia (sim=1.00, similar Soybean_tonnes_ha)

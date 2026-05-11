@@ -1,0 +1,11 @@
+The following 10 values represent Revenue_k_USD for each Entity (Line_Brown, Line_Green, Line_Red, Line_Gold, Tram_3, Line_Silver, Ferry_A, Ferry_B, Line_Pink, Line_Purple), listed in order:
+[5110.2, 7827, 12161.1, 2961.4, 9471.7, 6516.4, 2698.8, 12488.5, 4937.7, 14022.9]
+
+The following 10 values represent On_time_pct for each Entity (Line_Brown, Line_Green, Line_Red, Line_Gold, Tram_3, Line_Silver, Ferry_A, Ferry_B, Line_Pink, Line_Purple), listed in order:
+[83.8, 82, 79, 78.2, 92, 87.4, 90.5, 78.9, 73.6, 67.9]
+
+The following 10 values represent Monthly_riders_k for each Entity (Line_Brown, Line_Green, Line_Red, Line_Gold, Tram_3, Line_Silver, Ferry_A, Ferry_B, Line_Pink, Line_Purple), listed in order:
+[6224.4, 3351.4, 4098.3, 3781.3, 3477.5, 5487, 4889.4, 7777.8, 1154.3, 4609.5]
+
+The following 10 values represent Complaints_per_10k for each Entity (Line_Brown, Line_Green, Line_Red, Line_Gold, Tram_3, Line_Silver, Ferry_A, Ferry_B, Line_Pink, Line_Purple), listed in order:
+[1.4, 12.2, 9.4, 6.7, 12.1, 7.1, 3.8, 7.4, 1.5, 13.5]

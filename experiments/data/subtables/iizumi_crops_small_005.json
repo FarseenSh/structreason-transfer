@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_005",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Fertilizer_kg_ha",
+    "Wheat_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Pakistan",
+      "Fertilizer_kg_ha": 209.4,
+      "Wheat_tonnes_ha": 4.5
+    },
+    {
+      "Entity": "USA",
+      "Fertilizer_kg_ha": 232.3,
+      "Wheat_tonnes_ha": 3.7
+    },
+    {
+      "Entity": "Mexico",
+      "Fertilizer_kg_ha": 90.7,
+      "Wheat_tonnes_ha": 1.7
+    },
+    {
+      "Entity": "Brazil",
+      "Fertilizer_kg_ha": 75.9,
+      "Wheat_tonnes_ha": 7.8
+    },
+    {
+      "Entity": "China",
+      "Fertilizer_kg_ha": 277.4,
+      "Wheat_tonnes_ha": 1.7
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Fertilizer_kg_ha",
+    "Wheat_tonnes_ha"
+  ]
+}

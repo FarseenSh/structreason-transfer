@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Ukraine: {Rice_tonnes_ha=3.2, Fertilizer_kg_ha=204.5}
+  Canada: {Rice_tonnes_ha=5.1, Fertilizer_kg_ha=138.4}
+  France: {Rice_tonnes_ha=2.8, Fertilizer_kg_ha=191.9}
+  Nigeria: {Rice_tonnes_ha=4.8, Fertilizer_kg_ha=184.8}
+  Argentina: {Rice_tonnes_ha=2.6, Fertilizer_kg_ha=365}
+
+Edges (top 3 by metric similarity):
+  Ukraine -- France (sim=1.00, similar Rice_tonnes_ha)
+  France -- Argentina (sim=1.00, similar Rice_tonnes_ha)
+  Ukraine -- Argentina (sim=1.00, similar Rice_tonnes_ha)

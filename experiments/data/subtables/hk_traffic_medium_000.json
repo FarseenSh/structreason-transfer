@@ -1,0 +1,94 @@
+{
+  "id": "hk_traffic_medium_000",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Avg_speed_kmh",
+    "Congestion_index",
+    "Road_condition_score",
+    "Bus_passengers"
+  ],
+  "data": [
+    {
+      "Entity": "Route_G7",
+      "Avg_speed_kmh": 31.5,
+      "Congestion_index": 4.1,
+      "Road_condition_score": 51.4,
+      "Bus_passengers": 26577.0
+    },
+    {
+      "Entity": "Route_B2",
+      "Avg_speed_kmh": 60.8,
+      "Congestion_index": 1.6,
+      "Road_condition_score": 55.2,
+      "Bus_passengers": 45580.1
+    },
+    {
+      "Entity": "Route_C3",
+      "Avg_speed_kmh": 19.4,
+      "Congestion_index": 2.2,
+      "Road_condition_score": 76.4,
+      "Bus_passengers": 39890.0
+    },
+    {
+      "Entity": "Route_J10",
+      "Avg_speed_kmh": 17.5,
+      "Congestion_index": 2.4,
+      "Road_condition_score": 62.5,
+      "Bus_passengers": 3877.2
+    },
+    {
+      "Entity": "Route_N14",
+      "Avg_speed_kmh": 57.5,
+      "Congestion_index": 2.9,
+      "Road_condition_score": 60.0,
+      "Bus_passengers": 22025.8
+    },
+    {
+      "Entity": "Route_H8",
+      "Avg_speed_kmh": 37.0,
+      "Congestion_index": 2.1,
+      "Road_condition_score": 71.0,
+      "Bus_passengers": 35217.6
+    },
+    {
+      "Entity": "Route_S19",
+      "Avg_speed_kmh": 57.6,
+      "Congestion_index": 1.3,
+      "Road_condition_score": 84.8,
+      "Bus_passengers": 49348.9
+    },
+    {
+      "Entity": "Route_D4",
+      "Avg_speed_kmh": 21.1,
+      "Congestion_index": 2.4,
+      "Road_condition_score": 62.0,
+      "Bus_passengers": 23460.4
+    },
+    {
+      "Entity": "Route_T20",
+      "Avg_speed_kmh": 76.7,
+      "Congestion_index": 2.0,
+      "Road_condition_score": 74.1,
+      "Bus_passengers": 5546.5
+    },
+    {
+      "Entity": "Route_E5",
+      "Avg_speed_kmh": 63.7,
+      "Congestion_index": 2.4,
+      "Road_condition_score": 96.0,
+      "Bus_passengers": 28538.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Avg_speed_kmh",
+    "Congestion_index",
+    "Road_condition_score",
+    "Bus_passengers"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ntd_transit_small_002",
+  "dataset": "NTD Monthly Transit",
+  "domain": "transit",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Farebox_recovery_pct",
+    "Complaints_per_10k"
+  ],
+  "data": [
+    {
+      "Entity": "Tram_3",
+      "Farebox_recovery_pct": 27.4,
+      "Complaints_per_10k": 3.9
+    },
+    {
+      "Entity": "Line_Blue",
+      "Farebox_recovery_pct": 40.2,
+      "Complaints_per_10k": 5.4
+    },
+    {
+      "Entity": "Line_Brown",
+      "Farebox_recovery_pct": 43.1,
+      "Complaints_per_10k": 5.0
+    },
+    {
+      "Entity": "Bus_101",
+      "Farebox_recovery_pct": 36.0,
+      "Complaints_per_10k": 11.9
+    },
+    {
+      "Entity": "Bus_202",
+      "Farebox_recovery_pct": 15.2,
+      "Complaints_per_10k": 1.2
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Farebox_recovery_pct",
+    "Complaints_per_10k"
+  ]
+}

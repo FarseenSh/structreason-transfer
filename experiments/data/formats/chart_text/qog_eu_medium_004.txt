@@ -1,0 +1,5 @@
+Bar chart: "QoG EU Regional — Governance Econ".
+Govt_expenditure_pct_GDP: Denmark=44.1, Hungary=50.9, Italy=47.6, Greece=53.8, Bulgaria=34.3, Finland=50.6, Netherlands=35.4, Norway=37.6, Poland=49.9, Switzerland=57.4.
+GDP_per_capita: Denmark=57808.1, Hungary=18815, Italy=58141.6, Greece=17964.5, Bulgaria=76890.2, Finland=64670.5, Netherlands=27118.9, Norway=21420.5, Poland=27847.3, Switzerland=83601.9.
+Life_expectancy: Denmark=77.5, Hungary=81.4, Italy=79.6, Greece=78.9, Bulgaria=73.7, Finland=83.4, Netherlands=75.6, Norway=78.9, Poland=80.4, Switzerland=79.8.
+Trust_in_govt_pct: Denmark=74.1, Hungary=21.8, Italy=45.6, Greece=38.7, Bulgaria=43.3, Finland=19.9, Netherlands=20.9, Norway=30.4, Poland=32.1, Switzerland=40.2.

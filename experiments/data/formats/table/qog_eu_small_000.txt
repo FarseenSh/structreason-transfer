@@ -1,0 +1,7 @@
+| Entity | GDP_per_capita | Govt_expenditure_pct_GDP |
+|---|---|---|
+| Italy | 79873.5 | 45.5 |
+| Austria | 60070.6 | 31.8 |
+| Portugal | 72593.3 | 53.2 |
+| Sweden | 46039 | 47.7 |
+| Bulgaria | 30906.7 | 51.2 |

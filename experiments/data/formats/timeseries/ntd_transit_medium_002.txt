@@ -1,0 +1,11 @@
+The following 10 values represent On_time_pct for each Entity (Ferry_A, Line_Gold, Line_Red, Line_Silver, Ferry_B, Line_Orange, Tram_1, Bus_404, Bus_101, Tram_2), listed in order:
+[88, 86.8, 90.4, 77.1, 66.7, 70.6, 85.3, 90.6, 89.9, 84.3]
+
+The following 10 values represent Complaints_per_10k for each Entity (Ferry_A, Line_Gold, Line_Red, Line_Silver, Ferry_B, Line_Orange, Tram_1, Bus_404, Bus_101, Tram_2), listed in order:
+[1.7, 0.8, 11.8, 8.5, 11.8, 2.9, 6.4, 13.8, 3, 1.4]
+
+The following 10 values represent Avg_trip_minutes for each Entity (Ferry_A, Line_Gold, Line_Red, Line_Silver, Ferry_B, Line_Orange, Tram_1, Bus_404, Bus_101, Tram_2), listed in order:
+[38.7, 35.9, 52.7, 50.6, 43.2, 8.9, 30.6, 50.1, 28.4, 53.2]
+
+The following 10 values represent Vehicles_in_service for each Entity (Ferry_A, Line_Gold, Line_Red, Line_Silver, Ferry_B, Line_Orange, Tram_1, Bus_404, Bus_101, Tram_2), listed in order:
+[132.2, 26.3, 104.3, 140.6, 17.7, 72.2, 144.8, 35.6, 72.9, 139.5]

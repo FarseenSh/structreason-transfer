@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  USA: {Fertilizer_kg_ha=39.7, Area_harvested_kha=25945.4}
+  Egypt: {Fertilizer_kg_ha=278.6, Area_harvested_kha=8070.8}
+  Turkey: {Fertilizer_kg_ha=180.2, Area_harvested_kha=23172.2}
+  Australia: {Fertilizer_kg_ha=189.2, Area_harvested_kha=5062.8}
+  India: {Fertilizer_kg_ha=359.5, Area_harvested_kha=7195.2}
+
+Edges (top 3 by metric similarity):
+  Egypt -- Australia (sim=1.00, similar Fertilizer_kg_ha)
+  USA -- Turkey (sim=1.00, similar Fertilizer_kg_ha)
+  Australia -- India (sim=1.00, similar Fertilizer_kg_ha)

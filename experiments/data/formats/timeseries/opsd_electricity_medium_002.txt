@@ -1,0 +1,11 @@
+The following 10 values represent Wind_GWh for each Entity (Portugal, Finland, Belgium, Romania, Hungary, Italy, Germany, Switzerland, Austria, Greece), listed in order:
+[2202.4, 8738.4, 2503.9, 10776.2, 509.3, 6359.6, 3977.2, 2855.9, 5764.9, 10135.8]
+
+The following 10 values represent Hydro_GWh for each Entity (Portugal, Finland, Belgium, Romania, Hungary, Italy, Germany, Switzerland, Austria, Greece), listed in order:
+[7330.7, 2495.7, 1318.5, 5789.1, 4697.8, 1688, 6106.3, 4199.6, 5261.8, 2938.8]
+
+The following 10 values represent Gas_GWh for each Entity (Portugal, Finland, Belgium, Romania, Hungary, Italy, Germany, Switzerland, Austria, Greece), listed in order:
+[4559.2, 2049.3, 7638.2, 1823, 7849.5, 8040.7, 7542, 488.4, 2949.4, 4842.9]
+
+The following 10 values represent CO2_Mt for each Entity (Portugal, Finland, Belgium, Romania, Hungary, Italy, Germany, Switzerland, Austria, Greece), listed in order:
+[48, 73.6, 30.7, 70.1, 13.9, 30.3, 5.1, 59.7, 12.9, 21.3]

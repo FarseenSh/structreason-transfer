@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Operating_cost_k: Line_Green=10705, Ferry_B=16592, Line_Orange=9713.6, Tram_1=19716.1, Bus_202=10307.3, Line_Yellow=1571.9, Tram_2=15572.7.
+Revenue_k_USD: Line_Green=1756.2, Ferry_B=7100, Line_Orange=13187.4, Tram_1=12722, Bus_202=6174.6, Line_Yellow=2219.5, Tram_2=2801.2.
+Avg_trip_minutes: Line_Green=34.4, Ferry_B=54.1, Line_Orange=38.3, Tram_1=39.8, Bus_202=28.4, Line_Yellow=31.4, Tram_2=36.9.
+Monthly_riders_k: Line_Green=2401.3, Ferry_B=4085.6, Line_Orange=189.7, Tram_1=4533.1, Bus_202=2271.1, Line_Yellow=326, Tram_2=7893.7.

@@ -1,0 +1,35 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  Romania: {Trust_in_govt_pct=15.6, GDP_per_capita=81720.4, HDI=0.8, Govt_expenditure_pct_GDP=47.2, Gini_index=26.7, Education_spending_pct=6.1, Unemployment_pct=9.8}
+  Finland: {Trust_in_govt_pct=50.4, GDP_per_capita=49584.5, HDI=0.8, Govt_expenditure_pct_GDP=47.2, Gini_index=37.6, Education_spending_pct=7.7, Unemployment_pct=15.2}
+  Greece: {Trust_in_govt_pct=13.4, GDP_per_capita=36019, HDI=0.8, Govt_expenditure_pct_GDP=41.7, Gini_index=29.4, Education_spending_pct=5.7, Unemployment_pct=4.6}
+  Austria: {Trust_in_govt_pct=68, GDP_per_capita=48406.3, HDI=0.8, Govt_expenditure_pct_GDP=46, Gini_index=37.5, Education_spending_pct=8.3, Unemployment_pct=2.8}
+  Denmark: {Trust_in_govt_pct=22.3, GDP_per_capita=40176.6, HDI=0.8, Govt_expenditure_pct_GDP=34.3, Gini_index=27.1, Education_spending_pct=6.8, Unemployment_pct=7.3}
+  Sweden: {Trust_in_govt_pct=52, GDP_per_capita=30709.1, HDI=0.9, Govt_expenditure_pct_GDP=50.7, Gini_index=33.5, Education_spending_pct=4.1, Unemployment_pct=11.4}
+  Bulgaria: {Trust_in_govt_pct=41.3, GDP_per_capita=18217.4, HDI=0.9, Govt_expenditure_pct_GDP=32.1, Gini_index=38.8, Education_spending_pct=7.9, Unemployment_pct=10.2}
+  Netherlands: {Trust_in_govt_pct=41.2, GDP_per_capita=39654.9, HDI=0.8, Govt_expenditure_pct_GDP=50.4, Gini_index=27.4, Education_spending_pct=5.9, Unemployment_pct=18.3}
+  Spain: {Trust_in_govt_pct=16.7, GDP_per_capita=64798.7, HDI=0.9, Govt_expenditure_pct_GDP=53.8, Gini_index=34.8, Education_spending_pct=4.2, Unemployment_pct=9.9}
+  Switzerland: {Trust_in_govt_pct=65, GDP_per_capita=16290.6, HDI=0.8, Govt_expenditure_pct_GDP=43.2, Gini_index=39.8, Education_spending_pct=4.3, Unemployment_pct=12.8}
+  Ireland: {Trust_in_govt_pct=70.9, GDP_per_capita=45742.5, HDI=0.9, Govt_expenditure_pct_GDP=44.3, Gini_index=25.6, Education_spending_pct=6.9, Unemployment_pct=14.1}
+  Portugal: {Trust_in_govt_pct=12.7, GDP_per_capita=60080.7, HDI=0.9, Govt_expenditure_pct_GDP=38.7, Gini_index=24.5, Education_spending_pct=3.7, Unemployment_pct=2.9}
+  Hungary: {Trust_in_govt_pct=23.8, GDP_per_capita=57728.3, HDI=0.8, Govt_expenditure_pct_GDP=57.1, Gini_index=34.5, Education_spending_pct=4.9, Unemployment_pct=12.5}
+  Italy: {Trust_in_govt_pct=71.7, GDP_per_capita=69365.4, HDI=0.9, Govt_expenditure_pct_GDP=50.5, Gini_index=28.8, Education_spending_pct=4.2, Unemployment_pct=9.2}
+  Norway: {Trust_in_govt_pct=48.3, GDP_per_capita=71736.4, HDI=1, Govt_expenditure_pct_GDP=40.3, Gini_index=24.2, Education_spending_pct=5.7, Unemployment_pct=10.7}
+  Belgium: {Trust_in_govt_pct=21.9, GDP_per_capita=64819.4, HDI=0.9, Govt_expenditure_pct_GDP=34.9, Gini_index=31.1, Education_spending_pct=5.6, Unemployment_pct=4.5}
+  Poland: {Trust_in_govt_pct=25.4, GDP_per_capita=22195.8, HDI=1, Govt_expenditure_pct_GDP=36.1, Gini_index=35.8, Education_spending_pct=6.1, Unemployment_pct=17.8}
+  France: {Trust_in_govt_pct=55.6, GDP_per_capita=48251.6, HDI=0.9, Govt_expenditure_pct_GDP=43, Gini_index=27.8, Education_spending_pct=4.9, Unemployment_pct=20.9}
+  Germany: {Trust_in_govt_pct=59.8, GDP_per_capita=57238.4, HDI=0.8, Govt_expenditure_pct_GDP=56.4, Gini_index=28.7, Education_spending_pct=3.7, Unemployment_pct=2.9}
+  Czechia: {Trust_in_govt_pct=51.6, GDP_per_capita=32189.6, HDI=0.9, Govt_expenditure_pct_GDP=50.6, Gini_index=37.4, Education_spending_pct=6.6, Unemployment_pct=14.2}
+
+Edges (top 10 by metric similarity):
+  Romania -- Portugal (sim=1.00, similar HDI)
+  Sweden -- Czechia (sim=1.00, similar HDI)
+  Portugal -- Belgium (sim=1.00, similar HDI)
+  Romania -- Belgium (sim=1.00, similar HDI)
+  Denmark -- Hungary (sim=1.00, similar HDI)
+  Spain -- Hungary (sim=1.00, similar HDI)
+  Spain -- Portugal (sim=1.00, similar HDI)
+  Finland -- France (sim=1.00, similar HDI)
+  Italy -- Germany (sim=1.00, similar HDI)
+  Greece -- Hungary (sim=1.00, similar HDI)

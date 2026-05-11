@@ -1,0 +1,7 @@
+| Entity | Operating_margin_pct | EPS |
+|---|---|---|
+| CompanyG | 4 | -1 |
+| CompanyA | 9.1 | 9.3 |
+| CompanyC | 34.9 | 11.5 |
+| CompanyS | 15.8 | 9 |
+| CompanyB | 9.3 | 5.5 |

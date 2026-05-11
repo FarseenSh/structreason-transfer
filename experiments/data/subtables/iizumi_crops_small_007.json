@@ -1,0 +1,45 @@
+{
+  "id": "iizumi_crops_small_007",
+  "dataset": "Iizumi Crop Yields",
+  "domain": "agriculture",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Pakistan",
+      "Area_harvested_kha": 1783.6,
+      "Wheat_tonnes_ha": 8.7
+    },
+    {
+      "Entity": "Turkey",
+      "Area_harvested_kha": 27813.2,
+      "Wheat_tonnes_ha": 6.1
+    },
+    {
+      "Entity": "Egypt",
+      "Area_harvested_kha": 6262.8,
+      "Wheat_tonnes_ha": 4.3
+    },
+    {
+      "Entity": "Ukraine",
+      "Area_harvested_kha": 3645.3,
+      "Wheat_tonnes_ha": 7.7
+    },
+    {
+      "Entity": "Canada",
+      "Area_harvested_kha": 32845.9,
+      "Wheat_tonnes_ha": 3.0
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Area_harvested_kha",
+    "Wheat_tonnes_ha"
+  ]
+}

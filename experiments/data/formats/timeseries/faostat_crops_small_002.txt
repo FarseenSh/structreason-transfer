@@ -1,0 +1,5 @@
+The following 5 values represent Soybean_tonnes_ha for each Entity (Mexico, Australia, Thailand, Vietnam, Brazil), listed in order:
+[2.7, 1.3, 2, 2.1, 3.7]
+
+The following 5 values represent Yield_index for each Entity (Mexico, Australia, Thailand, Vietnam, Brazil), listed in order:
+[109.9, 131.8, 165, 111.1, 166]

@@ -1,0 +1,94 @@
+{
+  "id": "hk_traffic_medium_005",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Avg_speed_kmh",
+    "Accidents_monthly",
+    "Peak_hour_flow",
+    "Transit_ridership"
+  ],
+  "data": [
+    {
+      "Entity": "Route_E5",
+      "Avg_speed_kmh": 15.8,
+      "Accidents_monthly": 15.7,
+      "Peak_hour_flow": 14984.2,
+      "Transit_ridership": 132724.2
+    },
+    {
+      "Entity": "Route_D4",
+      "Avg_speed_kmh": 48.1,
+      "Accidents_monthly": 14.6,
+      "Peak_hour_flow": 2867.9,
+      "Transit_ridership": 199133.3
+    },
+    {
+      "Entity": "Route_P16",
+      "Avg_speed_kmh": 48.0,
+      "Accidents_monthly": 25.4,
+      "Peak_hour_flow": 19294.7,
+      "Transit_ridership": 8081.6
+    },
+    {
+      "Entity": "Route_Q17",
+      "Avg_speed_kmh": 43.4,
+      "Accidents_monthly": 23.5,
+      "Peak_hour_flow": 20992.7,
+      "Transit_ridership": 113728.8
+    },
+    {
+      "Entity": "Route_S19",
+      "Avg_speed_kmh": 37.1,
+      "Accidents_monthly": 29.7,
+      "Peak_hour_flow": 22908.5,
+      "Transit_ridership": 151446.7
+    },
+    {
+      "Entity": "Route_A1",
+      "Avg_speed_kmh": 31.2,
+      "Accidents_monthly": 42.9,
+      "Peak_hour_flow": 16464.1,
+      "Transit_ridership": 166221.1
+    },
+    {
+      "Entity": "Route_J10",
+      "Avg_speed_kmh": 49.3,
+      "Accidents_monthly": 14.3,
+      "Peak_hour_flow": 18910.5,
+      "Transit_ridership": 111315.0
+    },
+    {
+      "Entity": "Route_T20",
+      "Avg_speed_kmh": 39.4,
+      "Accidents_monthly": 31.8,
+      "Peak_hour_flow": 13089.8,
+      "Transit_ridership": 125883.6
+    },
+    {
+      "Entity": "Route_K11",
+      "Avg_speed_kmh": 78.0,
+      "Accidents_monthly": 3.1,
+      "Peak_hour_flow": 3155.1,
+      "Transit_ridership": 140861.4
+    },
+    {
+      "Entity": "Route_C3",
+      "Avg_speed_kmh": 26.2,
+      "Accidents_monthly": 13.3,
+      "Peak_hour_flow": 4798.7,
+      "Transit_ridership": 172498.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Avg_speed_kmh",
+    "Accidents_monthly",
+    "Peak_hour_flow",
+    "Transit_ridership"
+  ]
+}

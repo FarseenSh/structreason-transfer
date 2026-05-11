@@ -1,0 +1,20 @@
+Graph: HK Traffic Digest entity relationship network
+
+Nodes:
+  Route_F6: {Accidents_monthly=4.4, Transit_ridership=166987.3, Peak_hour_flow=14942.4, Bus_passengers=42535.7}
+  Route_C3: {Accidents_monthly=38.7, Transit_ridership=15091.2, Peak_hour_flow=11153.2, Bus_passengers=12639.2}
+  Route_O15: {Accidents_monthly=12.1, Transit_ridership=98141.5, Peak_hour_flow=10553.5, Bus_passengers=8379.4}
+  Route_J10: {Accidents_monthly=25.6, Transit_ridership=177835.3, Peak_hour_flow=9023.9, Bus_passengers=1422.2}
+  Route_I9: {Accidents_monthly=20.3, Transit_ridership=134716.7, Peak_hour_flow=12221.3, Bus_passengers=3315.3}
+  Route_G7: {Accidents_monthly=36.2, Transit_ridership=138616.9, Peak_hour_flow=6198.4, Bus_passengers=38350.3}
+  Route_N14: {Accidents_monthly=23, Transit_ridership=56346.9, Peak_hour_flow=26418.9, Bus_passengers=49372.1}
+  Route_B2: {Accidents_monthly=23.5, Transit_ridership=86622.1, Peak_hour_flow=18859.3, Bus_passengers=3199.1}
+  Route_H8: {Accidents_monthly=44.5, Transit_ridership=76483.3, Peak_hour_flow=5746, Bus_passengers=37655.5}
+  Route_S19: {Accidents_monthly=8.5, Transit_ridership=106681.4, Peak_hour_flow=21428.1, Bus_passengers=4521.2}
+
+Edges (top 5 by metric similarity):
+  Route_B2 -- Route_S19 (sim=1.00, similar Accidents_monthly)
+  Route_J10 -- Route_I9 (sim=1.00, similar Accidents_monthly)
+  Route_F6 -- Route_G7 (sim=1.00, similar Accidents_monthly)
+  Route_O15 -- Route_I9 (sim=1.00, similar Accidents_monthly)
+  Route_O15 -- Route_J10 (sim=1.00, similar Accidents_monthly)

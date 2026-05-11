@@ -1,0 +1,5 @@
+Bar chart: "EPA AQS Daily — Air Quality".
+SO2_ppb: Station_E8=17.5, Station_W9=13, Station_SE12=8.1, Station_SE3=3.1, Station_N6=23.6, Station_S16=21.6, Station_N15=3.2.
+NO2_ppb: Station_E8=20.4, Station_W9=51.4, Station_SE12=58.2, Station_SE3=23.8, Station_N6=48.5, Station_S16=17.9, Station_N15=37.6.
+AQI: Station_E8=21.3, Station_W9=24, Station_SE12=123.2, Station_SE3=142.1, Station_N6=87.3, Station_S16=147.8, Station_N15=47.5.
+Temperature_C: Station_E8=27.9, Station_W9=8.2, Station_SE12=12.7, Station_SE3=32.1, Station_N6=13.7, Station_S16=24.2, Station_N15=29.1.

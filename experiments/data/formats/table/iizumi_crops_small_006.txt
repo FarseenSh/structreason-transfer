@@ -1,0 +1,7 @@
+| Entity | Rice_tonnes_ha | Fertilizer_kg_ha |
+|---|---|---|
+| Ukraine | 3.2 | 204.5 |
+| Canada | 5.1 | 138.4 |
+| France | 2.8 | 191.9 |
+| Nigeria | 4.8 | 184.8 |
+| Argentina | 2.6 | 365 |

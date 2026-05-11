@@ -1,0 +1,5 @@
+The following 5 values represent EPS for each Entity (CompanyO, CompanyG, CompanyR, CompanyF, CompanyM), listed in order:
+[25, 6.9, 21.2, 0.3, 10.4]
+
+The following 5 values represent Total_assets_M for each Entity (CompanyO, CompanyG, CompanyR, CompanyF, CompanyM), listed in order:
+[17702.9, 10238.8, 18750.8, 32633.6, 24617.3]

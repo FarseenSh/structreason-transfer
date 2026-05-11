@@ -1,0 +1,5 @@
+Bar chart: "NTD Monthly Transit — Transit".
+Monthly_riders_k: Line_Yellow=3141.5, Bus_303=4702.9, Line_Blue=5636.2, Line_Green=856.5, Ferry_B=5967.1, Tram_1=5827, Tram_3=2872.6.
+Revenue_k_USD: Line_Yellow=14363.2, Bus_303=1654.5, Line_Blue=6507.6, Line_Green=4303.3, Ferry_B=10390, Tram_1=7943.2, Tram_3=6558.
+On_time_pct: Line_Yellow=90.1, Bus_303=66.4, Line_Blue=87.6, Line_Green=75.9, Ferry_B=76.4, Tram_1=88.5, Tram_3=88.9.
+Farebox_recovery_pct: Line_Yellow=69.3, Bus_303=59.5, Line_Blue=71.4, Line_Green=30, Ferry_B=64.5, Tram_1=18.8, Tram_3=50.5.

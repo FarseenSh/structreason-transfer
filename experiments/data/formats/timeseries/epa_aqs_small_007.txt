@@ -1,0 +1,5 @@
+The following 5 values represent PM25_ug_m3 for each Entity (Station_W9, Station_SE12, Station_N15, Station_C14, Station_SE3), listed in order:
+[36.9, 60, 57, 22, 29.6]
+
+The following 5 values represent Temperature_C for each Entity (Station_W9, Station_SE12, Station_N15, Station_C14, Station_SE3), listed in order:
+[-3.4, 18.4, -2.3, 35.4, 32.3]

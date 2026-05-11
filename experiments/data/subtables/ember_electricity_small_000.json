@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_000",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Solar_GWh",
+    "Nuclear_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Czechia",
+      "Solar_GWh": 3143.4,
+      "Nuclear_GWh": 194.5
+    },
+    {
+      "Entity": "Finland",
+      "Solar_GWh": 4285.5,
+      "Nuclear_GWh": 7647.1
+    },
+    {
+      "Entity": "Sweden",
+      "Solar_GWh": 4363.2,
+      "Nuclear_GWh": 13137.0
+    },
+    {
+      "Entity": "Switzerland",
+      "Solar_GWh": 491.5,
+      "Nuclear_GWh": 9143.3
+    },
+    {
+      "Entity": "France",
+      "Solar_GWh": 1413.4,
+      "Nuclear_GWh": 7503.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Solar_GWh",
+    "Nuclear_GWh"
+  ]
+}

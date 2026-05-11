@@ -1,0 +1,3 @@
+Bar chart: "OPSD Electricity — Energy".
+Nuclear_GWh: Austria=305.5, UK=7545.7, Germany=12839.6, Denmark=10639.1, Switzerland=11935.6.
+CO2_Mt: Austria=31.8, UK=42.8, Germany=3.6, Denmark=31.3, Switzerland=38.5.

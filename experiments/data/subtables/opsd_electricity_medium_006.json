@@ -1,0 +1,94 @@
+{
+  "id": "opsd_electricity_medium_006",
+  "dataset": "OPSD Electricity",
+  "domain": "energy",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Hydro_GWh",
+    "Solar_GWh",
+    "Gas_GWh",
+    "Coal_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Switzerland",
+      "Hydro_GWh": 5020.5,
+      "Solar_GWh": 412.9,
+      "Gas_GWh": 9949.6,
+      "Coal_GWh": 6967.3
+    },
+    {
+      "Entity": "Norway",
+      "Hydro_GWh": 6810.7,
+      "Solar_GWh": 2108.1,
+      "Gas_GWh": 9208.4,
+      "Coal_GWh": 7062.6
+    },
+    {
+      "Entity": "Italy",
+      "Hydro_GWh": 2714.3,
+      "Solar_GWh": 4169.5,
+      "Gas_GWh": 2386.2,
+      "Coal_GWh": 903.6
+    },
+    {
+      "Entity": "Hungary",
+      "Hydro_GWh": 1641.6,
+      "Solar_GWh": 1137.5,
+      "Gas_GWh": 3307.0,
+      "Coal_GWh": 4615.7
+    },
+    {
+      "Entity": "Poland",
+      "Hydro_GWh": 2193.7,
+      "Solar_GWh": 1403.5,
+      "Gas_GWh": 4797.9,
+      "Coal_GWh": 1287.6
+    },
+    {
+      "Entity": "Austria",
+      "Hydro_GWh": 2256.2,
+      "Solar_GWh": 1283.9,
+      "Gas_GWh": 8490.8,
+      "Coal_GWh": 5504.7
+    },
+    {
+      "Entity": "Belgium",
+      "Hydro_GWh": 3632.9,
+      "Solar_GWh": 105.5,
+      "Gas_GWh": 8085.7,
+      "Coal_GWh": 7335.6
+    },
+    {
+      "Entity": "Greece",
+      "Hydro_GWh": 2675.1,
+      "Solar_GWh": 2895.2,
+      "Gas_GWh": 1524.5,
+      "Coal_GWh": 3665.4
+    },
+    {
+      "Entity": "Finland",
+      "Hydro_GWh": 2243.1,
+      "Solar_GWh": 329.9,
+      "Gas_GWh": 1507.2,
+      "Coal_GWh": 710.5
+    },
+    {
+      "Entity": "Ireland",
+      "Hydro_GWh": 5223.2,
+      "Solar_GWh": 1710.3,
+      "Gas_GWh": 4342.3,
+      "Coal_GWh": 4655.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Hydro_GWh",
+    "Solar_GWh",
+    "Gas_GWh",
+    "Coal_GWh"
+  ]
+}

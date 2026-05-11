@@ -1,0 +1,11 @@
+The following 10 values represent Transit_ridership for each Entity (Route_J10, Route_G7, Route_E5, Route_A1, Route_O15, Route_Q17, Route_S19, Route_I9, Route_H8, Route_K11), listed in order:
+[149459, 158018.2, 31649.3, 81724.1, 179116.5, 5527.9, 63258, 113233.2, 70148.3, 58048.8]
+
+The following 10 values represent Congestion_index for each Entity (Route_J10, Route_G7, Route_E5, Route_A1, Route_O15, Route_Q17, Route_S19, Route_I9, Route_H8, Route_K11), listed in order:
+[2.7, 1.7, 2.9, 3.5, 3.1, 1.4, 4, 1.7, 3.7, 2.3]
+
+The following 10 values represent Road_condition_score for each Entity (Route_J10, Route_G7, Route_E5, Route_A1, Route_O15, Route_Q17, Route_S19, Route_I9, Route_H8, Route_K11), listed in order:
+[85.4, 52, 50.8, 68.8, 41.9, 53.1, 82, 88.6, 44.7, 91.2]
+
+The following 10 values represent Avg_speed_kmh for each Entity (Route_J10, Route_G7, Route_E5, Route_A1, Route_O15, Route_Q17, Route_S19, Route_I9, Route_H8, Route_K11), listed in order:
+[66.8, 71.5, 60.4, 58.8, 49.1, 57.4, 74.7, 21.5, 35.5, 19.7]

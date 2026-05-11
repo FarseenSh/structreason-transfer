@@ -1,0 +1,35 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Turkey: {Fertilizer_kg_ha=101.4, Yield_index=116.2, Soybean_tonnes_ha=1.7, Rice_tonnes_ha=3.5, Maize_tonnes_ha=10.2, Area_harvested_kha=15144.8, Production_Mt=206.8}
+  USA: {Fertilizer_kg_ha=309.5, Yield_index=123.4, Soybean_tonnes_ha=2.8, Rice_tonnes_ha=2.2, Maize_tonnes_ha=6, Area_harvested_kha=31860.5, Production_Mt=131.1}
+  Canada: {Fertilizer_kg_ha=321.5, Yield_index=91.8, Soybean_tonnes_ha=2, Rice_tonnes_ha=5, Maize_tonnes_ha=9.4, Area_harvested_kha=4655.1, Production_Mt=64.1}
+  Pakistan: {Fertilizer_kg_ha=315, Yield_index=175.6, Soybean_tonnes_ha=3.5, Rice_tonnes_ha=6.6, Maize_tonnes_ha=6.4, Area_harvested_kha=1465.5, Production_Mt=262.7}
+  Bangladesh: {Fertilizer_kg_ha=74.1, Yield_index=169.4, Soybean_tonnes_ha=1.3, Rice_tonnes_ha=6.2, Maize_tonnes_ha=2.9, Area_harvested_kha=12501.4, Production_Mt=64.5}
+  Nigeria: {Fertilizer_kg_ha=229.4, Yield_index=176.7, Soybean_tonnes_ha=2.7, Rice_tonnes_ha=4.4, Maize_tonnes_ha=6.4, Area_harvested_kha=20007.5, Production_Mt=213.5}
+  Egypt: {Fertilizer_kg_ha=180.6, Yield_index=179.6, Soybean_tonnes_ha=1.5, Rice_tonnes_ha=3.1, Maize_tonnes_ha=7.1, Area_harvested_kha=12624.8, Production_Mt=230.2}
+  Ukraine: {Fertilizer_kg_ha=396.8, Yield_index=140.4, Soybean_tonnes_ha=2.6, Rice_tonnes_ha=6.7, Maize_tonnes_ha=6.6, Area_harvested_kha=33001.3, Production_Mt=91.9}
+  China: {Fertilizer_kg_ha=268.5, Yield_index=114.2, Soybean_tonnes_ha=2.7, Rice_tonnes_ha=2.3, Maize_tonnes_ha=10.2, Area_harvested_kha=9287.5, Production_Mt=153.9}
+  Brazil: {Fertilizer_kg_ha=375.4, Yield_index=162.1, Soybean_tonnes_ha=2.9, Rice_tonnes_ha=4.2, Maize_tonnes_ha=11.1, Area_harvested_kha=10201.9, Production_Mt=70.8}
+  Russia: {Fertilizer_kg_ha=75.2, Yield_index=62.9, Soybean_tonnes_ha=2.3, Rice_tonnes_ha=6.7, Maize_tonnes_ha=9.9, Area_harvested_kha=22401.6, Production_Mt=116.8}
+  Thailand: {Fertilizer_kg_ha=191.3, Yield_index=160.1, Soybean_tonnes_ha=2.5, Rice_tonnes_ha=4.2, Maize_tonnes_ha=7.8, Area_harvested_kha=633.3, Production_Mt=289.7}
+  Mexico: {Fertilizer_kg_ha=313.2, Yield_index=119.7, Soybean_tonnes_ha=1.5, Rice_tonnes_ha=2.6, Maize_tonnes_ha=7.4, Area_harvested_kha=25600.7, Production_Mt=209.5}
+  Australia: {Fertilizer_kg_ha=159.8, Yield_index=140.8, Soybean_tonnes_ha=2.4, Rice_tonnes_ha=3.5, Maize_tonnes_ha=8.4, Area_harvested_kha=13522.7, Production_Mt=254.8}
+  India: {Fertilizer_kg_ha=260.4, Yield_index=104.9, Soybean_tonnes_ha=2.1, Rice_tonnes_ha=5.3, Maize_tonnes_ha=4.9, Area_harvested_kha=34232.3, Production_Mt=164.5}
+  France: {Fertilizer_kg_ha=214.4, Yield_index=104.2, Soybean_tonnes_ha=3, Rice_tonnes_ha=2.8, Maize_tonnes_ha=10.1, Area_harvested_kha=24353.9, Production_Mt=75.5}
+  Vietnam: {Fertilizer_kg_ha=396.9, Yield_index=63.8, Soybean_tonnes_ha=2.3, Rice_tonnes_ha=5.6, Maize_tonnes_ha=10.6, Area_harvested_kha=2301.4, Production_Mt=215.3}
+  Indonesia: {Fertilizer_kg_ha=86.1, Yield_index=110.9, Soybean_tonnes_ha=3.3, Rice_tonnes_ha=4.4, Maize_tonnes_ha=4.7, Area_harvested_kha=3695.7, Production_Mt=152.7}
+  Argentina: {Fertilizer_kg_ha=375.4, Yield_index=109, Soybean_tonnes_ha=2.3, Rice_tonnes_ha=3.8, Maize_tonnes_ha=11, Area_harvested_kha=3541.8, Production_Mt=57.2}
+  Germany: {Fertilizer_kg_ha=172.6, Yield_index=87, Soybean_tonnes_ha=1.7, Rice_tonnes_ha=3.3, Maize_tonnes_ha=10.5, Area_harvested_kha=33365.5, Production_Mt=126.7}
+
+Edges (top 10 by metric similarity):
+  USA -- France (sim=1.00, similar Soybean_tonnes_ha)
+  Russia -- Germany (sim=1.00, similar Maize_tonnes_ha)
+  USA -- India (sim=1.00, similar Soybean_tonnes_ha)
+  India -- France (sim=1.00, similar Yield_index)
+  India -- Germany (sim=1.00, similar Soybean_tonnes_ha)
+  USA -- Ukraine (sim=1.00, similar Soybean_tonnes_ha)
+  Ukraine -- France (sim=1.00, similar Soybean_tonnes_ha)
+  France -- Germany (sim=1.00, similar Maize_tonnes_ha)
+  Russia -- India (sim=1.00, similar Soybean_tonnes_ha)
+  Egypt -- Australia (sim=1.00, similar Rice_tonnes_ha)

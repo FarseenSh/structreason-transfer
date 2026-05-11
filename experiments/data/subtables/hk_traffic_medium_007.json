@@ -1,0 +1,94 @@
+{
+  "id": "hk_traffic_medium_007",
+  "dataset": "HK Traffic Digest",
+  "domain": "transportation",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Road_condition_score",
+    "Avg_speed_kmh",
+    "Peak_hour_flow",
+    "Daily_vehicles"
+  ],
+  "data": [
+    {
+      "Entity": "Route_T20",
+      "Road_condition_score": 54.3,
+      "Avg_speed_kmh": 45.7,
+      "Peak_hour_flow": 18315.1,
+      "Daily_vehicles": 93825.0
+    },
+    {
+      "Entity": "Route_O15",
+      "Road_condition_score": 68.5,
+      "Avg_speed_kmh": 52.8,
+      "Peak_hour_flow": 9988.7,
+      "Daily_vehicles": 83736.6
+    },
+    {
+      "Entity": "Route_I9",
+      "Road_condition_score": 86.7,
+      "Avg_speed_kmh": 47.6,
+      "Peak_hour_flow": 22696.8,
+      "Daily_vehicles": 19927.9
+    },
+    {
+      "Entity": "Route_H8",
+      "Road_condition_score": 91.9,
+      "Avg_speed_kmh": 45.7,
+      "Peak_hour_flow": 8686.0,
+      "Daily_vehicles": 78769.2
+    },
+    {
+      "Entity": "Route_N14",
+      "Road_condition_score": 44.1,
+      "Avg_speed_kmh": 68.2,
+      "Peak_hour_flow": 20799.3,
+      "Daily_vehicles": 7893.4
+    },
+    {
+      "Entity": "Route_E5",
+      "Road_condition_score": 73.3,
+      "Avg_speed_kmh": 63.5,
+      "Peak_hour_flow": 9143.5,
+      "Daily_vehicles": 40397.2
+    },
+    {
+      "Entity": "Route_J10",
+      "Road_condition_score": 67.1,
+      "Avg_speed_kmh": 37.2,
+      "Peak_hour_flow": 16312.0,
+      "Daily_vehicles": 83366.0
+    },
+    {
+      "Entity": "Route_K11",
+      "Road_condition_score": 75.6,
+      "Avg_speed_kmh": 67.0,
+      "Peak_hour_flow": 28562.1,
+      "Daily_vehicles": 66987.7
+    },
+    {
+      "Entity": "Route_P16",
+      "Road_condition_score": 65.9,
+      "Avg_speed_kmh": 70.5,
+      "Peak_hour_flow": 12676.6,
+      "Daily_vehicles": 52946.6
+    },
+    {
+      "Entity": "Route_F6",
+      "Road_condition_score": 63.1,
+      "Avg_speed_kmh": 25.0,
+      "Peak_hour_flow": 26520.7,
+      "Daily_vehicles": 39907.8
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Road_condition_score",
+    "Avg_speed_kmh",
+    "Peak_hour_flow",
+    "Daily_vehicles"
+  ]
+}

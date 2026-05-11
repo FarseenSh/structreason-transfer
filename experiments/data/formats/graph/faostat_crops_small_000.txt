@@ -1,0 +1,13 @@
+Graph: FAOSTAT Crops entity relationship network
+
+Nodes:
+  China: {Wheat_tonnes_ha=6.1, Yield_index=148.7}
+  Egypt: {Wheat_tonnes_ha=5.9, Yield_index=88.2}
+  France: {Wheat_tonnes_ha=4.6, Yield_index=145}
+  Canada: {Wheat_tonnes_ha=1.5, Yield_index=61.8}
+  Germany: {Wheat_tonnes_ha=4.9, Yield_index=169}
+
+Edges (top 3 by metric similarity):
+  France -- Germany (sim=1.00, similar Wheat_tonnes_ha)
+  Canada -- Germany (sim=1.00, similar Wheat_tonnes_ha)
+  France -- Canada (sim=1.00, similar Wheat_tonnes_ha)

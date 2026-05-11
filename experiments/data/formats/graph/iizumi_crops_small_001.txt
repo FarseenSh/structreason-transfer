@@ -1,0 +1,13 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Thailand: {Rice_tonnes_ha=2, Fertilizer_kg_ha=45.2}
+  Vietnam: {Rice_tonnes_ha=2.3, Fertilizer_kg_ha=140.8}
+  Argentina: {Rice_tonnes_ha=4, Fertilizer_kg_ha=113.1}
+  Ukraine: {Rice_tonnes_ha=5.8, Fertilizer_kg_ha=22.1}
+  China: {Rice_tonnes_ha=3.9, Fertilizer_kg_ha=223.2}
+
+Edges (top 3 by metric similarity):
+  Vietnam -- China (sim=1.00, similar Rice_tonnes_ha)
+  Thailand -- Argentina (sim=1.00, similar Rice_tonnes_ha)
+  Argentina -- China (sim=1.00, similar Rice_tonnes_ha)

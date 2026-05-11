@@ -1,0 +1,94 @@
+{
+  "id": "qog_eu_medium_007",
+  "dataset": "QoG EU Regional",
+  "domain": "governance_econ",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Unemployment_pct",
+    "Trust_in_govt_pct",
+    "Gini_index",
+    "Govt_expenditure_pct_GDP"
+  ],
+  "data": [
+    {
+      "Entity": "Hungary",
+      "Unemployment_pct": 21.6,
+      "Trust_in_govt_pct": 15.2,
+      "Gini_index": 33.6,
+      "Govt_expenditure_pct_GDP": 53.9
+    },
+    {
+      "Entity": "Portugal",
+      "Unemployment_pct": 10.5,
+      "Trust_in_govt_pct": 19.2,
+      "Gini_index": 37.6,
+      "Govt_expenditure_pct_GDP": 39.7
+    },
+    {
+      "Entity": "Czechia",
+      "Unemployment_pct": 18.0,
+      "Trust_in_govt_pct": 56.6,
+      "Gini_index": 23.1,
+      "Govt_expenditure_pct_GDP": 53.9
+    },
+    {
+      "Entity": "Belgium",
+      "Unemployment_pct": 4.2,
+      "Trust_in_govt_pct": 59.1,
+      "Gini_index": 31.7,
+      "Govt_expenditure_pct_GDP": 38.4
+    },
+    {
+      "Entity": "Germany",
+      "Unemployment_pct": 13.3,
+      "Trust_in_govt_pct": 63.1,
+      "Gini_index": 34.5,
+      "Govt_expenditure_pct_GDP": 46.5
+    },
+    {
+      "Entity": "Ireland",
+      "Unemployment_pct": 18.1,
+      "Trust_in_govt_pct": 69.1,
+      "Gini_index": 23.5,
+      "Govt_expenditure_pct_GDP": 41.1
+    },
+    {
+      "Entity": "Italy",
+      "Unemployment_pct": 20.5,
+      "Trust_in_govt_pct": 60.8,
+      "Gini_index": 29.8,
+      "Govt_expenditure_pct_GDP": 37.7
+    },
+    {
+      "Entity": "Switzerland",
+      "Unemployment_pct": 18.5,
+      "Trust_in_govt_pct": 64.9,
+      "Gini_index": 38.2,
+      "Govt_expenditure_pct_GDP": 54.8
+    },
+    {
+      "Entity": "Finland",
+      "Unemployment_pct": 3.2,
+      "Trust_in_govt_pct": 15.2,
+      "Gini_index": 34.4,
+      "Govt_expenditure_pct_GDP": 35.3
+    },
+    {
+      "Entity": "Greece",
+      "Unemployment_pct": 9.8,
+      "Trust_in_govt_pct": 27.5,
+      "Gini_index": 27.0,
+      "Govt_expenditure_pct_GDP": 32.4
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Unemployment_pct",
+    "Trust_in_govt_pct",
+    "Gini_index",
+    "Govt_expenditure_pct_GDP"
+  ]
+}

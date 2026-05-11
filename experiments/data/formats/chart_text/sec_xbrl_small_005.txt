@@ -1,0 +1,3 @@
+Bar chart: "SEC XBRL Financials — Finance".
+EPS: CompanyO=17.4, CompanyN=14.4, CompanyT=11, CompanyR=17.2, CompanyC=1.4.
+ROE_pct: CompanyO=4.6, CompanyN=-7.5, CompanyT=-7.4, CompanyR=-13.7, CompanyC=30.4.

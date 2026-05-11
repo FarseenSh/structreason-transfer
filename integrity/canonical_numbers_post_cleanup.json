@@ -1,0 +1,94 @@
+{
+  "computed_2026-05-11_post_phase_0": true,
+  "deepseek_v3.2_per_format_accuracy_pct": {
+    "table": 97.33,
+    "chart_text": 88.72,
+    "graph": 97.93,
+    "timeseries": 96.89
+  },
+  "averaged_high_transfer_r": 0.87,
+  "averaged_chart_text_pair_r": 0.649,
+  "midrange_high_transfer_r": 0.841,
+  "basic_vs_hard": {
+    "basic_mean_r": 0.809,
+    "hard_mean_r": 0.85,
+    "direction": "HARD > BASIC",
+    "per_model_basic": {
+      "DeepSeek V3.2": 0.803,
+      "MiniMax M2.5": 0.58,
+      "Kimi K2.5": 0.755,
+      "GLM-5": 0.738,
+      "Qwen 3.5 Plus": 0.987,
+      "Gemini 3.1 Pro": 0.99
+    },
+    "per_model_hard": {
+      "DeepSeek V3.2": 0.603,
+      "MiniMax M2.5": 0.778,
+      "Kimi K2.5": 0.87,
+      "GLM-5": 0.873,
+      "Qwen 3.5 Plus": 1.0,
+      "Gemini 3.1 Pro": 0.975
+    }
+  },
+  "tier_accuracy_pct": {
+    "small": 97.62,
+    "medium": 92.31,
+    "large": 87.72
+  },
+  "paper_claims_for_comparison": {
+    "abstract_high_transfer_r": 0.84,
+    "abstract_chart_text_pair_r": 0.65,
+    "midrange_r": 0.84,
+    "basic_r": 0.89,
+    "hard_r": 0.78,
+    "tier_accuracy_pct": {
+      "small": 94.2,
+      "medium": 91.8,
+      "large": 88.5
+    }
+  },
+  "table4_error_agreement": {
+    "DeepSeek V3.2": {
+      "all_right_pct": 82.5,
+      "all_wrong_pct": 0.9,
+      "one_format_fail_pct": 11.3,
+      "other_pct": 5.3,
+      "n_questions": 1724
+    },
+    "MiniMax M2.5": {
+      "all_right_pct": 82.3,
+      "all_wrong_pct": 0.8,
+      "one_format_fail_pct": 12.8,
+      "other_pct": 4.2,
+      "n_questions": 1724
+    },
+    "Kimi K2.5": {
+      "all_right_pct": 75.1,
+      "all_wrong_pct": 4.6,
+      "one_format_fail_pct": 11.3,
+      "other_pct": 8.9,
+      "n_questions": 1724
+    },
+    "GLM-5": {
+      "all_right_pct": 74.3,
+      "all_wrong_pct": 4.4,
+      "one_format_fail_pct": 12.8,
+      "other_pct": 8.5,
+      "n_questions": 1724
+    },
+    "Qwen 3.5 Plus": {
+      "all_right_pct": 89.7,
+      "all_wrong_pct": 0.5,
+      "one_format_fail_pct": 9.6,
+      "other_pct": 0.1,
+      "n_questions": 1724
+    },
+    "Gemini 3.1 Pro": {
+      "all_right_pct": 89.8,
+      "all_wrong_pct": 0.5,
+      "one_format_fail_pct": 9.5,
+      "other_pct": 0.2,
+      "n_questions": 1724
+    }
+  }
+}

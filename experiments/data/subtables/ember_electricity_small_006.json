@@ -1,0 +1,45 @@
+{
+  "id": "ember_electricity_small_006",
+  "dataset": "Ember Monthly Elec",
+  "domain": "energy",
+  "tier": "small",
+  "rows": 5,
+  "cols": 3,
+  "columns": [
+    "Entity",
+    "Nuclear_GWh",
+    "Hydro_GWh"
+  ],
+  "data": [
+    {
+      "Entity": "Switzerland",
+      "Nuclear_GWh": 12001.9,
+      "Hydro_GWh": 1946.3
+    },
+    {
+      "Entity": "Poland",
+      "Nuclear_GWh": 6296.1,
+      "Hydro_GWh": 7005.5
+    },
+    {
+      "Entity": "Ireland",
+      "Nuclear_GWh": 2293.0,
+      "Hydro_GWh": 4076.0
+    },
+    {
+      "Entity": "UK",
+      "Nuclear_GWh": 2338.0,
+      "Hydro_GWh": 3747.7
+    },
+    {
+      "Entity": "France",
+      "Nuclear_GWh": 13827.1,
+      "Hydro_GWh": 4994.1
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Nuclear_GWh",
+    "Hydro_GWh"
+  ]
+}

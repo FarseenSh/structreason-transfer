@@ -1,0 +1,12 @@
+| Entity | Yield_index | Fertilizer_kg_ha | Production_Mt | Rice_tonnes_ha |
+|---|---|---|---|---|
+| France | 120.3 | 32 | 201.4 | 5.6 |
+| Australia | 64.5 | 339 | 47.6 | 2.4 |
+| Indonesia | 70.4 | 75.6 | 84.4 | 2.6 |
+| Ukraine | 62.6 | 135 | 295.5 | 3.5 |
+| Egypt | 95.3 | 216.4 | 294 | 6.3 |
+| Thailand | 66.4 | 373.4 | 100.3 | 3.8 |
+| Brazil | 110.8 | 399.3 | 76.1 | 4.6 |
+| China | 157.5 | 317.4 | 72.7 | 5.6 |
+| Turkey | 133.7 | 297.1 | 148 | 6.3 |
+| Vietnam | 140.9 | 220.5 | 71 | 3.7 |

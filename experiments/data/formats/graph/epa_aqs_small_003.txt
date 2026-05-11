@@ -1,0 +1,13 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_SW4: {Temperature_C=21.1, PM10_ug_m3=82.9}
+  Station_NE2: {Temperature_C=33.4, PM10_ug_m3=49.8}
+  Station_N6: {Temperature_C=-0.3, PM10_ug_m3=14.6}
+  Station_NE11: {Temperature_C=34.8, PM10_ug_m3=115.3}
+  Station_E17: {Temperature_C=17.4, PM10_ug_m3=119.4}
+
+Edges (top 3 by metric similarity):
+  Station_SW4 -- Station_NE11 (sim=1.00, similar Temperature_C)
+  Station_SW4 -- Station_E17 (sim=0.99, similar Temperature_C)
+  Station_NE11 -- Station_E17 (sim=0.99, similar PM10_ug_m3)

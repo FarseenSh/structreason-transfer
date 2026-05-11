@@ -1,0 +1,11 @@
+The following 10 values represent Life_expectancy for each Entity (Austria, Netherlands, Poland, France, Italy, Denmark, Greece, Bulgaria, Hungary, Germany), listed in order:
+[82.1, 75.1, 75.9, 74.9, 77.8, 80.2, 74.7, 76, 83.2, 72.6]
+
+The following 10 values represent Gini_index for each Entity (Austria, Netherlands, Poland, France, Italy, Denmark, Greece, Bulgaria, Hungary, Germany), listed in order:
+[30.8, 35.1, 25.6, 23.8, 25.3, 38.6, 23.2, 26.2, 23.5, 24.9]
+
+The following 10 values represent Trust_in_govt_pct for each Entity (Austria, Netherlands, Poland, France, Italy, Denmark, Greece, Bulgaria, Hungary, Germany), listed in order:
+[52.9, 27.9, 49.6, 51, 68.1, 12.3, 68.3, 52.9, 22.7, 63]
+
+The following 10 values represent HDI for each Entity (Austria, Netherlands, Poland, France, Italy, Denmark, Greece, Bulgaria, Hungary, Germany), listed in order:
+[0.9, 0.8, 0.9, 0.8, 0.9, 1, 0.8, 0.9, 0.8, 0.9]

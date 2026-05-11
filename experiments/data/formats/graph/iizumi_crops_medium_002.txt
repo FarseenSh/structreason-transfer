@@ -1,0 +1,20 @@
+Graph: Iizumi Crop Yields entity relationship network
+
+Nodes:
+  Thailand: {Rice_tonnes_ha=6.5, Maize_tonnes_ha=4.1, Yield_index=142.9, Fertilizer_kg_ha=71.9}
+  Canada: {Rice_tonnes_ha=2.9, Maize_tonnes_ha=2.2, Yield_index=100.9, Fertilizer_kg_ha=176.2}
+  Australia: {Rice_tonnes_ha=3.1, Maize_tonnes_ha=9.6, Yield_index=123.3, Fertilizer_kg_ha=187.8}
+  Russia: {Rice_tonnes_ha=2, Maize_tonnes_ha=6.3, Yield_index=140.3, Fertilizer_kg_ha=61.5}
+  France: {Rice_tonnes_ha=4.9, Maize_tonnes_ha=11.5, Yield_index=153.9, Fertilizer_kg_ha=368.3}
+  Mexico: {Rice_tonnes_ha=3.1, Maize_tonnes_ha=7.3, Yield_index=69.6, Fertilizer_kg_ha=247.7}
+  USA: {Rice_tonnes_ha=6, Maize_tonnes_ha=3.6, Yield_index=62.7, Fertilizer_kg_ha=167.6}
+  Nigeria: {Rice_tonnes_ha=7.3, Maize_tonnes_ha=6.5, Yield_index=73.7, Fertilizer_kg_ha=212.6}
+  Brazil: {Rice_tonnes_ha=3.1, Maize_tonnes_ha=4, Yield_index=107.4, Fertilizer_kg_ha=139.4}
+  Egypt: {Rice_tonnes_ha=5.6, Maize_tonnes_ha=10.8, Yield_index=116, Fertilizer_kg_ha=344.6}
+
+Edges (top 5 by metric similarity):
+  Nigeria -- Egypt (sim=1.00, similar Rice_tonnes_ha)
+  USA -- Nigeria (sim=1.00, similar Rice_tonnes_ha)
+  USA -- Egypt (sim=1.00, similar Rice_tonnes_ha)
+  France -- USA (sim=1.00, similar Rice_tonnes_ha)
+  Mexico -- Egypt (sim=1.00, similar Rice_tonnes_ha)

@@ -1,0 +1,13 @@
+Graph: QoG EU Regional entity relationship network
+
+Nodes:
+  France: {Trust_in_govt_pct=37.1, Education_spending_pct=4.1}
+  Italy: {Trust_in_govt_pct=31.9, Education_spending_pct=8.3}
+  Norway: {Trust_in_govt_pct=53.6, Education_spending_pct=8}
+  Bulgaria: {Trust_in_govt_pct=35.9, Education_spending_pct=7}
+  Netherlands: {Trust_in_govt_pct=17.8, Education_spending_pct=4.8}
+
+Edges (top 3 by metric similarity):
+  Italy -- Netherlands (sim=1.00, similar Education_spending_pct)
+  France -- Norway (sim=1.00, similar Education_spending_pct)
+  Norway -- Bulgaria (sim=1.00, similar Education_spending_pct)

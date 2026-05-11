@@ -1,0 +1,94 @@
+{
+  "id": "faostat_crops_medium_005",
+  "dataset": "FAOSTAT Crops",
+  "domain": "agriculture",
+  "tier": "medium",
+  "rows": 10,
+  "cols": 5,
+  "columns": [
+    "Entity",
+    "Area_harvested_kha",
+    "Production_Mt",
+    "Fertilizer_kg_ha",
+    "Rice_tonnes_ha"
+  ],
+  "data": [
+    {
+      "Entity": "Nigeria",
+      "Area_harvested_kha": 23746.9,
+      "Production_Mt": 281.9,
+      "Fertilizer_kg_ha": 372.4,
+      "Rice_tonnes_ha": 3.1
+    },
+    {
+      "Entity": "Russia",
+      "Area_harvested_kha": 9956.7,
+      "Production_Mt": 246.3,
+      "Fertilizer_kg_ha": 324.9,
+      "Rice_tonnes_ha": 6.4
+    },
+    {
+      "Entity": "France",
+      "Area_harvested_kha": 26246.8,
+      "Production_Mt": 110.7,
+      "Fertilizer_kg_ha": 124.8,
+      "Rice_tonnes_ha": 2.4
+    },
+    {
+      "Entity": "Vietnam",
+      "Area_harvested_kha": 17922.2,
+      "Production_Mt": 142.2,
+      "Fertilizer_kg_ha": 357.1,
+      "Rice_tonnes_ha": 4.7
+    },
+    {
+      "Entity": "Australia",
+      "Area_harvested_kha": 12526.6,
+      "Production_Mt": 287.4,
+      "Fertilizer_kg_ha": 32.5,
+      "Rice_tonnes_ha": 3.1
+    },
+    {
+      "Entity": "China",
+      "Area_harvested_kha": 27647.8,
+      "Production_Mt": 269.1,
+      "Fertilizer_kg_ha": 180.7,
+      "Rice_tonnes_ha": 3.8
+    },
+    {
+      "Entity": "USA",
+      "Area_harvested_kha": 21779.0,
+      "Production_Mt": 61.4,
+      "Fertilizer_kg_ha": 163.5,
+      "Rice_tonnes_ha": 3.5
+    },
+    {
+      "Entity": "Thailand",
+      "Area_harvested_kha": 18000.8,
+      "Production_Mt": 85.9,
+      "Fertilizer_kg_ha": 223.4,
+      "Rice_tonnes_ha": 5.9
+    },
+    {
+      "Entity": "Germany",
+      "Area_harvested_kha": 27172.2,
+      "Production_Mt": 112.5,
+      "Fertilizer_kg_ha": 233.0,
+      "Rice_tonnes_ha": 4.5
+    },
+    {
+      "Entity": "Ukraine",
+      "Area_harvested_kha": 19296.6,
+      "Production_Mt": 264.6,
+      "Fertilizer_kg_ha": 105.7,
+      "Rice_tonnes_ha": 3.6
+    }
+  ],
+  "index_col": "Entity",
+  "metric_cols": [
+    "Area_harvested_kha",
+    "Production_Mt",
+    "Fertilizer_kg_ha",
+    "Rice_tonnes_ha"
+  ]
+}

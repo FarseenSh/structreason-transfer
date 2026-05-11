@@ -1,0 +1,7 @@
+| Entity | Solar_GWh | Nuclear_GWh |
+|---|---|---|
+| Czechia | 3143.4 | 194.5 |
+| Finland | 4285.5 | 7647.1 |
+| Sweden | 4363.2 | 13137 |
+| Switzerland | 491.5 | 9143.3 |
+| France | 1413.4 | 7503.1 |

@@ -1,0 +1,20 @@
+Graph: NTD Monthly Transit entity relationship network
+
+Nodes:
+  Line_Green: {Operating_cost_k=10705, Revenue_k_USD=1756.2, Avg_trip_minutes=34.4, Monthly_riders_k=2401.3}
+  Ferry_B: {Operating_cost_k=16592, Revenue_k_USD=7100, Avg_trip_minutes=54.1, Monthly_riders_k=4085.6}
+  Bus_505: {Operating_cost_k=17491, Revenue_k_USD=9112.3, Avg_trip_minutes=33.9, Monthly_riders_k=6144.1}
+  Line_Orange: {Operating_cost_k=9713.6, Revenue_k_USD=13187.4, Avg_trip_minutes=38.3, Monthly_riders_k=189.7}
+  Tram_1: {Operating_cost_k=19716.1, Revenue_k_USD=12722, Avg_trip_minutes=39.8, Monthly_riders_k=4533.1}
+  Bus_101: {Operating_cost_k=17521.4, Revenue_k_USD=11487.7, Avg_trip_minutes=47, Monthly_riders_k=1428.9}
+  Bus_202: {Operating_cost_k=10307.3, Revenue_k_USD=6174.6, Avg_trip_minutes=28.4, Monthly_riders_k=2271.1}
+  Line_Yellow: {Operating_cost_k=1571.9, Revenue_k_USD=2219.5, Avg_trip_minutes=31.4, Monthly_riders_k=326}
+  Line_Silver: {Operating_cost_k=4644.9, Revenue_k_USD=10077.8, Avg_trip_minutes=16.3, Monthly_riders_k=1397.2}
+  Tram_2: {Operating_cost_k=15572.7, Revenue_k_USD=2801.2, Avg_trip_minutes=36.9, Monthly_riders_k=7893.7}
+
+Edges (top 5 by metric similarity):
+  Tram_1 -- Bus_202 (sim=1.00, similar Avg_trip_minutes)
+  Ferry_B -- Bus_505 (sim=0.99, similar Avg_trip_minutes)
+  Line_Orange -- Line_Yellow (sim=0.99, similar Avg_trip_minutes)
+  Tram_1 -- Bus_101 (sim=0.99, similar Avg_trip_minutes)
+  Bus_101 -- Bus_202 (sim=0.99, similar Avg_trip_minutes)

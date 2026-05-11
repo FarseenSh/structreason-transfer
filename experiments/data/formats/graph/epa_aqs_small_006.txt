@@ -1,0 +1,13 @@
+Graph: EPA AQS Daily entity relationship network
+
+Nodes:
+  Station_SW4: {CO_ppm=2, O3_ppb=64.3}
+  Station_NW10: {CO_ppm=3.1, O3_ppb=42.5}
+  Station_SE3: {CO_ppm=1.4, O3_ppb=30.3}
+  Station_NE2: {CO_ppm=0.2, O3_ppb=47.5}
+  Station_SE12: {CO_ppm=1.7, O3_ppb=67.7}
+
+Edges (top 3 by metric similarity):
+  Station_SW4 -- Station_SE12 (sim=1.00, similar CO_ppm)
+  Station_SW4 -- Station_SE3 (sim=1.00, similar CO_ppm)
+  Station_NE2 -- Station_SE12 (sim=1.00, similar CO_ppm)
