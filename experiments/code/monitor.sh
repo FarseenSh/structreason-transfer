@@ -1,5 +1,6 @@
 #!/bin/bash
-LOG="/Users/farseenshaikh/surgellm-2026-structreason/experiments/results/monitor.log"
+# Run from the repo root: ./experiments/code/monitor.sh
+LOG="experiments/results/monitor.log"
 while true; do
     echo "$(date '+%H:%M:%S') | DS: $(wc -l < experiments/results/deepseek-v3.2/raw_results.jsonl 2>/dev/null || echo 0)/6896 | Qwen: $(wc -l < experiments/results/qwen3.5-plus/raw_results.jsonl 2>/dev/null || echo 0)/8620" >> "$LOG"
     # Check for errors in last 10 lines

@@ -48,7 +48,6 @@ pilot:
 
 models:
   - {name: gemini-3.1-pro, platform: google, vision: true}
-  - {name: claude-sonnet-4.6, platform: aws_bedrock, vision: true}
   - {name: moonshot/kimi-k2.5, platform: openrouter, vision: true}
   - {name: zhipu/glm-5, platform: openrouter, vision: true}
   - {name: qwen/qwen3.5-397b, platform: openrouter, vision: check}

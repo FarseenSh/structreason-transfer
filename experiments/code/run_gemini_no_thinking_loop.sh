@@ -1,7 +1,8 @@
 #!/bin/bash
-cd /Users/farseenshaikh/surgellm-2026-structreason
-source venv/bin/activate
-export GOOGLE_APPLICATION_CREDENTIALS=/Users/farseenshaikh/Downloads/gen-lang-client-0884988742-e8fd93958b3c.json
+# Run from repo root after activating your venv and exporting
+# GOOGLE_APPLICATION_CREDENTIALS to point at your Vertex AI service-account JSON.
+set -euo pipefail
+: "${GOOGLE_APPLICATION_CREDENTIALS:?Set GOOGLE_APPLICATION_CREDENTIALS to your Vertex AI service-account JSON path}"
 
 TARGET=8620
 RESULTS="experiments/results/gemini-31-pro-nothinking/raw_results.jsonl"
