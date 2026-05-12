@@ -159,4 +159,4 @@ This is Paper 2 of a pair accepted at SURGeLLM 2026. The companion paper on tabl
 
 ## Contact
 
-Farseen Shaikh — claudeshaikh3@gmail.com
+Farseen Shaikh — farseenshaikh20@gmail.com
